@@ -1,0 +1,18 @@
+.dropdown
+    position: relative
+    display: inline-block
+    &:hover
+        .dropdown-content
+            opacity: 1
+            visibility: visible
+            .dropdown-element
+                display: block
+
+.dropdown-content
+    visibility: hidden
+    top: 100%
+    opacity: 0
+    right: 0
+    left: 0
+    position: absolute
+    transition: all 0.2s ease-in-out

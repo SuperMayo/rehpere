@@ -1,0 +1,45 @@
+<header>
+
+  <div class="wrapper">
+
+    <div class="lang">
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+          <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+        {% endfor %}
+
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <a href="{{ page.url }}" class="{{ page.lang }}"> {{ page.lang }}</a>
+      {% endfor %}
+    </div>
+
+    <div class="title-wrapper">
+     <a class="site-title" href="{{ site.baseurl }}/"><h1>{{ site.title }}</h1></a>
+     <h3 class="subtitle">{{ site.subtitle }}</h3>
+    </div>
+
+    <div class="nav navbar-nav">
+      <ul>
+        {% for item in site.menu.[page.lang] %}
+          {% if item[1].sublinks %}
+            <li class="dropdown">
+              <a href="{{ item[1].url }}" class="dropdown-toggle">{{ item[1].name }} &#9662; </a>
+              <ul class="dropdown-content">
+                {% for sublink in item[1].sublinks %}
+                  <li class="dropdown-element">
+                    <a href="{{ sublink.url }}">{{ sublink.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li><a href="{{ item[1].url }}">{{ item[1].name }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+</header>

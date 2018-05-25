@@ -1,0 +1,108 @@
+######################################################
+############## DO NOT TOUCH THIS PART ################
+######################################################
+sass:
+  sass_dir: assets/css
+  style: nested
+
+include:
+  - _pages
+
+page_gen:
+  - data: 'members'
+    template: 'people'
+    name: 'full_name'
+    dir: ''
+    filter_condition: "record['lang'] == 'fr'"
+  - data: 'members'
+    template: 'people'
+    name: 'full_name'
+    dir: 'en/'
+    filter_condition: "record['lang'] == 'en'"
+
+img_path: "/assets/img/"
+
+markdown: kramdown
+
+######################################################
+######################################################
+# General settings
+
+title: REhPERE
+
+subtitle: Recherche en Épistémologie et en Histoire de la Pensée Économique Récente
+
+description:
+  fr: mdr
+  en: lol
+
+index:
+  fr:
+  en: home.html
+
+# Header
+menu:
+  fr:
+    home:
+      name: "Acceuil"
+      url: "/"
+    master:
+      name: "Master ESH"
+      url: "/master"
+      sublinks:
+        - name: "Mémoire"
+          url: "/master/#memoire"
+        - name: "Débouchées"
+          url: "/master/#debouches"
+        - name: "Test"
+          url: "lol"
+    team:
+      name: "Équipe"
+      url: "/equipe"
+    publications:
+      name: "Publications"
+      url: "/publications"
+    blog:
+      name: "Blog"
+      url: "/blog"
+    research:
+      name: "Recherche"
+      url: "/recherche"
+  en:
+    home:
+      name: "Home"
+      url: "/home.html"
+    master:
+      name: "Master ESH"
+      url: "/en/master"
+    team:
+      name: "Team"
+      url: "/en/team"
+    publications:
+      name: "Publications"
+      url: "/en/publications"
+    blog:
+      name: "Blog"
+      url: "/en/blog"
+    research:
+      name: "Research"
+      url: "/en/research"
+
+####### Team ########
+team:
+  fr:
+    title: "L'équipe"
+  en:
+    title: "The team"
+
+####### Publications ########
+biblio:
+  fr:
+    title: "Dernières publications"
+  en:
+    title: "Latest publications"
+
+####### blog ########
+more:
+  fr: "Lire la suite"
+  en: "Read more"

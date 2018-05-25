@@ -1,0 +1,19 @@
+---
+layout: default
+ref: publications
+permalink: /publications/
+lang: fr
+---
+
+<h1 class="title"> {{ site.biblio[page.lang].title }}</h1>
+
+<ul class="list">
+    {% assign articles = site.data.biblio | sort: "year" | reverse%}
+    {% for article in articles %}
+      <li>
+        <h2>
+          <a class="post-link" href="">{{article.author}}, <i>{{ article.title }}</i>. {{article.year}}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>

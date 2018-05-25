@@ -1,0 +1,32 @@
+############ Jerome Lallement #############
+
+- full_name: Jérôme Lallement
+  flatname: jerome-lallement
+  picture: "jerome-lallement.jpg"
+  lang: "fr"
+  status: "Professeur des universités"
+  statuscode: "pr"
+  institution: "Centre d'Économie de la Sorbonne"
+  themes:
+      - Équilibre Général
+      - Explication et causalité
+      - Théorie des prix
+  authors:
+      - Leon Walras
+      - Maurice Allais
+      - Piero Srafa
+      - Alfred Marshall
+  external:
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Jerome_Lallement"
+  contact: "jerome.lallement@univ-paris.fr"
+  twitter: "#"
+  free_text: >
+    **Epistémologie et Philosophie de l’économie** <br/>
+    Mots clefs : modèle déductif-nomologique,explication et causalité ;
+    épistémologie de la théorie économique contemporaine;
+    économie pure et économie appliquée;
+    individualisme et holisme ontologie et épistémologie.
+
+
+############ Guillaume Noblet #############

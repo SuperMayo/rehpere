@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="flex-container image-container">
+	<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" class="face">
+	<div class="image-compagnion">
+		<h2>{{ page.full_name }}</h2>
+		<ul class="list no-indent">
+			<li class="strong"> <i class="fas fa-graduation-cap"></i> {{ page.status }}</li>
+			<li> <i class="fas fa-university"></i> {{ page.institution }}</li>
+			<li> <i class="fas fa-envelope"></i> <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></li>
+		</ul>
+	</div>
+</div>
+
+
+<ul class="list horizontal-list no-indent trivia">
+	{% for theme in page.themes %}
+	<li class="tag"> <i class="fas fa-search"></i> {{ theme }}</li>
+	{% endfor %}
+</ul>
+
+<ul class="list horizontal-list no-indent trivia">
+	{% for author in page.authors %}
+	<li class="tag"><i class="far fa-user-circle"></i> {{ author }}</li>
+	{% endfor %}
+</ul>
+
+<div class="small-delimiter"></div>
+
+<div class="text new">
+	<h2>À propos</h2> {{ page.free_text | markdownify}}
+</div>
+
+<ul class="list">
+	{% assign papers = site.data.biblio | where:"author", page.full_name %} {% for paper in papers %}
+	<li>
+		<h4>
+          <a class="post-link" href="{{ paper.link }}">{{ paper.title }}</a>
+        </h4>
+	</li>
+	{% endfor %}
+</ul>

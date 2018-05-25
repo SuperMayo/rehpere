@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign folder = page.pointer %}
+
+<h1 class="title team-title">{{ site.team[page.lang].title }}</h1>
+
+<ul class="list">
+    {% assign people = site.data.members | where:"lang", page.lang %}
+    {% for guy in people %}
+      <li class="team-list__element">
+        <h2 class="team-list__title">
+          <a class="link team__link" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">{{ guy.full_name }}</a>
+        </h2>
+        <p class="team-list__info"> {{ guy.tags }} </p>
+      </li>
+    {% endfor %}
+  </ul>
