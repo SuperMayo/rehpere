@@ -1,0 +1,10 @@
+<footer class="footer">
+	<div class="logo-wrapper">
+		{% for img in site.logos %}
+			<img src="{{site.url}}{{site.img_path}}/footer/{{img}}" alt="logo_{{img}}" class="footer-logo">
+		{% endfor %}	
+	</div>
+	<p class="footer-text centered">
+		<span class="copyleft">&copy;</span>2018 - Antoine Mayerowitz
+	</p>
+</footer>

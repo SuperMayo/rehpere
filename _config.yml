@@ -106,3 +106,8 @@ biblio:
 more:
   fr: "Lire la suite"
   en: "Read more"
+
+###### footer ######
+logos:
+  - 'CES.png'
+  - 'paris1.png'
