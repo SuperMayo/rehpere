@@ -3,3 +3,6 @@ layout: home
 ref: index
 lang: en
 ---
+
+{% capture my_include %}{% include_relative _pages/home/home-en.md %}{% endcapture %}
+{{ my_include | markdownify }}
