@@ -11,12 +11,12 @@ include:
 page_gen:
   - data: 'members'
     template: 'people'
-    name: 'full_name'
+    name: 'flatname'
     dir: ''
     filter_condition: "record['lang'] == 'fr'"
   - data: 'members'
     template: 'people'
-    name: 'full_name'
+    name: 'flatname'
     dir: 'en/'
     filter_condition: "record['lang'] == 'en'"
 
@@ -111,3 +111,4 @@ more:
 logos:
   - 'CES.png'
   - 'paris1.png'
+  - 'cnrs.png'
