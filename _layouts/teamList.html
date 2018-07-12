@@ -6,14 +6,16 @@ layout: default
 
 <h1 class="title team-title">{{ site.team[page.lang].title }}</h1>
 
-<ul class="list">
-    {% assign people = site.data.members | where:"lang", page.lang %}
-    {% for guy in people %}
-      <li class="team-list__element">
-        <h2 class="team-list__title">
-          <a class="link team__link" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">{{ guy.full_name }}</a>
+<div class="container">
+{% assign people = site.data.members | where:"lang", page.lang %}
+{% for guy in people %}
+  <div class="team-list_element">
+      <a class="link team_link" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">
+        <img src="{{site.url}}{{site.img_path}}people/{{guy.picture}}" alt="picture_{{guy.flatname}}" class="image-cropped">
+        <h2 class="team-list_title">
+          {{ guy.full_name }}
         </h2>
-        <p class="team-list__info"> {{ guy.tags }} </p>
-      </li>
-    {% endfor %}
-  </ul>
+      </a>
+  </div>
+{% endfor %}
+</div>
