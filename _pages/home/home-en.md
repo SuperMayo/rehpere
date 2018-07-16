@@ -1,5 +1,3 @@
-***
-
 # Who are we ?
 
 The Research Team in Epistemology and History of Recent Economic Thought (REhPERE) is attached to the Centre d'économie de la Sorbonne (CES - UMR 8174 of the CNRS - University Paris 1 Panthéon-Sorbonne) and more precisely to the Political Economy axis. This axis brings together research that has more in common an approach than themes. The term "political economy" refers to the fact that economic discipline is considered here as a branch of the social sciences, both as a scientific approach (theoretical and empirical) and as an object of study (in an epistemological and historical approach).

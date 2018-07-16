@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="posts-container posts-list anchored">
+<div class="posts-container posts-list jumbotron">
+	<h4>{{site.home[page.lang].anchored-info}}</h4>
 	{% assign posts=site.posts | where:"lang", page.lang %}
 	{% for post in posts %}
 	{% if post.anchor %}

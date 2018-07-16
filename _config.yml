@@ -102,6 +102,13 @@ menu:
       name: "Research"
       url: "/en/research"
 
+####### Home ########
+home:
+  fr:
+    anchored-info: "Publication ancrée"
+  en:
+    anchored-info: "Anchored publication"
+
 ####### Team ########
 team:
   fr:
