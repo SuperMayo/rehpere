@@ -1,4 +1,6 @@
-# Rephere
+***
+
+# Qui sommes nous ?
 
 L'équipe de Recherche en Épistémologie et en Histoire de la Pensée Économique Récente (REhPERE) est rattachée au Centre d'économie de la Sorbonne (CES - UMR  8174 du CNRS - Université Paris 1 Panthéon-Sorbonne) et plus précisément à l'axe Economie Politique. Cet axe rassemble des recherches qui ont en commun davantage une approche que des thématiques. Le terme "économie politique" renvoie au fait que la discipline économique est considérée ici comme une branche des sciences sociales, aussi bien en tant que démarche scientifique (théorique et empirique) qu'en tant qu'objet d'étude (dans une démarche d'épistémologie et d'histoire de la pensée).
 
@@ -15,7 +17,7 @@ Actuellement, les travaux de l'équipe du REhPERE s'organisent autour de quatre 
 
 2. __Economie et psychologie__
 
-	Un deuxième volet est consacré aux nouvelles directions de la recherche économique depuis le tournant empirique, en particulier la neuroéconomie et l’économie expérimentale. Ce volet de recherche a donné notamment lieu à l'organisation du séminaire Thurnstone avec l'université de Nice Sophia-Antipolis (GREDEG).
+	Un deuxième volet est consacré aux nouvelles directions de la recherche économique depuis le tournant empirique, en particulier la neuroéconomie et l’économie expérimentale. Ce volet de recherche a donné notamment lieu à l'organisation du séminaire Thurnstone avec l'université de [Nice Sophia-Antipolis](http://unice.fr/) (GREDEG).
 
 3. __Economie du travail__
 	
