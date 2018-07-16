@@ -2,15 +2,18 @@
 layout: default
 ---
 
+<!-- Image with small description  -->
 <div class="flex-container image-container">
 	<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" class="face">
 	<div class="image-compagnion">
 		<h2>{{ page.full_name }}</h2>
+		<div>
 		<ul class="list-simple-noindent">
 			<li class="strong"> <i class="fas fa-graduation-cap"></i> {{ page.status }}</li>
 			<li> <i class="fas fa-university"></i> {{ page.institution }}</li>
 			<li> <i class="fas fa-envelope"></i> <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></li>
 		</ul>
+		</div>
 	</div>
 </div>
 
@@ -27,18 +30,29 @@ layout: default
 	{% endfor %}
 </ul>
 
-<div class="small-delimiter"></div>
+<!-- Small bio  -->
+{% if page.free_text %}
+	<div class="small-delimiter"></div>
+	<div class="text new">
+		<h2>À propos</h2>
+		<p>{{ page.free_text | markdownify}}</p>
+	</div>
+{% endif %}
 
-<div class="text new">
-	<h2>À propos</h2> {{ page.free_text | markdownify}}
-</div>
+<!-- Publications -->
+<div class="small-delimiter"></div>
+<h2>Publications</h2>
 
 <ul class="list-simple-noindent">
-	{% assign papers = site.data.biblio | where:"author", page.full_name %} {% for paper in papers %}
-	<li>
-		<h4>
-          <a class="post-link" href="{{ paper.link }}">{{ paper.title }}</a>
-        </h4>
-	</li>
+	{% assign papers = site.data.biblio | where:"author_id", page.flatname | sort:"year" | reverse %}
+	{% for paper in papers %}
+		<li>
+	        <a class="post-link" href="{{paper.link}}">
+	        	<span class="bib-author">{{paper.author}}</span>
+	        	<span class="bib-year">({{paper.year}})</span>.
+	        	<span class="bib-title">{{ paper.title }}</span>.
+	        	<span class="bib-journal">{{ paper.journal}}</span>
+	        </a>
+		</li>
 	{% endfor %}
 </ul>

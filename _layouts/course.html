@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+<h1>{{ page.course_name }}</h1>
+<h4>Semestre {{page.semester}}</h4>
+
+{% if page.prof_id %}
+	{% assign prof = site.data.members | where: "lang", page.lang | where: "flatname", page.prof_id %}
+{% else %}
+	{% assign prof = page.prof_name %}
+{% endif %}
+
+
+{% if page.lang != "fr" %}
+	{% assign folder = page.lang %}
+{% else %}
+	{% assign folder = '' %}
+{% endif %}
+
+{% if page.prof_id %}
+	<a href="{{site.url}}/{{folder}}{{prof[0].flatname}}">
+		<h2>{{ prof[0].full_name }}</h2>
+	</a>
+{% else %}
+	<h2>{{ page.prof_name}}</h2>
+{% endif %}
+
+<p>{{ page.description | markdownify}}</p>
+
+{% if site.data.courses_syllabus[page.course_id] %}
+	<div class="small-delimiter"></div>
+	<h3>Syllabus</h3>
+	{{ site.data.courses_syllabus[page.course_id][page.lang] | markdownify}}
+{% endif %}
+
+	{{ site.data.courses_bib[page.course_id].bib | markdownify }}

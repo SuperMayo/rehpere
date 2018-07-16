@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1> {{ site.courses[page.lang]}}</h1>
+
+{% assign courses = site.data.courses | where:"lang", page.lang %} 
+
+{% for cours in courses %}
+<a href="{{site.baseurl}}{{cours.course_id}}">
+	<h2> {{ cours.course_name }} </h2>
+</a>
+{% endfor %}

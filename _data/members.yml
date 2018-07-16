@@ -140,3 +140,27 @@
       link: "https://www.researchgate.net/profile/Annie_Cot"
   contact: "annie-cot@mymail.fr"
   twitter: ""
+
+############ Annie L. Cot #############
+- full_name: Annie L. Cot
+  flatname: annie-cot
+  picture: "annie-cot.jpg"
+  lang: "en"
+  status: "Professeur des universités"
+  statuscode: "pr"
+  institution: "Centre d'Économie de la Sorbonne"
+  themes:
+      - Utilitarism
+      - Économie & psychologie
+      - Économie experimentale
+      - Expertise
+  authors:
+      - Jeremy Bentham
+      - Michel Foucault
+      - Gary Becker
+      - Irving Fisher
+  external:
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Annie_Cot"
+  contact: "annie-cot@mymail.fr"
+  twitter: ""

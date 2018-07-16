@@ -19,10 +19,24 @@ page_gen:
     name: 'flatname'
     dir: 'en/'
     filter_condition: "record['lang'] == 'en'"
+  - data: 'courses'
+    template: course
+    name: 'course_id'
+    dir: 'cours/'
+    filter_condition: "record['lang'] == 'fr'"
+  - data: 'courses'
+    template: course
+    name: 'course_id'
+    dir: 'en/course/'
+    filter_condition: "record['lang'] == 'en'"
 
 img_path: "/assets/img/"
 
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 ######################################################
 ######################################################
@@ -54,8 +68,8 @@ menu:
           url: "/master/#memoire"
         - name: "Débouchées"
           url: "/master/#debouches"
-        - name: "Test"
-          url: "lol"
+        - name: "Cours"
+          url: "/cours"
     team:
       name: "Équipe"
       url: "/equipe"
@@ -106,6 +120,11 @@ biblio:
 more:
   fr: "Lire la suite"
   en: "Read more"
+
+####### Courses ########
+courses:
+  fr: "Enseignements"
+  en: "Courses"
 
 ###### footer ######
 logos:
