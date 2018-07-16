@@ -1,17 +1,18 @@
 header
-	background-color: $background-color-header
+	background-color: $color-dark
 
 	.wrapper
 
 		.title-wrapper
 			text-align: center
+			border-bottom: 2px solid $color-highlight
 
 			.subtitle
-					color: $text-color-dark
+					color: $color-bright
 					padding-bottom: 1em
 
 			a:hover, a:visited, a:link
-				color: $text-color-dark
+				color: $color-bright
 
 	.lang
 		overflow: hidden
@@ -20,7 +21,9 @@ header
 			text-align: center
 			padding: 5px 16px
 		a:hover, a:visited, a:link
-				color: $text-color-dark
+				color: $color-bright
 
 	.en:lang(en), .fr:lang(fr)
 		font-weight: bold
+		text-decoration: underline
+		text-decoration-color: $color-highlight
