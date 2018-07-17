@@ -5,6 +5,8 @@ sass:
   sass_dir: assets/css
   style: nested
 
+url: https://localhost
+
 include:
   - _pages
 
