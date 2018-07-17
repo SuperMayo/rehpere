@@ -1,68 +1,128 @@
 epistemo-1:
-  fr: |
-    1. <h3>Introduction générale</h3>
-    1. <h3>Les héritages</h3>
-        1. Réalisme versus nominalisme
-        1. Enoncés positifs versus énoncés normatifs
-        1. Induction versus déduction : de Hume à Mill
-        1. L’apriorisme au XIXe siècle  
-    1. <h3>Élargir et dépasser le positivisme logique</h3>
-        1. Imre Lakatos : « noyau dur » et « ceinture protectrice » des programmes de recherche
-        1. Paul Feyerabend : Anything goes ou l’anarchisme méthodologique
-        1. Thomas Kuhn : la succession des « paradigmes »
-    1. <h3>Beyond positivism</h3>
-        1. Michel Foucault : des « épistémès » aux « dispositifs »
-        1. Le néo-pragmatisme contemporain
-    1. <h3>Qu’est ce que le post-modernisme ?</h3>
-        1. Une définition négative
-        1. Discours scientifique ou rhétorique économique ?
-        1. Le « programme fort » de l’école d’Edimbourg
-        1. Les lieux d’énonciation : sujets individuels, sujets collectifs  et les « communautés scientifiques »
-    1. <h3>Quelques leçons de l’histoire des sciences</h3>
-        1. La notion de theory ladenness : la construction théorique, sociale et historique des empiricités
-        1. Transgresser les frontières : analogies, métaphores, concepts nomades, impérialismes et impérialismes inversés
-        1. Sur la performativité des énoncés économiques
-    1. <h3>Conclusion générale</h3>
-        1. Crise ou renouveau de la théorie standard ?
-        1. Les enjeux actuels de l'épistémologie économique
+    fr: |
+        1. <h3>Introduction générale</h3>
+        1. <h3>Les héritages</h3>
+            1. Réalisme versus nominalisme
+            1. Enoncés positifs versus énoncés normatifs
+            1. Induction versus déduction : de Hume à Mill
+            1. L’apriorisme au XIXe siècle  
+        1. <h3>Élargir et dépasser le positivisme logique</h3>
+            1. Imre Lakatos : « noyau dur » et « ceinture protectrice » des programmes de recherche
+            1. Paul Feyerabend : Anything goes ou l’anarchisme méthodologique
+            1. Thomas Kuhn : la succession des « paradigmes »
+        1. <h3>Beyond positivism</h3>
+            1. Michel Foucault : des « épistémès » aux « dispositifs »
+            1. Le néo-pragmatisme contemporain
+        1. <h3>Qu’est ce que le post-modernisme ?</h3>
+            1. Une définition négative
+            1. Discours scientifique ou rhétorique économique ?
+            1. Le « programme fort » de l’école d’Edimbourg
+            1. Les lieux d’énonciation : sujets individuels, sujets collectifs  et les « communautés scientifiques »
+        1. <h3>Quelques leçons de l’histoire des sciences</h3>
+            1. La notion de theory ladenness : la construction théorique, sociale et historique des empiricités
+            1. Transgresser les frontières : analogies, métaphores, concepts nomades, impérialismes et impérialismes inversés
+            1. Sur la performativité des énoncés économiques
+        1. <h3>Conclusion générale</h3>
+            1. Crise ou renouveau de la théorie standard ?
+            1. Les enjeux actuels de l'épistémologie économique
 
-  en: |
-    1. <h3>General introduction</h3>
-    1. <h3>Heritages</h3>
-        1. Realism versus nominalism
-        1. Positive statements versus normative statements
-        1. Induction versus deduction: from Hume to Mill
-        1. Apriorism in the 19th century  
-    1. <h3>Enlarge and go beyond logical positivism</h3>
-        1. Imre Lakatos: "hard core" and "protective belt" of research programmes
-        1. Paul Feyerabend: Anything goes or methodological anarchism
-        1. Thomas Kuhn: the succession of "paradigms
-    1. <h3>Beyond positivism</h3>
-        1. Michel Foucault: from "epistemes" to "devices
-        1. Contemporary neo-pragmatism
-    1. <h3>What is post-modernism? </h3>
-        1. A negative definition
-        1. Scientific speech or economic rhetoric?
-        1. Edinburgh School's "strong programme
-        1. Places of enunciation: individual subjects, collective subjects and "scientific communities
+    en: |
+        1. <h3>General introduction</h3>
+        1. <h3>Heritages</h3>
+            1. Realism versus nominalism
+            1. Positive statements versus normative statements
+            1. Induction versus deduction: from Hume to Mill
+            1. Apriorism in the 19th century  
+        1. <h3>Enlarge and go beyond logical positivism</h3>
+            1. Imre Lakatos: "hard core" and "protective belt" of research programmes
+            1. Paul Feyerabend: Anything goes or methodological anarchism
+            1. Thomas Kuhn: the succession of "paradigms
+        1. <h3>Beyond positivism</h3>
+            1. Michel Foucault: from "epistemes" to "devices
+            1. Contemporary neo-pragmatism
+        1. <h3>What is post-modernism? </h3>
+            1. A negative definition
+            1. Scientific speech or economic rhetoric?
+            1. Edinburgh School's "strong programme
+            1. Places of enunciation: individual subjects, collective subjects and "scientific communities
 
 epistemo-2:
-  fr: |
-    1. <h3>Définitions de l’économie politique</h3>
-    1. <h3>Les problématiques de vérité en économie</h3>
-        1. L’empirisme naïf (et le problème de Hume)
-        1. Le rationalisme kantien
-        1. Le positivisme (de Comte au Cercle de Vienne)
-        1. Le rationalisme critique de K. Popper
-        1. Le postmodernisme : l’abandon des critères de vérité
-    1. <h3>La tradition économique réaliste</h3>
-        1. Marshall et le réalisme des hypothèses
-        1. L'apriorisme de Robbins
-        1. Hutchison et le réfutationnisme
-        1. Hicks et la pertinence des conclusions
-        1. L'instrumentalisme de Friedman
-    1. <h3>Le courant rationaliste en économie</h3>
-        1. Walras
-        1. Arrow  et Debreu
-    1. <h3>Le modèle nomologico-déductif et la causalité</h3>
-    1. <h3>Individualisme ou holisme méthodologique ?</h3>
+    fr: |
+        1. <h3>Définitions de l’économie politique</h3>
+        1. <h3>Les problématiques de vérité en économie</h3>
+            1. L’empirisme naïf (et le problème de Hume)
+            1. Le rationalisme kantien
+            1. Le positivisme (de Comte au Cercle de Vienne)
+            1. Le rationalisme critique de K. Popper
+            1. Le postmodernisme : l’abandon des critères de vérité
+        1. <h3>La tradition économique réaliste</h3>
+            1. Marshall et le réalisme des hypothèses
+            1. L'apriorisme de Robbins
+            1. Hutchison et le réfutationnisme
+            1. Hicks et la pertinence des conclusions
+            1. L'instrumentalisme de Friedman
+        1. <h3>Le courant rationaliste en économie</h3>
+            1. Walras
+            1. Arrow  et Debreu
+        1. <h3>Le modèle nomologico-déductif et la causalité</h3>
+        1. <h3>Individualisme ou holisme méthodologique ?</h3>
+
+histoire-idees-politiques:
+    fr: |
+        1. <h3>Les idées font-elles l’histoire ? Autour de la Révolution</h3>
+            - Roger Chartier , Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000, Ch. IV, « Les livres font-ils les Révolutions », p. 99-134
+            - Robert Darnton, Bohème littéraire et Révolution, Le Monde des Livres au XVIIIe siècle, Paris, Gallimard/le Seuil, 1983, Ch. 1, « Dans la France pré-révolutionnaire : des philosophes des Lumières aux “Rousseau des Ruisseaux” », p. 7-41.
+        1. <h3>Questions de Méthode</h3>
+            - Max Weber et Howard Becker
+            - Howard S. Becker, Les Mondes de l’art et plus particulièrement, ch. 1, « Mondes de l’art et activité collective », ch. 4, « La distribution des œuvres d’art » et ch 5, « l’Esthétique, les esthéticiens et les critiques », Les Mondes de l’art, Paris, Flammarion, 1988.    
+        1. <h3>Logiques sociales et logiques de champ (1)</h3>
+            - Gisèle Sapiro, « La Raison littéraire », Actes de la Recherche en sciences sociales, n° 111-112, mars 1996, p. 3-35
+            - Gisèle Sapiro, « Salut littéraire et littérature du salut », Actes de la Recherche en sciences sociales, n° 111-112, mars 1996, p. 36-58
+        1. <h3>Logiques sociales et logiques de champ (2)</h3> 
+            - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
+        1. <h3>Le rôle de l’événement</h3>
+            - Alban Bensa, Éric Fassin : « Les Sciences sociales face à l’événement »
+            - Eric Fassin, « Événements sexuels : d’une “affaire” l’autre, Clarence Thomas et Monica Lewinsky »,Terrains, 38, mars 2002.
+        1. <h3>Autour du structuralisme (1)</h3>
+            - Exposé à définir autour de la réception des œuvres de Lévi-Strauss, Barthes, Althusser, Foucault…
+        1. <h3>Autour du structuralisme (2)</h3>
+            - Exposé à définir autour de la réception des œuvres de Lévi-Strauss, Barthes, Althusser, Foucault…
+        1. <h3>Écrivains et intellectuels en Mai 68</h3>
+            - Pierre Bourdieu, Homo Academicus, Paris, Minuit, 1984, Ch. 5, « Le moment critique », p. 289-250
+            - Boris Gobille, « Les mobilisations de l’avant-garde littéraire française en Mai 68. Capital politique, capital littéraire et conjoncture de crise », Actes de la recherche en sciences sociales, juin 2005.
+        1. <h3>Nouveaux contextes, nouvelles idées (autour de la prison)</h3>
+            - Textes de Foucault autour de la prison (Dits et Écrits I, Paris, Gallimard, Quarto, 2001)
+            - Groupe d’Information sur les prisons, Intolérable, présenté par Philippe Artières, Editions Verticales, Paris, 2013.
+
+economie-comportementale:
+    fr: |
+        1. <h3>Introduction</h3>
+            The Frontier between Economics and Psychology
+        1. <h3>Bounded Rationality</h3>
+            Cognitive Biases-Framing ; What bounded rationality?
+        1. <h3>The decision process</h3>
+            The treatment of information ; The formation and persistence of beliefs ; Influence
+        1. <h3>The Psychology of Risk</h3>
+            Prospect theory ; Beyond prospect theory ; Self-confidence ; Learning ; Explaining anomalies of choice under risk and uncertainty
+        1. <h3>The Psychology of Social Interactions</h3>
+            Selfish or pro-social behavior ? ; Social Cognition ; Categorization ; Altruism
+        1. <h3>The Role of Emotions</h3>
+            Affects and Cognition ; Self-Control ; Judgments and feelings are reference-dependent ; The Dynamics of Affects ; The economics of happiness ; The Adaptation Principle
+        1. <h3>How people play games</h3>
+            Norms of Fairness ; Social preferences and game behavior
+    en: |
+        1. <h3>Introduction</h3>
+            The Frontier between Economics and Psychology
+        1. <h3>Bounded Rationality</h3>
+            Cognitive Biases-Framing ; What bounded rationality?
+        1. <h3>The decision process</h3>
+            The treatment of information ; The formation and persistence of beliefs ; Influence
+        1. <h3>The Psychology of Risk</h3>
+            Prospect theory ; Beyond prospect theory ; Self-confidence ; Learning ; Explaining anomalies of choice under risk and uncertainty
+        1. <h3>The Psychology of Social Interactions</h3>
+            Selfish or pro-social behavior ? ; Social Cognition ; Categorization ; Altruism
+        1. <h3>The Role of Emotions</h3>
+            Affects and Cognition ; Self-Control ; Judgments and feelings are reference-dependent ; The Dynamics of Affects ; The economics of happiness ; The Adaptation Principle
+        1. <h3>How people play games</h3>
+            Norms of Fairness ; Social preferences and game behavior
+

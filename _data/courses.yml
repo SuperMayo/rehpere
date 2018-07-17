@@ -52,7 +52,7 @@
     On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales comme la question de la causalité dans le modèle déductif-nomologique ou l’individualisme méthodologique face au holisme.
 
 - course_name: Luttes de classes et séditions monétaires
-  course_id: luttes_orlean
+  course_id: luttes-orlean
   semester:
     - 1
     - 2
@@ -73,3 +73,37 @@
     constitution des corps politiques et dans l’accès de certains groupes sociaux à l’hégémonie. 
     L’hyperinflation allemande des années vingt sera étudiée de même que l’évolution des monnaies grecques aux VIIe et VIe siècles. 
     On s’intéressera également aux positions défendues par John Maynard Keynes quant à la monnaie internationale lors des débats ayant conduit à l’accord de Bretton-Woods en 1944.
+
+- course_name: Histoire sociale des idées politiques
+  course_id: histoire-idees-politiques
+  semester:
+    - 1
+    - 2
+  prof_name: Frédérique Matonti
+  lang: 'fr'
+  description: |
+    L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone.
+
+    Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge, apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby).
+
+    La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
+
+- course_name: Économie comportementale
+  course_id: economie-comportementale
+  semester: 1
+  prof_name: Frédérique Matonti
+  lang: 'fr'
+  description: |
+    This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
+
+    It draws lessons from psychology for understanding behaviour and the working of institutions.
+
+- course_name: Économie comportementale
+  course_id: economie-comportementale
+  semester: 1
+  prof_name: Frédérique Matonti
+  lang: 'en'
+  description: |
+    This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
+
+    It draws lessons from psychology for understanding behaviour and the working of institutions.

@@ -1,4 +1,41 @@
 epistemo-1:
   bib: |
-      - Amariglio, J., S. Cullenberg, D. Ruccio, eds. 2001. Post-Modernism, Economics and Knowledge. London: Routledge
-      - Daniel Andler, Anne Fagot-Largeault et Bertrand Saint-Sernin. 2002. Philosophie des sciences, 2 vols. Paris: Gallimard (Folio essais)
+    - Amariglio, J., S. Cullenberg, D. Ruccio, eds. 2001. Post-Modernism, Economics and Knowledge. London: Routledge
+    - Daniel Andler, Anne Fagot-Largeault et Bertrand Saint-Sernin. 2002. Philosophie des sciences, 2 vols. Paris: Gallimard (Folio essais)
+
+histoire-idees-politiques:
+  bib: |
+    - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
+    - Roger Chartier , Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000
+    - Mathieu Hauchecorne, « Le “professeur Rawls” et le “Nobel des pauvres”. La politisation différenciée des théories de la justice de John Rawls et d’Amartya Sen dans les années 90 en France », Actes de la recherche en sciences sociales, 2009-1, p. 166-177
+    - Frédérique Matonti « Plaidoyer pour une histoire sociale des idées politiques », Revue d’histoire moderne e& contemporaine, 59-4 bis de la RHMC, « Regards sur l'histoire intellectuelle », 2012
+    - Timothy Tackett dans Par la volonté du peuple, Paris, Albin Michel, coll. « L’évolution de l’humanité », 1997 [1996]
+    - Quentin Skinner, Visions of politics, Vol, 1. Regarding Method, Cambridge University Press, 2002
+    - Quentin Skinner, La Liberté avant le libéralisme, Paris, Seuil, 2000
+    - Arnault Skornicki et Jérôme Tournadre, La nouvelle histoire des idées politiques, Paris, La Découverte, Repères, 2015.
+
+economie-comportementale:
+  bib: |
+    - Ariely, D. C’est (vraiment?) moi qui décide, Paris : Flammarion (2008).
+    - Camerer, C. F. Behavioral Game Theory: Experiments in Strategic Interaction, Princeton: Princeton University Press (2003).
+    - Camerer, C.F., Loewenstein, G. and M. Rabin (eds.) Advances in Behavioral Economics, Princeton: Princeton University Press (2004).
+    - Gigerenzer, G. and R. Selten (eds.) Bounded Rationality: the adaptive toolbox, Cambridge, Mass: MIT Press (2001).
+    - Gironde, S. La neuroéconomie, Paris: Plon (2008).
+    - Glimcher, P.W. Decisions, Uncertainty, and the Brain: the science of neuroeconomics, Cambridge, Mass: MIT Press (2003).
+    - Glimcher, P.W., Camerer, C.F., Fehr, E. and R.A. Poldrack (eds.) Neuroeconomics: Decision Making in the Brain, Amsterdam: Elsevier (2009).
+    - Kahneman, D. , Slovic, P. and A. Tversky (eds.) Judgment under Uncertainty: Heuristics and Biases, Cambridge: Cambridge University Press (1982).
+    - Kahneman, D. and A. Tversky “Prospect theory: an analysis of decisions under risk”, Econometrica 47 (1979), 263-291.
+    - Kahneman, D. and A. Tversky (eds.) Choices, Values and Frames, New York: Cambridge University Press (2000).
+    - Kahneman, D. and A. Tversky “Maps of Bounded Rationality: Psychology for Behavioral Economics”, American 
+    - Economic Review 93 (2003), 1449-1475.
+    - Kahneman, D. and A. Tversky, Thinking Fast and Slow, New York: Farrar, Straus and Giroux (2011).
+    - Lehrer, J. Faire le Bon Choix: comment notre cerveau prend ses décisions, Paris: Robert Laffont (2010)
+    - Lévy-Garboua, L. “Perception séquentielle et rationalité limitée”, Journal des Economistes et des Etudes Humaines 14 (2004), 63-77.
+    - Lévy-Garboua, L., Meidinger, C. and B. Rapoport “The Formation of Social Preferences: Some Lessons from 
+    - Psychology and Biology”, in Handbook on the Economics of Giving, Altruism and Reciprocity (Vol.1), S.C. Kolm and J. Mercier-Ythier, Eds., Amsterdam: Elsevier, (2006), 545-613.
+    - Machina, M. “Choice under uncertainty: problems solved and unsolved”, Journal of Economic Perspectives 1 (1987), 121-154.
+    - Rabin, M. “Psychology and Economics”, Journal of Economic Literature 36 (1998), 11-46.
+    - Thaler, R. and C.R. Sunstein Nudge: Improving Decisions About Health, Wealth, and Happiness, Penguin Books (2008, Revised and expanded edition, 2009).
+    - Thaler, R. The winner’s curse: Paradoxes and anomalies of economic life, Princeton: Princeton University Press (1992).
+    - Schmidt, C. Neuroéconomie, Paris: Editions Odile Jacob (2010).
+    - Smith, V.L. “Constructivist and Ecological Rationality in Economics”, American Economic Review 93 (2003), 465-508.

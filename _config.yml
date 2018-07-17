@@ -135,7 +135,7 @@ courses:
     semester: "Semestre"
   en:
     title: "Courses"
-    semsester: "Semester"
+    semester: "Semester"
 
 ###### footer ######
 logos:
