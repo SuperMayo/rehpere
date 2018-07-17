@@ -8,6 +8,9 @@ sass:
 include:
   - _pages
 
+exclude:
+  - vendor
+
 page_gen:
   - data: 'members'
     template: 'people'
