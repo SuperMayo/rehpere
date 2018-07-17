@@ -58,7 +58,7 @@ index:
 menu:
   fr:
     home:
-      name: "Acceuil"
+      name: "Accueil"
       url: "/"
     master:
       name: "Master ESH"
