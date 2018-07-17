@@ -53,7 +53,9 @@
 
 - course_name: Luttes de classes et séditions monétaires
   course_id: luttes_orlean
-  semester: "1-2"
+  semester:
+    - 1
+    - 2
   prof_name: André Orléan
   lang: 'fr'
   description: >

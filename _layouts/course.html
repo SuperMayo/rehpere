@@ -4,7 +4,11 @@ layout: default
 
 
 <h1>{{ page.course_name }}</h1>
-<h4>Semestre {{page.semester}}</h4>
+{% if page.semester.size == 2 %}
+	<h4>Semestre {{page.semester[0]}} & {{page.semester[1]}}</h4>
+{% else %}
+	<h4>Semestre {{page.semester}}</h4>
+{% endif %}
 
 {% if page.prof_id %}
 	{% assign prof = site.data.members | where: "lang", page.lang | where: "flatname", page.prof_id %}
@@ -35,4 +39,12 @@ layout: default
 	{{ site.data.courses_syllabus[page.course_id][page.lang] | markdownify}}
 {% endif %}
 
+{% if site.data.courses_bib[page.course_id] %}
+	<div class="small-delimiter"></div>
+	<h3>References</h3>
 	{{ site.data.courses_bib[page.course_id].bib | markdownify }}
+{% endif %}
+
+
+
+

@@ -2,10 +2,18 @@
 layout: default
 ---
 
-<h1> {{ site.courses[page.lang]}}</h1>
+<h1 class="title"> {{ site.courses[page.lang].title}}</h1>
 
-{% assign courses = site.data.courses | where:"lang", page.lang %} 
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 1 %}
+<h2 class="title">{{ site.courses[page.lang].semester}} 1</h2>
+{% for cours in courses %}
+<a href="{{site.baseurl}}{{cours.course_id}}">
+	<h2> {{ cours.course_name }} </h2>
+</a>
+{% endfor %}
 
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 2 %}
+<h2 class="title">{{ site.courses[page.lang].semester}} 2</h2>
 {% for cours in courses %}
 <a href="{{site.baseurl}}{{cours.course_id}}">
 	<h2> {{ cours.course_name }} </h2>

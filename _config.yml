@@ -130,8 +130,12 @@ more:
 
 ####### Courses ########
 courses:
-  fr: "Enseignements"
-  en: "Courses"
+  fr:
+    title: "Enseignements"
+    semester: "Semestre"
+  en:
+    title: "Courses"
+    semsester: "Semester"
 
 ###### footer ######
 logos:
