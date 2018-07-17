@@ -107,3 +107,13 @@
     This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
 
     It draws lessons from psychology for understanding behaviour and the working of institutions.
+
+- course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
+  course_id: science-studies
+  semester: 2
+  prof_name: Michel Armatte
+  lang: 'fr'
+  description: |
+    L’objectif de ce cours est de présenter le point de vue STS (sciences techniques et société) propre aux sciences studies qui a renouvelé l’histoire des sciences, puis de suggérer que l’histoire et l’épistémologie des sciences économiques pourraient s’en inspirer utilement, en particulier pour traiter des opérations de quantification et de modélisation qui ont fait passer de l’économie politique aux sciences économiques.
+
+    En nous appuyant sur des textes classiques de cette approche, mais aussi des chapitres de La science écomique comme ingénierie (Armatte 2010) ou de L’argument statistique (Desrosières 2008, tome 1 et 2), nous traitons successivement de la naissance du probable au XVIIIe, de la statistique économique entre 1850 et 1930, de la comptabilité nationale, du calcul économique, de la planification, et de la modélisation économétrique pendant les Trente Glorieuses. Pour ce qui est de la période néolibérale nous abordons les développements de l’économie environnementale et climatique, de l’évaluation des politiques publiques, de l’économie expérimentale, des modèles de la finances et des algorithmes associés au Big Data.
