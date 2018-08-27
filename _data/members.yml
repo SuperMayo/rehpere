@@ -20,7 +20,6 @@
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Jerome_Lallement"
   contact: "jerome.lallement@univ-paris.fr"
-  twitter: "#"
   free_text: >
     **Epistémologie et Philosophie de l’économie** <br/>
     Mots clefs : modèle déductif-nomologique,explication et causalité ;
@@ -35,7 +34,7 @@
   picture: "cleo-cz.jpg"
   lang: "en"
   status: "Post Doctoral"
-  statuscode: "pa"
+  statuscode: "pd"
   institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
   themes:
       - Discriminations
@@ -59,7 +58,7 @@
       link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
       
   contact: "cleo.chassonnery-zaigouche@unil.ch"
-  twitter: "@cleocz"
+  twitter: "CleoCZ"
   free_text: >
     I am mainly working on the history of Labour Economics and Applied Microeconomics, 
     as well as to the more general theme of economists’ expertise, especially in the courtrooms.
@@ -102,7 +101,7 @@
   picture: "cleo-cz.jpg"
   lang: "fr"
   status: "Première assistante"
-  statuscode: "pa"
+  statuscode: "pd"
   institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
   themes:
       - Discriminations
@@ -126,7 +125,7 @@
       link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
       
   contact: "cleo.chassonnery-zaigouche@unil.ch"
-  twitter: "@cleocz"
+  twitter: "CleoCZ"
   free_text: >
     Je travaille principalement sur l'histoire de l'Economie du travail et de la Microéconomie Appliquée, 
     ainsi que sur le thème plus général de l'expertise économique, en particulier les cours de justice.

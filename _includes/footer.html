@@ -1,10 +1,26 @@
-<footer class="footer">
-	<div class="logo-wrapper">
-		{% for img in site.logos %}
-			<img src="{{site.url}}{{site.img_path}}/footer/{{img}}" alt="logo_{{img}}" class="footer-logo">
-		{% endfor %}	
+<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<script src="{{ "/assets/js/hoverDropdown.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/makeActiveLinks.js" | prepend: site.url }}"></script>
+
+<footer class="bd-footer">
+	<div class="container-fluid bg-arsenic p-5">
+		<div class="row justify-content-center">
+			{% for img in site.logos %}
+			<div class="col-lg-2 col-md-4 p-3">
+					<img src="{{site.url}}{{site.img_path}}/footer/{{img}}" alt="logo_{{img}}" class="img-fluid">
+			</div>
+			{% endfor %}
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-6 text-center text-white-50">
+				<p> <strong>2018 REHPERE</strong> by <a href="https://mayerowitz.io/">Antoine Mayerowitz</a>.<br/>
+				This website is powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://getbootstrap.com/">Bootstrap</a>.<br/>
+				Licensed under <a href="https://getbootstrap.com/">CC BY NC SA 4.0</a>.
+				</p>
+			</div>
+		</div>
 	</div>
-	<p class="footer-text centered">
-		<span class="copyleft">&copy;</span>2018 - Antoine Mayerowitz
-	</p>
 </footer>

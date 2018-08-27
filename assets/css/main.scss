@@ -1,0 +1,69 @@
+---
+---
+
+@import "custom-variables.scss";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.text-justify {
+	text-align: center;
+}
+
+.bg-arsenic {
+	background-color: theme-color("arsenic");
+}
+
+.border-red {
+	border-color: theme-color("red");
+}
+
+.shadow-gray {
+	box-shadow: 0px 1px 5px lightgray;
+}
+
+h1, h2 {
+	font-family: 'PT Serif', Serif;
+}
+
+.twitter-link {
+	color: #c0deed;
+	&:hover {
+	color: #1dcaff;
+	}
+}
+
+.highlight {
+	background-color: #f8f9fa;
+}
+
+code {
+	@extend .highlight;
+}
+
+.post-header {
+	h1 {
+		font-size: 50px;
+	}
+}
+
+img {
+	@extend .img-fluid;
+}
+
+@media(min-width:  768px) {
+  .dropdown-menu {
+    margin-top: -1px; // fixes closing on slow mouse transition
+  }
+}
+
+.dropdown-menu {
+	a {
+		&:hover {
+			background-color: lighten($arsenic, 10%);
+	}
+	}
+}
+
+.en:lang(en), .fr:lang(fr), .es:lang(es) {
+		@extend .active;
+		font-weight: bold;
+}

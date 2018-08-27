@@ -1,41 +1,48 @@
 <header>
-    <div class="lang">
-      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% for post in posts %}
-          <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-        {% endfor %}
-
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <a href="{{ page.url }}" class="{{ page.lang }}"> {{ page.lang }}</a>
-      {% endfor %}
-    </div>
-
-    <div class="title-wrapper">
-        <a class="site-title" href="{{ site.baseurl }}/">
-             <h1>{{ site.title }}</h1>
-        </a>
-        <h3 class="subtitle">{{ site.subtitle }}</h3>
-    </div>
-
-    <nav class="nav">
-      <ul>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-arsenic" role="navigation" aria-label="main navigation">
+    <i class="far fa-compass navbar-brand" style="font-size:40px; vertical-align: middle;"></i>
+    <a class="navbar-brand" href="{{ site.url }}">
+    REHPERE
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
         {% for item in site.menu.[page.lang] %}
         {% if item[1].sublinks %}
-          <li class="dropdown">
-          <a href="{{ item[1].url }}" class="dropdown-toggle">{{ item[1].name }} &#9662; </a>
-            <ul class="dropdown-content">
-              {% for sublink in item[1].sublinks %}
-                <li class="dropdown-element">
-                  <a href="{{ sublink.url }}">{{ sublink.name }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </li>
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+          <a href="{{ item[1].url }}" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ item[1].name }}
+          </a>
+          <div class="dropdown-menu bg-arsenic" aria-labelledby="navbarDropdownMenuLink">
+            {% for sublink in item[1].sublinks %}
+                <a href="{{ sublink.url }}" class="dropdown-item text-light">{{ sublink.name }}</a>
+            {% endfor %}
+          </div>
+        </li>
         {% else %}
-          <li><a href="{{ item[1].url }}">{{ item[1].name }}</a></li>
+        <!-- normal link -->
+        <li class="nav-item">
+            <a href="{{ item[1].url }}" class="nav-link">{{ item[1].name }}</a>
+        </li>
         {% endif %}
         {% endfor %}
       </ul>
-    </nav>
+      <ul class="navbar-nav navbar-dark ml-md-auto">
+      <!-- lang switch -->
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for post in posts %}
+      <li>
+        <a href="{{ post.url }}" class="{{ post.lang }} nav-link">{{ post.lang }}</a>
+      </li>
+      {% endfor %}
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %}
+        <a href="{{ page.url }}" class="{{ page.lang }} nav-link"> {{ page.lang }}</a>
+      {% endfor %}
+    </ul>
+    </div>
+  </nav>
 </header>

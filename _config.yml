@@ -8,9 +8,6 @@ sass:
 include:
   - _pages
 
-exclude:
-  - vendor
-
 page_gen:
   - data: 'members'
     template: 'people'
@@ -37,10 +34,6 @@ img_path: "/assets/img/"
 
 markdown: kramdown
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-
 ######################################################
 ######################################################
 # General settings
@@ -48,6 +41,10 @@ kramdown:
 title: REhPERE
 
 subtitle: Recherche en Épistémologie et en Histoire de la Pensée Économique Récente
+
+twitter-timeline:
+  link: "https://twitter.com/rehpere"
+  number-of-tweets: "6"
 
 description:
   fr: mdr
@@ -65,7 +62,7 @@ menu:
       url: "/"
     master:
       name: "Master ESH"
-      url: "/master"
+      url: "/master/"
       sublinks:
         - name: "Mémoire"
           url: "/master/#memoire"
@@ -74,17 +71,17 @@ menu:
         - name: "Cours"
           url: "/cours"
     team:
-      name: "Équipe"
-      url: "/equipe"
+      name: "Membres"
+      url: "/membres/"
     publications:
       name: "Publications"
-      url: "/publications"
+      url: "/publications/"
     blog:
       name: "Blog"
-      url: "/blog"
+      url: "/blog/"
     research:
       name: "Recherche"
-      url: "/recherche"
+      url: "/recherche/"
   en:
     home:
       name: "Home"
@@ -93,8 +90,8 @@ menu:
       name: "Master ESH"
       url: "/en/master"
     team:
-      name: "Team"
-      url: "/en/team"
+      name: "Members"
+      url: "/en/members"
     publications:
       name: "Publications"
       url: "/en/publications"
@@ -114,10 +111,14 @@ home:
 
 ####### Team ########
 team:
+  codes: ["pr", "mcf", "pd", "phd"]
   fr:
     title: "L'équipe"
+    subtitles: {"pr": "Professeurs", "mcf": "Maitre de conférence", "pd": "Post-doctorants", "phd": "Doctorants"}
+
   en:
     title: "The team"
+    subtitles: {"pr": "Professors", "mcf": "lecturer", "pd": "Postdoctoral fellows", "phd": "PhD candidates"}
 
 ####### Publications ########
 biblio:

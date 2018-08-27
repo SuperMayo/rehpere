@@ -1,58 +1,65 @@
 ---
-layout: default
+layout: one-column
 ---
 
 <!-- Image with small description  -->
-<div class="flex-container image-container">
-	<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" class="face">
-	<div class="image-compagnion">
-		<h2>{{ page.full_name }}</h2>
-		<div>
-		<ul class="list-simple-noindent">
-			<li class="strong"> <i class="fas fa-graduation-cap"></i> {{ page.status }}</li>
-			<li> <i class="fas fa-university"></i> {{ page.institution }}</li>
-			<li> <i class="fas fa-envelope"></i> <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></li>
+<div class="d-flex pt-4 flex-md-nowrap flex-wrap">
+	<div class="p-2">
+		<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" width="256px" height="auto">
+	</div>
+	<div class="">
+		<h2>{{ page.full_name }} {% if page.twitter != blank %} <a class="twitter-link" href="https://twitter.com/{{page.twitter}}">@{{page.twitter}}</a> {% endif %}</h2>
+			<p class="strong"> <i class="fas fa-graduation-cap"></i> {{ page.status }}<p>
+			<p> <i class="fas fa-university"></i> {{ page.institution }}</p>
+			<p> <i class="fas fa-envelope"></i> <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></p>
 		</ul>
-		</div>
+		<p>
+			{% for theme in page.themes %}
+			<span class="badge badge-primary"> <i class="fas fa-search"></i> {{ theme }}</span>
+			{% endfor %}
+		</p>
+		<p>
+			{% for author in page.authors %}
+			<span class="badge badge-secondary"> <i class="far fa-user-circle"></i> {{ author }}</span>
+			{% endfor %}
+		</p>
 	</div>
 </div>
-
-
-<ul class="list-simple-noindent horizontal-list no-indent trivia">
-	{% for theme in page.themes %}
-	<li class="tag"> <i class="fas fa-search"></i> {{ theme }}</li>
-	{% endfor %}
-</ul>
-
-<ul class="list-simple-noindent horizontal-list no-indent trivia">
-	{% for author in page.authors %}
-	<li class="tag"><i class="far fa-user-circle"></i> {{ author }}</li>
-	{% endfor %}
-</ul>
 
 <!-- Small bio  -->
 {% if page.free_text %}
 	<div class="small-delimiter"></div>
-	<div class="text new">
+	<div class="text-justify">
 		<h2>À propos</h2>
 		<p>{{ page.free_text | markdownify}}</p>
 	</div>
 {% endif %}
 
 <!-- Publications -->
-<div class="small-delimiter"></div>
-<h2>Publications</h2>
+{% assign papers = site.data.biblio | where:"author_id", page.flatname | sort:"year" | reverse %}
+{% if papers != blank %} <!-- Display only if there are publications to show -->
+	<div class="small-delimiter"></div>
+	<h2>Publications</h2>
+	<ul class="list-simple-noindent">
+		{% for paper in papers %}
+			<li>
+		        <a class="post-link" href="{{paper.link}}">
+		        	<span class="bib-author">{{paper.author}}</span>
+		        	<span class="bib-year">({{paper.year}})</span>.
+		        	<span class="bib-title">{{ paper.title }}</span>.
+		        	<span class="bib-journal">{{ paper.journal}}</span>
+		        </a>
+			</li>
+		{% endfor %}
+	</ul>
+{% endif %}
 
-<ul class="list-simple-noindent">
-	{% assign papers = site.data.biblio | where:"author_id", page.flatname | sort:"year" | reverse %}
-	{% for paper in papers %}
-		<li>
-	        <a class="post-link" href="{{paper.link}}">
-	        	<span class="bib-author">{{paper.author}}</span>
-	        	<span class="bib-year">({{paper.year}})</span>.
-	        	<span class="bib-title">{{ paper.title }}</span>.
-	        	<span class="bib-journal">{{ paper.journal}}</span>
-	        </a>
-		</li>
+<!-- External links -->
+{% if page.external %}
+	<div class="small-delimiter"></div>
+	<h2>Liens Externes</h2>
+	{% for elem in page.external %}
+		<a href="{{elem.link}}"><button type="button" class="btn btn-info text-white p-2"><i class="fas fa-external-link-alt"></i> {{elem.name}}</button></a>
 	{% endfor %}
-</ul>
+{% endif %}
+

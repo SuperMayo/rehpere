@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: one-column-justify
 ref: master
 permalink: /master/
 lang: fr

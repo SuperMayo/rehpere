@@ -2,8 +2,9 @@
 layout: default
 ---
 
-
-<h1 class="title"> {{ site.biblio[page.lang].title }}</h1>
+<div class="text-center p-1">
+  <h1 class="display-4"> {{ site.biblio[page.lang].title }}</h1>
+</div>
 
 <ul class="list-simple">
     {% assign articles = site.data.biblio | sort: "year" | reverse %}
@@ -13,10 +14,10 @@ layout: default
           	<a class="post-link" href="{{paper.link}}">
 	        	<span class="bib-author">{{paper.author}}</span>
 	        	<span class="bib-year">({{paper.year}})</span>.
-	        	<span class="bib-title">{{ paper.title }}</span>.
+	        	<span class="font-italic">{{ paper.title }}</span>.
 	        	<span class="bib-journal">{{ paper.journal}}</span>
 	        </a>
         </h4>
       </li>
     {% endfor %}
-  </ul>
+</ul>

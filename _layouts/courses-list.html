@@ -1,21 +1,23 @@
 ---
-layout: default
+layout: one-column
 ---
 
-<h1 class="title"> {{ site.courses[page.lang].title}}</h1>
+<div class="text-center p-1">
+	<h1 class="display-4"> {{ site.courses[page.lang].title}}</h1>
+</div>
 
-{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 1 %}
-<h2 class="title">{{ site.courses[page.lang].semester}} 1</h2>
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 1 | sort:"course_name" %}
+<h2>{{ site.courses[page.lang].semester}} 1</h2>
 {% for cours in courses %}
 <a href="{{site.baseurl}}{{cours.course_id}}">
-	<h2> {{ cours.course_name }} </h2>
+	<h3> {{ cours.course_name }} </h3>
 </a>
 {% endfor %}
 
-{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 2 %}
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", 2 | sort:"course_name"%}
 <h2 class="title">{{ site.courses[page.lang].semester}} 2</h2>
 {% for cours in courses %}
 <a href="{{site.baseurl}}{{cours.course_id}}">
-	<h2> {{ cours.course_name }} </h2>
+	<h3> {{ cours.course_name }} </h3>
 </a>
 {% endfor %}
