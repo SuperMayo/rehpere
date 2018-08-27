@@ -33,11 +33,11 @@
       <ul class="navbar-nav navbar-dark ml-md-auto">
       <!-- lang switch -->
 
-      <li class="navbar-brand">
-        <i class="fas fa-language"></i>
-      </li>
 
       <div class="btn-group" role="group" aria-label="Basic example">
+        <li class="navbar-brand">
+          <i class="fas fa-language"></i>
+        </li>
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %}
         <button type="button" class="btn btn-secondary {{ post.lang }} nav-link bg-arsenic px-2" onclick="window.location.href='{{ post.url }}'">
