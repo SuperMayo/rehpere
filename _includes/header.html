@@ -12,9 +12,9 @@
         {% for item in site.menu.[page.lang] %}
         {% if item[1].sublinks %}
         <!-- Dropdown -->
-        <li class="nav-item dropdown">
+        <li class="nav-item dropdown pl-1">
           <a href="{{ item[1].url }}" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {{ item[1].name }}
+            {{ item[1].prep }} {{ item[1].name }}
           </a>
           <div class="dropdown-menu bg-arsenic" aria-labelledby="navbarDropdownMenuLink">
             {% for sublink in item[1].sublinks %}
@@ -24,24 +24,33 @@
         </li>
         {% else %}
         <!-- normal link -->
-        <li class="nav-item">
-            <a href="{{ item[1].url }}" class="nav-link">{{ item[1].name }}</a>
+        <li class="nav-item pl-1">
+            <a href="{{ item[1].url }}" class="nav-link">{{ item[1].prep }} {{ item[1].name }}</a>
         </li>
         {% endif %}
         {% endfor %}
       </ul>
       <ul class="navbar-nav navbar-dark ml-md-auto">
       <!-- lang switch -->
-      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-      {% for post in posts %}
-      <li>
-        <a href="{{ post.url }}" class="{{ post.lang }} nav-link">{{ post.lang }}</a>
+
+      <li class="navbar-brand">
+        <i class="fas fa-language"></i>
       </li>
-      {% endfor %}
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-      {% for page in pages %}
-        <a href="{{ page.url }}" class="{{ page.lang }} nav-link"> {{ page.lang }}</a>
-      {% endfor %}
+
+      <div class="btn-group" role="group" aria-label="Basic example">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+        <button type="button" class="btn btn-secondary {{ post.lang }} nav-link bg-arsenic px-2" onclick="window.location.href='{{ post.url }}'">
+          {{ post.lang }}
+        </button>
+        {% endfor %}
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+        <button type="button" class="btn btn-secondary {{ page.lang }} nav-link bg-arsenic px-2" onclick="window.location.href='{{ page.url }}'">
+          {{ page.lang }}
+        </button>
+        {% endfor %}
+      </div>
     </ul>
     </div>
   </nav>

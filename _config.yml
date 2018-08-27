@@ -60,9 +60,11 @@ menu:
     home:
       name: "Accueil"
       url: "/"
+      prep: '<i class="fas fa-home"></i>'
     master:
       name: "Master ESH"
       url: "/master/"
+      prep: '<i class="fas fa-user-graduate"></i>'
       sublinks:
         - name: "Mémoire"
           url: "/master/#memoire"
@@ -73,34 +75,44 @@ menu:
     team:
       name: "Membres"
       url: "/membres/"
+      prep: '<i class="fas fa-users"></i>'
     publications:
       name: "Publications"
       url: "/publications/"
+      prep: '<i class="fas fa-book"></i>'
     blog:
       name: "Blog"
       url: "/blog/"
+      prep: '<i class="fas fa-newspaper"></i>'
     research:
       name: "Recherche"
       url: "/recherche/"
+      prep: '<i class="fas fa-microscope"></i>'
   en:
     home:
       name: "Home"
       url: "/home.html"
+      prep: '<i class="fas fa-home"></i>'
     master:
       name: "Master ESH"
       url: "/en/master"
+      prep: '<i class="fas fa-user-graduate"></i>'
     team:
       name: "Members"
       url: "/en/members"
+      prep: '<i class="fas fa-users"></i>'
     publications:
       name: "Publications"
       url: "/en/publications"
+      prep: '<i class="fas fa-book"></i>'
     blog:
       name: "Blog"
       url: "/en/blog"
+      prep: '<i class="fas fa-newspaper"></i>'
     research:
       name: "Research"
       url: "/en/research"
+      prep: '<i class="fas fa-microscope"></i>'
 
 ####### Home ########
 home:
