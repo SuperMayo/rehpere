@@ -81,13 +81,13 @@ menu:
       url: "/publications/"
       prep: '<i class="fas fa-book"></i>'
     blog:
-      name: "Blog"
-      url: "/blog/"
+      name: "Actualités"
+      url: "/actualites/"
       prep: '<i class="fas fa-newspaper"></i>'
     research:
-      name: "Recherche"
-      url: "/recherche/"
-      prep: '<i class="fas fa-microscope"></i>'
+      name: "Réseaux"
+      url: "/reseaux/"
+      prep: '<i class="fas fa-globe-africa"></i>'
   en:
     home:
       name: "Home"
@@ -110,9 +110,9 @@ menu:
       url: "/en/blog"
       prep: '<i class="fas fa-newspaper"></i>'
     research:
-      name: "Research"
-      url: "/en/research"
-      prep: '<i class="fas fa-microscope"></i>'
+      name: "Network"
+      url: "/en/network"
+      prep: '<i class="fas fa-globe-africa"></i>'
 
 ####### Home ########
 home:

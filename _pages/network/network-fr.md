@@ -2,7 +2,7 @@
 layout: one-column-justify
 ref: research
 lang: fr
-permalink: /recherche/
+permalink: /reseaux/
 ---
 
 # Présentation de REhPERE
