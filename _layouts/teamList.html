@@ -13,7 +13,7 @@ layout: default
 <div class="row">
 <div class="btn-group mx-auto pb-5" role="group">
 	{% for code in site.team.codes %}
-		<button type="button" class="btn btn-outline-primary" onclick="window.location.href='#{{site.team[page.lang].subtitles[code]}}'">{{site.team[page.lang].subtitles[code]}}</button>
+		<button type="button" class="btn btn-outline-primary btn-group-responsive" onclick="window.location.href='#{{site.team[page.lang].subtitles[code]}}'">{{site.team[page.lang].subtitles[code]}}</button>
 	{% endfor %}
 </div>
 </div>

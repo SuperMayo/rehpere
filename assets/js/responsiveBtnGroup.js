@@ -1,8 +1,8 @@
 $(window).on('resize', function() {
     if($(window).width() < 800) {
-      $('.btn-group').addClass('btn-group-vertical');
+      $('.btn-group-responsive').addClass('btn-group-vertical');
     }
     else {
-    	$('.btn-group').removeClass('btn-group-vertical');
+    	$('.btn-group-responsive').removeClass('btn-group-vertical');
     }
 });
