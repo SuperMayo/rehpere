@@ -76,3 +76,15 @@ img {
 .list-simple {
 	list-style: none;
 }
+
+.logo-bg-dark {
+	path {
+		fill: $arsenic;
+		}
+}
+
+.logo-bg-light {
+	path {
+		fill: theme-color("light");
+		}
+}
