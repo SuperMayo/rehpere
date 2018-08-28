@@ -9,7 +9,7 @@ Les thématiques de recherche de l'équipe REhPERE portent, de façon générale
 <div class="card">
 	<div class="card-header" id="headingOne">
 	    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	     <h2><i class="fas fa-chevron-circle-right"></i> Histoire de la macroéconomie</h2>
+	     <h3><i class="fas fa-chevron-circle-right"></i> Histoire de la macroéconomie</h3>
 	    </button>
 	</div>
 	<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
@@ -27,7 +27,7 @@ Les thématiques de recherche de l'équipe REhPERE portent, de façon générale
 <div class="card">
 	<div class="card-header" id="headingTwo">
 	    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-	     <h2><i class="fas fa-chevron-circle-right"></i> Economie et psychologie</h2>
+	     <h3><i class="fas fa-chevron-circle-right"></i> Economie et psychologie</h3>
 	    </button>
 	</div>
 	<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
@@ -42,7 +42,7 @@ Les thématiques de recherche de l'équipe REhPERE portent, de façon générale
 <div class="card">
 	<div class="card-header" id="headingThree">
 	    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-	     <h2><i class="fas fa-chevron-circle-right"></i> Economie du travail</h2>
+	     <h3><i class="fas fa-chevron-circle-right"></i> Economie du travail</h3>
 	    </button>
 	</div>
 	<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
@@ -58,7 +58,7 @@ Les thématiques de recherche de l'équipe REhPERE portent, de façon générale
 <div class="card">
 	<div class="card-header" id="headingFour">
 	    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-	     <h2><i class="fas fa-chevron-circle-right"></i> Economie publique</h2>
+	     <h3><i class="fas fa-chevron-circle-right"></i> Economie publique</h3>
 	    </button>
 	</div>
 	<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">

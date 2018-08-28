@@ -1,6 +1,5 @@
 <header>
   <nav class="navbar navbar-expand-lg navbar-dark bg-arsenic" role="navigation" aria-label="main navigation">
-    <i class="far fa-compass navbar-brand" style="font-size:40px; vertical-align: middle;"></i>
     <a class="navbar-brand" href="{{ site.url }}">
     REHPERE
     </a>
@@ -18,7 +17,7 @@
           </a>
           <div class="dropdown-menu bg-arsenic" aria-labelledby="navbarDropdownMenuLink">
             {% for sublink in item[1].sublinks %}
-                <a href="{{ sublink.url }}" class="dropdown-item text-light">{{ sublink.name }}</a>
+                <a href="{{ sublink.url }}" class="dropdown-item text-light smooth-scroll">{{ sublink.name }}</a>
             {% endfor %}
           </div>
         </li>
@@ -33,9 +32,6 @@
       <ul class="navbar-nav navbar-dark ml-md-auto">
       <!-- lang switch -->
         <div>
-          <li class="navbar-brand" style="vertical-align: middle;">
-              <i class="fas fa-language"></i>
-            </li>
           <div class="btn-group" role="group" aria-label="Basic example">
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
             {% for post in posts %}

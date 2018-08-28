@@ -5,15 +5,10 @@ layout: default
 {% assign folder = page.pointer %}
 {% assign people = site.data.members | where:"lang", page.lang %}
 
-
-<div class="text-center">
-	<h1 class="display-4">{{ site.team[page.lang].title }}</h1>
-</div>
-
 <div class="row">
-<div class="btn-group mx-auto pb-5" role="group">
+<div class="btn-group btn-group-responsive mx-auto p-5" role="group">
 	{% for code in site.team.codes %}
-		<button type="button" class="btn btn-outline-primary btn-group-responsive" onclick="window.location.href='#{{site.team[page.lang].subtitles[code]}}'">{{site.team[page.lang].subtitles[code]}}</button>
+		<button type="button" class="btn btn-outline-primary btn-group-responsive smooth-scroll" hash="#{{site.team[page.lang].subtitles[code]}}">{{site.team[page.lang].subtitles[code]}}</button>
 	{% endfor %}
 </div>
 </div>
