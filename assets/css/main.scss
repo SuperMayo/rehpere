@@ -88,3 +88,19 @@ img {
 		fill: theme-color("light");
 		}
 }
+
+.adaptative-title {
+  	font-size: 1.2rem;
+}
+
+@include media-breakpoint-up(sm) {
+		.adaptative-title {
+	  	font-size: 1.4rem;
+		}
+}
+
+@include media-breakpoint-up(md) {
+		.adaptative-title {
+	  	font-size: 1.7rem;
+		}
+}
