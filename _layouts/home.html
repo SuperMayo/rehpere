@@ -17,7 +17,7 @@
 		<div class="container">
 
 			<div class="row justify-content-around">
-				<div class="col-lg-8 col-sm-10">
+				<div class="col-md-8">
 					{% assign posts=site.posts | where:"lang", page.lang %}
 					{% for post in posts %}
 					{% if post.anchor %}
@@ -55,7 +55,7 @@
 					</div>
 
 				</div>
-				<div class="col-lg-4 d-lg-block d-md-none d-sm-none d-xs-none" id="twitter-wjs">
+				<div class="d-none d-md-block col-md-4" id="twitter-wjs">
 					<a class="twitter-timeline" data-dnt="true" data-theme="light" href="{{site.twitter-timeline.link}}" data-tweet-limit="{{site.twitter-timeline.number-of-tweets}}"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 				</div>
 			</div> 
