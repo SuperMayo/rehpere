@@ -40,7 +40,7 @@ markdown: kramdown
 
 title: REhPERE
 
-subtitle: Recherche en Épistémologie et en Histoire de la Pensée Économique Récente
+subtitle: Réseau en Épistémologie et en Histoire de la Pensée Économique Récente
 
 twitter-timeline:
   link: "https://twitter.com/rehpere"
@@ -85,8 +85,8 @@ menu:
       url: "/actualites/"
       prep: '<i class="fas fa-newspaper"></i>'
     research:
-      name: "Réseaux"
-      url: "/reseaux/"
+      name: "Réseau"
+      url: "/reseau/"
       prep: '<i class="fas fa-globe-africa"></i>'
   en:
     home:
