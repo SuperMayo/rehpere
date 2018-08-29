@@ -91,6 +91,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    unicode (0.4.4.4)
 
 PLATFORMS
   ruby
@@ -100,6 +101,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-scholar
   jemoji
+  unicode
 
 BUNDLED WITH
    1.16.1

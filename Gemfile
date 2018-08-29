@@ -19,4 +19,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-paginate"
   gem "jekyll-scholar"
+  gem "unicode"
 end
