@@ -1,0 +1,13 @@
+---
+---
+
+<i class="fa-li fa fa-angle-right"></i>
+<h5>
+  {{reference}}
+  {% if entry.link %}
+    <a href="{{ entry.link }}"> <i class="fas fa-link"></i></a>
+  {% endif %}
+  {% if entry.pdf %}
+    <a href="{{ entry.pdf }}"> <i class="fas fa-file-pdf"></i></a>
+  {% endif %}
+</h5>

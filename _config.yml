@@ -42,6 +42,14 @@ title: REhPERE
 
 subtitle: Réseau en Épistémologie et en Histoire de la Pensée Économique Récente
 
+# Bibliography
+scholar:
+  bibliography_list_tag: 'ul'
+  bibliography_class: 'fa-ul'
+  sort_by: year
+  order: descending
+  bibliography_template: bib
+
 twitter-timeline:
   link: "https://twitter.com/rehpere"
   number-of-tweets: "6"

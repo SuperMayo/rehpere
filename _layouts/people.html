@@ -36,23 +36,9 @@ layout: one-column
 {% endif %}
 
 <!-- Publications -->
-{% assign papers = site.data.biblio | where:"author_id", page.flatname | sort:"year" | reverse %}
-{% if papers != blank %} <!-- Display only if there are publications to show -->
-	<div class="small-delimiter"></div>
-	<h2>Publications</h2>
-	<ul class="list-simple-noindent">
-		{% for paper in papers %}
-			<li>
-		        <a class="post-link" href="{{paper.link}}">
-		        	<span class="bib-author">{{paper.author}}</span>
-		        	<span class="bib-year">({{paper.year}})</span>.
-		        	<span class="bib-title">{{ paper.title }}</span>.
-		        	<span class="bib-journal">{{ paper.journal}}</span>
-		        </a>
-			</li>
-		{% endfor %}
-	</ul>
-{% endif %}
+<div class="small-delimiter"></div>
+<h2>Publications</h2>
+{% bibliography --query @*[authorid={{page.flatname}}] %}
 
 <!-- External links -->
 {% if page.external %}
