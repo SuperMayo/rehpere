@@ -128,7 +128,7 @@
   prof_name: Christian Walter
   lang: 'en'
   description: >
-  forthcoming
+    forthcoming
 
 - course_name: Histoire sociale des idées politiques
   course_id: histoire-idees-politiques
@@ -228,15 +228,15 @@
      
      Ce cours peut être complété par Ethique appliquée 2 au second semetre.
     
-  - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
+- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
   course_id: ethique-appliquée 1
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
   description: >
     Forthcoming
-    
-  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+  
+- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: ethique-appliquée 2
   semester: 2
   prof_name: Emmannuel Picavet
@@ -260,16 +260,16 @@
     pourront faire l'objet d'exposéss.
     
     Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
-    
-  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+  
+- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: ethique-appliquée 2
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
   description: >
     Forthcoming
-    
-  - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
+  
+- course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
   course_id: rationalité-philo-eco
   semester: 2
   prof_name: Emmannuel Picavet, Joseph Abdou
@@ -289,8 +289,8 @@
     des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre 
     les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d'examen sont conçus de manière à 
     permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
-    
-  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+
+- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: rationalité-philo-eco
   semester: 2
   prof_name: Emmannuel Picavet, Joseph Abdou
@@ -304,7 +304,7 @@
     d’une part et l’économie du droit et des systèmes juridiques d’autre part. On insistera plus particulièrement sur la 
     construction interdisciplinaire du discours du law and economics entre théorie du droit, théorie normative et économie positive. 
     
- - course_name: "Histoire de l'économie normative après 1945"
+- course_name: "Histoire de l'économie normative après 1945"
   course_id: eco-normative-1945
   semester: 2
   prof_name: Antoinette Baujard, Samuel Ferey

@@ -114,35 +114,35 @@
 
 ############ Cléo Chassonnery-Zaïgouche #############
 
-- full_name: Cléo Chassonnery-Zaïgouche
-  lang: "en"
-  status: "Post Doctoral"
+- full_name: "Cléo Chassonnery-Zaïgouche"
+  flatname: cleo-cz
+  picture: "cleo-cz.jpg"
+  lang: "en"
+  status: "Première assistante"
+  statuscode: "pd"
   institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
   themes:
-    - Discriminations
-    - Expertise
-    - Wages
-    - Equal Pay
+      - Discriminations
+      - Expertise
+      - Wages
+      - Equal Pay
   authors:
-    - Kenneth Arrow
-    - Gary Becker
-    - Beatrice Webb
-    - Milicent Fawcett
-    - Eleanor Rathbone
-    - Barbara Bergmann
+      - Beatrice Webb
+      - Milicent Fawcett
+      - Eleanor Rathbone
+      - Kenneth Arrow
+      - Gary Becker
   external:
-    - name: "Université de Lausanne"
-    link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
+    - name: "Université de Lausanne"
+      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
     - name: "Thèses.fr"
-    link: "http://www.theses.fr/s90024"
+      link: "http://www.theses.fr/s90024"
     - name: "RePEc"
-    link: "https://ideas.repec.org/f/pch1191.html"
+      link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
-    - name: "SocArXiv"
-    link: "https://osf.io/ywdsv/"
-  contact: "cleo.chassonnery-zaigouche@unil.ch"
-  twitter: "cleocz"
+      link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
+  contact: "cleo.chassonnery-zaigouche@unil.ch"
+  twitter: "CleoCZ"
   free_text: >
     I work on the history of Labour Economics and Applied Microeconomics, as well as to the more general theme of 
     economists’ expertise, especially in the courtrooms. 
@@ -166,38 +166,38 @@
 
     I am managing editor at Oeconomia since 2015
 
-- full_name: Cléo Chassonnery-Zaïgouche
+- full_name: Cléo Chassonnery-Zaïgouche
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
-  lang: "fr"
-  status: "Première Assistante (PostDoc)"
-  statuscode: "pa"
+  lang: "fr"
+  status: "Première Assistante (PostDoc)"
+  statuscode: "pd"
   institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
   themes:
-    - Discriminations
-    - Expertise
-    - Salaires
-    - Equal Pay
+      - Discriminations
+      - Expertise
+      - Salaires
+      - Equal Pay
   authors:
-    - Kenneth Arrow
-    - Gary Becker
-    - Beatrice Webb
-    - Milicent Fawcett
-    - Eleanor Rathbone
-    - Barbara Bergmann
+      - Kenneth Arrow
+      - Gary Becker
+      - Beatrice Webb
+      - Milicent Fawcett
+      - Eleanor Rathbone
+      - Barbara Bergmann
   external:
-    - name: "Université de Lausanne"
-    link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
+    - name: "Université de Lausanne"
+      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
     - name: "Thèses.fr"
-    link: "http://www.theses.fr/s90024"
+      link: "http://www.theses.fr/s90024"
     - name: "RePEc"
-    link: "https://ideas.repec.org/f/pch1191.html"
+      link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
     - name: "SocArXiv"
-    link: "https://osf.io/ywdsv/"
-  contact: "cleo.chassonnery-zaigouche@unil.ch"
-  twitter: "cleocz"
+      link: "https://osf.io/ywdsv/"
+  contact: "cleo.chassonnery-zaigouche@unil.ch"
+  twitter: "CleoCZ"
   free_text: >
     Je travaille principalement sur l’histoire de l’économie du travail et de la microéconomie appliquée, ainsi que sur le thème plus général de l’expertise économique, en particulier au sein des cours de justice.
     Quatre projets de recherche m’occupent actuellement.
@@ -213,6 +213,7 @@
     Par ailleurs, je travaille une histoire du CSWEP avec Béatrice Cherrier et John Singleton.
 
     Je suis aussi secrétaire de rédaction chez Oeconomia depuis 2015.
+
 
 
 ############ Annie L. Cot #############
