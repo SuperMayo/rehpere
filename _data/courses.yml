@@ -163,10 +163,10 @@
   prof_name: Louis Lévy-Garboua
   lang: 'fr'
   description: >
-   Ce cours, en anglais, présente une synthése des données, des expériences et des théories psychologiques 
-   qui remettent en cause la théorie économique, et essaye de réconcillier ces anomalies avec le savoir économique. 
+    Ce cours, en anglais, présente une synthése des données, des expériences et des théories psychologiques 
+    qui remettent en cause la théorie économique, et essaye de réconcillier ces anomalies avec le savoir économique. 
 
-   Il prend ainsi note des recherches menées en psychologie pour comprendre le comportement et le fonctionnement des institutions.
+    Il prend ainsi note des recherches menées en psychologie pour comprendre le comportement et le fonctionnement des institutions.
 
 - course_name: Économie comportementale
   course_id: economie-comportementale
@@ -210,23 +210,23 @@
   prof_name: Emmannuel Picavet
   lang: 'fr'
   description: >
-     L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui 
-     marqués par l'articulation difficile, autant que nécessaire, entre le souci de la liberté de choix 
-     et les besoins réels ou supposés de l’organisation collective. L'autonomie individuelle est une source
-     de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d'organisation, 
-     elle ne parvient à éliminer les conflits de principes qui retiendront l'attention.
+    L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui 
+    marqués par l'articulation difficile, autant que nécessaire, entre le souci de la liberté de choix 
+    et les besoins réels ou supposés de l’organisation collective. L'autonomie individuelle est une source
+    de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d'organisation, 
+    elle ne parvient à éliminer les conflits de principes qui retiendront l'attention.
 
-     On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au 
-     libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation 
-     des situations de libre choix et d'expression de l'autonomie. Il sera nécessaire de revenir sur quelques sources 
-     doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux, 
-     développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
-     
-     Le parcours comportera des études de cas dans le champs des politiques et des formes d'organisation mettant en jeu les
-     exigences d'autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence, 
-     seront encouragés.
-     
-     Ce cours peut être complété par Ethique appliquée 2 au second semetre.
+    On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au 
+    libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation 
+    des situations de libre choix et d'expression de l'autonomie. Il sera nécessaire de revenir sur quelques sources 
+    doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux, 
+    développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
+
+    Le parcours comportera des études de cas dans le champs des politiques et des formes d'organisation mettant en jeu les
+    exigences d'autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence, 
+    seront encouragés.
+
+    Ce cours peut être complété par Ethique appliquée 2 au second semetre.
     
 - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
   course_id: ethique-appliquée 1
@@ -235,7 +235,7 @@
   lang: 'en'
   description: >
     Forthcoming
-  
+    
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: ethique-appliquée 2
   semester: 2
@@ -260,7 +260,7 @@
     pourront faire l'objet d'exposéss.
     
     Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
-  
+    
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: ethique-appliquée 2
   semester: 2
@@ -268,7 +268,7 @@
   lang: 'en'
   description: >
     Forthcoming
-  
+    
 - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
   course_id: rationalité-philo-eco
   semester: 2
@@ -289,11 +289,19 @@
     des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre 
     les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d'examen sont conçus de manière à 
     permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
-
-- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+    
+- course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
   course_id: rationalité-philo-eco
   semester: 2
   prof_name: Emmannuel Picavet, Joseph Abdou
+  lang: 'en'
+  description: >
+    forthcoming
+    
+- course_name: "Histoire de l'économie normative après 1945"
+  course_id: eco-normative-1945
+  semester: 2
+  prof_name: Antoinette Baujard, Samuel Ferey
   lang: 'fr'
   description: >
     Le cours se concentre sur l’histoire de certaines branches de l’économie publique après 1945. 
@@ -303,11 +311,82 @@
     Deux blocs de recherches seront alors plus particulièrement étudiés, les nouvelles théories économiques de la justice 
     d’une part et l’économie du droit et des systèmes juridiques d’autre part. On insistera plus particulièrement sur la 
     construction interdisciplinaire du discours du law and economics entre théorie du droit, théorie normative et économie positive. 
-    
+
 - course_name: "Histoire de l'économie normative après 1945"
   course_id: eco-normative-1945
   semester: 2
   prof_name: Antoinette Baujard, Samuel Ferey
+  lang: 'en'
+  description: >
+    forthcoming
+    
+- course_name: "Economie et sociologie"
+  course_id: eco-socio
+  semester: 1-2
+  prof_name: Jérôme Gautié
+  lang: 'fr'
+  description: >
+    Economie et sociologie ont eu, dès l'origine de la seconde, des rapports complexes et même conflictuels.
+    L'objectif du séminaire est de mieux comprendre ce qui sépare les deux disciplines, d'un point de vue théorique,
+    méthodologique et épistémologique, et d'analyser l'évolution de leurs rapports au cours de l'histoire, de la fin 
+    du XIXème siècle à nos jours.
+
+    La perspective adoptée n'est pas seulement celle de l'épistémologie et de l'histoire de la pensée. Une approche en termes 
+    de sociologie des sciences est nécessaire pour comprendre comment se sont constitués et ont interagi ces deux champs de savoir,
+    au cours du temps et dans différents espaces nationaux.
+ 
+- course_name: "Economie et sociologie"
+  course_id: eco-socio
+  semester: 2
+  prof_name: Jérome Gautié 
+  lang: 'en'
+  description: >
+    Forthcoming
+ 
+- course_name: "Histoire de la théorie du choix rationel"
+  course_id: TCR
+  semester: 2
+  prof_name: Richard Arena
+  lang: 'fr'
+  description: >
+    Forthcoming
+  
+- course_name: "Histoire de la théorie du choix rationel"
+  course_id: TCR
+  semester: 2
+  prof_name: Richard Arena
+  lang: 'en'
+  description: >
+    Forthcoming
+ 
+ 
+- course_name: "Economie et philosophie, rationalité, décision, sciences cognitives"
+  course_id: sciences-cognitives
+  semester: 1
+  prof_name: Jean-Sébastien Lenfant
+  lang: 'fr'
+  description: >
+    L’objectif du cours est de proposer une histoire des relations entre économie et psychologie en se concentrant sur l’analyse 
+    des choix et décisions individuels. On prendra comme aboutissement de cette histoire les contributions séminales de Kahneman 
+    et Tversky à la fin des années 1970), qui mettent en place une relation stable entre économie et psychologie, encadrée par des 
+    protocole expérimentaux. Le cours propose d’interroger la transformation de la science économique qui se joue à ce moment là en 
+    retraçant l’histoire des relations entre économie et psychologie depuis le milieu du XIXe siècle, qui correspond au moment de 
+    naissance d’une psychologie scientifique (expérimentale) et aux premières contributions saisissantes à une théorie marginaliste
+    des prix et de l’utilité. 
+
+    L’hypothèse de travail qui jalonne le cours est que le type de psychologie qui imprègne les théories du choix est lié étroitement 
+    au type de questionnement et aux objectifs des économistes. Si la théorie du choix n’est que l’élément de base d’une théorie de la
+    demande et de l’équilibre économique, alors la relation avec la psychologie sera plutôt distendue. Si au contraire des enjeux de 
+    bien-être ou de répartition sont mis en avant, alors elle peut jouer un rôle plus important. Au-delà de cette relation schématique, 
+    ce qui se joue également au cours de l’histoire est la capacité de la psychologie scientifique à fournir un modèle de scientificité 
+    aux autres sciences sociales. Ainsi, dans le temps, la psychophysique, puis le comportementalisme, et enfin l’approche cognitive ont 
+    pu fournir des modèles différents pour comprendre les relations entre économie et psychologie.
+    
+    
+- course_name: "Economie et philosophie, rationalité, décision, sciences cognitives"
+  course_id: sciences-cognitives
+  semester: 1
+  prof_name: Jean-Sébastien Lenfant
   lang: 'en'
   description: >
     Forthcoming
