@@ -51,6 +51,14 @@
     Cette diversité montre les difficultés que l’on rencontre pour pouvoir affirmer qu’une théorie économique est vraie. 
     On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales comme la question de la causalité dans le modèle déductif-nomologique ou l’individualisme méthodologique face au holisme.
 
+- course_name: Epistémologie II
+  course_id: epistemo-2
+  semester: 1
+  prof_id: jerome-lallement
+  lang: 'en'
+  description: >
+    XXX
+    
 - course_name: Luttes de classes et séditions monétaires
   course_id: luttes-orlean
   semester:
@@ -63,16 +71,64 @@
     de rendre intelligibles les transformations historiques qu’ont connues
     – et que connaissent – les institutions monétaires du capitalisme.
     Notre fil directeur n’a pas varié : à contrecourant de l’hypothèse de neutralité de la monnaie,
-    nous analysons le rapport monétaire comme étant l’institution à l’origine de la valeur économique, celle qui en fixe les traits primordiaux.
-    Pour ce faire, nous nous sommes fortement appuyés sur l’analyse marxiste de la valeur et de la monnaie, tout particulièrement sur sa distinction entre économie marchande et économie capitaliste.
-    Ce cadre conceptuel sera rappelé au cours des premières séances de l’année 2017-2018. La mise en avant, au cœur de notre réflexion, du concept de « puissance sociale de l’argent » nous a conduits cependant à nous écarter du marxisme traditionnel et à proposer une approche originale dont on rappellera les grandes lignes.
+    nous analysons le rapport monétaire comme étant l’institution à l’origine de la valeur économique, 
+    celle qui en fixe les traits primordiaux.
+    Pour ce faire, nous nous sommes fortement appuyés sur l’analyse marxiste de la valeur et de la monnaie, 
+    tout particulièrement sur sa distinction entre économie marchande et économie capitaliste.
+    Ce cadre conceptuel sera rappelé au cours des premières séances de l’année 2017-2018. La mise en avant, 
+    au cœur de notre réflexion, du concept de « puissance sociale de l’argent » nous a conduits cependant à 
+    nous écarter du marxisme traditionnel et à proposer une approche originale dont on rappellera les grandes lignes.
 
 
     Après ces séances introductives, le séminaire en viendra à l’analyse de diverses configurations historiques.
     Il s’agira, comme les années passées, de se centrer sur certains épisodes qui illustrent d’une manière exemplaire ce rôle que joue la monnaie dans la
     constitution des corps politiques et dans l’accès de certains groupes sociaux à l’hégémonie. 
     L’hyperinflation allemande des années vingt sera étudiée de même que l’évolution des monnaies grecques aux VIIe et VIe siècles. 
-    On s’intéressera également aux positions défendues par John Maynard Keynes quant à la monnaie internationale lors des débats ayant conduit à l’accord de Bretton-Woods en 1944.
+    On s’intéressera également aux positions défendues par John Maynard Keynes quant à la monnaie internationale lors des 
+    débats ayant conduit à l’accord de Bretton-Woods en 1944.
+    
+- course_name: Luttes de classes et séditions monétaires
+  course_id: luttes-orlean
+  semester:
+    - 1
+    - 2
+  prof_name: André Orléan
+  lang: 'en'
+  description: >
+    forthcoming
+ 
+- course_name: Séminaire de la chaire Ethique et Finance
+  course_id: ethique-finance
+  semester:
+    - 1
+    - 2
+  prof_name: Christian Walter
+  lang: 'fr'
+  description: >
+    La pratique de la modélisation en finance a profondément modifié le paysage de la profession financière dans le monde 
+    et a contribué à l’omniprésence de la finance dans la société. D’où viennent les modèles, quelle est leur histoire, 
+    quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses autres que financières se fondent 
+    leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes 
+    des questions auxquelles toute analyse de l’activité financière se trouve aujourd’hui confrontée, en raison de l’impact 
+    sociétal de l’utilisation des modèles mathématiques ou statistiques utilisés par les financiers professionnels.
+    Le séminaire d'enseignement a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a 
+    prise la modélisation du risque en finance et des controverses scientifiques qui ont accompagné cette évolution. 
+    On suivra en particulier l’évolution centenaire d’une représentation probabiliste à la fois déterminante et dominante 
+    du risque financier, celle induite par le modèle de marche au hasard (random walk model). Les enjeux éthiques des choix 
+    de modélisation du risque seront abordés en introduisant la notion d’« éthique épistémique.
+
+    Un séminaire de recherche accompagne cet enseignement et a lieu une fois par mois. Pour plus d'informations voir 
+    le site de la Chaire Ethique et Finance (lien ci-dessous).
+    
+- course_name: Séminaire de la chaire Ethique et Finance
+  course_id: ethique-finance
+  semester:
+    - 1
+    - 2
+  prof_name: Christian Walter
+  lang: 'en'
+  description: >
+  forthcoming
 
 - course_name: Histoire sociale des idées politiques
   course_id: histoire-idees-politiques
@@ -81,29 +137,43 @@
     - 2
   prof_name: Frédérique Matonti
   lang: 'fr'
-  description: |
-    L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone.
+  description: >
+    L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon 
+    le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone.
 
-    Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge, apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby).
+    Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge, 
+    apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby).
 
-    La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
+    La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de 
+    l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
 
-- course_name: Économie comportementale
-  course_id: economie-comportementale
-  semester: 1
-  prof_name: Frédérique Matonti
-  lang: 'fr'
-  description: |
-    This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
-
-    It draws lessons from psychology for understanding behaviour and the working of institutions.
-
-- course_name: Économie comportementale
-  course_id: economie-comportementale
-  semester: 1
+- course_name: Histoire sociale des idées politiques
+  course_id: histoire-idees-politiques
+  semester:
+    - 1
+    - 2
   prof_name: Frédérique Matonti
   lang: 'en'
-  description: |
+  description: >
+    forthcoming
+    
+- course_name: Économie comportementale
+  course_id: economie-comportementale
+  semester: 1
+  prof_name: Louis Lévy-Garboua
+  lang: 'fr'
+  description: >
+   Ce cours, en anglais, présente une synthése des données, des expériences et des théories psychologiques 
+   qui remettent en cause la théorie économique, et essaye de réconcillier ces anomalies avec le savoir économique. 
+
+   Il prend ainsi note des recherches menées en psychologie pour comprendre le comportement et le fonctionnement des institutions.
+
+- course_name: Économie comportementale
+  course_id: economie-comportementale
+  semester: 1
+  prof_name: Louis Lévy-Garboua
+  lang: 'en'
+  description: >
     This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
 
     It draws lessons from psychology for understanding behaviour and the working of institutions.
@@ -113,7 +183,131 @@
   semester: 2
   prof_name: Michel Armatte
   lang: 'fr'
-  description: |
-    L’objectif de ce cours est de présenter le point de vue STS (sciences techniques et société) propre aux sciences studies qui a renouvelé l’histoire des sciences, puis de suggérer que l’histoire et l’épistémologie des sciences économiques pourraient s’en inspirer utilement, en particulier pour traiter des opérations de quantification et de modélisation qui ont fait passer de l’économie politique aux sciences économiques.
+  description: >
+    L’objectif de ce cours est de présenter le point de vue STS (sciences techniques et société) propre aux sciences studies qui 
+    a renouvelé l’histoire des sciences, puis de suggérer que l’histoire et l’épistémologie des sciences économiques pourraient 
+    s’en inspirer utilement, en particulier pour traiter des opérations de quantification et de modélisation qui ont fait passer 
+    de l’économie politique aux sciences économiques.
 
-    En nous appuyant sur des textes classiques de cette approche, mais aussi des chapitres de La science écomique comme ingénierie (Armatte 2010) ou de L’argument statistique (Desrosières 2008, tome 1 et 2), nous traitons successivement de la naissance du probable au XVIIIe, de la statistique économique entre 1850 et 1930, de la comptabilité nationale, du calcul économique, de la planification, et de la modélisation économétrique pendant les Trente Glorieuses. Pour ce qui est de la période néolibérale nous abordons les développements de l’économie environnementale et climatique, de l’évaluation des politiques publiques, de l’économie expérimentale, des modèles de la finances et des algorithmes associés au Big Data.
+    En nous appuyant sur des textes classiques de cette approche, mais aussi des chapitres de La science écomique comme ingénierie
+    (Armatte 2010) ou de L’argument statistique (Desrosières 2008, tome 1 et 2), nous traitons successivement de la naissance du 
+    probable au XVIIIe, de la statistique économique entre 1850 et 1930, de la comptabilité nationale, du calcul économique, de 
+    la planification, et de la modélisation économétrique pendant les Trente Glorieuses. Pour ce qui est de la période néolibérale 
+    nous abordons les développements de l’économie environnementale et climatique, de l’évaluation des politiques publiques, de 
+    l’économie expérimentale, des modèles de la finances et des algorithmes associés au Big Data.
+    
+- course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
+  course_id: science-studies
+  semester: 2
+  prof_name: Michel Armatte
+  lang: 'en'
+  description: >
+    Forthcoming
+    
+- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
+  course_id: ethique-appliquée 1
+  semester: 1
+  prof_name: Emmannuel Picavet
+  lang: 'fr'
+  description: >
+     L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui 
+     marqués par l'articulation difficile, autant que nécessaire, entre le souci de la liberté de choix 
+     et les besoins réels ou supposés de l’organisation collective. L'autonomie individuelle est une source
+     de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d'organisation, 
+     elle ne parvient à éliminer les conflits de principes qui retiendront l'attention.
+
+     On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au 
+     libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation 
+     des situations de libre choix et d'expression de l'autonomie. Il sera nécessaire de revenir sur quelques sources 
+     doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux, 
+     développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
+     
+     Le parcours comportera des études de cas dans le champs des politiques et des formes d'organisation mettant en jeu les
+     exigences d'autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence, 
+     seront encouragés.
+     
+     Ce cours peut être complété par Ethique appliquée 2 au second semetre.
+    
+  - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
+  course_id: ethique-appliquée 1
+  semester: 2
+  prof_name: Emmannuel Picavet
+  lang: 'en'
+  description: >
+    Forthcoming
+    
+  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+  course_id: ethique-appliquée 2
+  semester: 2
+  prof_name: Emmannuel Picavet
+  lang: 'fr'
+  description: >
+    Le séminaire, au second semestre, aura pour objectif de progresser dans la compréhension des exigences de l'action 
+    « par principe » dans des contextes collectifs, comportant habituellement un volet institutionnalisé et donnant 
+    le plus souvent une place aux échanges discursifs. On s'attachera particulièrement aux enjeux d'interprétation et 
+    de mise en œuvre de principes reconnus en commun, conservant une forme générale et possédant des virtualités 
+    ouvertes en termes de concrétisation.
+
+    Cela conduira à s’intéresser aux conceptions contemporaines de la normativité qui 
+    visent à développer la dimension réflexive des opérations de mise en œuvre des normes ou des principes. 
+    On s’intéressera à l’impact possible de ces développements sur les conceptions de la régulation publique visant 
+    à concrétiser des principes, d'une manière directe ou indirecte. On tentera de poser quelques jalons pour une théorie 
+    de la concrétisation indirecte des principes, selon un modèle qui s'éloigne de la logique de l'action concertée en vue 
+    d'« appliquer » des principes supposés directement mobilisables.
+    
+    Les études de cas développées concerneront notamment la régulation socio-économique et la responsabilité environnementale et sociale. 
+    D'autres études de cas, relevant d'autres champs contemporains de la normativité, de l'éthique institutionnelle et du gouvernement, 
+    pourront faire l'objet d'exposéss.
+    
+    Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
+    
+  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+  course_id: ethique-appliquée 2
+  semester: 2
+  prof_name: Emmannuel Picavet
+  lang: 'en'
+  description: >
+    Forthcoming
+    
+  - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
+  course_id: rationalité-philo-eco
+  semester: 2
+  prof_name: Emmannuel Picavet, Joseph Abdou
+  lang: 'fr'
+  description: >
+    Issu d'une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles, 
+    institutions et processus politiques, qui mettent l'accent sur les normes et les problèmes de la rationalité 
+    (individuelle et collective). On s'intéressera aux problèmes d'action collective, de coordination et d'organisation qui sont 
+    au cœur de nombreuses recherches en sciences politiques et en philosophie politique, mais aussi dans les mathématiques sociales.
+    L'objectif est de contribuer à l'avancement des études sur la théorie des normes et des institutions de la vie publique, autour 
+    de notions telles que les pouvoirs, les droits et l'organisation internationale.
+
+    L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes 
+    (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) 
+    appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » 
+    trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception 
+    des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre 
+    les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d'examen sont conçus de manière à 
+    permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
+    
+  - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
+  course_id: rationalité-philo-eco
+  semester: 2
+  prof_name: Emmannuel Picavet, Joseph Abdou
+  lang: 'fr'
+  description: >
+    Le cours se concentre sur l’histoire de certaines branches de l’économie publique après 1945. 
+    On insistera sur les rapports qu’entretiennent économie publique, implication avec l’action publique 
+    et valeurs éthiques. En reprenant d’abord l’histoire de l’économie du bien-être dans ses dimensions épistémologiques, 
+    théoriques et appliquées, on montrera comment de nouvelles approches ont renouvelé en profondeur l’économie normative. 
+    Deux blocs de recherches seront alors plus particulièrement étudiés, les nouvelles théories économiques de la justice 
+    d’une part et l’économie du droit et des systèmes juridiques d’autre part. On insistera plus particulièrement sur la 
+    construction interdisciplinaire du discours du law and economics entre théorie du droit, théorie normative et économie positive. 
+    
+ - course_name: "Histoire de l'économie normative après 1945"
+  course_id: eco-normative-1945
+  semester: 2
+  prof_name: Antoinette Baujard, Samuel Ferey
+  lang: 'en'
+  description: >
+    Forthcoming
