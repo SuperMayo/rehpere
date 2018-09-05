@@ -1,92 +1,87 @@
 ############ Francois Allisson - en #############
 
 - full_name: François Allisson
-flatname: francois-allisson
-picture: "francois-allisson.jpg"
-lang: "en"
-status: "Senior lecturer"
-statuscode: "sl"
-institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
-themes:
-- Russian economic thought
-- Value and Planning
-- Lausanne School
-- Marxisms and socialisms
-authors:
-- Mikhail Ivanovich Tugan-Baranovsky
-- Nikolay Ivanovich Sieber
-- Maurice Dobb
-- Natalie Moszkowska
-- Charles Bettelheim
-external:
-- name: "Université de Lausanne"
-link: "https://www.unil.ch/unisciences/FrancoisAllisson"
-- name: "Personal website"
-link: "http://francois.allisson.co"
-contact: "francois.allisson@unil.ch"
-twitter: "@F_Allisson"
-free_text: >
-I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of 
-the Lausanne School.
+  flatname: francois-allisson
+  picture: "francois-allisson.jpg"
+  lang: "en"
+  status: "Senior lecturer"
+  statuscode: "sl"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  themes:
+    - Russian economic thought
+    - Value and Planning
+    - Lausanne School
+    - Marxisms and socialisms
+  authors:
+    - Mikhail Ivanovich Tugan-Baranovsky
+    - Nikolay Ivanovich Sieber
+    - Maurice Dobb
+    - Natalie Moszkowska
+    - Charles Bettelheim
+  external:
+    - name: "Université de Lausanne"
+      link: "https://www.unil.ch/unisciences/FrancoisAllisson"
+    - name: "Personal website"
+      link: "http://francois.allisson.co"
+  contact: "francois.allisson@unil.ch"
+  twitter: "F_Allisson"
+  free_text: >
+    I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of 
+    the Lausanne School.
 
-I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth
-century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian
-economic thought*, I have called *Russian synthesis* the attempt by Tugan-Baranovsky and others to conciliate these 
-various trends in the theory of value.
+    I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth
+    century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian
+    economic thought*, I have called *Russian synthesis* the attempt by Tugan-Baranovsky and others to conciliate these 
+    various trends in the theory of value.
 
-I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D'Onofrio, 
-Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on 
-the "planning doctor" Charles Bettelheim (in a collective project on French economists under Vichy), etc.
+    I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D'Onofrio, 
+    Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on 
+    the "planning doctor" Charles Bettelheim (in a collective project on French economists under Vichy), etc.
 
-I also teach history of economic thought, and among others, I taught an only-women HET lecture (Rosa Luxemburg,
-Natalie Moszkowska, Joan Robinson, Esther Duflo).
+    I also teach history of economic thought, and among others, I taught an only-women HET lecture (Rosa Luxemburg,
+    Natalie Moszkowska, Joan Robinson, Esther Duflo).
 
 ############ Francois Allisson - fr  #############
 
 - full_name: François Allisson
-flatname: francois-allisson
-picture: "francois-allisson.jpg"
-lang: "en"
-status: "Maître d'enseignement et de recherche"
-statuscode: "mer"
-institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
-themes:
-- pensée économique russe
-- valeur et planification
-- école de Lausanne
-- marxismes et socialismes
-authors:
-- Mikhail I. Tugan-Baranovsky
-- Nikolay Sieber
-- Maurice Dobb
-- Natalie Moszkowska
-- Charles Bettelheim
-external:
-- name: "Site web personnel"
-link: "http://francois.allisson.co"
-- name: "Université de Lausanne"
-link: "https://www.unil.ch/unisciences/FrancoisAllisson"
-contact: "francois.allisson@unil.ch"
-twitter: "@F_Allisson"
-free_text: >
-Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire des théories de la valeur 
-et de la planification, l'histoire des marxismes, et l'histoire de l'école de Lausanne.
+  flatname: francois-allisson
+  picture: "francois-allisson.jpg"
+  lang: "fr"
+  status: "Maître d'enseignement et de recherche"
+  statuscode: "sl"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  themes:
+    - pensée économique russe
+    - valeur et planification
+    - école de Lausanne
+    - marxismes et socialismes
+  authors:
+    - Mikhail I. Tugan-Baranovsky
+    - Nikolay Sieber
+    - Maurice Dobb
+    - Natalie Moszkowska
+    - Charles Bettelheim
+  external:
+    - name: "Site web personnel"
+      link: "http://francois.allisson.co"
+    - name: "Université de Lausanne"
+      link: "https://www.unil.ch/unisciences/FrancoisAllisson"
+  contact: "francois.allisson@unil.ch"
+  twitter: "F_Allisson"
+  free_text: >
+    Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire des théories de la valeur 
+    et de la planification, l'histoire des marxismes, et l'histoire de l'école de Lausanne.
 
-Je me suis notamment intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle, 
-dans un contexte où les pensées classique et marxiste étaient dominantes. Dans ma monographie *Value and prices in
-Russian economic thought*, j'ai nommé *synthèse russe* la tentative réalisée par Tugan-Baranovsky et d'autres de concilier
-ces différents courants dans la théorie de la valeur.
+    Je me suis notamment intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle, 
+    dans un contexte où les pensées classique et marxiste étaient dominantes. Dans ma monographie *Value and prices in
+    Russian economic thought*, j'ai nommé *synthèse russe* la tentative réalisée par Tugan-Baranovsky et d'autres de concilier
+    ces différents courants dans la théorie de la valeur.
 
-Je travaille actuellement sur plusieurs projets: sur le premier marxiste russe Nikolay Sieber (avec Federico D'Onofrio,
-Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le 
-"planning doctor" Charles Bettelheim (dans le cadre d'un projet collectif sur Vichy), etc.
+    Je travaille actuellement sur plusieurs projets: sur le premier marxiste russe Nikolay Sieber (avec Federico D'Onofrio,
+    Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le 
+    "planning doctor" Charles Bettelheim (dans le cadre d'un projet collectif sur Vichy), etc.
 
-J'enseigne également l'histoire de la pensée économique. J'ai par exemple donné un cours sur la pensée économique écrite exclusivement par des femmes (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo).
-
-
-
-
-
+    J'enseigne également l'histoire de la pensée économique. J'ai par exemple donné un cours sur la pensée économique écrite exclusivement par des femmes (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo).
 
 ############ Jerome Lallement #############
 
