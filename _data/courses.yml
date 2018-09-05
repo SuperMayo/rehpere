@@ -59,36 +59,29 @@
   description: >
     XXX
     
-- course_name: Luttes de classes et séditions monétaires
-  course_id: luttes-orlean
+- course_name: Monnaie, valeur et prix : l'apport de la pensée marxiste
+  course_id: Marx-orlean
   semester:
     - 1
     - 2
   prof_name: André Orléan
   lang: 'fr'
   description: >
-    Depuis plusieurs années, ce séminaire s’essaie à proposer un cadre théorique permettant
-    de rendre intelligibles les transformations historiques qu’ont connues
-    – et que connaissent – les institutions monétaires du capitalisme.
-    Notre fil directeur n’a pas varié : à contrecourant de l’hypothèse de neutralité de la monnaie,
-    nous analysons le rapport monétaire comme étant l’institution à l’origine de la valeur économique, 
-    celle qui en fixe les traits primordiaux.
-    Pour ce faire, nous nous sommes fortement appuyés sur l’analyse marxiste de la valeur et de la monnaie, 
-    tout particulièrement sur sa distinction entre économie marchande et économie capitaliste.
-    Ce cadre conceptuel sera rappelé au cours des premières séances de l’année 2017-2018. La mise en avant, 
-    au cœur de notre réflexion, du concept de « puissance sociale de l’argent » nous a conduits cependant à 
-    nous écarter du marxisme traditionnel et à proposer une approche originale dont on rappellera les grandes lignes.
+    Ce séminaire présenté en français débute le mardi 4 décembre 2018 et finit le mardi 2 juillet 2019. Il se déroule tous les 1er, 3ème et 5ème mardis du mois de 17 h à 20 h. En salle 2, à l’EHESS, au 105 bd Raspail 75006 Paris
+  
+    Notre séminaire porte sur ces deux concepts fondamentaux de l'économie que sont la valeur et la monnaie. L'approche marxiste sera tout particulièrement étudiée et mobilisée mais toujours en dialogue critique avec la pensée
+    néo-classique et la théorie marginaliste de la valeur. La question si débattue de la “transformation des valeurs en prix de production” sera également examinée tout comme l'approche sraffaienne. Sur tous ces problèmes, notre
+    présentation fera une large place aux désaccords théoriques qui traversent jusqu'à aujourd'hui les approches hétérodoxes. D'une part, parce que nous ne cherchons nullement à imposer une conception aux dépens des autres ;
+    d'autre part, parce que ces débats sont fort utiles en tant qu'ils font prendre la mesure des difficultés que rencontre l'économie politique lorsqu'elle cherche à articuler valeur et monnaie.
 
-
-    Après ces séances introductives, le séminaire en viendra à l’analyse de diverses configurations historiques.
-    Il s’agira, comme les années passées, de se centrer sur certains épisodes qui illustrent d’une manière exemplaire ce rôle que joue la monnaie dans la
-    constitution des corps politiques et dans l’accès de certains groupes sociaux à l’hégémonie. 
-    L’hyperinflation allemande des années vingt sera étudiée de même que l’évolution des monnaies grecques aux VIIe et VIe siècles. 
-    On s’intéressera également aux positions défendues par John Maynard Keynes quant à la monnaie internationale lors des 
-    débats ayant conduit à l’accord de Bretton-Woods en 1944.
+    Comme les années passées, cette partie conceptuelle sera mise à l'épreuve de divers épisodes historiques. En premier lieu, la situation monétaire en Grèce aux VIIe et VIe siècles avant notre ère. Cette période est très
+    intéressante et, tout particulièrement, parce qu'on y trouve un événement de très grande portée : l'invention de la monnaie frappée d'argent et d'or. De très grands analystes ont étudié cette innovation : Aristote, Finley,
+    Polanyi, Will, Vernant, Foucault. Nous examinerons comment ils abordent la question de la valeur et de la monnaie. Si nous avons suffisamment de temps, un second épisode sera ensuite abordé qui n'est pas moins intéressant 
+    au regard des questions qui sont au cœur du séminaire : l'expérience de John Law. À nouveau pour ce qui est de cet épisode, mais dans un contexte tout différent, c'est la question de la nature de la monnaie et de la 
+    valeur économique qui se trouve directement posée.
     
-- course_name: Luttes de classes et séditions monétaires
-  course_id: luttes-orlean
+- course_name: Monnaie, valeur et prix : l'apport de la pensée marxiste
+  course_id: Marx-orlean
   semester:
     - 1
     - 2
