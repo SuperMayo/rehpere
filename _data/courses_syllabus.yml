@@ -84,7 +84,7 @@ ethique-finance:
             Comment les choix d’enregistrement des variations boursières contribuent à produire une représentation particulière du risque des marchés. La notion de convention de quantification du risque. Le problème de la « base empirique » des tests statistiques en finance. La construction mathématique de la représentation brownienne du risque.
         1. <h3>Les origines de la représentation brownienne du risque financier</h3>
             Comment la tripartition de Walras (la morale, la science et l’art) se retrouve dans la triple origine du modèle de marche au hasard gaussienne en finance avec Regnault (la morale), Bachelier (la science) et Cowles (la pratique).
-        1. <h3>Econometrie et finance: les controverses entre statisticiens et financiers/h3>
+        1. <h3>Econometrie et finance: les controverses entre statisticiens et financiers</h3>
             Comment les statisticiens ont imposé entre 1933 et 1970 le modèle de marche au hasard des variations boursières aux analystes financiers et aux gérants d’actifs professionnels. Rôle de la commission Cowles dans ce coup de force.
         1. <h3>L'efficacité informationnelle d'un marché, analyse philosophique</h3>
             Comment l’hypothèse d’efficacité informationnelle est passée d’un statut de programme de recherche (énoncé à mettre à l’épreuve) à un statut de programme réglementaire (normes financières contraignantes, MIF2, IAS39, Bâle III, Solvabilité II, UCITS V). L’histoire de ce changement et de ses conséquences sociétales.
@@ -210,7 +210,7 @@ rationalité-philo-eco:
         1. <h3>Effectivity functions, notions of power and interactive forms.</h3>
             J. Abdou
             
-    en: 
+    en: |
 
         1. <h3>Instrumental rationality and strategy in individual choice</h3>
             E.Picavet
@@ -231,7 +231,7 @@ eco-normative-1945:
         1. <h3>Histoire des nouvelles théories économiques de la justice</h3>
         1. <h3>Histoire du courant de l’analyse économique du droit</h3>
            
-    en: 
+    en: |
     
     
 eco-socio:
@@ -242,4 +242,4 @@ eco-socio:
             La sociologie économique. Les sociologues, surtout à partir des années 1980, vont à leur tour s'intéresser aux phénomènes économiques, pour montrer comment ces derniers sont "encastrés" dans des relations sociales. On s'intéressera ici plus particulièrement à la démarche de trois d'entre eux (Granovetter, Zelizer et Bourdieu).
         1. <h3>HDepuis les années 2000</h3>
            Quels nouveaux rapports entre l'économie et la sociologie ? L'émergence de l'économie comportementale et le tournant "empiriciste" de l'économie redéfinit à la fois les frontières et les relations entre les deux disciplines.
-    en: 
+    en: |
