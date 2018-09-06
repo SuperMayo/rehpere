@@ -67,7 +67,7 @@
   prof_name: André Orléan
   lang: 'fr'
   description: >
-    Ce séminaire présenté en français débute le mardi 4 décembre 2018 et finit le mardi 2 juillet 2019. Il se déroule tous les 1er, 3ème et 5ème mardis du mois de 17 h à 20 h. En salle 2, à l’EHESS, au 105 bd Raspail 75006 Paris
+    Ce séminaire présentait en français débute le mardi 4 décembre 2018 et finit le mardi 2 juillet 2019. Il se déroule tous les 1er, 3ème et 5ème mardis du mois de 17 h à 20 h. En salle 2, à l’EHESS, au 105 bd Raspail 75006 Paris
   
   
     Notre séminaire porte sur ces deux concepts fondamentaux de l'économie que sont la valeur et la monnaie. L'approche marxiste sera tout particulièrement étudiée et mobilisée mais toujours en dialogue critique avec la pensée
@@ -100,6 +100,9 @@
   prof_name: Christian Walter
   lang: 'fr'
   description: >
+    Ce séminaire est dispensé à la Fondation Maison des Sciences de l'Homme au 54 Boulevard Raspail, 75006 Paris. 
+    
+    
     La pratique de la modélisation en finance a profondément modifié le paysage de la profession financière dans le monde 
     et a contribué à l’omniprésence de la finance dans la société. D’où viennent les modèles, quelle est leur histoire, 
     quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses autres que financières se fondent 
@@ -115,7 +118,7 @@
 
 
     Un séminaire de recherche accompagne cet enseignement et a lieu une fois par mois. Pour plus d'informations voir 
-    le site de la Chaire Ethique et Finance (lien ci-dessous).
+    le site de la Chaire Ethique et Finance.
     
 - course_name: Séminaire de la chaire Ethique et Finance
   course_id: ethique-finance
@@ -214,6 +217,9 @@
   prof_name: Emmannuel Picavet
   lang: 'fr'
   description: >
+    
+    Ce séminaire est dispensé à La Sorbonne, 75005 Paris
+    
     L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui 
     marqués par l'articulation difficile, autant que nécessaire, entre le souci de la liberté de choix 
     et les besoins réels ou supposés de l’organisation collective. L'autonomie individuelle est une source
@@ -252,6 +258,10 @@
   prof_name: Emmannuel Picavet
   lang: 'fr'
   description: >
+  
+    Ce séminaire est dispensé à La Sorbonne, 75005 Paris
+    
+    
     Le séminaire, au second semestre, aura pour objectif de progresser dans la compréhension des exigences de l'action 
     « par principe » dans des contextes collectifs, comportant habituellement un volet institutionnalisé et donnant 
     le plus souvent une place aux échanges discursifs. On s'attachera particulièrement aux enjeux d'interprétation et 
@@ -289,6 +299,7 @@
   prof_name: Emmannuel Picavet, Joseph Abdou
   lang: 'fr'
   description: >
+  
     Issu d'une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles, 
     institutions et processus politiques, qui mettent l'accent sur les normes et les problèmes de la rationalité 
     (individuelle et collective). On s'intéressera aux problèmes d'action collective, de coordination et d'organisation qui sont 
