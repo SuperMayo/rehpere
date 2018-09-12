@@ -1,44 +1,38 @@
 - course_name: Epistémologie I
   course_id: epistemo-1
   semester: 1
-  prof_id: annie-cot
+  prof_id: annie-cot, jerome-lallement
   lang: "fr"
   description: >
-    Introduction à l’épistémologie des sciences économiques, cet enseignement est complémentaire avec le cours "Epistémologie II" de Jérôme Lallement.
+    Le séminaire double ‘’Epistémologie des sciences économiques I et II’’ est assuré par Annie-L. COT, professeur (Université Paris 1, CES) et par Jérôme LALLEMENT, professeur émérite (Université de Paris, CES.)
+
+    
+    Ce séminaire est une introduction aux débats de méthodes et d’épistémologie qui ont traversé les théories économiques au cours des derniers siècles. L’objectif est de présenter les conditions de vérité successives des théories économiques, c’est-à-dire les exigences épistémologiques que l’on peut formuler vis-à-vis d’une théorie économique pour que l’on puisse considérer cette théorie comme vraie. On montre la variété des exigences qui dépendent largement des problématiques de vérité adoptées par les auteurs : rationalisme ou positivisme, induction ou déduction, monisme ou dualisme épistémologique… Cette diversité montre les difficultés qui ont pu être rencontrées pour pouvoir affirmer qu’une théorie économique est vraie. On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales tels que la question de l’explication et de la causalité dans le modèle déductif-nomologique ou le choix entre l’individualisme et le holisme. Enfin, on aborde les conséquences du post-modernisme sur les développements récents des sciences économiques.
+
+    - Dates et horaires du cours. 1er semestre lundi de 11h à 13h et le mardi, 10h à 12h.
+
+    - Lieu. Maison des Sciences économiques.
+
+    - Ces deux séminaires sont complémentaires. Les séances du lundi et du mardi sont assurées indifféremment par A.L. Cot ou J. Lallement.
+
+    - Modalités de validation. Un examen écrit unique, commun pour le double séminaire, à la fin du 1er semestre. 
 
 
-    Le cours est une introduction à l’épistémologie des sciences économiques.
-    L’objectif est de présenter les conditions de vérité des sciences économiques, c’est-à-dire les exigences épistémologiques que l’on peut formuler vis-à-vis d’une théorie économique pour que l’on puisse considérer cette théorie comme vraie.
-    On montre la variété des exigences, qui dépendent largement des problématiques de vérité adoptées par les auteurs : rationalisme ou positivisme, induction ou déduction, monisme ou dualisme épistémologique…
-    Cette diversité montre les difficultés que l’on rencontre pour pouvoir affirmer qu’une théorie économique est vraie.
-    On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales comme la question de la causalité dans le modèle déductif-nomologique ou l’individualisme méthodologique face au holisme.
-
-
-    Les séances du lundi et du mardi sont assurées indifféremment par Annie L. Cot ou Jérôme Lallement.
+      Contact. annie.cot@univ-paris1.fr , jerome.lallement@univ-paris1.fr
 
 - course_name: Epistémologie I
   course_id: epistemo-1
   semester: 1
-  prof_id: annie-cot
+  prof_id: annie-cot, jerome-lallement
   lang: "en"
   description: >
-    Introduction to the epistemology of economics, this teaching is complementary to the course "Epistemology II" by Jérôme Lallement.
-
-
-    The course is an introduction to the epistemology of economics.
-    The objective is to present the conditions of truth in economics, i.e. the epistemological requirements that can be formulated with regard to an economic theory so that this theory can be considered as true.
-    We show the variety of requirements, which depend largely on the problems of truth adopted by the authors: rationalism or positivism, induction or deduction, monism or epistemological dualism...
-    This diversity shows the difficulties we encounter in being able to affirm that an economic theory is true.
-    This table is completed by addressing problems specific to the social sciences such as the question of causality in the deductive-nomological model or methodological individualism in the face of holism.
-
-
-    Monday and Tuesday sessions are provided by Annie L. Cot or Jérôme Lallement.
+    Forthcoming
 
 
 - course_name: Epistémologie II
   course_id: epistemo-2
   semester: 1
-  prof_id: jerome-lallement
+  prof_id: annie-cot, jerome-lallement
   lang: 'fr'
   description: >
     Ce cours est complémentaire de celui d’Annie-L. Cot (lundi 11h-13h).
@@ -54,7 +48,7 @@
 - course_name: Epistémologie II
   course_id: epistemo-2
   semester: 1
-  prof_id: jerome-lallement
+  prof_id: annie-cot, jerome-lallement
   lang: 'en'
   description: >
     XXX
