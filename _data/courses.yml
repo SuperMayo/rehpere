@@ -1,5 +1,5 @@
-- course_name: Epistémologie I
-  course_id: epistemo-1
+- course_name: Epistémologie I et II
+  course_id: epistemo-1-2
   semester: 1
   prof_id: annie-cot, jerome-lallement
   lang: "fr"
@@ -20,38 +20,13 @@
 
       Contact. annie.cot@univ-paris1.fr , jerome.lallement@univ-paris1.fr
 
-- course_name: Epistémologie I
-  course_id: epistemo-1
+- course_name: Epistemology I and II
+  course_id: epistemo-1-2
   semester: 1
   prof_id: annie-cot, jerome-lallement
   lang: "en"
   description: >
     Forthcoming
-
-
-- course_name: Epistémologie II
-  course_id: epistemo-2
-  semester: 1
-  prof_id: annie-cot, jerome-lallement
-  lang: 'fr'
-  description: >
-    Ce cours est complémentaire de celui d’Annie-L. Cot (lundi 11h-13h).
-    Les séances du lundi et du mardi sont assurées indifféremment par A.L. Cot ou J. Lallement.
-
-
-    Le cours est une introduction à l’épistémologie des sciences économiques.
-    L’objectif est de présenter les conditions de vérité des sciences économiques, c’est-à-dire les exigences épistémologiques que l’on peut formuler vis-à-vis d’une théorie économique pour que l’on puisse considérer cette théorie comme vraie. 
-    On montre la variété des exigences, qui dépendent largement des problématiques de vérité adoptées par les auteurs : rationalisme ou positivisme, induction ou déduction, monisme ou dualisme épistémologique… 
-    Cette diversité montre les difficultés que l’on rencontre pour pouvoir affirmer qu’une théorie économique est vraie. 
-    On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales comme la question de la causalité dans le modèle déductif-nomologique ou l’individualisme méthodologique face au holisme.
-
-- course_name: Epistémologie II
-  course_id: epistemo-2
-  semester: 1
-  prof_id: annie-cot, jerome-lallement
-  lang: 'en'
-  description: >
-    XXX
     
 - course_name: "Monnaie, valeur et prix : l'apport de la pensée marxiste"
   course_id: marx-orlean
