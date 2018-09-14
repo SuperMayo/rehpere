@@ -34,13 +34,13 @@ layout: one-column
 <p>{{ page.description | markdownify}}</p>
 
 {% if site.data.courses_syllabus[page.course_id] %}
-	<div class="small-delimiter"></div>
+	<hr/>
 	<h3>Syllabus</h3>
 	{{ site.data.courses_syllabus[page.course_id][page.lang] | markdownify}}
 {% endif %}
 
 {% if site.data.courses_bib[page.course_id] %}
-	<div class="small-delimiter"></div>
+	<hr/>
 	<h3>References</h3>
 	{{ site.data.courses_bib[page.course_id].bib | markdownify }}
 {% endif %}
