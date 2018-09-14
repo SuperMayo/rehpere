@@ -1,3 +1,87 @@
+############ Nathanael Colin- fr #############
+
+- full_name: Nathanaël Colin-Jaeger
+  flatname: nathanael-colin
+  picture: "nathanael-colin.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "doct"
+  institution: "ENS de Lyon, Laboratoire Triangle UMR 5206"
+  themes:
+    - Epistémologie des sciences sociales
+    - Histoire du libéralisme et du néolibéralisme
+    - Ontologie sociale
+    - Anthropoologie philosophique
+  authors:
+    - Friedrich Hayek
+    - Walter Lippmann
+    - John Dewey
+    - Ludwig Von Mises
+    - Pierre Bourdieu
+    - Michel Foucault
+    - Milton Friedman
+  external:
+    - name: "Triangle"
+      link: "http://triangle.ens-lyon.fr/spip.php?article7059"
+  contact: "nathanael.colin@ens-lyon.fr"
+  free_text: >
+    Je travaille en ce moment sur ma thèse, portant sur les origines du tournant néolibéral au 
+    XXe siècle. Dans ce cadre je travaille sur différents aspects : l'historiographie du néolibéralisme 
+    et ses enjeux théoriques et politiques; la naissance de la critique de l'anthropologie libérale 
+    à travers le débat Lippmann-Dewey; le débat sur le calcul socialiste mené par Mises; la mutation 
+    introduite par Hayek dans les années 40/50 avec l'intégration de la notion d'information et son 
+    influence sur les travaux en sciences économiques. Je prévois d'aborder d'autres questions et corpus
+    plus récents dans mon travail.
+
+    J'ai également travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l'ontologie 
+    sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril
+    Hédoin, qui discute des problèmes philosophiques relatifs à l'individualisme et au holisme, ou encore 
+    à l'intentionnalité collective. 
+
+
+
+
+############ Nathanael Colin -en #############
+
+
+- full_name: Nathanaël Colin-Jaeger
+  flatname: nathanael-colin
+  picture: "nathanael-colin.jpg"
+  lang: "en"
+  status: "PhD candidate"
+  statuscode: "doct"
+  institution: "ENS de Lyon, Laboratoire Triangle UMR 5206"
+  themes:
+    - Epistemology of social sciences
+    - History of liberalism and neoliberalism
+    - Social ontology
+    - Philosophical anthropology
+  authors:
+    - Friedrich Hayek
+    - Walter Lippmann
+    - John Dewey
+    - Ludwig Von Mises
+    - Pierre Bourdieu
+    - Michel Foucault
+    - Milton Friedman
+  external:
+    - name: "Triangle"
+      link: "http://triangle.ens-lyon.fr/spip.php?article7059"
+  contact: "nathanael.colin@ens-lyon.fr"
+  free_text: >
+    I am currently working on my thesis, seeking to study the origins of the neoliberal shift during the
+    XXth century. In this perspective, I work on different sub-subjects: the historiography of neoliberalism;
+    the birth of the critics of *laisser-faire* and classical liberalism with the Lippmann-Dewey debate;
+    the debate on socialist planning led by Mises; the shift introduced by Hayek with his theory of information,
+    that irrigates much of the economic sciences of the second part of the century; and other periods of 
+    neoliberalism. I intend to work on the literature post-1980s. 
+
+    I also work on game theory, especially in the frame of social ontology problems, following the works
+    of Guala and Hindriks or Cyril Hédoin for example, which discuss the philosophical problems of individualism
+    and holism or collective intentionnality. 
+ 
+ 
+
 ############ Francois Allisson - en #############
 
 - full_name: François Allisson
