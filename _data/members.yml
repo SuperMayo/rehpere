@@ -1,3 +1,79 @@
+############ Aurélien Goustmedt - fr #############
+
+
+- full_name: Aurélien Goustmedt
+  flatname: aurelien-goutsmedt
+  picture: "aurelien-goutsmedt.jpg"
+  lang: "en"
+  status: "Post Doctoral"
+  statuscode: "pd"
+  institution: "Center for the History of Political Economy, Duke University"
+  themes:
+    - macroeconomics
+    - inflation
+    - stagflation
+    - 1970s
+  authors:
+    - Robert E. Lucas
+    - Thomas Sargent
+    - Robert J. Gordon 
+  external:
+    - name: "Thèses.fr"
+      link: "https://tel.archives-ouvertes.fr/tel-01806267"
+    - name: "Orcid"
+      link: "http://orcid.org/0000-0002-3788-7237"
+  contact: "aurelien.goutsmedt@univ-paris1.fr"
+  twitter: "AGoutsmedt"
+  free_text: >
+    I work on the transformations of macroeconomics and macroeconomic policy since the 1970s. I focus 
+    on the role played by the stagflation (the increase of inflation and unemployment together) in the
+    discussions between macroeconomists in the United-States. How did they explain the stagflation? How
+    did it influence the way economists understand, interpret and use some concepts like the natural 
+    rate of unemployment or the Lucas Critique? How did this context influence the way macroeconomists
+    think about economic policy? By focusing on conferences, particular debates, empirical works, institutional 
+    materials (like discussions in central banks), my research aims at building a more detailed and complex 
+    history of the evolution of macroeconomics, and of its impact on economic policy.
+
+
+############ Aurélien Goustmedt - en  #############
+
+- full_name: Aurélien Goustmedt
+  flatname: aurelien-goutsmedt
+  picture: "aurelien-goutsmedt.jpg"
+  lang: "fr"
+  status: "Post Doctorant"
+  statuscode: "pd"
+  institution: "Center for the History of Political Economy, Duke University"
+  themes:
+    - macroéconomique
+    - inflation
+    - stagflation
+    - années 1970
+  authors:
+    - Robert E. Lucas
+    - Thomas Sargent
+    - Robert J. Gordon 
+  external:
+    - name: "Thèses.fr"
+      link: "https://tel.archives-ouvertes.fr/tel-01806267"
+    - name: "Orcid"
+      link: "http://orcid.org/0000-0002-3788-7237"
+  contact: "aurelien.goutsmedt@univ-paris1.fr"
+  twitter: "AGoutsmedt"
+  free_text: >
+    Je travaille sur les transformations de la macroéconoomie et des politiques macroéconomiques depuis les années 1970.
+    Je me focalise sur le rôle joué par la stagflation (l'accroissement conjoint de l'inflation et du chômage) dans les 
+    discussions entre macroéconomistes aux Etats-Unis. 
+
+    Comment ont-ils expliqué la stagflation ? Comment cela a-t-il influencé la manière dont les économistes comprennent, 
+    interprètent et utilisent certains concepts comme le taux de chômage naturel ou la critique de Lucas ? Comment ce 
+    contexte a-t-il influencé la manière dont les macroéconomistes pensent les politiques économiques ? En mettant l’accent
+    sur les conférences, les débats particuliers, les travaux empiriques, les matériaux (comme les discussions dans les 
+    banques centrales), mes recherches visent à construire une histoire plus détaillée et complexe de l'évolution de la 
+    macroéconomie et de son impact sur la politique économique.
+
+
+
 
 ############ Francesco Sergi - en  #############
 
