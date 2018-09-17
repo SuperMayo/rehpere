@@ -17,11 +17,11 @@
     - Dadabhai Naoroji
   external:
     - name: "The American University of Paris"
-    link: "https://www.aup.edu/profile/mbach"
+      link: "https://www.aup.edu/profile/mbach"
     - name: "Ceteris Never Paribus: the History of Economic Thought Podcast"
-    link: "https://ceterisneverparibus.net/"
+      link: "https://ceterisneverparibus.net/"
     - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/mvsbach/"
+      link: "https://www.linkedin.com/in/mvsbach/"
   contact: "mbach@aup.edu"
   twitter: "mvsbach"
   free_text: >
@@ -50,11 +50,11 @@
     - Dadabhai Naoroji
   external:
     - name: "The American University of Paris"
-    link: "https://www.aup.edu/profile/mbach"
+      link: "https://www.aup.edu/profile/mbach"
     - name: "Ceteris Never Paribus: the History of Economic Thought Podcast"
-    link: "https://ceterisneverparibus.net/"
+      link: "https://ceterisneverparibus.net/"
     - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/mvsbach/"
+      link: "https://www.linkedin.com/in/mvsbach/"
   contact: "mbach@aup.edu"
   twitter: "mvsbach"
   free_text: >
