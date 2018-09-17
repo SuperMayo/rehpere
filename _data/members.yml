@@ -1,4 +1,70 @@
-############ Nathanael Colin- fr #############
+############ Maria Bach - en  #############
+
+- full_name: Maria Bach
+  flatname: maria-bach
+  picture: "maria-bach.jpg"
+  lang: "en"
+  status: "Economics lecturer"
+  statuscode: "sl"
+  institution: "Economics Department, The American University of Paris"
+  themes:
+    - International Diffusion of Economic Ideas
+    - Indian Economics
+    - Marginalised Economists and Economic Ideas
+  authors:
+    - Romesh Chunder Dutt
+    - Mahadev Govind Ranade
+    - Dadabhai Naoroji
+  external:
+    - name: "The American University of Paris"
+    link: "https://www.aup.edu/profile/mbach"
+    - name: "Ceteris Never Paribus: the History of Economic Thought Podcast"
+    link: "https://ceterisneverparibus.net/"
+    - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/mvsbach/"
+  contact: "mbach@aup.edu"
+  twitter: "mvsbach"
+  free_text: >
+    I am an historian of economics interested especially in nineteenth century Indian Economics. 
+    I am currently finishing my PhD in International Political Economy at King's College London. 
+    My thesis analyses how Indian economists constructed an idea of development at the turn of the nineteenth century.
+
+    I am also working on a project with Mary Morgan at LSE on how the UN measures development. 
+
+############ Maria Bach - fr  #############
+
+- full_name: Maria Bach
+  flatname: maria-bach
+  picture: "maria-bach.jpg"
+  lang: "fr"
+  status: "Chargé de cours en économie"
+  statuscode: "sl"
+  institution: "Economics Department, The American University of Paris"
+  themes:
+    - Diffusion internationale de la pensée économique
+    - Economie indienne
+    - Economistes marginalisés et pensée économique
+  authors:
+    - Romesh Chunder Dutt
+    - Mahadev Govind Ranade
+    - Dadabhai Naoroji
+  external:
+    - name: "The American University of Paris"
+    link: "https://www.aup.edu/profile/mbach"
+    - name: "Ceteris Never Paribus: the History of Economic Thought Podcast"
+    link: "https://ceterisneverparibus.net/"
+    - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/mvsbach/"
+  contact: "mbach@aup.edu"
+  twitter: "mvsbach"
+  free_text: >
+    Je suis une historienne de la pensée économique intéressée en particlier par l'économie indienne du XIXe siècle.
+    Je termine actuellement ma thèse en Economie Politique Internationale au King's College de Londres.
+    Ma thèse analyse comment des économistes indiens ont construit l'idée de développement au tournant du XIXe siècle.
+
+    Je travaille par ailleurs sur un projet avec Mary Morgan à la LSE étudiant les manières dont les Nations Unies mesure le développement.
+
+########## Nathanael Colin- fr #############
 
 - full_name: Nathanaël Colin-Jaeger
   flatname: nathanael-colin
