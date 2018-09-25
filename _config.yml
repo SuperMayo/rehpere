@@ -81,6 +81,7 @@ menu:
           url: "/master/#memoire"
         - name: "Débouchées"
           url: "/master/#debouches"
+      secondary-sublinks:
         - name: "Cours"
           url: "/cours"
     team:

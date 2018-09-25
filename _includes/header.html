@@ -21,6 +21,12 @@
             {% for sublink in item[1].sublinks %}
                 <a href="{{ sublink.url }}" class="dropdown-item text-light smooth-scroll">{{ sublink.name }}</a>
             {% endfor %}
+            {% if item[1].secondary-sublinks %}
+              <div class="dropdown-divider border-secondary"></div>
+              {% for sublink in item[1].secondary-sublinks %}
+                <a href="{{ sublink.url }}" class="dropdown-item text-light smooth-scroll">{{ sublink.name }}</a>
+              {% endfor %}
+            {% endif %}
           </div>
         </li>
         {% else %}
