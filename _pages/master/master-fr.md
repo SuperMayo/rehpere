@@ -57,6 +57,10 @@ Le travail de recherche, tout comme la rédaction d'un mémoire, n'est ni une co
 - Les profils
     + Le M2 ESH a vocation à accueillir des profils variés. Si une majorité d'étudiant-e-s a, auparavant, suivi une formation d'économie, les étudiant-e-s d'autres Sciences Humaines sont toujours très bien représenté-e-s (en particulier les politistes, philosophes et sociologues). Enfin, le M2 est marqué par son fort caractère international.
 
+# Cours
+
+La liste des cours est disponible [ici](/cours)
+
 
 
 
