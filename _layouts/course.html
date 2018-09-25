@@ -31,7 +31,9 @@ layout: one-column
 	<h2>{{ page.prof_name}}</h2>
 {% endif %}
 
-<p>{{ page.description | markdownify}}</p>
+<div class="text-justify">
+	{{ page.description | markdownify}}
+</div>
 
 {% if site.data.courses_syllabus[page.course_id] %}
 	<hr/>
