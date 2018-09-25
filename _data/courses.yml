@@ -1,7 +1,10 @@
 - course_name: Epistémologie I et II
   course_id: epistemo-1-2
   semester: 1
-  prof_id: annie-cot, jerome-lallement
+  prof_id:
+    - annie-cot
+    - jerome-lallement
+  prof_name: Annie L. Cot, Jérôme Lallement
   lang: "fr"
   description: >
     Le séminaire double ‘’Epistémologie des sciences économiques I et II’’ est assuré par Annie-L. COT, professeur (Université Paris 1, CES) et par Jérôme LALLEMENT, professeur émérite (Université de Paris, CES.)
@@ -24,6 +27,7 @@
   course_id: epistemo-1-2
   semester: 1
   prof_id: annie-cot, jerome-lallement
+  prof_name: Annie L. Cot, Jérôme Lallement
   lang: "en"
   description: >
     Forthcoming
