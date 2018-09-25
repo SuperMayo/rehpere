@@ -36,9 +36,16 @@ layout: one-column
 {% endif %}
 
 <!-- Publications -->
-<div class="small-delimiter"></div>
-<h2>Publications</h2>
-{% bibliography --query @*[authorid={{page.flatname}}] %}
+
+{% capture biblio %}
+	{% bibliography --query @*[authorid={{page.flatname}}] %}
+{% endcapture %}
+
+{% if biblio.size > 5 %} <!-- Test if there is a biblio -->
+	<div class="small-delimiter"></div>
+	<h2>Publications</h2>
+	{{ biblio }}
+{% endif %}
 
 <!-- External links -->
 {% if page.external %}
