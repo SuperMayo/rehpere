@@ -3,33 +3,18 @@ layout: default
 ---
 
 {% assign folder = page.pointer %}
-{% assign people = site.data.members | where:"lang", page.lang %}
+{% assign people = site.data.members | where:"lang", page.lang | sort:"surname" %}
 
-<div class="row">
-<div class="btn-group btn-group-responsive mx-auto p-5" role="group">
-	{% for code in site.team.codes %}
-		<button type="button" class="btn btn-outline-primary btn-group-responsive smooth-scroll" hash="#{{site.team[page.lang].subtitles[code]}}">{{site.team[page.lang].subtitles[code]}}</button>
-	{% endfor %}
+<h1 class="text-center display-4">{{ site.team[page.lang].title }}</h1>
+
+
+<div class="row p-2">
+		{% for guy in people %}
+		<div class="col-lg-4 col-md-6 text-center mx-auto p-4">
+			<a class="column has-text-centered" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">
+				<img class="rounded-circle img-fluid" src="{{site.url}}{{site.img_path}}people/{{guy.picture}}" alt="picture_{{guy.flatname}}" width="140" height="140">
+				<h3 class="">{{ guy.name }} {{ guy.surname }}</h3>
+			</a>
+		</div>
+		{% endfor %}
 </div>
-</div>
-
-<script src="{{ "/assets/js/responsiveBtnGroup.js" | prepend: site.url }}"></script>
-
-{% for code in site.team.codes %}
-{% assign foo = people | where:"statuscode", code %}
-{% if foo != blank %}
-	<div class="text-center">
-		<h2 id="{{site.team[page.lang].subtitles[code]}}" class="pt-2 text-secondary">{{ site.team[page.lang].subtitles[code] }}</h2>
-	</div>
-	<div class="row p-2">
-			{% for guy in foo %}
-			<div class="col-lg-4 col-md-6 text-center mx-auto">
-				<a class="column has-text-centered" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">
-					<img class="rounded-circle img-fluid" src="{{site.url}}{{site.img_path}}people/{{guy.picture}}" alt="picture_{{guy.flatname}}" width="140" height="140">
-					<h3 class="">{{ guy.full_name }}</h3>
-				</a>
-			</div>
-			{% endfor %}
-	</div>
-{% endif %}
-{% endfor %}

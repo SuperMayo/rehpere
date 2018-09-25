@@ -1,7 +1,8 @@
 ############ Aurélien Goustmedt - fr #############
 
 
-- full_name: Aurélien Goustmedt
+- name: Aurélien
+  surname: Goustmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "en"
@@ -37,7 +38,8 @@
 
 ############ Aurélien Goustmedt - en  #############
 
-- full_name: Aurélien Goustmedt
+- name: Aurélien
+  surname: Goustmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "fr"
@@ -73,11 +75,10 @@
     macroéconomie et de son impact sur la politique économique.
 
 
-
-
 ############ Francesco Sergi - en  #############
 
-- full_name: Francesco Sergi
+- name: Francesco
+  surname: Sergi
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "en"
@@ -110,11 +111,10 @@
     I am also managing editor for Œconomia – History / Methodology / Philosophy.
 
 
-
-
 ############ Francesco Sergi - fr  #############
 
-- full_name: Francesco Sergi
+- name: Francesco
+  surname: Sergi
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "fr"
@@ -148,24 +148,10 @@
     Je suis également "managing editor" pour la revue Œconomia – Histoire / Méthodologie / Philosophie.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ############ Maria Bach - en  #############
 
-- full_name: Maria Bach
+- name: Maria
+  surname: Bach
   flatname: maria-bach
   picture: "maria-bach.jpg"
   lang: "en"
@@ -198,7 +184,8 @@
 
 ############ Maria Bach - fr  #############
 
-- full_name: Maria Bach
+- name: Maria
+  surname: Bach
   flatname: maria-bach
   picture: "maria-bach.jpg"
   lang: "fr"
@@ -231,7 +218,8 @@
 
 ########## Nathanael Colin- fr #############
 
-- full_name: Nathanaël Colin-Jaeger
+- name: Nathanaël
+  surname: Colin-Jaeger
   flatname: nathanael-colin
   picture: "nathanael-colin.jpg"
   lang: "fr"
@@ -275,7 +263,8 @@
 ############ Nathanael Colin -en #############
 
 
-- full_name: Nathanaël Colin-Jaeger
+- name: Nathanaël
+  surname: Colin-Jaeger
   flatname: nathanael-colin
   picture: "nathanael-colin.jpg"
   lang: "en"
@@ -315,7 +304,8 @@
 
 ############ Francois Allisson - en #############
 
-- full_name: François Allisson
+- name: François
+  surname: Allisson
   flatname: francois-allisson
   picture: "francois-allisson.jpg"
   lang: "en"
@@ -358,7 +348,8 @@
 
 ############ Francois Allisson - fr  #############
 
-- full_name: François Allisson
+- name: François
+  surname: Allisson
   flatname: francois-allisson
   picture: "francois-allisson.jpg"
   lang: "fr"
@@ -400,7 +391,8 @@
 
 ############ Jerome Lallement #############
 
-- full_name: Jérôme Lallement
+- name: Jérôme
+  surname: Lallement
   flatname: jerome-lallement
   picture: "jerome-lallement.jpg"
   lang: "fr"
@@ -429,7 +421,8 @@
 
 ############ Cléo Chassonnery-Zaïgouche #############
 
-- full_name: "Cléo Chassonnery-Zaïgouche"
+- name: "Cléo"
+  surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "en"
@@ -481,7 +474,8 @@
 
     I am managing editor at Oeconomia since 2015
 
-- full_name: Cléo Chassonnery-Zaïgouche
+- name: "Cléo"
+  surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "fr"
@@ -532,7 +526,8 @@
 
 
 ############ Annie L. Cot #############
-- full_name: Annie L. Cot
+- name: "Annie"
+  surname: "L. Cot"
   flatname: annie-cot
   picture: "annie-cot.jpg"
   lang: "fr"
@@ -556,7 +551,8 @@
   twitter: ""
 
 ############ Annie L. Cot #############
-- full_name: Annie L. Cot
+- name: "Annie"
+  surname: "L. Cot"
   flatname: annie-cot
   picture: "annie-cot.jpg"
   lang: "en"

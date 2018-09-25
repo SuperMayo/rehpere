@@ -131,14 +131,10 @@ home:
 
 ####### Team ########
 team:
-  codes: ["pr", "sl", "mcf", "pd", "phd"]
   fr:
     title: "L'équipe"
-    subtitles: {"pr": "Professeurs", "sl": "Maitre d'enseignement", "mcf": "Maitre de conférence", "pd": "Post-doctorants", "phd": "Doctorants"}
-
   en:
     title: "The team"
-    subtitles: {"pr": "Professors", "sl": "Senior lecturer", "mcf": "lecturer", "pd": "Postdoctoral fellows", "phd": "PhD candidates"}
 
 ####### Publications ########
 biblio:
