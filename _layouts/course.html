@@ -10,10 +10,31 @@ layout: one-column
 	<h4>Semestre {{page.semester}}</h4>
 {% endif %}
 
+
 {% if page.prof_id %}
-	{% assign prof = site.data.members | where: "lang", page.lang | where: "flatname", page.prof_id %}
-{% else %}
-	{% assign prof = page.prof_name %}
+	{% assign profs = site.data.members | where: "lang", page.lang %}
+	{% assign profIds = '' | split: '' %}
+
+	{% for prof in profs %}
+		{% if page.prof_id contains prof.flatname %}
+			{% assign newProf = prof.flatname | split: 'none'%}
+			{% assign profIds = profIds | concat: newProf %}
+		{% endif %}
+	{% endfor %}
+
+
+	{% capture professors %}
+		<h2>
+		{% for id in profIds %}
+			{% assign prof = profs | where:"flatname", id %}
+			{% assign prof = prof[0] %}
+				<a href="{{site.url}}/{{folder}}{{prof.flatname}}">{{ prof.name }} {{ prof.surname }}</a>
+			{% if forloop.last  == false %}
+				<span>&mdash;</span>
+			{% endif %}
+		{% endfor %}
+		</h2>
+	{% endcapture %}
 {% endif %}
 
 
@@ -24,9 +45,7 @@ layout: one-column
 {% endif %}
 
 {% if page.prof_id %}
-	<a href="{{site.url}}/{{folder}}{{prof[0].flatname}}">
-		<h2>{{ prof[0].full_name }}</h2>
-	</a>
+	{{ professors }}
 {% else %}
 	<h2>{{ page.prof_name}}</h2>
 {% endif %}
