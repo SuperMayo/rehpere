@@ -5,4 +5,12 @@ layout: one-column
 <div class="text-center p-1">
   <h1> {{ site.biblio[page.lang].title }}</h1>
 </div>
+
+
+<!--
+{% for year in (2000..2018) %}
+	{{year}}
+	{% bibliography --query @*[year={{year}}] %}
+{% endfor %}
+-->
 {% bibliography %}

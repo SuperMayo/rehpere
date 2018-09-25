@@ -49,6 +49,9 @@ scholar:
   sort_by: year
   order: descending
   bibliography_template: bib
+  group_by: year
+  group_order: descending
+  bibliography_group_tag: 'h3 class="display-4 text-muted"'
 
 twitter-timeline:
   link: "https://twitter.com/rehpere"
