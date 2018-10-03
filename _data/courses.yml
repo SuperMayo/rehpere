@@ -184,7 +184,7 @@
     Forthcoming
     
 - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
-  course_id: ethique-appliquée-1
+  course_id: ethique-appliquee-1
   semester: 1
   prof_name: Emmannuel Picavet
   lang: 'fr'
@@ -216,7 +216,7 @@
     Ce cours peut être complété par Ethique appliquée 2 au second semetre.
     
 - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
-  course_id: ethique-appliquée 1
+  course_id: ethique-appliquee 1
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
@@ -224,7 +224,7 @@
     Forthcoming
     
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquée-2
+  course_id: ethique-appliquee-2
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'fr'
@@ -256,7 +256,7 @@
     Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
     
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquée-2
+  course_id: ethique-appliquee-2
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
@@ -264,7 +264,7 @@
     Forthcoming
     
 - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
-  course_id: rationalité-philo-eco
+  course_id: rationalite-philo-eco
   semester: 2
   prof_name: Emmannuel Picavet, Joseph Abdou
   lang: 'fr'
@@ -287,7 +287,7 @@
     permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
     
 - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
-  course_id: rationalité-philo-eco
+  course_id: rationalite-philo-eco
   semester: 2
   prof_name: Emmannuel Picavet, Joseph Abdou
   lang: 'en'
