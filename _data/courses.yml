@@ -2,8 +2,7 @@
   course_id: epistemo-1-2
   semester: 1
   prof_id:
-    - annie-cot
-    - jerome-lallement
+    - annie-cot, jerome-lallement
   prof_name: Annie L. Cot, Jérôme Lallement
   lang: "fr"
   description: >
@@ -190,7 +189,6 @@
   prof_name: Emmannuel Picavet
   lang: 'fr'
   description: >
-    
     Ce séminaire est dispensé à La Sorbonne, 75005 Paris
     
     L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui 
@@ -226,12 +224,11 @@
     Forthcoming
     
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquée 2
+  course_id: ethique-appliquée-2
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'fr'
   description: >
-  
     Ce séminaire est dispensé à La Sorbonne, 75005 Paris
     
     
@@ -259,7 +256,7 @@
     Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
     
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquée 2
+  course_id: ethique-appliquée-2
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
@@ -272,7 +269,6 @@
   prof_name: Emmannuel Picavet, Joseph Abdou
   lang: 'fr'
   description: >
-  
     Issu d'une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles, 
     institutions et processus politiques, qui mettent l'accent sur les normes et les problèmes de la rationalité 
     (individuelle et collective). On s'intéressera aux problèmes d'action collective, de coordination et d'organisation qui sont 
