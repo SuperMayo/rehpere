@@ -4,7 +4,7 @@
 - name: Matthieu
   surname: Renault
   flatname: matthieu-renault
-  picture: "matthieu-renault"
+  picture: "matthieu-renault.jpg"
   lang: "en"
   status: "Post Doctoral"
   statuscode: "pd"
@@ -33,7 +33,7 @@
 - name: Matthieu
   surname: Renault
   flatname: matthieu-renault
-  picture: "matthieu-renault"
+  picture: "matthieu-renault.jpg"
   lang: "fr"
   status: "Post Doctorant"
   statuscode: "pd"
