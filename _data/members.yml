@@ -1,4 +1,76 @@
-############ Matthieu Renault - fr #############
+############ Dorian Jullien - fr   #############
+
+- name: Dorian
+  surname: Jullien
+  flatname: dorian-jullien
+  picture: "dorian-jullien.jpg"
+  lang: "en"
+  status: "Associate Researcher"
+  statuscode: "pd"
+  institution: "GREDEG, Université Côte d'Azur"
+  themes:
+    - behavioral economics
+    - experimental economics
+    - decision theory
+    - history of economics
+    - methodology of economics
+    - philosophy of economics
+  authors:
+    - Amartya Sen
+    - Vivian Walsh
+    - Hilary Putnam
+    - Arthur Cravan
+    - Richard Thaler
+     Vernon Smith
+  external:
+    - name: "Thèses.fr"
+      link: "http://www.theses.fr/2016NICE0012"
+  contact: "jullien.dorian@gmail.com"
+  free_text: >
+    My research focuses on rational choice theory in economics generally and more specifically 
+    on behavioral economics. My methodological perspective focuses on the roles of language in 
+    economic rationality (both the economist’s language in theoretical constructions and empirical
+    work and the economic agents’ langage in their behavior).
+
+############ Dorian Jullien - en   #############
+
+- name: Dorian
+  surname: Jullien
+  flatname: dorian-jullien
+  picture: "dorian-jullien.jpg"
+  lang: "en"
+  status: "Associate Researcher"
+  statuscode: "pd"
+  institution: "GREDEG, Université Côte d'Azur"
+  themes:
+    - behavioral economics
+    - experimental economics
+    - decision theory
+    - history of economics
+    - methodology of economics
+    - philosophy of economics
+  authors:
+    - Amartya Sen
+    - Vivian Walsh
+    - Hilary Putnam
+    - Arthur Cravan
+    - Richard Thaler
+     Vernon Smith
+  external:
+    - name: "Thèses.fr"
+      link: "http://www.theses.fr/2016NICE0012"
+  contact: "jullien.dorian@gmail.com"
+  free_text: >
+    Mes recherches portent sur la théorie du choix rationnel en économie de manière générale,
+    et sur l’économie comportementale en particulier. Ma perspective méthodologique se concentre
+    sur les différents rôles que joue le langage dans la rationalité économique (à la fois
+    le langage de l’économiste dans ses constructions théoriques ou son travail empirique et 
+    le langage des agents économiques dans leurs comportements).
+
+
+
+
+########### Matthieu Renault - fr #############
 
 
 - name: Matthieu
