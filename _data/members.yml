@@ -1,3 +1,73 @@
+############ Matthieu Renault - fr #############
+
+
+- name: Matthieu
+  surname: Renault
+  flatname: matthieu-renault
+  picture: "matthieu-renault"
+  lang: "en"
+  status: "Post Doctoral"
+  statuscode: "pd"
+  institution: "Universidade de São Paulo (FEA-USP)"
+  themes:
+    - history of macroeconomics
+    - disequilibrium theory
+    - microfoundations
+    - economic expertise
+  authors:
+    - Edmond Malinvaud
+    - Old Keynesians
+  external:
+    - name: "FAPESP"
+      link: "https://www.bv.fapesp.br/pt/bolsas/174235/reconsiderando-a-historia-da-macroeconomia"
+    - name: "Thèses.fr"
+      link: "https://www.theses.fr/2016PA01E055"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2593315"
+  contact: "matthieu.renault@usp.br"
+  free_text: >
+    I am currently working on the Old Keynesians´ reactions to New Classical Macroeconomics in the 1970-1980s.
+
+############ Matthieu Renault - en #############
+
+- name: Matthieu
+  surname: Renault
+  flatname: matthieu-renault
+  picture: "matthieu-renault"
+  lang: "fr"
+  status: "Post Doctorant"
+  statuscode: "pd"
+  institution: "Universidade de São Paulo (FEA-USP)"
+  themes:
+    - histoire de la macroéconomie
+    - théorie du déséquilibre
+    - microfondations
+    - expertise économique
+  authors:
+    - Edmond Malinvaud
+    - Anciens Keynésiens
+  external:
+    - name: "FAPESP"
+      link: "https://www.bv.fapesp.br/pt/bolsas/174235/reconsiderando-a-historia-da-macroeconomia"
+    - name: "Thèses.fr"
+      link: "https://www.theses.fr/2016PA01E055"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2593315"
+  contact: "matthieu.renault@usp.br"
+  free_text: >
+    Je travaille actuellement sur les réactions des Anciens Keynésiens à la Macroéconomie Nouvelle Classique dans les années 1970 et 1980.
+
+
+
+
+
+
+
+
+
+
+
+
 ############ Aurélien Goustmedt - fr #############
 
 
