@@ -8,7 +8,7 @@ layout: one-column
 		<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" width="256px" height="auto">
 	</div>
 	<div class="">
-		<h2>{{ page.full_name }} {% if page.twitter != blank %} <a class="twitter-link" href="https://twitter.com/{{page.twitter}}">@{{page.twitter}}</a> {% endif %}</h2>
+        <h2>{{ page.firstname }} {{ page.surname }} {% if page.twitter != blank %} <a class="twitter-link" href="https://twitter.com/{{page.twitter}}">@{{page.twitter}}</a> {% endif %}</h2>
 			<p class="strong"> <i class="fas fa-graduation-cap"></i> {{ page.status }}<p>
 			<p> <i class="fas fa-university"></i> {{ page.institution }}</p>
 			<p> <i class="fas fa-envelope"></i> <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></p>

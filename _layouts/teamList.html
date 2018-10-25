@@ -13,7 +13,7 @@ layout: default
 		<div class="col-lg-4 col-md-6 text-center mx-auto p-4">
 			<a class="column has-text-centered" href="{{site.baseurl}}{{folder}}{{ guy.flatname | downcase | replace: ' ', '-'}}">
 				<img class="rounded-circle img-fluid" src="{{site.url}}{{site.img_path}}people/{{guy.picture}}" alt="picture_{{guy.flatname}}" width="140" height="140">
-				<h3 class="">{{ guy.name }} {{ guy.surname }}</h3>
+				<h3 class="">{{ guy.firstname }} {{ guy.surname }}</h3>
 			</a>
 		</div>
 		{% endfor %}
