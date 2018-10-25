@@ -558,7 +558,7 @@
   lang: "en"
   status: "Senior lecturer"
   statuscode: "sl"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
   themes:
     - Russian economic thought
     - Value and Planning
@@ -605,7 +605,7 @@
   lang: "fr"
   status: "Maître d'enseignement et de recherche"
   statuscode: "sl"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
   themes:
     - pensée économique russe
     - valeur et planification
@@ -681,7 +681,7 @@
   lang: "en"
   status: "Première assistante"
   statuscode: "pd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
   themes:
       - Discriminations
       - Expertise
@@ -740,7 +740,7 @@
   lang: "fr"
   status: "Première Assistante (PostDoc)"
   statuscode: "pd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
   themes:
       - Discriminations
       - Expertise
