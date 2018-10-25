@@ -1,4 +1,4 @@
-############ Dorian Jullien - fr   #############
+############ Dorian Jullien - en   #############
 
 - name: Dorian
   surname: Jullien
@@ -32,13 +32,13 @@
     economic rationality (both the economist’s language in theoretical constructions and empirical
     work and the economic agents’ langage in their behavior).
 
-############ Dorian Jullien - en   #############
+############ Dorian Jullien - fr  #############
 
 - name: Dorian
   surname: Jullien
   flatname: dorian-jullien
   picture: "dorian-jullien.jpg"
-  lang: "en"
+  lang: "fr"
   status: "Associate Researcher"
   statuscode: "pd"
   institution: "GREDEG, Université Côte d'Azur"
