@@ -1,3 +1,75 @@
+############  Justine Loulergue  - en   #############
+
+
+- firstname: Justine 
+  surname: Loulergue
+  flatname: justine-loulergue
+  picture: "justine-loulergue.jpg"
+  lang: "en"
+  status: "PhD candidate"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique</br>Université de Lausanne,"
+  themes:
+    - equilibrium
+    - French-speaking economists
+    - 19th century
+    - metaphors and analogies
+  authors:
+    - Jean-Baptiste Say
+    - Joseph Garnier
+    - Jean-Gustave Courcelle Seneuil
+    - Gustave de Molinari
+  external:
+    - name: "Université de Lausanne"
+      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1198706&LanCode=37&menu=rech"
+    - name: "LinkedIn"
+      link: "https://fr.linkedin.com/in/justine-loulergue-461a06b5"
+  contact: "justine.loulergue@unil.ch"
+  free_text: >
+    Justine Loulergue holds both a MA in Theories, Methods and Epistemology of Economics, from Paris 1 Pantheon-Sorbonne 
+    University (with a thesis on Property rights transactions in John Roger Commons), and a MA in History of Philosophy 
+    from Paris 4 Lettres Sorbonne University (« The uses of negativity in Kierkegaard »). 
+
+
+    Her PhD, co-directed by Annie L. Cot (Paris 1, CES) and Roberto Barranzini (UNIL, Centre Walras-Pareto), deals with 
+    « The metaphors of equilibrium in the french-speaking economic litterature of the XIXth century ».  
+
+
+
+############ Justine Loulergue  - fr   #############
+
+
+- firstname: Justine 
+  surname: Loulergue
+  flatname: justine-loulergue
+  picture: "justine-loulergue.jpg"
+  lang: "fr"
+  status: "Doctorante"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne,"
+  themes:
+    - équilibre
+    - XIXe siècle francophone
+    - métaphores et analogies
+  authors:
+    - Jean-Baptiste Say
+    - Joseph Garnier
+    - Jean-Gustave Courcelle Seneuil
+    - Gustave de Molinari
+  external:
+    - name: "Université de Lausanne"
+      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1198706&LanCode=37&menu=rech"
+    - name: "LinkedIn"
+      link: "https://fr.linkedin.com/in/justine-loulergue-461a06b5"
+  contact: "justine.loulergue@unil.ch"
+  free_text: >
+    Titulaire d’un Master 2 en Théories, méthodes et épistémologie de l’économie à Paris 1 (Mémoire sur les transactions
+    de droits de propriété chez John Roger Commons), ainsi que d’un Master 2 en Histoire de la Philosophie à Paris 4 
+    (« les usages de la négativité chez Kierkegaard »). Ma thèse, en cotutelle avec Paris 1, porte sur les métaphores de 
+    l’équilibre dans la littérature économique francophone de la 2nde moitié du XIXe siècle.
+
+
+
 ############ Nicolas Camillotto  - en   #############
 
 
