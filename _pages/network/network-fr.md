@@ -25,7 +25,7 @@ Actuellement, les travaux de l'équipe du REhPERE s'organisent autour de quatre 
 
 2. __Economie et psychologie__
 
-	Un deuxième volet est consacré aux nouvelles directions de la recherche économique depuis le tournant empirique, en particulier la neuroéconomie et l’économie expérimentale. Ce volet de recherche a donné notamment lieu à l'organisation du séminaire Thurnstone avec [l'université de Nice Sophia-Antipolis (GREDEG)](http://unice.fr/laboratoires/gredeg/presentation/projets-structurants/h2p2s).
+	Un deuxième volet est consacré aux nouvelles directions de la recherche économique depuis le tournant empirique, en particulier la neuroéconomie et l’économie expérimentale. Ce volet de recherche a donné notamment lieu à l'organisation du séminaire Thurnstone avec [l'université de Nice Sophia-Antipolis.
 
 3. __Economie du travail__
 	
