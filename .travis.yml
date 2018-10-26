@@ -2,8 +2,7 @@ language: ruby
 rvm:
     - 2.4.1
 
-cache: bundler
-
 script: jekyll build
 
+cache: bundler
 sudo: false
