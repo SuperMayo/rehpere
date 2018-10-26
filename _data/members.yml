@@ -1016,8 +1016,8 @@
 
 
 ############ Annie L. Cot #############
-- firstname: "Annie"
-  surname: "L. Cot"
+- firstname: "Annie L."
+  surname: "Cot"
   flatname: annie-cot
   picture: "annie-cot.jpg"
   lang: "fr"
@@ -1038,11 +1038,11 @@
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Annie_Cot"
   contact: "annie-cot@mymail.fr"
-  twitter: ""
+  twitter: "AnnieLouCot"
 
 ############ Annie L. Cot #############
-- firstname: "Annie"
-  surname: "L. Cot"
+- firstname: "Annie L."
+  surname: "Cot"
   flatname: annie-cot
   picture: "annie-cot.jpg"
   lang: "en"
@@ -1063,4 +1063,4 @@
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Annie_Cot"
   contact: "annie-cot@mymail.fr"
-  twitter: ""
+  twitter: "AnnieLouCot"
