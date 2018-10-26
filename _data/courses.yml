@@ -342,7 +342,7 @@
     Forthcoming
  
 - course_name: "Histoire de la théorie du choix rationel"
-  course_id: TCR
+  course_id: tcr
   semester: 2
   prof_name: Richard Arena
   lang: 'fr'
@@ -350,7 +350,7 @@
     Forthcoming
   
 - course_name: "Histoire de la théorie du choix rationel"
-  course_id: TCR
+  course_id: tcr
   semester: 2
   prof_name: Richard Arena
   lang: 'en'
