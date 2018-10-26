@@ -1,3 +1,77 @@
+############  Thomas Delcey - en   #############
+
+- firstname: Thomas
+  surname: Delcey
+  flatname: thomas-declcey
+  picture: "thomas-delcey.jpg"
+  lang: "en"
+  status: "PhD candidate"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - financial economics*
+    - efficient market hypothesis
+    - random fluctuations
+    - fundamental value
+  authors:
+    - Holbrook Working
+    - Eugene Fama
+    - Paul Samuelson
+  external:
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
+    - name: "HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
+  contact: "thomas.delcey@univ-paris1.fr"
+  twitter: "thomdelcey"
+  free_text: >
+    My research focuses on the history of financial economics, especially of the Efficient Market Hypothesis (EMH).
+    
+    
+    I am mainly interested in the emergence of modern financial theory after World War 2. In this regard,
+    I focus on constitutive contributions from this new discipline: the Random Character of Financial Fluctuations and 
+    the Efficient Market Hypothesis.
+    
+    
+############  Thomas Delcey - fr   #############
+
+- firstname: Thomas
+  surname: Delcey
+  flatname: thomas-declcey
+  picture: "thomas-delcey.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - économie financière
+    - efficience des marchés financiers
+    - fluctuation aléatoire
+    - valeur fondamentale
+  authors:
+    - Holbrook Working
+    - Eugene Fama
+    - Paul Samuelson
+  external:
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
+    - name: "HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
+  contact: "thomas.delcey@univ-paris1.fr"
+  twitter: "thomdelcey"
+  free_text: >
+    Mes recherches portent sur l'histoire des théories financières, et plus particulièrement sur la théorie  de l'Efficience
+    des Marchés Financiers (EMF). Je m'intéresse principalement à l’émergence de la théorie financière moderne. Dans cette
+    optique, je me concentre sur les contributions constitutives de cette nouvelle discipline: le caractère aléatoire des 
+    fluctuations financières et l'efficience des marchés financiers. 
+    
+    
+
+
+
+
+
+
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
   surname: Lecouteux
