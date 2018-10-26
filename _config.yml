@@ -152,6 +152,16 @@ more:
   fr: "Lire la suite"
   en: "Read more"
 
+####### Personal page ######
+people:
+  fr:
+    about: "À propos"
+    externals: "Liens externes"
+    publications: "Publications"
+  en:
+    about: "About"
+    externals: "External links"
+    publications: "Publications"
 ####### Courses ########
 courses:
   fr:
