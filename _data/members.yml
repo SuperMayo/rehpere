@@ -1,8 +1,100 @@
+    
+############  Guillaume Noblet - en   #############
+
+- firstname: Guillaume 
+  surname: Noblet
+  flatname: guillaume-noblet
+  picture: "guillaume-noblet.jpg"
+  lang: "en"
+  status: "PhD candidate"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - economic experiments
+    - farm economics
+    - statistical inference
+    - policy making
+  authors:
+    - Agricultural Experiment Stations
+    - Bureau of Agricultural Economics
+  external:
+    - name: "Personal website"
+      link: "https://noblet.xyz"
+    - name: "HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/gnoblet"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
+  contact: "guillaume@noblet.xyz"
+  twitter: "_gnoblet"
+  free_text: >
+    My research focuses on agricultural economics in the first half of the twentieth century in the US. An emphasis is put 
+    in particular on how the first economic experiments that were drawn for farm management and price analysis and the 
+    construction of new statistics relate to the becoming of economists as experts for policy-making.
+    
+    
+    Thus my research adresses part of the history of the sub-field agricultural economics as embedded 
+    in a tooled-discipline. In other words I study of the relationships between theory, practices, 
+    and expertise.
+    
+    
+    I'm currently working (with Thomas Delcey and Jose Edwards) on a project questioning the classification of
+    of economic articles (e.g., JEL codes) using topic modelling.
+    
+    
+    I'am also assistant managing editor for Œconomia: History| Methodology| Philosophy since 2017.
+    
+############  Guillaume Noblet - fr   #############
+
+- firstname: Guillaume 
+  surname: Noblet
+  flatname: guillaume-noblet
+  picture: "guillaume-noblet.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - expériences économiques
+    - économie agricole
+    - inférence statistique
+    - politiques publiques
+  authors:
+    - Stations Agricoles Expérimentales
+    - Bureau d'Economie Agricole
+  external:
+    - name: "Personal website"
+      link: "https://noblet.xyz"
+    - name: "HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/gnoblet"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
+  contact: "guillaume@noblet.xyz"
+  twitter: "_gnoblet"
+  free_text: >
+    Mes recherches portent sur l'économie agricole dans la première moitié du XXe siècle aux États-Unis. 
+    Une emphase particulière est mise sur la manière dont les premières expériences économiques, réalisées pour 
+    la gestion de la ferme et l'analyse des prix agricoles, et la construction de nouvelles statistiques s'intègrent dans 
+    la formation des économistes comme experts.
+    
+    
+    Ainsi, j'aborde une partie de l’histoire de l’économie agricole en la comprenant comme une sous-discipline outillée. 
+    En d'autres termes, j'étudie les relations entre la théorie, les pratiques, et l'expertise.
+    
+    
+    Je travaille actuellement (avec Thomas Delcey et Jose Edwards) sur un projet s'intéressant à la classification des
+    d'articles économiques (codes JEL, par exemple) à l'aide d'une modélisation par thème (*topic modeling*).
+    
+    
+    Je suis également rédacteur en chef adjoint d'Œconomia: Histoire | Méthodologie | Philosophie depuis 2017.
+
+
+
+
 ############  Thomas Delcey - en   #############
 
 - firstname: Thomas
   surname: Delcey
-  flatname: thomas-declcey
+  flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "en"
   status: "PhD candidate"
@@ -37,7 +129,7 @@
 
 - firstname: Thomas
   surname: Delcey
-  flatname: thomas-declcey
+  flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "fr"
   status: "Doctorant"
