@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CERCLE D'EPISTEMOLOGIE
+title: CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-10-27
 ref: post1
 lang: fr
