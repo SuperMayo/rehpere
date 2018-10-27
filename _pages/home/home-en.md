@@ -1,28 +1,86 @@
-# Who are we ?
+# REHPERE ?
 
-The Research Team in Epistemology and History of Recent Economic Thought (REhPERE) is attached to the Centre d'économie de la Sorbonne (CES - UMR 8174 of the CNRS - University Paris 1 Panthéon-Sorbonne) and more precisely to the Political Economy axis. This axis brings together research that has more in common an approach than themes. The term "political economy" refers to the fact that economic discipline is considered here as a branch of the social sciences, both as a scientific approach (theoretical and empirical) and as an object of study (in an epistemological and historical approach).
+Le Réseau en Épistémologie et en Histoire de la Pensée Économique Récente (REHPERE) rassemble des recherches sur l’évolution de la discipline économique de la fin du XIXe et au début du XXIe siècle. REHPERE est un réseau de chercheurs qui s’appuie sur l’équipe de Recherche en Épistémologie et en Histoire de la Pensée Économique Récente, l’une des équipes du Centre d’économie de la Sorbonne (CES, axe « institutions et régulations », UMR 8174 du CNRS - Université Paris 1 Panthéon-Sorbonne). REHPERE réunit des chercheurs appartenant à d’autres centres de recherche, mais dont les membres partagent des programmes de recherche en commun.
 
-The research themes of the REhPERE team focus, in a general way, on the evolution of economics at the end of the 20th century and the beginning of the 21st century. The common thread of our work is the question of the relationship of economics to other disciplines and a philosophical and epistemological perspective. Our common themes are: the overcoming of methodological individualism, the renewal of concepts of equality and the State, the relationship between economic representations and policies implemented, the role of expertise.
+Les membres de l’équipe REHPERE posent la question de l’évolution des relations que l’économie entretient avec les autres disciplines,. Nos thèmes communs sont : le dépassement de l’individualisme méthodologique, les rapports entre les représentations économiques et les politiques publiques, le rôle des économistes dans l’expertise, l’analyse du rôle des outils (modélisations, simulations, expériences, etc.) de la science économique dans les controverses de méthodes mais également en dehors du monde universitaire (sphère publique, expertise, tribunaux).
+Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq volets : épistémologie et méthodologie des théories et des pratiques économiques ; histoire de la macroéconomie depuis les années 1970 ; économie et psychologie ; histoire et épistémologie de la microéconomie appliquée ; économie publique et économie politique des pouvoirs.
 
-Currently, the work of the REhPERE team is organized around four components.
+<div class="accordion" id="accordionExample">
 
-1.  __History of Macroeconomics__
 
-	A first historiographical section is devoted to the history of macroeconomics since the General Theory. This work covers both the evolution of theories and the transformation of econometric, measurement and expertise practices.
-	In addition to numerous theses and publications, this research has led to two international conferences:
-	- in December 2011, the 75 Years of General Theory Conference. The objective of the conference was to assess the influence of Keynes' book on current theories and policies. It is a question of showing how Keynes' ideas have irrigated the thinking of all economists, Keynesian or not, theorists or men of action, and of analysing how general theory has been used, instrumented, diverted, recovered in the service of economic theories and policies.
-	- December 2016, Theory, measurement and expertise: Edmond Malinvaud and the reconfigurations of economic theory, 1950-2000. This conference aimed to analyse the transformations in economic discipline since the post-war period, in the mirror of Edmond Malinvaud's work: the emergence of the new classical economy, the increasing mathematization of economic theory, the systematic use of econometric techniques, the restructuring of the statistical apparatus, the implementation of economic policies based on macroeconometric models, the evolution of the expertise function assigned to economists or the specific role played by economist engineers.
+<div class="card">
+  <div class="card-header" id="headingOne">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Epistémologie et méthodologie des théories et des pratiques économiques </h4>
+      </button>
+  </div>
+  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+    <div class="card-body">
+       <p>
+        Un premier volet est consacré à l’épistémologie et à la méthodologie des théories et des pratiques économiques aux XXe et XXIe siècles. Il inclut les recherches de Jérôme Lallement sur l’épistémologie de Léon Walras, ou sur l’histoire et l’évolution de l’opposition entre individualisme et holisme méthodologiques ; celles de Cristian Frasser sur les pratiques monétaires et la nature de la monnaie ; celles de Juan Melo sur les relations entre cybernétique et économie depuis les années 1940 ; ou encore celles de Nathanaël Colin-Jaeger sur l’ontologie sociale et l’anthropologie libérale. Par ailleurs, on trouve aussi les travaux de Nicolas Brisset sur la performativité et sur l’économie des conventions, ceux de Justine Loulergue sur les métaphores de l’équilibre, ou encore ceux d’Annie L. Cot sur l’émergence de l’expertise économique, l’institutionnalisation des « séminaires » dans la discipline et l’entrée des femmes dans la profession académique en France. 
+       </p>
+    </div>
+  </div>
+</div>
 
-2. Economics and psychology__
+<div class="card">
+  <div class="card-header" id="headingOne">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Histoire de la macroéconomie</h4>
+      </button>
+  </div>
+  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+    <div class="card-body">
+       <p>
+        Ce deuxième volet est consacré à l’histoire de la macroéconomie depuis les années 1970. Ces travaux s’intéressent aussi bien à l’évolution des théories qu’à la transformation des pratiques économétriques, à la frontière entre académie et expertise. Ce volet inclut les recherches de Matthieu Renault sur Edmond Malinvaud, les travaux d’Aurélien Goutsmedt sur la transformation de la macroéconomie dans les années 1970, ceux d’Erich Pinzón-Fuchs sur Lawrence Klein et le développement de macro-économétrie, ainsi que les recherches de Francesco Sergi sur l’histoire des modèles DSGE. Thomas Delcey s’inscrit également dans ce deuxième volet avec l’analyse épistémologique de l’hypothèse d’efficience des marchés.  Les travaux de Quentin Couix proposent des analyses de la croissance qui intègrent les recherches de N. Georgescu-Roegen sur la thermodynamique.
+       </p>
+    </div>
+  </div>
+</div>
 
-	A second part is devoted to the new directions of economic research since the empirical turn, in particular neuroeconomics and experimental economics. This research component led to the organization of the Thurnstone seminar with the University of [Nice Sophia-Antipolis](http://unice.fr/) (GREDEG).
+<div class="card">
+  <div class="card-header" id="headingTwo">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseOne">
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Economie et psychologie</h4>
+      </button>
+  </div>
+  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+    <div class="card-body">
+      <p>
+      Un troisième volet est consacré à l’histoire des relations entre psychologie et économie. Il inclut les travaux d’Annie L. Cot sur la « pré-histoire » des faits expérimentaux ainsi que ses travaux sur le Harvard Pareto circle.  Une partie de l’équipe travaille également sur les nouvelles directions de la recherche économique depuis le « tournant empirique », en particulier la neuroéconomie (Nicolas Vallois) et l’économie expérimentale et comportementale (Dorian Jullien). La thématique de la confiance est au cœur des travaux de Pierrick Dechaux sur les indicateurs de satisfaction des ménages et  de Nicolas Camilotto sur l’histoire de l’économie de la confiance depuis les années 1980 à l’interface avec la sociologie. Jean-Sébastien Lenfant poursuit des recherches sur les théories de la consommation au miroir de la psychologie et de l’économie. Niels Boissonnet et Guilhem Lecouteux travaillent sur la formation endogène des préférences individuelles, en particulier Niels Boissonnet développe une analyse qui veut dépasser les conceptions traditionnelles fondées sur des préférences données et stables dans le temps, Guilhem Lecouteux explore de son côté les implications normatives en matière de politiques publiques de ces changements endogènes de préférences.
+      </p>
+    </div>
+  </div>
+</div>
 
-3. Labour economics__
-	
-	A third section focuses on the history and epistemology of labour economics, based on an approach that articulates the history of thought and the historical sociology of economic discipline. A first project has focused on minimum wage policies and debates since the late 19th century in the United States, France and the United Kingdom. This work is cross-cutting within the ESC's Political Economy axis. 
+<div class="card">
+  <div class="card-header" id="headingThree">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Histoire et épistémologie de la microéconomie théorique et appliquée </h4>
+      </button>
+  </div>
+  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+    <div class="card-body">
+      <p>
+        Un quatrième volet s’intéresse à l’histoire et à l’épistémologie de la microéconomie récente. Les recherches de Judith Favereau portent sur la philosophie de l’économie du développement, et en particulier sur les expériences de terrain contrôlées randomisées. Guillaume Noblet travaille sur l’histoire des expériences économiques en agriculture aux Etats-Unis. Cléo Chassonnery-Zaïgouche et Annie L. Cot travaillent sur l’histoire de la controverse « à travail égal salaire égal » au Royaume-Uni. Plus généralement, Cléo Chassonnery-Zaïgouche travaille sur l’histoire de l’économie des discriminations comme domaine de savoir et d’expertise. Tom Juille inscrit également ses recherches sur l’identité des agents dans ce volet. 
+      </p>
+    </div>
+  </div>
+</div>
 
-	In the same spirit, work carried out in collaboration with researchers from the University of Lausanne (Walras-Pareto Centre) concerns debates on wage discrimination, more particularly between men and women. These contributions to the history of labour economics also shed light on the notion of economic expertise (which is also central to work on the history of macroeconomics).
+<div class="card">
+  <div class="card-header" id="headingFour">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Economie publique et économie politique du pouvoir </h4>
+      </button>
+  </div>
+  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+    <div class="card-body">
+      <p>
+        Enfin, le cinquième volet s’intéresse aux « biens qui ne sont pas privés » et au pouvoir. Les travaux de Jérôme Lallement sur le dépassement de l’individualisme méthodologique et ceux de Maxime Desmarais-Tremblay sur les biens « méritoires » et la souveraineté du consommateur s’inscrivent dans ce volet. Raphaël Fèvre travaille sur l’économie politique du pouvoir, et notamment l’histoire de l’ordolibéralisme. Avec Nicolas Brisset, il participe à un programme de recherche sur l’économie et les économistes durant le régime de Vichy, qui inclut également François Allisson, Tom Juille et Cléo Chassonnery-Zaïgouche. Maria Bach étudie comment des économistes indiens ont façonné un concept de développement au tournant du XIXe siècle dans un contexte de colonisation.
+      </p>
+    </div>
+  </div>
+</div>
 
-4. Public Economy
-
-	Finally, a fourth section deals with "property that is not private". Alongside private goods produced by the market, pure public goods and goods under guardianship highlight market failures and a possible contradiction between consumer sovereignty and State intervention to impose choices (regulated professions, merit wants, etc.). This research tends to give rise to a non-individualistic and non-contractualist conception of the state.
+</div>
