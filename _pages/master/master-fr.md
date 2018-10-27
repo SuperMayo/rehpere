@@ -8,7 +8,7 @@ lang: fr
 
 # Presentation du Master
 
-Unique en France, le master Economie et sciences humaines (épistémologie, méthodes, théories) de l'Université Paris 1 Panthéon-Sorbonne est centré sur l’épistémologie de l’économie et l’analyse des déplacements de frontières entre les sciences économiques et les sciences sociales.
+Unique en France, le Master "Economie et Sciences Humaines: épistémologie, méthodes, théories" de l'Université Paris 1 Panthéon-Sorbonne est centré sur l’épistémologie de l’économie et l’analyse des déplacements de frontières entre les sciences économiques et les sciences sociales.
 
 Le Master ESH se propose de conduire une interrogation sur les fondements et les méthodes de la théorie économique contemporaine tout en explorant les rapports multiples que celle-ci entretient avec les autres sciences humaines et sociales : le droit, la philosophie, la sociologie, la psychologie.
 
@@ -59,7 +59,7 @@ Le travail de recherche, tout comme la rédaction d'un mémoire, n'est ni une co
 
 # Cours
 
-La liste des cours est disponible [ici](/cours)
+La liste des cours est disponible [ici](/cours).
 
 
 
