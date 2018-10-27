@@ -11,7 +11,7 @@ The work of the REHPERE team is currently organized around five sections: episte
 <div class="card">
   <div class="card-header" id="headingZero">
       <a data-toggle="collapse" href="#collapseZero" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Epistemology and methodology of economic theories and practices </h4>
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Methodology of economic theories and practices </h4>
       </a>
   </div>
   <div id="collapseZero" class="collapse" aria-labelledby="headingZero">
@@ -26,7 +26,7 @@ The work of the REHPERE team is currently organized around five sections: episte
 <div class="card">
   <div class="card-header" id="headingOne">
       <a data-toggle="collapse" href="#collapseOne" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> History of macroeconomics </h4>
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Macroeconomics and macroeconometrics </h4>
       </a>
   </div>
   <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
@@ -56,7 +56,7 @@ The work of the REHPERE team is currently organized around five sections: episte
 <div class="card">
   <div class="card-header" id="headingThree">
       <a data-toggle="collapse" href="#collapseThree" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> History and epistemology of applied and theoretical microeconomics </h4>
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Applied and theoretical microeconomics </h4>
       </a>
   </div>
   <div id="collapseThree" class="collapse" aria-labelledby="headingThree">
@@ -71,7 +71,7 @@ The work of the REHPERE team is currently organized around five sections: episte
 <div class="card">
   <div class="card-header" id="headingFour">
       <a data-toggle="collapse" href="#collapseFour" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> EPublic economics and political economy </h4>
+       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Public economics and political economy </h4>
       </a>
   </div>
   <div id="collapseFour" class="collapse" aria-labelledby="headingFour">
