@@ -8,12 +8,12 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 
 <div>
 <div class="card">
-  <div class="card-header" id="headingOne">
-      <a data-toggle="collapse" href="#collapseOne" >
+  <div class="card-header" id="headingZero">
+      <a data-toggle="collapse" href="#collapseZero" >
        <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Epistémologie et méthodologie des théories et des pratiques économiques </h4>
       </a>
   </div>
-  <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
+  <div id="collapseZero" class="collapse" aria-labelledby="headingZero">
     <div class="card-body">
        <p>
         Un premier volet est consacré à l’épistémologie et à la méthodologie des théories et des pratiques économiques aux XXe et XXIe siècles. Il inclut les recherches de Jérôme Lallement sur l’épistémologie de Léon Walras, ou sur l’histoire et l’évolution de l’opposition entre individualisme et holisme méthodologiques ; celles de Cristian Frasser sur les pratiques monétaires et la nature de la monnaie ; celles de Juan Melo sur les relations entre cybernétique et économie depuis les années 1940 ; ou encore celles de Nathanaël Colin-Jaeger sur l’ontologie sociale et l’anthropologie libérale. Par ailleurs, on trouve aussi les travaux de Nicolas Brisset sur la performativité et sur l’économie des conventions, ceux de Justine Loulergue sur les métaphores de l’équilibre, ou encore ceux d’Annie L. Cot sur l’émergence de l’expertise économique, l’institutionnalisation des « séminaires » dans la discipline et l’entrée des femmes dans la profession académique en France. 
