@@ -9,7 +9,7 @@ lang: en
 
 # Courses
 
-List of courses are available [here](/en/course)
+List of courses is available [here](/en/course).
 
 
 
