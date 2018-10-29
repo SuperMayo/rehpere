@@ -118,8 +118,8 @@ menu:
       url: "/en/publications"
       prep: '<i class="fas fa-book"></i>'
     blog:
-      name: "Blog"
-      url: "/en/blog"
+      name: "News"
+      url: "/en/news"
       prep: '<i class="fas fa-newspaper"></i>'
     research:
       name: "Network"
