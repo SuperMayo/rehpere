@@ -9,7 +9,7 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 <div class="card">
   <div class="card-header" id="headingZero">
       <a data-toggle="collapse" href="#collapseZero" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Méthodologie des théories et des pratiques économiques </h4>
+       <h4><i class="fas fa-chevron-circle-right"></i> Méthodologie des théories et des pratiques économiques </h4>
       </a>
   </div>
   <div id="collapseZero" class="collapse" aria-labelledby="headingZero">
@@ -24,7 +24,7 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 <div class="card">
   <div class="card-header" id="headingOne">
       <a data-toggle="collapse" href="#collapseOne" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Macroéconomie et macroéconométrie </h4>
+       <h4><i class="fas fa-chevron-circle-right"></i> Macroéconomie et macroéconométrie </h4>
       </a>
   </div>
   <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
@@ -39,7 +39,7 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 <div class="card">
   <div class="card-header" id="headingTwo">
       <a data-toggle="collapse" href="#collapseTwo" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Economie et psychologie</h4>
+       <h4><i class="fas fa-chevron-circle-right"></i> Economie et psychologie</h4>
       </a>
   </div>
   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo">
@@ -54,7 +54,7 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 <div class="card">
   <div class="card-header" id="headingThree">
       <a data-toggle="collapse" href="#collapseThree" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Microéconomie théorique et appliquée </h4>
+       <h4><i class="fas fa-chevron-circle-right"></i> Microéconomie théorique et appliquée </h4>
       </a>
   </div>
   <div id="collapseThree" class="collapse" aria-labelledby="headingThree">
@@ -69,7 +69,7 @@ Les travaux de l’équipe REHPERE s’organisent aujourd’hui autour de cinq v
 <div class="card">
   <div class="card-header" id="headingFour">
       <a data-toggle="collapse" href="#collapseFour" >
-       <h4 class="adaptative-title"><i class="fas fa-chevron-circle-right"></i> Economie publique et économie politique du pouvoir </h4>
+       <h4><i class="fas fa-chevron-circle-right"></i> Economie publique et économie politique du pouvoir </h4>
       </a>
   </div>
   <div id="collapseFour" class="collapse" aria-labelledby="headingFour">
