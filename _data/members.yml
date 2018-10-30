@@ -1,3 +1,70 @@
+############  Niels Boissonnet - en   #############
+
+- firstname: Niels
+  surname: Boissonnet
+  flatname: niels-boissonnet
+  picture: "niels-boissonnet.jpg"
+  lang: "en"
+  status: "PhD candidate"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - preferences formation
+    - unawareness
+    - rationality
+    - beliefs dynamics
+  contact: "niels.boissonnet@gmail.com"
+  twitter: "NielsBoissonnet"
+  free_text: >
+    The main part of my work is dedicated to building a theory of how awareness changes 
+    can yield preference changes. To elaborate such a theory I mix philosophical investigations 
+    with the axiomatic approach used by decision theorists. In order to turn my research 
+    on preference formation into a more empirical analysis, I am planning to develop my skill 
+    in machine learning, notably recommendation algorithms.
+
+
+    I am also interested in three topics that are more or less related to preference formation. 
+    The first is unawareness and the way it may affect beliefs dynamics both in games and in single 
+    agent choices context. The second is network theory and the way it can shape cultural 
+    mixing. The third consists of applying a beliefs manipulation framework to analyze a 
+    government's decision to disclose or not the existence of a terrorist threat to public opinion.
+
+
+############  Niels Boissonnet - fr   #############
+
+- firstname: Niels
+  surname: Boissonnet
+  flatname: niels-boissonnet
+  picture: "niels-boissonnet.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - formation des préférences
+    - unawareness
+    - rationalité
+    - dynamique des croyances
+  contact: "niels.boissonnet@gmail.com"
+  twitter: "NielsBoissonnet"
+  free_text: >
+    La majeure partie de mon travail consiste à théoriser l'effet d'une prise de conscience 
+    sur les changements de préférences. Pour élaborer une telle théorie je mêle approche 
+    philosophique à un approche plus axiomatique telle qu'elle se retrouve en théorie de la 
+    décision. Afin de confronter ces recherches théoriques avec des données empiriques, je 
+    projette également de développer mes compétences en machine learning, notamment les 
+    algorithmes de recommandation. 
+
+
+    Je suis également intéressé par trois autres types de sujets qui ne sont pas sans lien 
+    avec mes recherches sur la formation des préférences. Le premier porte sur 
+    l'*unawareness* et la dynamique des croyances en générale. Le second sur la théorie des 
+    réseaux et la manière dont elle peut contribuer à construire une théorie des échanges 
+    culturelles. Le troisième applique un modèle de manipulationdes croyances afin d'analyser 
+    la décision d'un gouvernement de révéler ou non l'existence d'un menace terroriste. 
+
+
+
 ############  Guillaume Noblet - en   #############
 
 - firstname: Guillaume 
