@@ -28,7 +28,6 @@ layout: one-column
 
 <!-- Small bio  -->
 {% if page.free_text %}
-	<div class="small-delimiter"></div>
 	<div class="text-justify">
         <h2>{{ site.people[page.lang].about }}</h2>
 		<p>{{ page.free_text | markdownify}}</p>
@@ -37,12 +36,14 @@ layout: one-column
 
 <!-- External links -->
 {% if page.external %}
-	<div class="small-delimiter"></div>
-    <h2>{{ site.people[page.lang].externals }}</h2>
-	{% for elem in page.external %}
-		<a href="{{elem.link}}"><button type="button" class="btn btn-info text-white p-2"><i class="fas fa-external-link-alt"></i> {{elem.name}}</button></a>
-	{% endfor %}
+    <div class="pt-3">
+        <h2>{{ site.people[page.lang].externals }}</h2>
+        {% for elem in page.external %}
+            <a href="{{elem.link}}"><button type="button" class="btn btn-info text-white m-2 p-2"><i class="fas fa-external-link-alt"></i> {{elem.name}}</button></a>
+        {% endfor %}
+    </div>
 {% endif %}
+
 
 <!-- Publications -->
 {% capture biblio %}
@@ -50,7 +51,8 @@ layout: one-column
 {% endcapture %}
 
 {% if biblio.size > 5 %} <!-- Test if there is a biblio -->
-	<div class="small-delimiter"></div>
-    <h2>{{ site.people[page.lang].publications }}</h2>
-	{{ biblio }}
+    <div class="pt-4">
+        <h2>{{ site.people[page.lang].publications }}</h2>
+        {{ biblio }}
+    <div>
 {% endif %}
