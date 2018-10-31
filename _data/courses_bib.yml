@@ -156,7 +156,7 @@ epistemo-1-2:
     - Bruno Ventelou, Au-delà de la rareté, Paris, A. Michel, 2001
 
 marx-orlean: 
-  bib: 
+  bib: |
     - Aglietta Michel, Régulation et crises du capitalisme, Paris, Odile Jacob, coll. « Opus », 1997 [1ère édition 1976].
     - Audier Serge, Le Colloque Lippmann. Aux origines du néo-libéralisme, Éditions Le Bord de L’eau, coll. « Les voies du politiques », 2008.
     - Audier Serge, Néo-libéralisme(s). Une archéologie intellectuelle, Paris, Grasset, 2012.
@@ -198,7 +198,7 @@ marx-orlean:
 
 
 ethique-appliquee-1:
-  bib: 
+  bib: |
     - Audard (C.) Qu’est-ce que le libéralisme ? Paris, Gallimard, 2009.
     - Ballet (J.), Bazin (D.), Dubois (J.-L.) et Mahieu (F.-R.) Freedom, Responsibility and Economics of the Person. Londres et New York, Routledge, 2014.
     - Ege (R.) et Igersheim (H.), dir., Freedom and Happiness in Economic Thought and Philosophy. Londres et New York, Routledge, 2011.
@@ -211,7 +211,7 @@ ethique-appliquee-1:
     - Sen (A.K.) Inequality Reexamined. Oxford, Clarendon Press, 1992.
 
 ethique-appliquee-2:
-  bib:
+  bib: |
     - Boccon-Gibod (T.) et Gabrielli (C.), dir., Normes, institutions et régulation publique. Paris, Hermann, 2015.
     - Habermas (J.) Droit et démocratie. Paris, Gallimard, 1997 (éd. allemande1992).
     - Lenoble (J.) et Maesschalck (M.), L’action des normes. Eléments pour une théorie de la gouvernance. Sherbrooke, Editions Revue de Droit de l’Université de Sherbrooke et Kluwer Law International, 2003, 2009.
@@ -219,7 +219,7 @@ ethique-appliquee-2:
     - Rawls (J.) Libéralisme politique. Presses Universitaires de France, 1993.
 
 rationalite-philo-eco:
-  bib: 
+  bib: |
     - Arrow (K. J.), Social Choice and Individual Values, New York, Wiley, 1951. Tr. fr. Choix collectifs et préférences individuelles, Paris, Calmann-­Lévy.
     - Boudon (Raymond), Le juste et le vrai. Etude sur l'objectivité des valeurs et de la connaissance, Paris, Fayard, 1995.
     - Buchanan (James M.) et Tullock (Gordon), Calculus of Consent. The Logical Foundations of Constitutional Democracy, Ann Arbor, University of Michigan Press, 1962.
@@ -235,7 +235,7 @@ rationalite-philo-eco:
 
 
 eco-normative-1945: 
-  bib:
+  bib: |
     - Arrow, K. J. 1951. Social Choice and Individual Values. John Wiley & Sons, New York.
     - Aslanbeigui, N. et S. G. Medema 1998. Beyond the Dark Clouds,  Pigou and Coase on Social Cost. History of Political Economy, 30, 4, pp. 601-625.
     - Backhouse, R. A History of Modern Economic Analysis. Basil Blackwell, Oxford, 1985.
@@ -273,7 +273,7 @@ eco-normative-1945:
 
 
 eco-socio:
-  bib: 
+  bib: |
     - Becker G., (1976) - “The Economic Approach to Human Behavior”, in The Economic Approach to Human Behavior, University of Chicago Press, pp.1-13.
     - Becker G., Murphy K. (2000), Social Economics, Cambridge MA, Belknap Press/Harvard University Press.
     - Bourdieu P. (1997), "Le champ économique", Actes de la Recherche en Sciences Sociales, vol.119, n°1, pp. 48-66

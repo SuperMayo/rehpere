@@ -5,7 +5,7 @@ layout: one-column
 <!-- Image with small description  -->
 <div class="d-flex pt-4 flex-md-nowrap flex-wrap">
 	<div class="p-2">
-		<img src="{{site.url}}{{site.img_path}}/people/{{ page.picture }}" alt="{{page.flatname}}" width="256px" height="auto">
+		<img src="{{site.url}}{{site.img_path}}people/{{ page.picture }}" alt="{{page.flatname}}" width="256px" height="auto">
 	</div>
 	<div class="">
         <h2>{{ page.firstname }} {{ page.surname }} {% if page.twitter != blank %} <a class="twitter-link" href="https://twitter.com/{{page.twitter}}">@{{page.twitter}}</a> {% endif %}</h2>
@@ -28,31 +28,31 @@ layout: one-column
 
 <!-- Small bio  -->
 {% if page.free_text %}
-	<div class="small-delimiter"></div>
 	<div class="text-justify">
         <h2>{{ site.people[page.lang].about }}</h2>
 		<p>{{ page.free_text | markdownify}}</p>
 	</div>
 {% endif %}
 
-<!-- Publications -->
+<!-- External links -->
+{% if page.external %}
+    <div class="pt-3">
+        <h2>{{ site.people[page.lang].externals }}</h2>
+        {% for elem in page.external %}
+            <a href="{{elem.link}}"><button type="button" class="btn btn-info text-white m-2 p-2"><i class="fas fa-external-link-alt"></i> {{elem.name}}</button></a>
+        {% endfor %}
+    </div>
+{% endif %}
 
+
+<!-- Publications -->
 {% capture biblio %}
 	{% bibliography --query @*[authorid={{page.flatname}}] %}
 {% endcapture %}
 
 {% if biblio.size > 5 %} <!-- Test if there is a biblio -->
-	<div class="small-delimiter"></div>
-    <h2>{{ site.people[page.lang].publications }}</h2>
-	{{ biblio }}
+    <div class="pt-4">
+        <h2>{{ site.people[page.lang].publications }}</h2>
+        {{ biblio }}
+    <div>
 {% endif %}
-
-<!-- External links -->
-{% if page.external %}
-	<div class="small-delimiter"></div>
-    <h2>{{ site.people[page.lang].externals }}</h2>
-	{% for elem in page.external %}
-		<a href="{{elem.link}}"><button type="button" class="btn btn-info text-white p-2"><i class="fas fa-external-link-alt"></i> {{elem.name}}</button></a>
-	{% endfor %}
-{% endif %}
-

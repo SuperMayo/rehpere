@@ -6,7 +6,7 @@
   prof_name: Annie L. Cot, Jérôme Lallement
   lang: "fr"
   description: >
-    Le séminaire **double** ‘’Epistémologie des sciences économiques I et II’’ est assuré par Annie-L. COT, professeur (Université Paris 1, CES) et par Jérôme LALLEMENT, professeur émérite (Université de Paris, CES.)
+    Le séminaire **double** ‘’Epistémologie des sciences économiques I et II’’ est assuré par Annie L. COT, professeur (Université Paris 1, CES) et par Jérôme LALLEMENT, professeur émérite (Université Paris-Descartes, CES.)
 
     
     Ce séminaire est une introduction aux débats de méthodes et d’épistémologie qui ont traversé les théories économiques au cours des derniers siècles. L’objectif est de présenter les conditions de vérité successives des théories économiques, c’est-à-dire les exigences épistémologiques que l’on peut formuler vis-à-vis d’une théorie économique pour que l’on puisse considérer cette théorie comme vraie. On montre la variété des exigences qui dépendent largement des problématiques de vérité adoptées par les auteurs : rationalisme ou positivisme, induction ou déduction, monisme ou dualisme épistémologique… Cette diversité montre les difficultés qui ont pu être rencontrées pour pouvoir affirmer qu’une théorie économique est vraie. On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales tels que la question de l’explication et de la causalité dans le modèle déductif-nomologique ou le choix entre l’individualisme et le holisme. Enfin, on aborde les conséquences du post-modernisme sur les développements récents des sciences économiques.
@@ -29,7 +29,7 @@
   prof_name: Annie L. Cot, Jérôme Lallement
   lang: "en"
   description: >
-    Forthcoming
+    This **double** seminar "Epistemology of economic science I and II" is provided by Annie L. COT, full professor (University Paris 1, CES), and Jérome LALLEMENT, emeritus professor ((Université Paris-Descartes , CES.)
     
 - course_name: "Monnaie, valeur et prix : l'apport de la pensée marxiste"
   course_id: marx-orlean
@@ -62,8 +62,8 @@
   prof_name: André Orléan
   lang: 'en'
   description: >
-    forthcoming
- 
+    This seminar presented in French begins the tuesday december, 4th 2018 and finishes the tuesday July, 2nd 2019. It takes place the first, third and the fifth tuesdays of the month between 5pm and 8 pm. **In room 2 ("salle 2"), at the EHESS, au 105 bd Raspail 75006 Paris
+    
 - course_name: Séminaire de la chaire Ethique et Finance
   course_id: ethique-finance
   semester:
@@ -100,7 +100,8 @@
   prof_name: Christian Walter
   lang: 'en'
   description: >
-    forthcoming
+    **This seminar is delivered at the "Fondation Maison des Sciences de l'Homme" at the 54 Boulevard Raspail, 75006 Paris.
+
 
 - course_name: Histoire sociale des idées politiques
   course_id: histoire-idees-politiques
@@ -150,7 +151,7 @@
   prof_name: Louis Lévy-Garboua
   lang: 'en'
   description: >
-    This course presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
+    This course, in English, presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
 
 
     It draws lessons from psychology for understanding behaviour and the working of institutions.
@@ -215,12 +216,12 @@
     **Ce cours peut être complété par Ethique appliquée 2 au second semetre.**
     
 - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
-  course_id: ethique-appliquee 1
+  course_id: ethique-appliquee-1
   semester: 2
   prof_name: Emmannuel Picavet
   lang: 'en'
   description: >
-    Forthcoming
+    **This seminar is delivered at Sorbonne, 75005 Paris**
     
 - course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
   course_id: ethique-appliquee-2
@@ -260,7 +261,7 @@
   prof_name: Emmannuel Picavet
   lang: 'en'
   description: >
-    Forthcoming
+    **This seminar is delivered at Sorbonne, 75005 Paris**
     
 - course_name: "Philosophie économique. Modèles stratégiques et rationalité en politique et en économie"
   course_id: rationalite-philo-eco
@@ -291,7 +292,7 @@
   prof_name: Emmannuel Picavet, Joseph Abdou
   lang: 'en'
   description: >
-    forthcoming
+    **This seminar is delivered at Sorbonne, 75005 Paris**
     
 - course_name: "Histoire de l'économie normative après 1945"
   course_id: eco-normative-1945
@@ -342,7 +343,7 @@
     Forthcoming
  
 - course_name: "Histoire de la théorie du choix rationel"
-  course_id: TCR
+  course_id: tcr
   semester: 2
   prof_name: Richard Arena
   lang: 'fr'
@@ -350,7 +351,7 @@
     Forthcoming
   
 - course_name: "Histoire de la théorie du choix rationel"
-  course_id: TCR
+  course_id: tcr
   semester: 2
   prof_name: Richard Arena
   lang: 'en'
