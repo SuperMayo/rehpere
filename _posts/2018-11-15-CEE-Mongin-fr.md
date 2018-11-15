@@ -17,7 +17,7 @@ Prochain Cercle d'Epistémologie Economique
 
 <!--more-->
 <br>
-------------------
+<hr />
 <br><br>
 Save the date: *13 décembre* à *18:00*
 
