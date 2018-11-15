@@ -7,17 +7,15 @@ lang: fr
 anchor: True
 ---
 
-La prochaine séance du Cercle d’épistémologie économique aura lieu:
+Date : *22 novembre 2018* à *18:00*
+Lieu : Maison des Sciences Économiques, salle S17
 
-*le jeudi 22 novembre 2018* de 18 heures à 20 heures
-à la Maison des Sciences Économiques (salle S17)
-
-#### Philippe MONGIN (Centre National de la Recherche Scientifique, HEC)
-### Repenser les 'nudges'
+Philippe MONGIN (Centre National de la Recherche Scientifique, HEC) animera la séance sur le thème : 
+#### Repenser les "nudges"
 
 <!--more-->
 
-Save the date: le prochain Cercle d’épistémologie économique sera animé le 13 décembre par Manon Garcia:
+Save the date: *13 décembre* à *18:00*
 
-### « Qu’est ce qu’une épistémologie féministe ? », à propos de son livre récent On ne naît pas soumise,
-on le devient (Climats, 2018)
+Manon GARCIA animera la séance sur le thème:
+#### « Qu’est ce qu’une épistémologie féministe ? », à propos de son livre récent *On ne naît pas soumise, on le devient (Climats, 2018)*
