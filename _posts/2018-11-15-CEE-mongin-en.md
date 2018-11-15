@@ -2,7 +2,7 @@
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-11-15
-ref: CEE-mongin-2018-11-15-en
+ref: CEE-mongin-2018-11-15
 lang: en
 anchor: True
 ---
