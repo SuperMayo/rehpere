@@ -13,7 +13,6 @@ Prochain Cercle d'Epistémologie Economique :
 
 **Philippe MONGIN** (Centre National de la Recherche Scientifique, HEC) animera la séance sur le thème : 
 #### **Repenser les "nudges"**
-
 <!--more-->
 <br>
 <hr />
