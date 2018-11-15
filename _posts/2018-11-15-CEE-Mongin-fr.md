@@ -7,7 +7,7 @@ lang: fr
 anchor: True
 ---
 
-Prochain Cercle d'Epistémologie Economique
+Prochain Cercle d'Epistémologie Economique :
 * Date : *22 novembre 2018* à *18:00*
 * Lieu : *Maison des Sciences Économiques, salle S17*
 
@@ -19,7 +19,7 @@ Prochain Cercle d'Epistémologie Economique
 <br>
 <hr />
 <br><br>
-Save the date: *13 décembre* à *18:00*
+**Save the date** : *13 décembre* à *18:00*
 
 *Manon GARCIA* animera la séance sur le thème:
 #### « Qu’est ce qu’une épistémologie féministe ? », à propos de son livre récent *On ne naît pas soumise, on le devient (Climats, 2018)*
