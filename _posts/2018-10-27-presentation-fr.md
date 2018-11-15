@@ -4,7 +4,7 @@ title: CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-10-27
 ref: post1
 lang: fr
-anchor: True
+anchor: False
 ---
 
 Les prochains Cercle d'Epistémologie Economique seront annoncés ici.
