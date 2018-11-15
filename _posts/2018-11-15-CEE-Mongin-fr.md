@@ -9,7 +9,7 @@ anchor: True
 
 Date : *22 novembre 2018* à *18:00*
 
-Lieu : Maison des Sciences Économiques, salle S17
+Lieu : *Maison des Sciences Économiques, salle S17*
 
 Philippe MONGIN (Centre National de la Recherche Scientifique, HEC) animera la séance sur le thème : 
 #### Repenser les "nudges"
