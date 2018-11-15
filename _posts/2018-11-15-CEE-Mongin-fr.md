@@ -1,13 +1,12 @@
 ---
 layout: post
-title: CERCLE D'EPISTEMOLOGIE ECONOMIQUE
+title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-11-15
 ref: CEE-mongin-2018-11-15-fr
 lang: fr
 anchor: True
 ---
 
-### Prochain Cercle d'Epistémologie Economique
 * Date : *22 novembre 2018* à *18:00*
 * Lieu : *Maison des Sciences Économiques, salle S17*
 
