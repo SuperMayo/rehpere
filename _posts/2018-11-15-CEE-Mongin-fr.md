@@ -17,8 +17,8 @@ Lieu : *Maison des Sciences Économiques, salle S17*
 
 <!--more-->
 <br>
------------------
-<br>
+------------------
+<br><br>
 Save the date: *13 décembre* à *18:00*
 
 *Manon GARCIA* animera la séance sur le thème:
