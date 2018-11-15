@@ -2,7 +2,7 @@
 layout: post
 title: CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-11-15
-ref: post-CEE-mongin-1
+ref: CEE-mongin-2018-11-15-fr
 lang: fr
 anchor: True
 ---
