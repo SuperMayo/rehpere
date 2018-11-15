@@ -11,7 +11,7 @@ anchor: True
 * Lieu : *Maison des Sciences Économiques, salle S17*
 
 **Philippe MONGIN** (Centre National de la Recherche Scientifique, HEC) animera la séance sur le thème : 
-#### **Repenser les "nudges"**
+<p style="text-align: center;"> #### **Repenser les "nudges"** </p>
 <!--more-->
 <br>
 <hr />
