@@ -16,7 +16,7 @@ Philippe MONGIN (Centre National de la Recherche Scientifique, HEC) animera la s
 
 
 <!--more-->
-
+<br><br><br><br>
 Save the date: *13 décembre* à *18:00*
 
 Manon GARCIA animera la séance sur le thème:
