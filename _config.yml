@@ -34,8 +34,6 @@ img_path: "/assets/img/"
 
 markdown: kramdown
 
-excerpt_separator: <!--more-->
-
 ######################################################
 ######################################################
 # General settings
@@ -77,6 +75,7 @@ menu:
     master:
       name: "Master ESH"
       prep: '<i class="fas fa-user-graduate"></i>'
+      url: "/master/"
       sublinks:
         - name: "Présentation"
           url: "/master/#presentation"
