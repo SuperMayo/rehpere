@@ -11,7 +11,7 @@ anchor: True
 * Venue : *Maison des Sciences Économiques, salle S17*
 
 **Manon GARCIA** (Harper-Schmidt Fellow, Collegiate Assistant Professor, University of Chicago) will talk about: 
-#### **Qu’est ce que l'épistémologie féministe=?**
+#### **Qu’est ce que l'épistémologie féministe?**
 <!--more-->
 <br>
 <hr />
