@@ -159,30 +159,109 @@
 - course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
   course_id: science-studies
   semester: 2
-  prof_name: Michel Armatte
+  prof_name: Michel Armatte, Cléo Chassonnery-Zaïgouche, Emmanuel Didier
   lang: 'fr'
   description: >
-    L’objectif de ce cours est de présenter le point de vue STS (sciences techniques et société) propre aux sciences studies qui 
-    a renouvelé l’histoire des sciences, puis de suggérer que l’histoire et l’épistémologie des sciences économiques pourraient 
-    s’en inspirer utilement, en particulier pour traiter des opérations de quantification et de modélisation qui ont fait passer 
-    de l’économie politique aux sciences économiques.
+    L’objectif de ce cours est d’introduire les étudiant·e·s à l’analyse historique des pratiques de quantification et de modélisation en sciences sociales à l’aide des 
+    outils et des méthodes des Sciences and Technologies Studies (STS).
+
+    Le cours se déroulera sur 6 séances de trois heures. Chaque séance abordera des thématiques abordées par les STS à travers une séléction d'articles qui seront présentés et discutés par les étudiants.
 
 
 
-    En nous appuyant sur des textes classiques de cette approche, mais aussi des chapitres de La science écomique comme ingénierie
-    (Armatte 2010) ou de L’argument statistique (Desrosières 2008, tome 1 et 2), nous traitons successivement de la naissance du 
-    probable au XVIIIe, de la statistique économique entre 1850 et 1930, de la comptabilité nationale, du calcul économique, de 
-    la planification, et de la modélisation économétrique pendant les Trente Glorieuses. Pour ce qui est de la période néolibérale 
-    nous abordons les développements de l’économie environnementale et climatique, de l’évaluation des politiques publiques, de 
-    l’économie expérimentale, des modèles de la finances et des algorithmes associés au Big Data.
-    
+    **Présentation Générale**
+
+
+    Après une brève introduction au thème « Sciences et société » (Bonneuil & Joly 2013 ; Pestre 2006, 2013) et au « programme fort » des STS (Bloor 1976, MacKenzie 1981, Shapin & Schaffer 1993), 
+    la séance sera consacrée au thème de la gouvernance et du gouvernement à travers l’étude des régimes de production des savoirs 
+    (Foucault 2004a et 2004b, Latour 1984, 1989, 1991, 2001 ; Callon 1986, 2007 ; Supiot 2015 ; Pestre 2003).
+
+
+    Texte 1, Desrosières 2008a. Pour une sociologie historique de la quantification. Chapitre 1, La statistique outil de preuve et de gouvernement.
+    Texte 2, Armatte 2010. La science économique comme ingénierie. Introduction, Ingénierie économique. Régimes d’expertise.
+
+
+    **Du probable aux probabilités**
+
+
+    Cette séance est consacrée à l’émergence, aux enjeux et aux significations du probable aux XVIIIème et XIXème siècles. Les thèmes abordés sont les débats sur le hasard et les probabilités à l’âge 
+    classique (Daston 1989, Hacking 1975, Coumet 1970) ; les travaux de Quételet sur « l’homme moyen » et de Cournot et le hasard ontique ; le tournant de 1859 avec les travaux de Maxwell et Darwin (Lestienne 1993).
+
+
+    Texte 3, Armatte 2004. La théorie des erreurs (1750-1820), enjeux problématiques et résultats.
+    Texte 4, Armatte 2012. La marche de l’aléa ou le hasard dans les sciences.
+
+
+
+    **Statistique économique libérale (1850-1930), invention de l’enquêtes statistique**
+
+
+    Une très grande partie des statistiques disponibles aujourd’hui sont produites au moyen d’enquêtes par questionnaires. Cette séance montrera la genèse de cette méthode entre 1880 et 1930 aux USA. 
+    Parmi les questions essentielles posées par cette invention on trouve celle de définir un arbitre, présupposé objectif, dans la production de ces chiffres, et d’autre part celle de l’articulation 
+    entre la population comme source et comme usager de l’information. D’autre part, cette séance insiste fortement sur la matérialité de la production statistique.
+
+
+    Texte 5, C. Wright Mills, L’imagination sociologique, Paris, La Découverte 1997 (1959). Chapitre 5, L’éthique bureaucratique.
+    Texte 6, Bruno Latour, « Le « pedofil » de Boa Vista », in La Clef de Berlin, Paris, La découverte, pp. 171-225, 1993.
+    Texte 7, Desrosières 2008b introduction et chapitre 7 ;
+    Texte 8, Desrosières 2008a Chap. 3, historiciser l’action publique (L’Etat, le marché les statistiques
+
+
+
+    **Quantification et expertise, l’exemple des tribunaux américains**
+
+
+    La “troisième vague” des STS (Collins & Evans 2002, Delmas 2011) est étudiée à partir du cas de l’expertise dans les tribunaux. Il s’agit notamment de s’intéresser à l’évolution de l’usage des statistiques 
+    dans les tribunaux (Golan 1999 ; Lynch & McNally 1999) mais également à la manière dont les enjeux de la quantification se traduisent dans un contexte légal (Jasanoff 1995). Deux études de cas seront proposées, 
+    celle de l’expertise des économistes et celle des sociologues. L’idée est de permettre aux étudiant·e·s d’appréhender les différents type d’expertise (Joly 1999) dans une perspective comparative centrée sur 
+    a quantification.
+
+
+    Texte 9, Jasanoff 1992. What Judges Should Know About the Sociology of Science.
+    Texte 10, Chassonnery-Zaïgouche 2019. Economists Entered the ‘Numbers Game’, The Early Reception of Wage Decomposition Methods in the U.S. Courtrooms (1971-1989).
+    Texte 11, Jacoby 1996. ‘We Don’t Deal in Probabilities Here’, Tales of a Quantitative Sociologist in Court.
+
+
+
+    **Quantifier l’efficacité des politiques publiques (1970s-2000s)**
+
+
+    La séance 5 aborde les transformations de l’évaluation des politiques publiques depuis les années 1970, notamment en terme de type de quantification. L’objectif est d’introduire les étudiant·e·s à ce que les économistes ont 
+    appelé « la révolution de la crédibilité » en économie (Cherrier 2016 ; Desrosières 2014 ; Fourcade, Ollion & Algan. 2015 ; Shapin 1995). Deux études de cas seront menées, d’une part, l’utilisation des méthodes 
+    d’analyse coût-bénéfice dans le cadre d’une administration américaine et d’autre part, l’utilisation des expériences de terrain randomisées en économie du développement.
+
+
+    Texte 12, Breslau. 1997. The Political Power of Research Methods, Knowledge Regimes in US Labor Market Policy.
+    Texte 13, Labrousse 2010. Nouvelle économie du développement et essais cliniques randomisés, une mise en perspective d’un outil de preuve et de gouvernement.
+
+
+
+    **Victoire des sondages et critiques de la statistique après la seconde guerre mondiale**
+
+
+    Cette séance poursuit l’histoire des enquêtes statistiques. On montre comment pendant la première moitié du XXème siècle, la notion de représentativité statistique a été reprise à la sphère politique et reformatée pour renforcer les 
+    méthodes d’enquêtes. On montre ensuite qu’après la seconde guerre mondiale les enquêtes ont été l’objet de vives critiques qui ont abouti à l’établissement de la « sociologie qualitative ». Quelles sont les critiques émises contre les 
+    enquêtes ? Sont-elles toujours convaincantes aujourd’hui ? Remettent-elles en cause toute forme de quantification ?
+
+
+    Texte 14, Theodore Porter, Trust in Numbers, Cambridge University Press 1995 (Traduit en Français par La confiance dans les chiffres, Les Belles Lettres, 2017), chapitre 7, « US Army Engineers and the Rise of Cost-Benefit Analysis ».
+    Texte 15, Isabelle Bruno, Emmanuel Didier, Julien Prévieux, Cyprien Tasset, « Introduction, Pour un statactivisme », Statactivisme, Comment lutter avec des nombres, Paris, La Découverte, Coll. Zones, 2014.
+    Texte 16, Gadrey, Jean, et Florence Jany-Catrice. Les nouveaux indicateurs de richesse. 3e éd. entièrement refondue et mise à jour. 1 vol. Repères 404. Paris, la Découverte, 2012.
+
+
+
 - course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
   course_id: science-studies
   semester: 2
   prof_name: Michel Armatte, Cléo Chassonnery-Zaïgouche, Emmanuel Didier
   lang: 'en'
   description: >
-    Forthcoming
+    This lecture introduce students to the historical analysis of quantification and modelisation practices in social sciences using tools and methods from the Science Studies. 
+
+    The lecture is divided in 6 courses of 3 hours. Each courses focus a topic of research thanks to a selection of articles that students will present and discuss. 
+
+
+    
     
 - course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
   course_id: ethique-appliquee-1

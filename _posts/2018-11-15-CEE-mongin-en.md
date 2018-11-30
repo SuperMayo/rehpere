@@ -4,11 +4,12 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-11-15
 ref: CEE-mongin-2018-11-15
 lang: en
-anchor: True
+anchor: False
 ---
 
-* Date : *22 november 2018* à *18:00*
-* Venue : *Maison des Sciences Économiques, salle S17*
+<i class="fas fa-table"></i> Date : *22 novembre 2018* à *18:00*
+
+<i class="fas fa-map-marked"></i> Venue : *Maison des Sciences Économiques, salle S17*
 
 **Philippe MONGIN** (Centre National de la Recherche Scientifique, HEC) will talk about: 
 #### **Rethinking "nudges"**
