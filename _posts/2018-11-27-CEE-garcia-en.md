@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2018-11-27
 ref: CEE-garcia-2018-11-27
 lang: en
-anchor: True
+anchor: False
 ---
 
 * Date : *13 Decembre 2018* à *18:00*
