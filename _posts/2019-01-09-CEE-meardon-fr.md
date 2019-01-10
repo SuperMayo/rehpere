@@ -10,7 +10,7 @@ anchor: True
 * Date : *17 Janvier 2019* à *18:00*
 * Lieu : *Maison des Sciences Économiques, salle 6*
 
-**Steven J. MEARDON** animera la séance sur le thème : 
+**Stephen J. MEARDON** animera la séance sur le thème : 
 #### **Reading Henry George’s Protection or Free Trade in the Age of Trump**
 <br>
 <hr />

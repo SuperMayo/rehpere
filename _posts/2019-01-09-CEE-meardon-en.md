@@ -10,7 +10,7 @@ anchor: True
 * Date : *17 January 2019* at *18:00*
 * Venue : *Maison des Sciences Économiques, 6th floor*
 
-**Steven J. Meardon** will talk about: 
+**Stephen J. Meardon** will talk about: 
 #### **“Reading Henry George’s Protection or Free Trade in the Age of Trump”** 
 <br>
 <hr />
