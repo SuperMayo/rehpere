@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-01-09
 ref: CEE-meardon-2019-01-09
 lang: en
-anchor: false
+anchor: False
 ---
 
 * Date : *17 January 2019* at *18:00*
