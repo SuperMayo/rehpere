@@ -10,7 +10,7 @@ anchor: True
 * Date : *14 Février 2019* à *18:00*
 * Lieu : *Maison des Sciences Économiques, salle 6*
 
-**Francois Allisson** animera la séance sur le thème : 
+**Marcel Boumans** animera la séance sur le thème : 
 #### **Vision and Visualisation in Economics**
 <br>
 <hr />
