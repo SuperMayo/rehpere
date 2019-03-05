@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
+title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-03-05
 ref: CEE-monet-2019-03-05
 lang: en
