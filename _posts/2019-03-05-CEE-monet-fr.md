@@ -10,7 +10,7 @@ anchor: True
 * Date : *14 Mars 2019* à *18:00*
 * Lieu : *Maison des Sciences Économiques, salle du 6e étage*
 
-*Eric Monet** (Banque de France, PSE) animera la séance sur le thème : 
+**Eric Monet** (Banque de France, PSE) animera la séance sur le thème : 
 
 #### **Expérience et causalité en histoire économique. Quels rapports à la théorie et à la temporalité ?**
 
