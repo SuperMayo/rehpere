@@ -648,6 +648,8 @@
     - Thomas Sargent
     - Robert J. Gordon 
   external:
+    - name: "Website"
+      link: "https://agoutsmedt.wordpress.com/"
     - name: "Thèses.fr"
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
@@ -688,6 +690,8 @@
     - Thomas Sargent
     - Robert J. Gordon 
   external:
+    - name: "Site Web"
+      link: "https://agoutsmedt.wordpress.com/"
     - name: "Thèses.fr"
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
