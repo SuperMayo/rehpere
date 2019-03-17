@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-03-05
 ref: CEE-monnet-2019-03-05
 lang: fr
-anchor: True
+anchor: False
 ---
 
 * Date : *14 Mars 2019* à *18:00*

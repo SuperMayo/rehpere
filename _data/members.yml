@@ -1,3 +1,85 @@
+############  Quentin Couix - fr  #############
+
+- firstname: Quentin
+  surname: Couix
+  flatname: quentin-couix
+  picture: "quentin-couix.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - Economie écologique
+    - Ressources naturelles
+    - Thermodynamique
+    - Théorie de la croissance
+  authors:
+    - Nicholas Georgescu-Roegen
+    - Robert Ayres
+    - Robert Solow
+    - Joseph Stiglitz
+  external:
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "http://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[page]=presentation&tx_oxcspagepersonnel_pi1[uid]=qcouix"
+    - name: "RePEc"
+      link: "https://ideas.repec.org/f/pco952.html"
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Quentin_Couix"
+  contact: "quentin.couix@univ-paris1.fr"	
+  free_text: >
+    Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
+    par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
+    approches qui établissent des liens entre l’économie et la thermodynamique (physique de l’énergie et de la matière). Mais
+    je porte aussi mon attention sur les diverses controverses qui ont opposé ce courant à la théorie néoclassique des 
+    ressources naturelles.
+      
+    D'un point de vue historique, mes recherches se concentrent sur la période allant des années 1970 à nos jours. Mais leur 
+    ambition est surtout épistémologique et méthodologique, questionnant à la fois les outils analytiques utilisés pour 
+    représenter la production et les rapports interdisciplinaires qu'ils supposent entre l'économie et la physique.
+
+
+############  Quentin Couix - en   #############
+
+
+- firstname: Quentin
+  surname: Couix
+  flatname: quentin-couix
+  picture: "quentin-couix.jpg"
+  lang: "en"
+  status: "PhD Student"
+  institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - Ecological economics
+    - Natural resources
+    - Thermodynamics
+    - Growth theory
+  authors:
+    - Nicholas Georgescu-Roegen
+    - Robert Ayres
+    - Robert Solow
+    - Joseph Stiglitz
+  external:
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "http://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[page]=presentation&tx_oxcspagepersonnel_pi1[uid]=qcouix"
+    - name: "RePEc"
+      link: "https://ideas.repec.org/f/pco952.html"
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Quentin_Couix"
+  contact: "quentin.couix@univ-paris1.fr"	
+  free_text: >
+      My work questions the way economic theory tries to understand the material bases of development, 
+      and whether it is sustainable or not. I focus on the school of ecological economics, and more 
+      particularly on approaches that establish links between economics and thermodynamics (physics of energy 
+      and matter). But I am also interested in the various controversies that have opposed this current to the 
+      neoclassical theory of natural resources.
+    
+    
+      From a historical point of view, my research deals with the period going from the 1970s to the present. But 
+      its ambition is mainly epistemological and methodological, questioning both the analytical tools used to 
+      represent production and the interdisciplinary relations they assume between economics and physics.
+
+
+
+
 ############  Niels Boissonnet - en   #############
 
 - firstname: Niels
@@ -184,7 +266,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V" 
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/curriculum-vitae_f472ff31b1.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -221,7 +303,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/curriculum-vitae_f472ff31b1.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
