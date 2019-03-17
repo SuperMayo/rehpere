@@ -1152,7 +1152,7 @@
 
 ############ Cléo Chassonnery-Zaïgouche #############
 
-- name: "Cléo"
+- firstname: "Cléo"
   surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
