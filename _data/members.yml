@@ -1,49 +1,47 @@
 ############  Quentin Couix - fr  #############
 
-- full_name: Quentin Couix
-    surname: Couix
-    firstname: Quentin
-    flatname: quentin-couix
-    picture: "quentin-couix.jpg"
-    lang: "fr"
-    status: "Doctorant"
-    institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
-    themes:
-      - Economie écologique
-      - Ressources naturelles
-      - Thermodynamique
-      - Théorie de la croissance
-    authors:
-      - Nicholas Georgescu-Roegen
-      - Robert Ayres
-      - Robert Solow
-      - Joseph Stiglitz
-    external:
-      - name: "Université Paris 1 Panthéon-Sorbonne"
-      	link: "http://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[page]=presentation&tx_oxcspagepersonnel_pi1[uid]=qcouix"
-      - name: "RePEc"
-        link: "https://ideas.repec.org/f/pco952.html"
-      - name: "ResearchGate"
-        link: "https://www.researchgate.net/profile/Quentin_Couix"
-    contact: "quentin.couix@univ-paris1.fr"	
-    free_text: >
-      Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
-      par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
-      approches qui établissent des liens entre l’économie et la thermodynamique (physique de l’énergie et de la matière). Mais 
-      je porte aussi mon attention sur les diverses controverses qui ont opposé ce courant à la théorie néoclassique des 
-      ressources naturelles.
+- firstname: Quentin
+  surname: Couix
+  flatname: quentin-couix
+  picture: "quentin-couix.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - Economie écologique
+    - Ressources naturelles
+    - Thermodynamique
+    - Théorie de la croissance
+  authors:
+    - Nicholas Georgescu-Roegen
+    - Robert Ayres
+    - Robert Solow
+    - Joseph Stiglitz
+  external:
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "http://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[page]=presentation&tx_oxcspagepersonnel_pi1[uid]=qcouix"
+    - name: "RePEc"
+      link: "https://ideas.repec.org/f/pco952.html"
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Quentin_Couix"
+  contact: "quentin.couix@univ-paris1.fr"	
+  free_text: >
+    Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
+    par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
+    approches qui établissent des liens entre l’économie et la thermodynamique (physique de l’énergie et de la matière). Mais
+    je porte aussi mon attention sur les diverses controverses qui ont opposé ce courant à la théorie néoclassique des 
+    ressources naturelles.
       
-      D'un point de vue historique, mes recherches se concentrent sur la période allant des années 1970 à nos jours. Mais leur 
-      ambition est surtout épistémologique et méthodologique, questionnant à la fois les outils analytiques utilisés pour 
-      représenter la production et les rapports interdisciplinaires qu'ils supposent entre l'économie et la physique.
+    D'un point de vue historique, mes recherches se concentrent sur la période allant des années 1970 à nos jours. Mais leur 
+    ambition est surtout épistémologique et méthodologique, questionnant à la fois les outils analytiques utilisés pour 
+    représenter la production et les rapports interdisciplinaires qu'ils supposent entre l'économie et la physique.
 
 
 ############  Quentin Couix - en   #############
 
 
-- full_name: Quentin Couix
+- firstname: Quentin
   surname: Couix
-  firstname: Quentin
   flatname: quentin-couix
   picture: "quentin-couix.jpg"
   lang: "en"
