@@ -16,7 +16,7 @@ anchor: True
 
 
 
-* Date : *28 Mars 2019* à *18:00*
+* Date : *18 avril 2019* à *18:00*
 
 * Lieu : *Maison des Sciences Économiques, salle du 6e étage*
 
