@@ -266,7 +266,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V" 
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_sep2019_8d1707bb2c.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -303,7 +303,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_sep2019_8d1707bb2c.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -738,7 +738,6 @@
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
       link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
-    
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
@@ -797,7 +796,6 @@
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
       link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
-
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
