@@ -24,7 +24,7 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
-  contact: "quentin.couix@univ-paris1.fr"	
+  contact: "quentin.couix@univ-paris1.fr" 
   free_text: >
     Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
     par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
@@ -64,7 +64,7 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
-  contact: "quentin.couix@univ-paris1.fr"	
+  contact: "quentin.couix@univ-paris1.fr" 
   free_text: >
       My work questions the way economic theory tries to understand the material bases of development, 
       and whether it is sustainable or not. I focus on the school of ecological economics, and more 
@@ -266,7 +266,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V" 
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_e574044449.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -303,7 +303,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_e574044449.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -736,8 +736,6 @@
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
-    - name: "CV."
-      link: "https://mega.nz/#!WLpE0KzJ!LjvQPDISFpdaQ1YRqbdRRRMPn4JQnuaXMrMTTV6wSts"
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
@@ -780,8 +778,6 @@
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
-    - name: "CV."
-      link: "https://mega.nz/#!PTIgyKST!R0CZohc61dyH4Sb3XsePKuZmFuAzUfsaecdsjOzEEDs"
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
@@ -1161,14 +1157,16 @@
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "en"
-  status: "Première assistante"
+  status: "Postdoctoral Research associate"
   statuscode: "pd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  institution: "CRASSH, University of Cambridge"
   themes:
       - Discriminations
       - Expertise
       - Wages
       - Equal Pay
+      - Quantification
+      - Courtrooms
   authors:
       - Beatrice Webb
       - Milicent Fawcett
@@ -1176,8 +1174,8 @@
       - Kenneth Arrow
       - Gary Becker
   external:
-    - name: "Université de Lausanne"
-      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
+    - name: "CRASSH"
+      link: "http://www.crassh.cam.ac.uk/people/profile/cleo-chassonnery-zaigouche"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
@@ -1213,8 +1211,6 @@
     Finally, I work on a history of the CSWEP with Beatrice Cherrier and John Singleton.
 
 
-    I am managing editor at Oeconomia since 2015
-
 - firstname: "Cléo"
   surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
@@ -1228,6 +1224,8 @@
       - Expertise
       - Salaires
       - Equal Pay
+      - Quantification
+      - Courts
   authors:
       - Kenneth Arrow
       - Gary Becker
@@ -1236,7 +1234,7 @@
       - Eleanor Rathbone
       - Barbara Bergmann
   external:
-    - name: "Université de Lausanne"
+    - name: "CRASSH"
       link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
@@ -1266,7 +1264,6 @@
     Par ailleurs, je travaille une histoire du CSWEP avec Béatrice Cherrier et John Singleton.
 
 
-    Je suis aussi secrétaire de rédaction chez Oeconomia depuis 2015.
 
 
 
