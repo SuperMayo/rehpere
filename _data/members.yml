@@ -738,6 +738,7 @@
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
       link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+    
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
@@ -752,12 +753,12 @@
     state of the field since the 2008 financial crisis.
     
     
-
     The next step in my research journey is to study the effect of these transformations of macroeconomics on economic 
     expertise and economic policies. As many historians and political scientists regard the late 1970s and early 1980s as 
     a crucial turn (sometimes labelled “the neoliberal turn”) in terms of policy, it could be appealing to draw a direct line 
     from changes in macroeconomics to changes in economic policies. Having endeavoured to underline the complexity and the 
     different ways to interpret the 1970s in macroeconomics, the situation also appeared less linear regarding economic expertise. For instance, in terms of macroeconometric modelling, the large-scale models sternly criticised by New Classical economists remained in use in many policymaking institutions and kept modified and improved. The DSGE models of the new synthesis just appeared in the second part of the 1990s, that is to say, more than 20 years after the Lucas Critique.
+
 
     One of my current interest is the study of the Humphrey-Hawkins Act. Enacted in October 1978 in the United-States, 
     it established explicit goals of 4% unemployment rate (for 1983) and 0% inflation rate (for 1988). The President of the U.S. 
@@ -796,6 +797,7 @@
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
       link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
@@ -810,6 +812,8 @@
     contextuelle et empirique de la macroéconomie permet de faire apparaître des ressemblances entre la crise traversée à 
     l'époque par la discipline, et celle rencontrée depuis la crise financière de 2008.
 
+
+
     A la suite de ma thèse, j'ai commencé à m'intéresser aux effets de ces transformations de la macroéconomie sur l'expertise 
     économique et les politiques économiques. La fin des années 1970 et le début des années 1980 sont souvent considérés par 
     les historiens et les politistes comme une période d'intenses transformations en termes de politiques économiques (parfois
@@ -819,6 +823,8 @@
     dits "keynésiens" et critiqués par les économistes nouveaux classiques dans les années 1970 se sont maintenus dans les 
     institutions de la politiques économiques jusque dans les années 1990 et n'ont parfois été que partiellement remplacé par 
     les modèles DSGE.
+
+
 
     Un de mes projets de recherche actuels s'intéresse à l'étude du Humphrey-Hawkins Act. Etabli aux Etats-Unis en octobre 1978,
     il fixe un objectif explicite de 4% de taux de chômage et de 0% d'inflation.Le président américain doit s'engager à réaliser 
@@ -838,9 +844,9 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "en"
-  status: "Lecturer in Economics"
+  status: "Assistant professor in economics"
   statuscode: "mcf"
-  institution: "University of the West of England Bristol"
+  institution: "Université Paris Est Créteil, LIPHA"
   themes:
     - macroeconomics
     - models
@@ -849,15 +855,13 @@
   authors:
     - Robert E. Lucas 
   external:
-    - name: "UWE Bristol"
-      link: "https://people.uwe.ac.uk/Person/FrancescoSergi"
+    - name: "Université Paris Est Créteil, LIPHA"
+      link: "http://lipha.u-pec.fr/membres/membres-permanents/sergi-francesco-909980.kjsp?RH=1222865797626"
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2017PA01E059"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781960"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/francesco-sergi-94686771/"
-  contact: "francesco.sergi@uwe.ac.uk"
+  contact: "francesco.sergi@u-pec.fr"
   twitter: "cescoeco"
   free_text: >
     My current research addresses the recent history of macroeconometric modelling, from Robert Lucas’s seminal
@@ -875,9 +879,9 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "fr"
-  status: "Lecturer in Economics"
+  status: "Maître de conférence en économie"
   statuscode: "mcf"
-  institution: "University of the West of England Bristol"
+  institution: "Université Paris Est Créteil, LIPHA"
   themes:
     - macroéconomie
     - modèles
@@ -886,14 +890,12 @@
   authors:
     - Robert E. Lucas 
   external:
-    - name: "UWE Bristol"
-      link: "https://people.uwe.ac.uk/Person/FrancescoSergi"
+    - name: "Université Paris Est Créteil, LIPHA"
+      link: "http://lipha.u-pec.fr/membres/membres-permanents/sergi-francesco-909980.kjsp?RH=1222865797626"
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2017PA01E059"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781960"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/francesco-sergi-94686771/"
   contact: "francesco.sergi@uwe.ac.uk"
   twitter: "cescoeco"
   free_text: >
@@ -1004,21 +1006,11 @@
       link: "http://triangle.ens-lyon.fr/spip.php?article7059"
   contact: "nathanael.colin@ens-lyon.fr"
   free_text: >
-    Je travaille en ce moment sur ma thèse, portant sur les origines du tournant néolibéral au 
-    XXe siècle. Dans ce cadre je travaille sur différents aspects : l'historiographie du néolibéralisme 
-    et ses enjeux théoriques et politiques; la naissance de la critique de l'anthropologie libérale 
-    à travers le débat Lippmann-Dewey; le débat sur le calcul socialiste mené par Mises; la mutation 
-    introduite par Hayek dans les années 40/50 avec l'intégration de la notion d'information et son 
-    influence sur les travaux en sciences économiques. Je prévois d'aborder d'autres questions et corpus
-    plus récents dans mon travail.
+    Ma thèse porte sur les origines et le développement du néolibéralisme au XXème siècle. Je montre comment la reconstruction du libéralisme dans les années 1930, chez Lippmann, Hayek, les ordolibéraux, la première Ecole de Chicago, est marquée par un nouveau questionnement portant sur la possibilité de définir un gouvernement de la société sans tomber dans les écueils du laissez-faire ou de la planification. Ce questionnement sur les conditions de l'ordre socio-économique aboutit à l'insistance sur des "règles du jeu", essentiellement juridiques, qui vont venir former aussi bien qu'encadrer l'économie et le politique. Cette pensée est développée sur les objets politiques par James Buchanan, qui insiste très largement sur la dimension constitutionnelle du li béralisme, aussi bien que par Posner, qui développe juridiquement la réflexion néolibérale sur les règles les plus efficientes. La trajectoire néolibérale part ainsi d'une anthropologie politique renouvelée pour aboutir à une philosophie du droit conséquente.
 
+    Je suis intéressé plus largement par l'histoire du libéralisme et j'ai aussi travaillé sur le libéralisme dit "classique", notamment Adam Smith, Hume ou encore Mill. 
 
-    J'ai également travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l'ontologie 
-    sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril
-    Hédoin, qui discute des problèmes philosophiques relatifs à l'individualisme et au holisme, ou encore 
-    à l'intentionnalité collective. 
-
-
+    En économie j'ai travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l’ontologie sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril Hédoin, qui discute des problèmes philosophiques relatifs à l’individualisme et au holisme, ou encore à l’intentionnalité collective.
 
 
 ############ Nathanael Colin -en #############
@@ -1329,27 +1321,67 @@
   contact: "annie-cot@mymail.fr"
   twitter: "AnnieLouCot"
 
-############ Annie L. Cot #############
-- firstname: "Annie L."
-  surname: "Cot"
-  flatname: annie-cot
-  picture: "annie-cot.jpg"
-  lang: "en"
-  status: "Professeur des universités"
-  statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne"
+
+
+
+
+
+############ Julien Gradoz fr #############
+- firstname: "Julien"
+  surname: "Gradoz"
+  flatname: julien-gradoz
+  picture: "julien-gradoz.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
   themes:
-      - Utilitarism
-      - Économie & psychologie
-      - Économie experimentale
-      - Expertise
+      - Economie de la qualité
+      - Quantification
+      - Naturalisation
+      - Marché et marchandises
   authors:
-      - Jeremy Bentham
-      - Michel Foucault
-      - Gary Becker
-      - Irving Fisher
+      - Kevin Lacaster, 
+      - Edward Chamberlin
+      - George Akerlof 
   external:
-    - name: "ResearchGate"
-      link: "https://www.researchgate.net/profile/Annie_Cot"
-  contact: "annie-cot@mymail.fr"
-  twitter: "AnnieLouCot"
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+  contact: "julien.gradoz@ens-cachan.fr"
+  free_text: >
+    Mon travail de recherche porte actuellement sur l’histoire 
+    de la modélisation de la qualité des produits dans la théorie 
+    économique néoclassique, sa quantification, sa naturalisation, et la 
+    façon dont s’articule la qualification des objets en tant que « bien 
+    économique » ou « marchandise » et les modalités d’évaluation de leur 
+    qualité.
+
+
+############ Julien Gradoz en #############
+- firstname: "Julien"
+  surname: "Gradoz"
+  flatname: julien-gradoz
+  picture: "julien-gradoz.jpg"
+  lang: "en"
+  status: "PhD student"
+  statuscode: "phd"
+  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
+  themes:
+      - Economics of quality
+      - Quantification
+      - Naturalization
+      - Market and commodities
+  authors:
+      - Kevin Lacaster, 
+      - Edward Chamberlin
+      - George Akerlof 
+  external:
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+  contact: "julien.gradoz@ens-cachan.fr"
+  free_text: >
+    My research project is mainly focused on the history of the 
+    modelling of quality of economic goods in the neoclassical economic 
+    theory, its quantification, its naturalization, and how the process of 
+    qualification of objects into "economic goods" or commodities" is 
+    affecting the evaluation of their quality.
