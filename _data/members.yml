@@ -1457,3 +1457,61 @@
      My research has so far been built on search-based models of money, philosophical insights about natural kinds, and the history of monetary theory
 
 
+############ Erich Pinzon-Fuchs en #############
+- firstname: "Erich"
+  surname: "Pinzon Fuchs"
+  flatname: "erich-pinzon"
+  picture: "erich-pinzon.jpg"
+  lang: "en"
+  status: "Assistant professor in economics"
+  statuscode: "mdc"
+  institution: "Universidad Nacional de Colombia"
+  themes:
+      - History of Macroeconomics
+      - Macroeconometric modelling
+      - Gender representations in economics
+  external:
+    - name: "SSRN"
+      link: "http://ssrn.com/author=2587813"
+    - name: "Personal Website"
+      link: "https://erichpinzonfuchs.wordpress.com"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia, Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling, in the history of recent economics, and in the effects that gender representations have in the production of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics at UNAL and Uniandes.
+
+    I’m the digital information manager of the History of Economics Society (HES) and a member of HES’s Executive Committee. I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s communication committee. I’m co-director of the Grupo de Investigación en Historia, Pensamiento y Teoría Económica (GIHPTE), and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1 Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
+
+
+############ Erich Pinzon-Fuchs fr #############
+- firstname: "Erich"
+  surname: "Pinzon Fuchs"
+  flatname: "erich-pinzon"
+  picture: "erich-pinzon.jpg"
+  lang: "fr"
+  status: "Assistant professor in economics"
+  statuscode: "mdc"
+  institution: "Universidad Nacional de Colombia"
+  themes:
+      - Histoire de la macroéconomie
+      - Modélisation macroéconométrique. 
+      - Représentation genrée en économie.
+  external:
+    - name: "SSRN"
+      link: "http://ssrn.com/author=2587813"
+    - name: "Personal Website"
+      link: "https://erichpinzonfuchs.wordpress.com"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia, 
+    Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling, 
+    in the history of recent economics, and in the effects that gender representations have in the production 
+    of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics 
+    at UNAL and Uniandes.
+
+
+    I’m the digital information manager of the History of Economics Society (HES) and a member of HES’s Executive Committee.
+     I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s 
+     communication committee. I’m co-director of the Grupo de Investigación en Historia, Pensamiento y Teoría Económica (GIHPTE),
+      and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1 
+      Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History 
+      of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
