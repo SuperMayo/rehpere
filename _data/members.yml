@@ -24,7 +24,7 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
-  contact: "quentin.couix@univ-paris1.fr"	
+  contact: "quentin.couix@univ-paris1.fr" 
   free_text: >
     Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
     par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
@@ -64,7 +64,7 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
-  contact: "quentin.couix@univ-paris1.fr"	
+  contact: "quentin.couix@univ-paris1.fr" 
   free_text: >
       My work questions the way economic theory tries to understand the material bases of development, 
       and whether it is sustainable or not. I focus on the school of ecological economics, and more 
@@ -266,7 +266,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V" 
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_sep2019_8d1707bb2c.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -303,7 +303,7 @@
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_05d566ac35.pdf"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vitae_sep2019_8d1707bb2c.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -736,20 +736,37 @@
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
+    - name: "CV"
+      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+    
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
-    I work on the transformations of macroeconomics and macroeconomic policy since the 1970s. I focus 
-    on the role played by the stagflation (the increase of inflation and unemployment together) in the
-    discussions between macroeconomists in the United-States. 
+    My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally 
+    called the “New Classical revolution”. I highlighted that the process of transformations was far from being 
+    as direct as what a standard narrative uses to tell. I rejected a reading in terms of a succession of schools 
+    (the New Classical economics and RBC modellers overthrew the Keynesian paradigm, before the coming of New Keynesians 
+    and the emergence of a “New Neoclassical synthesis”). I focused on how macroeconomists interpreted stagflation at the time. 
+    It enables to understand how Keynesians reacted to New Classical criticisms (and thus to see that the ground for a supposed 
+    “New Keynesian” reaction was already settled), as it allows to observe the persistence of large-scale macroeconometric 
+    modelling. This empirical and contextual rereading of history of macroeconomics displays several similarities with the 
+    state of the field since the 2008 financial crisis.
     
     
-    How did they explain the stagflation? How did it influence the way economists understand, interpret and 
-    use some concepts like the natural rate of unemployment or the Lucas Critique? How did this context 
-    influence the way macroeconomists think about economic policy? By focusing on conferences, particular 
-    debates, empirical works, institutional materials (like discussions in central banks), my research aims
-    at building a more detailed and complex history of the evolution of macroeconomics, and of its impact
-    on economic policy.
+    The next step in my research journey is to study the effect of these transformations of macroeconomics on economic 
+    expertise and economic policies. As many historians and political scientists regard the late 1970s and early 1980s as 
+    a crucial turn (sometimes labelled “the neoliberal turn”) in terms of policy, it could be appealing to draw a direct line 
+    from changes in macroeconomics to changes in economic policies. Having endeavoured to underline the complexity and the 
+    different ways to interpret the 1970s in macroeconomics, the situation also appeared less linear regarding economic expertise. For instance, in terms of macroeconometric modelling, the large-scale models sternly criticised by New Classical economists remained in use in many policymaking institutions and kept modified and improved. The DSGE models of the new synthesis just appeared in the second part of the 1990s, that is to say, more than 20 years after the Lucas Critique.
+
+
+    One of my current interest is the study of the Humphrey-Hawkins Act. Enacted in October 1978 in the United-States, 
+    it established explicit goals of 4% unemployment rate (for 1983) and 0% inflation rate (for 1988). The President of the U.S. 
+    has to commit to these targets, and the Fed has to write reports explaining how it will help to reach these goals. 
+    Sometimes considered as the beginning of the “Dual Mandate” of the Fed, the first version of the project (in 1974) 
+    only bore on unemployment. It was supported by civil rights movements as well as by supporters of economic planning. 
+    Relying on a large set of documents and archives, I am studying the role of economists in the elaboration of the project, 
+    as well as in the discussions about it in the following year and the final enactment of a very different version.
 
 
 ############ Aurélien Goustmedt - en  #############
@@ -778,20 +795,46 @@
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
+    - name: "CV"
+      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
-    Je travaille sur les transformations de la macroéconoomie et des politiques macroéconomiques depuis les années 1970.
-    Je me focalise sur le rôle joué par la stagflation (l'accroissement conjoint de l'inflation et du chômage) dans les 
-    discussions entre macroéconomistes aux Etats-Unis. 
-    
-      
-    Comment ont-ils expliqué la stagflation ? Comment cela a-t-il influencé la manière dont les économistes comprennent, 
-    interprètent et utilisent certains concepts comme le taux de chômage naturel ou la critique de Lucas ? Comment ce 
-    contexte a-t-il influencé la manière dont les macroéconomistes pensent les politiques économiques ? En mettant l’accent
-    sur les conférences, les débats particuliers, les travaux empiriques, les matériaux (comme les discussions dans les 
-    banques centrales), mes recherches visent à construire une histoire plus détaillée et complexe de l'évolution de la 
-    macroéconomie et de son impact sur la politique économique.
+    Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé 
+    la "révolution de la nouvelle économie classique". Je montrais que le processus de transformation était loin d'être aussi 
+    direct que ce qu'une certaine histoire standard laissait penser. Je rejettais une lecture en termes de succession d'écoles 
+    de pensée (la nouvelle économie classique et les modèles RBC qui renversaient le paradigme keynésien, avant l'arrivée des 
+    nouveaux keynésiens et l'émergence de la "nouvelle synthèse néoclassique"). Je me concentrais sur la manière dont les 
+    macroéconomistes interprétaient la stagflation à l'époque. Cela permet de comprendre comment les keynésiens ont réagi 
+    aux critique des nouveaux classiques (et ainsi de voir que la réaction "nouvelle keynésienne" était déjà bien en place 
+    dès les années 1970), mais aussi d'observer la persistence de la modélisation macroéconométrique standard. Cette relecture 
+    contextuelle et empirique de la macroéconomie permet de faire apparaître des ressemblances entre la crise traversée à 
+    l'époque par la discipline, et celle rencontrée depuis la crise financière de 2008.
+
+
+
+    A la suite de ma thèse, j'ai commencé à m'intéresser aux effets de ces transformations de la macroéconomie sur l'expertise 
+    économique et les politiques économiques. La fin des années 1970 et le début des années 1980 sont souvent considérés par 
+    les historiens et les politistes comme une période d'intenses transformations en termes de politiques économiques (parfois
+    appelé "tournant néolibéral"), ce qui incite à tracer une ligne droite entre les transformations de la macroéconomie, et 
+    ces changements de politiques économiques. Tout comme l'évolution de la macroéconomie dans les années 1970 et 1980 apparaît
+    tout sauf linéaire, la situation en termes d'expertise économique s'avère complexe. Par exemple, les modèles macroéconométriques
+    dits "keynésiens" et critiqués par les économistes nouveaux classiques dans les années 1970 se sont maintenus dans les 
+    institutions de la politiques économiques jusque dans les années 1990 et n'ont parfois été que partiellement remplacé par 
+    les modèles DSGE.
+
+
+
+    Un de mes projets de recherche actuels s'intéresse à l'étude du Humphrey-Hawkins Act. Etabli aux Etats-Unis en octobre 1978,
+    il fixe un objectif explicite de 4% de taux de chômage et de 0% d'inflation.Le président américain doit s'engager à réaliser 
+    ces objectifs, et la Fed doit publier des rapports bi-annuels pour expliquer sa politique en fonction de ces objectifs. Cette 
+    loi est considérée comme l'établissement officiel du "double mandat" de la Fed. Or, la première version du projet de loi 
+    (en 1974) portait en fait uniquement sur le taux de chomâge, élaboré par des mouvements promouvant les droits civiques 
+    ainsi que par des défenseurs de la planification nationale. J'étudie l'implication des économistes dans les débats sur 
+    ce projet de loi et sur les réécritures ultérieures du projet. Un second projet de recherche, en collaboration avec Juan 
+    Acosta, Béatrice Cherrier, François Claveau, Clément Fontan et Francesco Sergi, porte sur l'histoire de l'expertise économique
+    au sein de la Bank of England, depuis les années 1970. 
 
 
 ############ Francesco Sergi - en  #############
@@ -801,9 +844,9 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "en"
-  status: "Lecturer in Economics"
+  status: "Assistant professor in economics"
   statuscode: "mcf"
-  institution: "University of the West of England Bristol"
+  institution: "Université Paris Est Créteil, LIPHA"
   themes:
     - macroeconomics
     - models
@@ -812,15 +855,13 @@
   authors:
     - Robert E. Lucas 
   external:
-    - name: "UWE Bristol"
-      link: "https://people.uwe.ac.uk/Person/FrancescoSergi"
+    - name: "Université Paris Est Créteil, LIPHA"
+      link: "http://lipha.u-pec.fr/membres/membres-permanents/sergi-francesco-909980.kjsp?RH=1222865797626"
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2017PA01E059"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781960"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/francesco-sergi-94686771/"
-  contact: "francesco.sergi@uwe.ac.uk"
+  contact: "francesco.sergi@u-pec.fr"
   twitter: "cescoeco"
   free_text: >
     My current research addresses the recent history of macroeconometric modelling, from Robert Lucas’s seminal
@@ -838,9 +879,9 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "fr"
-  status: "Lecturer in Economics"
+  status: "Maître de conférence en économie"
   statuscode: "mcf"
-  institution: "University of the West of England Bristol"
+  institution: "Université Paris Est Créteil, LIPHA"
   themes:
     - macroéconomie
     - modèles
@@ -849,14 +890,12 @@
   authors:
     - Robert E. Lucas 
   external:
-    - name: "UWE Bristol"
-      link: "https://people.uwe.ac.uk/Person/FrancescoSergi"
+    - name: "Université Paris Est Créteil, LIPHA"
+      link: "http://lipha.u-pec.fr/membres/membres-permanents/sergi-francesco-909980.kjsp?RH=1222865797626"
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2017PA01E059"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781960"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/francesco-sergi-94686771/"
   contact: "francesco.sergi@uwe.ac.uk"
   twitter: "cescoeco"
   free_text: >
@@ -967,21 +1006,11 @@
       link: "http://triangle.ens-lyon.fr/spip.php?article7059"
   contact: "nathanael.colin@ens-lyon.fr"
   free_text: >
-    Je travaille en ce moment sur ma thèse, portant sur les origines du tournant néolibéral au 
-    XXe siècle. Dans ce cadre je travaille sur différents aspects : l'historiographie du néolibéralisme 
-    et ses enjeux théoriques et politiques; la naissance de la critique de l'anthropologie libérale 
-    à travers le débat Lippmann-Dewey; le débat sur le calcul socialiste mené par Mises; la mutation 
-    introduite par Hayek dans les années 40/50 avec l'intégration de la notion d'information et son 
-    influence sur les travaux en sciences économiques. Je prévois d'aborder d'autres questions et corpus
-    plus récents dans mon travail.
+    Ma thèse porte sur les origines et le développement du néolibéralisme au XXème siècle. Je montre comment la reconstruction du libéralisme dans les années 1930, chez Lippmann, Hayek, les ordolibéraux, la première Ecole de Chicago, est marquée par un nouveau questionnement portant sur la possibilité de définir un gouvernement de la société sans tomber dans les écueils du laissez-faire ou de la planification. Ce questionnement sur les conditions de l'ordre socio-économique aboutit à l'insistance sur des "règles du jeu", essentiellement juridiques, qui vont venir former aussi bien qu'encadrer l'économie et le politique. Cette pensée est développée sur les objets politiques par James Buchanan, qui insiste très largement sur la dimension constitutionnelle du li béralisme, aussi bien que par Posner, qui développe juridiquement la réflexion néolibérale sur les règles les plus efficientes. La trajectoire néolibérale part ainsi d'une anthropologie politique renouvelée pour aboutir à une philosophie du droit conséquente.
 
+    Je suis intéressé plus largement par l'histoire du libéralisme et j'ai aussi travaillé sur le libéralisme dit "classique", notamment Adam Smith, Hume ou encore Mill. 
 
-    J'ai également travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l'ontologie 
-    sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril
-    Hédoin, qui discute des problèmes philosophiques relatifs à l'individualisme et au holisme, ou encore 
-    à l'intentionnalité collective. 
-
-
+    En économie j'ai travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l’ontologie sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril Hédoin, qui discute des problèmes philosophiques relatifs à l’individualisme et au holisme, ou encore à l’intentionnalité collective.
 
 
 ############ Nathanael Colin -en #############
@@ -1157,14 +1186,16 @@
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "en"
-  status: "Première assistante"
+  status: "Postdoctoral Research associate"
   statuscode: "pd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  institution: "CRASSH, University of Cambridge"
   themes:
       - Discriminations
       - Expertise
       - Wages
       - Equal Pay
+      - Quantification
+      - Courtrooms
   authors:
       - Beatrice Webb
       - Milicent Fawcett
@@ -1172,8 +1203,8 @@
       - Kenneth Arrow
       - Gary Becker
   external:
-    - name: "Université de Lausanne"
-      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
+    - name: "CRASSH"
+      link: "http://www.crassh.cam.ac.uk/people/profile/cleo-chassonnery-zaigouche"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
@@ -1209,21 +1240,21 @@
     Finally, I work on a history of the CSWEP with Beatrice Cherrier and John Singleton.
 
 
-    I am managing editor at Oeconomia since 2015
-
 - firstname: "Cléo"
   surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "fr"
-  status: "Première Assistante (PostDoc)"
+  status: "Chercheuse postdoctoral"
   statuscode: "pd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  institution: "CRASSH, University of Cambridge"
   themes:
       - Discriminations
       - Expertise
       - Salaires
       - Equal Pay
+      - Quantification
+      - Courts
   authors:
       - Kenneth Arrow
       - Gary Becker
@@ -1232,7 +1263,7 @@
       - Eleanor Rathbone
       - Barbara Bergmann
   external:
-    - name: "Université de Lausanne"
+    - name: "CRASSH"
       link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
@@ -1262,7 +1293,6 @@
     Par ailleurs, je travaille une histoire du CSWEP avec Béatrice Cherrier et John Singleton.
 
 
-    Je suis aussi secrétaire de rédaction chez Oeconomia depuis 2015.
 
 
 
@@ -1291,27 +1321,197 @@
   contact: "annie-cot@mymail.fr"
   twitter: "AnnieLouCot"
 
-############ Annie L. Cot #############
-- firstname: "Annie L."
-  surname: "Cot"
-  flatname: annie-cot
-  picture: "annie-cot.jpg"
-  lang: "en"
-  status: "Professeur des universités"
-  statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne"
+
+
+
+
+
+############ Julien Gradoz fr #############
+- firstname: "Julien"
+  surname: "Gradoz"
+  flatname: julien-gradoz
+  picture: "julien-gradoz.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
   themes:
-      - Utilitarism
-      - Économie & psychologie
-      - Économie experimentale
-      - Expertise
+      - Economie de la qualité
+      - Quantification
+      - Naturalisation
+      - Marché et marchandises
   authors:
-      - Jeremy Bentham
-      - Michel Foucault
-      - Gary Becker
-      - Irving Fisher
+      - Kevin Lacaster, 
+      - Edward Chamberlin
+      - George Akerlof 
+  external:
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+  contact: "julien.gradoz@ens-cachan.fr"
+  free_text: >
+    Mon travail de recherche porte actuellement sur l’histoire 
+    de la modélisation de la qualité des produits dans la théorie 
+    économique néoclassique, sa quantification, sa naturalisation, et la 
+    façon dont s’articule la qualification des objets en tant que « bien 
+    économique » ou « marchandise » et les modalités d’évaluation de leur 
+    qualité.
+
+
+############ Julien Gradoz en #############
+- firstname: "Julien"
+  surname: "Gradoz"
+  flatname: julien-gradoz
+  picture: "julien-gradoz.jpg"
+  lang: "en"
+  status: "PhD student"
+  statuscode: "phd"
+  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
+  themes:
+      - Economics of quality
+      - Quantification
+      - Naturalization
+      - Market and commodities
+  authors:
+      - Kevin Lacaster, 
+      - Edward Chamberlin
+      - George Akerlof 
+  external:
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+  contact: "julien.gradoz@ens-cachan.fr"
+  free_text: >
+    My research project is mainly focused on the history of the 
+    modelling of quality of economic goods in the neoclassical economic 
+    theory, its quantification, its naturalization, and how the process of 
+    qualification of objects into "economic goods" or commodities" is 
+    affecting the evaluation of their quality.
+
+
+
+
+
+############ Cristian Fraser fr #############
+- firstname: "Cristian"
+  surname: "Frasser"
+  flatname: cristian-frasser
+  picture: "cristian-frasser.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne"
+  themes:
+      - Liquidité
+      - Monnaie
+      - Natural kind
+      - Philosophie de l'économie
+      - Economie monétaire
   external:
     - name: "ResearchGate"
-      link: "https://www.researchgate.net/profile/Annie_Cot"
-  contact: "annie-cot@mymail.fr"
-  twitter: "AnnieLouCot"
+      link: "https://www.researchgate.net/profile/Cristian_Frasser"
+    - name: "Site personnel"
+      link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    Je suis actuellement doctorant en économie à l'Université Paris 1, Panthéon-Sorbonne, France. Je rejoindrai le département d'économie de l'Universidad del Valle en Colombie en 
+    tant que professeur assistant en juillet 2020.
+
+
+    Mes domaines de recherche sont l’économie monétaire, la philosophie de l’économie et l’histoire de la pensée économique.
+
+
+    Je travaille actuellement à l'intersection de l'économie et de la philosophie dans le but de donner un sens à la nature de la liquidité ou, comme 
+    l'appellent les philosophes, l'ontologie de la liquidité. Mon travail de recherche s’appuie sur les modèles de prospection monétaire, la notion philosophique des types naturels, et l'histoire de la théorie monétaire
+
+
+############ Cristian Fraser en #############
+- firstname: "Cristian"
+  surname: "Frasser"
+  flatname: cristian-frasser
+  picture: "cristian-frasser.jpg"
+  lang: "en"
+  status: "PhD student"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne"
+  themes:
+      - Liquidity
+      - Money
+      - Natural kinds
+      - Philosophy of economics
+      - Monetary economics
+  external:
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Cristian_Frasser"
+    - name: "Personal Website"
+      link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    I am currently a PhD student in Economics at the Université Paris 1, Panthéon-Sorbonne, France. I will be joining the Department of Economics at the Universidad del Valle, 
+    Colombia as an Assistant Professor in July 2020.
+
+
+    My research interests include monetary economics, philosophy of economics, and history of economic thought.
+
+
+    I currently work in the intersection between economics and philosophy aiming to make sense of the nature of liquidity, or as philosophers call it, the ontology of liquidity. 
+    Due to the complexity of such a subject matter, I tend to favor methodological pluralism: the higher the diversity of our tools, the better our chances of gaining an understanding.
+     My research has so far been built on search-based models of money, philosophical insights about natural kinds, and the history of monetary theory
+
+
+############ Erich Pinzon-Fuchs en #############
+- firstname: "Erich"
+  surname: "Pinzon Fuchs"
+  flatname: "erich-pinzon"
+  picture: "erich-pinzon.jpg"
+  lang: "en"
+  status: "Assistant professor in economics"
+  statuscode: "mdc"
+  institution: "Universidad Nacional de Colombia"
+  themes:
+      - History of Macroeconomics
+      - Macroeconometric modelling
+      - Gender representations in economics
+  external:
+    - name: "SSRN"
+      link: "http://ssrn.com/author=2587813"
+    - name: "Personal Website"
+      link: "https://erichpinzonfuchs.wordpress.com"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia, Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling, in the history of recent economics, and in the effects that gender representations have in the production of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics at UNAL and Uniandes.
+
+    I’m the digital information manager of the History of Economics Society (HES) and a member of HES’s Executive Committee. I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s communication committee. I’m co-director of the Grupo de Investigación en Historia, Pensamiento y Teoría Económica (GIHPTE), and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1 Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
+
+
+############ Erich Pinzon-Fuchs fr #############
+- firstname: "Erich"
+  surname: "Pinzon-Fuchs"
+  flatname: "erich-pinzon"
+  picture: "erich-pinzon.jpg"
+  lang: "fr"
+  status: "Assistant professor in economics"
+  statuscode: "mdc"
+  institution: "Universidad Nacional de Colombia"
+  themes:
+      - Histoire de la macroéconomie
+      - Modélisation macroéconométrique. 
+      - Représentation genrée en économie.
+  external:
+    - name: "SSRN"
+      link: "http://ssrn.com/author=2587813"
+    - name: "Personal Website"
+      link: "https://erichpinzonfuchs.wordpress.com"
+  contact: "cristian.frasser@correounivalle.edu.co"
+  free_text: >
+    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia, 
+    Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling, 
+    in the history of recent economics, and in the effects that gender representations have in the production 
+    of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics 
+    at UNAL and Uniandes.
+
+
+    I’m the digital information manager of the History of Economics Society (HES) and a member of HES’s Executive Committee.
+    I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s 
+    communication committee. I’m co-director of the Grupo de Investigación en Historia, Pensamiento y Teoría Económica (GIHPTE),
+    and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1 
+    Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History 
+    of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
