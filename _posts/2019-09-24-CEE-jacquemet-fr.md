@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
