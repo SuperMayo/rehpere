@@ -24,9 +24,9 @@ anchor: True
 
 **Save the date** : *17 octobre 2019* à *18:00*
 
-*Jacques Mistral*  animera la séancee :
+*Jacques Mistral* animera la séancee :
 
-#### sur son dernier libre "Science de la richesse"
+#### sur son dernier livre "Science de la richesse"
 
 
 <br>
