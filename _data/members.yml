@@ -1584,8 +1584,7 @@
     choice and decision theories, microeconomics of demand and consumption, the notion of goods' quality, the links between economics and psychology and the developments of behavioral economics. 
 
 
-
-    ############ Nicolas Brisset #############
+############ Nicolas Brisset #############
 - firstname: "Nicolas"
   surname: "Brisset"
   flatname: "nicolas-brisset"
@@ -1620,7 +1619,7 @@
     Par ailleurs, je m’intéresse à la notion de domination (qu’elle soit politique, économique ou sociale) comme fondement des relations économiques. C’est dans cette perspective que je travail sur le marxisme politique de Robert Brenner. 
 
 
-    ############ Nicolas Brisset #############
+############ Nicolas Brisset #############
 - firstname: "Nicolas"
   surname: "Brisset"
   flatname: "nicolas-brisset"
@@ -1657,7 +1656,7 @@
 
 
 
-        ############ Thibaud Choppin de Janvry #############
+############ Thibaud Choppin de Janvry #############
 - firstname: "Thibaud"
   surname: "Choppin de Janvry"
   flatname: "thibaud-choppin"
@@ -1670,14 +1669,12 @@
       - Identité 
       - rationalité
       - transdiciplinarité
-      - contemporain
+      - contemporary
   authors:
-      - Kahneman
-      - Tversky
       - Simon
+      - Kahneman
       - Akerlof 
-      - Tirole 
-      - Sen 
+      - Ricoeur
   external:
     - name: "LinkedIn"
       link: "https://fr.linkedin.com/in/thibaud-choppin-de-janvry-a0ba8493"
@@ -1688,7 +1685,8 @@
 
     « Mot valise » par excellence, le concept d’identité confronte les sciences sociales en questionnement leurs postulats 
     fondamentaux autant qu’en redéfinissant leurs frontières. C’est donc par une approche transdisciplinaire que je tente de 
-    saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives, de la sociologie et de la philosophie. Mes travaux se subdivisent en trois temps : 
+    saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives, 
+    de la sociologie et de la philosophie. Mes travaux se subdivisent en trois temps : 
 
 
     Une réflexion historique sur son émergence : afin de comprendre l’émergence de la notion d’identité, je la lie avec un
@@ -1704,3 +1702,61 @@
     Une réflexion théorique : dans le but de résoudre les problèmes épistémologiques que pose la polysémie sémantique, je théorise 
     l’identité comme un rapport entre soi et l’autre. Suivant une logique d’économie, le rapport identitaire serait conflictuel, absolutiste 
     et fondamentalement inertique. Par là, il s’apparenterait à un jeu de jugement, de reflet et de double. 
+    
+
+
+############ Thibaud Choppin de Janvry #############
+- firstname: "Thibaud"
+  surname: "Choppin de Janvry"
+  flatname: "thibaud-choppin"
+  picture: "thibaud-choppin.jpg"
+  lang: "en"
+  status: "Ph.D student"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne"
+  themes:
+      - Identity 
+      - rationality
+      - transdiciplinarity
+      - contemporain
+  authors:
+      - Simon
+      - Kahneman
+      - Akerlof 
+      - Ricoeur 
+  external:
+    - name: "LinkedIn"
+      link: "https://fr.linkedin.com/in/thibaud-choppin-de-janvry-a0ba8493"
+  contact: "thibaudchoppin@gmail.com"
+  free_text: >
+    The concept of « Identity » is here, and there. As social scientists, 
+    one of our first duty resides in understanding what this semantic, social and scientific 
+    novation brought – its contributions and its limits. With this aim, I question the origin 
+    of the notion of identity, its evolution and its kaleidoscopic preservation since the 1950s.
+
+
+    As a “portmanteau word” (“mot-valise” as Deleuze notes) the concept of identity confronts social sciences 
+    by questioning their fundamental postulates as well as by redefining their borders. Thus, it is naturally 
+    by a transdisciplinary approach that I try to grasp the sense – the signification and the direction – of a 
+    notion that is located in-between psychology, economics, cognitive sciences, sociology and philosophy
+
+
+    More precisely, my work revolves around three main axes: 
+    
+    
+    Historical axis : in order to understand the contemporary emergence of the notion of identity, 
+    I link it to an “unravelment” of classic rationality. I hypothesize that the hollow of a dually 
+    “limited” (or bounded) rationality is a fulcrum for identity. The critics of rationality would be 
+    the grounds from which departs the notion of identity, before impacting it in return: are we leaning 
+    towards a new rationality ? 
+    
+    
+    Epistemological axis: as identity covers – or equilibrates – a set of heterogeneous significations, I try to 
+    uncover its polysemous use: does its intrinsic plurality symbolize the possibility of an ontological unification 
+    of social sciences or, a contrario, does it represent an irreparable divorce? 
+
+
+    Theoretical axis: with the objective of resolving the epistemological issues raised by this semantic polysemy, I propose
+    an original view on identity as a rapport between the Self and the Other. Specifically, the identity rapport (“rapport 
+    identitaire”), as I theorize it, is (1) conflictual, (2) absolutist and (3) driven by inertia. This novel optic enables 
+    to analyse identity as a game of judgments and reflections.
