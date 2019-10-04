@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-09-24
 ref: CEE-mongin-2019-09-24
 lang: fr
-anchor: True
+anchor: False
 ---
 
 <i class="fas fa-table"></i> Date : *26 septembre 2019* à *18:00*
