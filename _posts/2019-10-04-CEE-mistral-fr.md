@@ -11,7 +11,7 @@ anchor: True
 
 <i class="fas fa-map-marked"></i> Lieu : *Maison des Sciences Économiques, salle du 6e étage"
 
-**Jacques MISTRAL** (IFRI, Brooings Institution) animera la séance sur le thème 
+**Jacques MISTRAL** (IFRI, Brooings Institution) animera la séance sur le thème :
 
 #### Analyse économique et philosophie politique, histoires entrecroisées
 
