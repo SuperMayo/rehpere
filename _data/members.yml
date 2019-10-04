@@ -153,7 +153,8 @@
 
 
 
-############  Guillaume Noblet - en   #############
+############  Guillaume 
+- en   #############
 
 - firstname: Guillaume 
   surname: Noblet
@@ -179,7 +180,6 @@
     - name: "Université Paris 1 Panthéon-Sorbonne"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
   contact: "guillaume@noblet.xyz"
-  twitter: "_gnoblet"
   free_text: >
     My research focuses on agricultural economics in the first half of the 20th century in the US. An emphasis is put 
     in particular on how the first economic experiments that were drawn for farm management and price analysis and the 
@@ -192,7 +192,7 @@
     
     
     I'm currently working (with Thomas Delcey and Jose Edwards) on a project questioning the classification of
-    of economic articles (e.g., JEL codes) using topic modelling.
+    of economic articles (e.g., JEL codes) using topic modeling.
     
     
     I'am also assistant managing editor for Œconomia. History, Methodology, Philosophy since 2017.
@@ -223,7 +223,6 @@
     - name: "Université Paris 1 Panthéon-Sorbonne"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
   contact: "guillaume@noblet.xyz"
-  twitter: "_gnoblet"
   free_text: >
     Mes recherches portent sur l'économie agricole dans la première moitié du XXe siècle aux États-Unis. 
     Une emphase particulière est mise sur la manière dont les premières expériences économiques, réalisées pour 
@@ -896,7 +895,7 @@
       link: "http://www.theses.fr/2017PA01E059"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2781960"
-  contact: "francesco.sergi@uwe.ac.uk"
+  contact: "francesco.sergi@u-pec.fr"
   twitter: "cescoeco"
   free_text: >
     Ma recherche porte sur l'histoire de la modélisation macroéconométrique, des contributions de Robert Lucas
@@ -1517,7 +1516,7 @@
     of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
 
 
-############ Jean-sébastien Lenfant #############
+############ Jean-sébastien Lenfant fr #############
 - firstname: "Jean-Sébastien"
   surname: "Lenfant"
   flatname: "jean-lenfant"
@@ -1550,7 +1549,7 @@
     Mes recherches portent sur différents sujets, dans une perspective à la fois historique et méthodologique ou épistémologique. Je m'intéresse à la théorie de l'équilibre général, à la théorie des choix et de la décision, à la théorie microéconomique de la demande et de la consommation, à la notion de qualité des biens (et à la définition même des biens), à la place de la psychologie dans la théorie économique, à l'économie comportementale.
 
 
-############ Jean-sébastien Lenfant #############
+############ Jean-sébastien Lenfant en #############
 - firstname: "Jean-Sébastien"
   surname: "Lenfant"
   flatname: "jean-lenfant"
@@ -1584,7 +1583,7 @@
     choice and decision theories, microeconomics of demand and consumption, the notion of goods' quality, the links between economics and psychology and the developments of behavioral economics. 
 
 
-############ Nicolas Brisset #############
+############ Nicolas Brisset fr #############
 - firstname: "Nicolas"
   surname: "Brisset"
   flatname: "nicolas-brisset"
@@ -1619,7 +1618,7 @@
     Par ailleurs, je m’intéresse à la notion de domination (qu’elle soit politique, économique ou sociale) comme fondement des relations économiques. C’est dans cette perspective que je travail sur le marxisme politique de Robert Brenner. 
 
 
-############ Nicolas Brisset #############
+############ Nicolas Brisset en #############
 - firstname: "Nicolas"
   surname: "Brisset"
   flatname: "nicolas-brisset"
@@ -1656,7 +1655,7 @@
 
 
 
-############ Thibaud Choppin de Janvry #############
+############ Thibaud Choppin de Janvry fr #############
 - firstname: "Thibaud"
   surname: "Choppin de Janvry"
   flatname: "thibaud-choppin"
@@ -1705,7 +1704,8 @@
     
 
 
-############ Thibaud Choppin de Janvry #############
+
+############ Thibaud Choppin de Janvry en #############
 - firstname: "Thibaud"
   surname: "Choppin de Janvry"
   flatname: "thibaud-choppin"
@@ -1760,3 +1760,63 @@
     an original view on identity as a rapport between the Self and the Other. Specifically, the identity rapport (“rapport 
     identitaire”), as I theorize it, is (1) conflictual, (2) absolutist and (3) driven by inertia. This novel optic enables 
     to analyse identity as a game of judgments and reflections.
+
+
+############ Elizaveta Burina fr #############
+- firstname: "Elizaveta"
+  surname: "Burina"
+  flatname: "elizaveta-burina"
+  picture: "elizaveta-burina.jpg"
+  lang: "fr"
+  status: "Doctorante"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne"
+  themes:
+      - Modélisation économique
+      - Analogies
+      - Processus de restauration
+      - L'économie de l'Union Soviétique
+  authors:
+      - Bazarov
+      - Kondratiev
+      - Shchukarev
+  external:
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Elizaveta_Burina2"
+  contact: "elizavetaburina@list.ru"
+  free_text: >
+
+      Je travaille sur les analogie avec les sciences exactes dans la modelisation économique. Je suis surtout interessée par les modèles élaborés 
+      par les économistes de l'Union Soviétique dans les années 1920-1930, notamment Vladimir Bazarov. Il utilisait les analogies avec les réactions
+      chimiques pour modéliser «le processus de restauration» de l’économie soviétique aprés la révolution et la logique d’une pendule pour expliquer 
+      l’équilibre général. Ce travail implique l’analyse détaillée des sources primaires et aussi l'analyse des revues économiques de l’époque.
+
+
+ ############ Elizaveta Burina en #############
+- firstname: "Elizaveta"
+  surname: "Burina"
+  flatname: "elizaveta-burina"
+  picture: "elizaveta-burina.jpg"
+  lang: "en"
+  status: "Doctorante"
+  statuscode: "phd"
+  institution: "Centre d'Economie de la Sorbonne"
+  themes:
+      - Economic modeling
+      - Analogy
+      - Restoration process
+      - Economics of the Soviet Union
+  authors:
+      - Bazarov
+      - Kondratiev
+      - Shchukarev
+  external:
+    - name: "ResearchGate"
+      link: "https://www.researchgate.net/profile/Elizaveta_Burina2"
+  contact: "elizavetaburina@list.ru"
+  free_text: >
+      I am working on the natural science analogies in economic modeling. I am particularly interested in the models developed 
+      by the economists of the Soviet Union in the 1920s and 1930s, especially those of Vladimir Bazarov. He used analogies with chemical 
+      reactions to model the "restoration process" of the Soviet economy after the revolution and the logic of a pendulum to explain the general 
+      equilibrium. This work involves the detailed analysis of primary sources and also the analysis of economic journals of the time.
+
