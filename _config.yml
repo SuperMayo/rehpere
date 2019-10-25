@@ -9,25 +9,25 @@ include:
   - _pages
 
 page_gen:
-  - data: 'members'
-    template: 'people'
-    name: 'flatname'
-    dir: ''
+  - data: "members"
+    template: "people"
+    name: "flatname"
+    dir: ""
     filter_condition: "record['lang'] == 'fr'"
-  - data: 'members'
-    template: 'people'
-    name: 'flatname'
-    dir: 'en/'
+  - data: "members"
+    template: "people"
+    name: "flatname"
+    dir: "en/"
     filter_condition: "record['lang'] == 'en'"
-  - data: 'courses'
+  - data: "courses"
     template: course
-    name: 'course_id'
-    dir: 'cours/'
+    name: "course_id"
+    dir: "cours/"
     filter_condition: "record['lang'] == 'fr'"
-  - data: 'courses'
+  - data: "courses"
     template: course
-    name: 'course_id'
-    dir: 'en/course/'
+    name: "course_id"
+    dir: "en/course/"
     filter_condition: "record['lang'] == 'en'"
 
 img_path: "/assets/img/"
@@ -46,8 +46,8 @@ subtitle: Réseau en Épistémologie et en Histoire de la Pensée Économique R�
 
 # Bibliography
 scholar:
-  bibliography_list_tag: 'ul'
-  bibliography_class: 'fa-ul'
+  bibliography_list_tag: "ul"
+  bibliography_class: "fa-ul"
   sort_by: year
   order: descending
   bibliography_template: bib
@@ -58,10 +58,6 @@ scholar:
 twitter-timeline:
   link: "https://twitter.com/rehpere"
   number-of-tweets: "6"
-
-description:
-  fr: mdr
-  en: lol
 
 index:
   fr:
@@ -177,6 +173,6 @@ courses:
 
 ###### footer ######
 logos:
-  - 'CES.png'
-  - 'paris1.png'
-  - 'cnrs.png'
+  - "CES.png"
+  - "paris1.png"
+  - "cnrs.png"

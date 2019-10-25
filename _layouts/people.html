@@ -47,7 +47,7 @@ layout: one-column
 
 <!-- Publications -->
 {% capture biblio %}
-	{% bibliography --query @*[authorid={{page.flatname}}] %}
+	{% bibliography --query @*[authorid ~={{page.flatname}}] %}
 {% endcapture %}
 
 {% if biblio.size > 5 %} <!-- Test if there is a biblio -->
