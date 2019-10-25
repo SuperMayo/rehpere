@@ -6,7 +6,9 @@
 <i class="fa-li fa fa-angle-right"></i>
 <p>
   {{reference}}
-  {% if entry.link %}
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}" target="_blank"> <i class="fas fa-link"></i></a> 
+  {% elsif entry.link %}
     <a href="{{ entry.link }}" target="_blank"> <i class="fas fa-link"></i></a>
   {% endif %}
   {% if entry.pdf %}
