@@ -1,3 +1,118 @@
+############  Nicolas Vallois - fr  #############
+
+- firstname: Nicolas
+  surname: Vallois
+  flatname: nicolas-vallois
+  picture: "Nicolas-Vallois.jpg"
+  lang: "fr"
+  status: "Maître de Conférences"
+  institution: "CRIISEA</br> Université Picardie Jules Verne"
+  themes:
+    - Statistiques juives
+    - Histoire juive
+    - Neuroéconomie
+    - Economie Comportementale
+  authors:
+    - Jacob Lestschinsky
+    - Arthur Ruppin
+    - Werner Sombart
+    - Simon Kuznets
+  external:
+    - name: "CRIISEA"
+      link: "https://www.u-picardie.fr/CRIISEA/index.php"
+    - name: "Research Gate"
+      link: "https://www.researchgate.net/profile/Nicolas_Vallois"
+  contact: "nicolas.vallois@u-picardie.fr" 
+  free_text: >
+  Mes recherches actuelles portent sur l'histoire des "statistiques juives" ou "sciences sociales juives" 
+  (fin XIXème -début XXème siècle). Je travaille plus particulièrement en ce moment sur les travaux de Jacob Lestschinsky 
+  et ses archives au Jewish Scientific Institute (YIVO). Je m'intéresse plus généralement aux questions relatives aux Juifs et 
+  au judaïsme dans l'histoire de la pensée économique contemporaine.
+  
+
+  Mes recherches précédentes concernaient l'histoire de la neuroéconomie et de l'économie comportementale. 
+  
+  ############  Nicolas Vallois - en  #############
+
+- firstname: Nicolas
+  surname: Vallois
+  flatname: nicolas-vallois
+  picture: "Nicolas-Vallois.jpg"
+  lang: "en"
+  status: "Associate Professor"
+  institution: "CRIISEA</br> Université Picardie Jules Verne"
+  themes:
+    - Jewish statistics
+    - Jewish history
+    - Neuroeconomics
+    - Behavioural Economics
+  authors:
+    - Jacob Lestschinsky
+    - Arthur Ruppin
+    - Werner Sombart
+    - Simon Kuznets
+  external:
+    - name: "CRIISEA"
+      link: "https://www.u-picardie.fr/CRIISEA/index.php"
+    - name: "Research Gate"
+      link: "https://www.researchgate.net/profile/Nicolas_Vallois"
+  contact: "nicolas.vallois@u-picardie.fr" 
+  free_text: >
+  My current research bears on the history of "Jewish statistics" and "Jewish social sciences"
+  (late 19th century - early 20th century). I am working on the works of Jacob Lestschinsky and his archives 
+  at the Jewish Scientific Institute (YIVO). More generally, I am interested in issues related to the Jews and judaism in 
+  the history of recent economic thought. 
+
+
+  My former research dealt with the history of neuroeconomics and behavioural economics.
+
+############  Clara Léonard - fr   #############
+
+
+- firstname: Clara
+  surname: Léonard
+  flatname: clara-léonard
+  picture: "clara-léonard.jpg"
+  lang: "fr"
+  status: "Doctorante"
+  institution: "CES - Université Paris 1 Panthéon-Sorbonne</br>EHESS"
+  themes:
+    - Néolibéralisme
+  authors:
+  external:
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/clara-leonard-3ab47a40/"
+  contact: "clara.leonardhec@gmail.com" 
+  free_text: >
+  Mes travaux portent sur la recherche d'une troisième voie après la seconde guerre mondiale, 
+  entre le Planisme inspirant la reconstruction et le Laisser Faire rejetant toute intervention de l'Etat. 
+  Je me concentre en particulier sur la version française du néolibéralisme, en tentant de comprendre en quoi 
+  il diffère d'un point de vue théorique et épistémologique des autres courants nationaux européens. 
+  J'examine également, à travers une approche institutionnelle, le lien entre le courant intellectuel et les politiques publiques 
+  de l'époque.
+  
+  ############  Clara Léonard - en   #############
+
+- firstname: Clara
+  surname: Léonard
+  flatname: clara-léonard
+  picture: "clara-léonard.jpg"
+  lang: "en"
+  status: "Doctoral Student"
+  institution: "CES - Université Paris 1 Panthéon-Sorbonne</br>EHESS"
+  themes:
+    - Neoliberalism
+  authors:
+  external:
+    - name: "Linkedin"
+      link: "https://www.linkedin.com/in/clara-leonard-3ab47a40/"
+  contact: "clara.leonardhec@gmail.com" 
+  free_text: >
+  My research focuses on the search for a third way after World War II, between planification inspiring the post-war reconstruction
+  and the Laissez-faire rejecting any interventionism. I am focusing more particularly on the French version of neoliberalism, endeavouring
+  to understand its theoretical and epistemological differences with other European versions. I am also analysing, through an institutional approach,
+  the link between the intellectual movement and the public policies at the time.
+
 ############  Quentin Couix - fr  #############
 
 - firstname: Quentin
