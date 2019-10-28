@@ -73,8 +73,8 @@
 
 - firstname: Clara
   surname: Léonard
-  flatname: clara-léonard
-  picture: "clara-léonard.jpg"
+  flatname: clara-leonard
+  picture: "clara-leonard.jpg"
   lang: "fr"
   status: "Doctorante"
   statuscode: "phd"
@@ -98,8 +98,8 @@
 
 - firstname: Clara
   surname: Léonard
-  flatname: clara-léonard
-  picture: "clara-léonard.jpg"
+  flatname: clara-leonard
+  picture: "clara-leonard.jpg"
   lang: "en"
   status: "PhD candidate"
   statuscode: "phd"
@@ -272,8 +272,7 @@
 
 
 
-############  Guillaume 
-- en   #############
+############  Guillaume   #############
 
 - firstname: Guillaume 
   surname: Noblet
