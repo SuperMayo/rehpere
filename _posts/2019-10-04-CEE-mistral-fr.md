@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-10-04
 ref: CEE-mistral-2019-10-04
 lang: fr
-anchor: True
+anchor: False
 ---
 
 <i class="fas fa-table"></i> Date : *17 october 2018* à *18:00*
