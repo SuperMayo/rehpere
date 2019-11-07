@@ -13,7 +13,7 @@ anchor: True
 
 **Andrej SVORENČIK** (University of Mannheim) animera la séance sur le thème :
 
-#### "Driving Forces Behind the Rise of Experimental Economics
+#### Driving Forces Behind the Rise of Experimental Economics
 
 
 
