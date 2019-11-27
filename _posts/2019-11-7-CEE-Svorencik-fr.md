@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-11-07
 ref: CEE-Svorencik-2019-11-07
 lang: fr
-anchor: True
+anchor: False
 ---
 
 <i class="fas fa-table"></i> Date : *14 novembre 2019* à *18:00*
