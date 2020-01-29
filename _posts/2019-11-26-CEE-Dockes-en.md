@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date:   2019-11-26
 ref: CEE-Dockes-2019-11-26
 lang: en
-anchor: True
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : *28 November 2019* at *18:00*
