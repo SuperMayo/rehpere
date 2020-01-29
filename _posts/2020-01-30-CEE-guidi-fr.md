@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date:   2020-01-30
+date:   2020-01-29
 ref: CEE-guidi-2020-01-30
 lang: fr
 anchor: True
