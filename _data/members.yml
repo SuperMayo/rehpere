@@ -370,10 +370,6 @@
   external:
     - name: "Personal website"
       link: "https://noblet.xyz"
-    - name: "HAL"
-      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/gnoblet"
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
   contact: "guillaume@noblet.xyz"
   free_text: >
     My research focuses on agricultural economics in the first half of the 20th century in the US. An emphasis is put 
@@ -413,10 +409,6 @@
   external:
     - name: "Personal website"
       link: "https://noblet.xyz"
-    - name: "HAL"
-      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/gnoblet"
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=gnoblet"
   contact: "guillaume@noblet.xyz"
   free_text: >
     Mes recherches portent sur l'économie agricole dans la première moitié du XXe siècle aux États-Unis. 
@@ -1397,8 +1389,6 @@
       - Kenneth Arrow
       - Gary Becker
   external:
-    - name: "CRASSH"
-      link: "http://www.crassh.cam.ac.uk/people/profile/cleo-chassonnery-zaigouche"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
@@ -1457,8 +1447,6 @@
       - Eleanor Rathbone
       - Barbara Bergmann
   external:
-    - name: "CRASSH"
-      link: "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1176447&LanCode=37"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
