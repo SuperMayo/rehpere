@@ -9,7 +9,7 @@ anchor: False
 
 <i class="fas fa-table"></i> Date : *14 novembre 2019* à *18:00*
 
-<i class="fas fa-map-marked"></i> Lieu : *Maison des Sciences Économiques, salle du 6e étage"
+<i class="fas fa-map-marked"></i> Lieu : *Maison des Sciences Économiques, salle du 6e étage*
 
 **Andrej SVORENČIK** (University of Mannheim) animera la séance sur le thème :
 
