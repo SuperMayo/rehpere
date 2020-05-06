@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/SuperMayo/rehpere.svg?branch=master)](https://travis-ci.com/SuperMayo/rehpere)
 # Rehpere
 The new website of the rehpere association
 
