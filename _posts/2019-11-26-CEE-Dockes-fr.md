@@ -9,7 +9,7 @@ anchor: false
 
 <i class="fas fa-table"></i> Date : *28 novembre 2019* à *18:00*
 
-<i class="fas fa-map-marked"></i> Lieu : *Maison des Sciences Économiques, salle du 6e étage"
+<i class="fas fa-map-marked"></i> Lieu : *Maison des Sciences Économiques, salle du 6e étage*
 
 **Pierre Dockès** (TRIANGLE - Université Lyon 2) animera la séance sur le thème :
 
