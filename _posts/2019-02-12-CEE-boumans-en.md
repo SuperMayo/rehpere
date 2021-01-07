@@ -1,16 +1,15 @@
 ---
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date:   2019-02-12
+date: 2019-02-12
 ref: CEE-boumans-2019-02-12
 lang: en
 anchor: False
 ---
 
-* Date : *14 Février 2019* à *18:00*
-* Lieu : *Maison des Sciences Économiques, salle 6*
+- Date : _14 Février 2019_ à _18:00_
+- Lieu : _Maison des Sciences Économiques, salle 6_
 
-**Marcel Boumans** (Université d’Utrecht) will talk about : 
+**Marcel Boumans** (Université d’Utrecht) will talk about :
+
 #### **Vision and Visualisation in Economics**
-<br>
-<hr />

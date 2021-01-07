@@ -1,16 +1,15 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date:   2019-01-09
+date: 2019-01-09
 ref: CEE-meardon-2019-01-09
 lang: fr
 anchor: False
 ---
 
-* Date : *17 Janvier 2019* à *18:00*
-* Lieu : *Maison des Sciences Économiques, salle 6*
+- Date : _17 Janvier 2019_ à _18:00_
+- Lieu : _Maison des Sciences Économiques, salle 6_
 
-**Stephen J. MEARDON** animera la séance sur le thème : 
+**Stephen J. MEARDON** animera la séance sur le thème :
+
 #### **Reading Henry George’s Protection or Free Trade in the Age of Trump**
-<br>
-<hr />
