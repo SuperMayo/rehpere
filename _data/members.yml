@@ -3,7 +3,7 @@
 - firstname: Florent
   surname: His
   flatname: florent-his
-  #picture: ""
+  picture: "florent-his.jpg"
   lang: "fr"
   status: "Doctorant"
   statuscode: "phd"
@@ -18,10 +18,8 @@
     - John G. Gurley
     - Edward S. Shaw
   external:
-  #  - name: "Goldsmiths"
-  #    link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
-  #  - name: "Site Web personnel"
-  #    link: "http://desmarais-tremblay.com"
+    - name: "Pars I"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
   contact: "his.florent@gmail.com"
   free_text: >
     Mon travail porte sur l'économiste américain Hyman P. Minsky (1919-1996), dont l'hypothèse d'instabilité financière a pu être mobilisée afin d'expliquer la crise des subprimes. Ma thèse cherche à explorer la conception alternative du système financier développée par Minsky, en montrant comment celle-ci s'inscrit dans différentes discussions secouant la macroéconomie de l'époque, comme le débat entre les monétaristes et les keynésiens dans les années 1960-1970.
@@ -33,7 +31,7 @@
 - firstname: Florent
   surname: His
   flatname: florent-his
-#  picture: "maxime-desmarais.jpg"
+  picture: "florent-his.jpg"
   lang: "en"
   status: "PhD Student"
   statuscode: "phd"
@@ -48,15 +46,14 @@
     - John G. Gurley
     - Edward S. Shaw
   external:
-#    - name: "Goldsmiths"
-#      link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
-#    - name: "Personal web page"
-#      link: "http://desmarais-tremblay.com"
+    - name: "Pars I"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
+
   contact: "his.florent@gmail.com"
   free_text: >
-  Mon travail porte sur l'économiste américain Hyman P. Minsky (1919-1996), dont l'hypothèse d'instabilité financière a pu être mobilisée afin d'expliquer la crise des subprimes. Ma thèse cherche à explorer la conception alternative du système financier développée par Minsky, en montrant comment celle-ci s'inscrit dans différentes discussions secouant la macroéconomie de l'époque, comme le débat entre les monétaristes et les keynésiens dans les années 1960-1970.
+    My work focuses on the American economist Hyman P. Minsky (1919-1996), whose hypothesis of financial instability was mobilized to explain the subprime crisis. My thesis seeks to explore Minsky's alternative conception of the financial system, showing how it fits into various discussions shaking the macroeconomy of the time, such as the debate between the monetarists and the Keynesians in the 1960s and 1970s.
 
-  Je cherche d'abord à comprendre la place que Minsky occupait pendant sa carrière parmi les économistes s'intéressant aux questions monétaires et financières. C'est pourquoi je m'intéresse aux travaux que Minsky a produits pour la Commission on Money and Credit ainsi que pour la Fed.
+    I first seek to understand the place Minsky occupied during his career among economists interested in monetary and financial issues. This is why I am interested in the work Minsky produced for the Commission on Money and Credit and for the Fed.
 
 
 ############  Maxime Desmarais-Tremblay - fr  #############
