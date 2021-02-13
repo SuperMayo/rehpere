@@ -1,3 +1,61 @@
+############  Florent His - fr  #############
+
+- firstname: Florent
+  surname: His
+  flatname: florent-his
+  picture: "florent-his.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "CES - Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - Crises financières
+    - Théories monétaires
+    - Hypothèse d'instabilité financière
+  authors:
+    - Hyman P. Minsky
+    - James Tobin
+    - John G. Gurley
+    - Edward S. Shaw
+  external:
+    - name: "Pars I"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
+  contact: "his.florent@gmail.com"
+  free_text: >
+    Mon travail porte sur l'économiste américain Hyman P. Minsky (1919-1996), dont l'hypothèse d'instabilité financière a pu être mobilisée afin d'expliquer la crise des subprimes. Ma thèse cherche à explorer la conception alternative du système financier développée par Minsky, en montrant comment celle-ci s'inscrit dans différentes discussions secouant la macroéconomie de l'époque, comme le débat entre les monétaristes et les keynésiens dans les années 1960-1970.
+
+    Je cherche d'abord à comprendre la place que Minsky occupait pendant sa carrière parmi les économistes s'intéressant aux questions monétaires et financières. C'est pourquoi je m'intéresse aux travaux que Minsky a produits pour la Commission on Money and Credit ainsi que pour la Fed.
+
+############  Florent His - en  #############
+
+- firstname: Florent
+  surname: His
+  flatname: florent-his
+  picture: "florent-his.jpg"
+  lang: "en"
+  status: "PhD Student"
+  statuscode: "phd"
+  institution: "CES - Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - Financial Crises
+    - Monetary Theory
+    - Financial Instability Hypothesis
+  authors:
+    - Hyman P. Minsky
+    - James Tobin
+    - John G. Gurley
+    - Edward S. Shaw
+  external:
+    - name: "Pars I"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
+
+  contact: "his.florent@gmail.com"
+  free_text: >
+    My work focuses on the American economist Hyman P. Minsky (1919-1996), whose hypothesis of financial instability was mobilized to explain the subprime crisis. My thesis seeks to explore Minsky's alternative conception of the financial system, showing how it fits into various discussions shaking the macroeconomy of the time, such as the debate between the monetarists and the Keynesians in the 1960s and 1970s.
+
+    I first seek to understand the place Minsky occupied during his career among economists interested in monetary and financial issues. This is why I am interested in the work Minsky produced for the Commission on Money and Credit and for the Fed.
+
+
 ############  Maxime Desmarais-Tremblay - fr  #############
 
 - firstname: Maxime
@@ -26,13 +84,13 @@
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
   free_text: >
-    Mes travaux portent principalement sur l'histoire et les fondements philosophiques de l'économie publique. Dans ma thèse, je me suis          
-    intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de 
-    biens méritoires (sous tutelle). Depuis, j'ai poursuivi mes recherches sur la pensée de l'économiste américain Richard A. Musgrave 
+    Mes travaux portent principalement sur l'histoire et les fondements philosophiques de l'économie publique. Dans ma thèse, je me suis
+    intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de
+    biens méritoires (sous tutelle). Depuis, j'ai poursuivi mes recherches sur la pensée de l'économiste américain Richard A. Musgrave
     (1910-2007).
 
-    Je travaille actuellement à une prosopographie des historiens de la pensée économique avec Andrej Svorenčík (Université de Mannheim). Je 
-    rédige également un essai sur les origines de l'homo oeconomicus avec Michele Bee (Université de Lausanne). Dernièrement, j'ai aussi 
+    Je travaille actuellement à une prosopographie des historiens de la pensée économique avec Andrej Svorenčík (Université de Mannheim). Je
+    rédige également un essai sur les origines de l'homo oeconomicus avec Michele Bee (Université de Lausanne). Dernièrement, j'ai aussi
     amorcé une collaboration avec Aleksandar Stojanović (Université de Turin) sur Ronald Coase et les communs.
 
 ############  Maxime Desmarais-Tremblay - en  #############
@@ -63,12 +121,12 @@
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
   free_text: >
-    My main research interests are in the recent history and the philosophical foundations of the modern theory of public finance. I studied 
-    the conceptual history of public goods and merit goods (merit wants). My research focuses on the contribution of Richard A. Musgrave to 
-    the modernisation of public finance and the emergence of public economics. I compared Musgrave's approach to public expenditures with that 
-    of other major figures of economic theory: Paul A. Samuelson and James M. Buchanan. I am interested in the contextual history of 
-    economics, as well as in its philosophical underpinnings, both from the 'internal' perspective of economic methodology, and from the 
-    perspective of political philosophy. I am currently working on the principles of taxation, and on the conceptual origins of consumers' 
+    My main research interests are in the recent history and the philosophical foundations of the modern theory of public finance. I studied
+    the conceptual history of public goods and merit goods (merit wants). My research focuses on the contribution of Richard A. Musgrave to
+    the modernisation of public finance and the emergence of public economics. I compared Musgrave's approach to public expenditures with that
+    of other major figures of economic theory: Paul A. Samuelson and James M. Buchanan. I am interested in the contextual history of
+    economics, as well as in its philosophical underpinnings, both from the 'internal' perspective of economic methodology, and from the
+    perspective of political philosophy. I am currently working on the principles of taxation, and on the conceptual origins of consumers'
     sovereignty.
 
 ############  Nicolas Vallois - fr  #############
@@ -97,9 +155,9 @@
       link: "https://www.researchgate.net/profile/Nicolas_Vallois"
   contact: "nicolas.vallois@u-picardie.fr"
   free_text: >
-    Mes recherches actuelles portent sur l'histoire des "statistiques juives" ou "sciences sociales juives" 
-    (fin XIXème -début XXème siècle). Je travaille plus particulièrement en ce moment sur les travaux de Jacob Lestschinsky 
-    et ses archives au Jewish Scientific Institute (YIVO). Je m'intéresse plus généralement aux questions relatives aux Juifs et 
+    Mes recherches actuelles portent sur l'histoire des "statistiques juives" ou "sciences sociales juives"
+    (fin XIXème -début XXème siècle). Je travaille plus particulièrement en ce moment sur les travaux de Jacob Lestschinsky
+    et ses archives au Jewish Scientific Institute (YIVO). Je m'intéresse plus généralement aux questions relatives aux Juifs et
     au judaïsme dans l'histoire de la pensée économique contemporaine.
 
 
@@ -133,9 +191,9 @@
   contact: "nicolas.vallois@u-picardie.fr"
   free_text: >
     My current research bears on the history of "Jewish statistics" and "Jewish social sciences"
-    (late 19th century - early 20th century). I am working on the works of Jacob Lestschinsky and his archives 
-    at the Jewish Scientific Institute (YIVO). More generally, I am interested in issues related to the Jews and judaism in 
-    the history of recent economic thought. 
+    (late 19th century - early 20th century). I am working on the works of Jacob Lestschinsky and his archives
+    at the Jewish Scientific Institute (YIVO). More generally, I am interested in issues related to the Jews and judaism in
+    the history of recent economic thought.
 
 
     My former research dealt with the history of neuroeconomics and behavioural economics.
@@ -157,11 +215,11 @@
       link: "https://www.linkedin.com/in/clara-leonard-3ab47a40/"
   contact: "clara.leonardhec@gmail.com"
   free_text: >
-    Mes travaux portent sur la recherche d'une troisième voie après la seconde guerre mondiale, 
-    entre le Planisme inspirant la reconstruction et le Laisser Faire rejetant toute intervention de l'Etat. 
-    Je me concentre en particulier sur la version française du néolibéralisme, en tentant de comprendre en quoi 
-    il diffère d'un point de vue théorique et épistémologique des autres courants nationaux européens. 
-    J'examine également, à travers une approche institutionnelle, le lien entre le courant intellectuel et les politiques publiques 
+    Mes travaux portent sur la recherche d'une troisième voie après la seconde guerre mondiale,
+    entre le Planisme inspirant la reconstruction et le Laisser Faire rejetant toute intervention de l'Etat.
+    Je me concentre en particulier sur la version française du néolibéralisme, en tentant de comprendre en quoi
+    il diffère d'un point de vue théorique et épistémologique des autres courants nationaux européens.
+    J'examine également, à travers une approche institutionnelle, le lien entre le courant intellectuel et les politiques publiques
     de l'époque.
 
   ############  Clara Léonard - en   #############
@@ -217,14 +275,14 @@
       link: "https://www.pantheonsorbonne.fr/uploads/pics/CV_Couix_fd00979fe1.pdf"
   contact: "quentin.couix@univ-paris1.fr"
   free_text: >
-    Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et 
-    par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux 
+    Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et
+    par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux
     approches qui établissent des liens entre l’économie et la thermodynamique (physique de l’énergie et de la matière). Mais
-    je porte aussi mon attention sur les diverses controverses qui ont opposé ce courant à la théorie néoclassique des 
+    je porte aussi mon attention sur les diverses controverses qui ont opposé ce courant à la théorie néoclassique des
     ressources naturelles.
-      
-    D'un point de vue historique, mes recherches se concentrent sur la période allant des années 1970 à nos jours. Mais leur 
-    ambition est surtout épistémologique et méthodologique, questionnant à la fois les outils analytiques utilisés pour 
+
+    D'un point de vue historique, mes recherches se concentrent sur la période allant des années 1970 à nos jours. Mais leur
+    ambition est surtout épistémologique et méthodologique, questionnant à la fois les outils analytiques utilisés pour
     représenter la production et les rapports interdisciplinaires qu'ils supposent entre l'économie et la physique.
 
 ############  Quentin Couix - en   #############
@@ -257,15 +315,15 @@
       link: "https://www.pantheonsorbonne.fr/uploads/pics/CV_Couix_fd00979fe1.pdf"
   contact: "quentin.couix@univ-paris1.fr"
   free_text: >
-    My work questions the way economic theory tries to understand the material bases of development, 
-    and whether it is sustainable or not. I focus on the school of ecological economics, and more 
-    particularly on approaches that establish links between economics and thermodynamics (physics of energy 
-    and matter). But I am also interested in the various controversies that have opposed this current to the 
+    My work questions the way economic theory tries to understand the material bases of development,
+    and whether it is sustainable or not. I focus on the school of ecological economics, and more
+    particularly on approaches that establish links between economics and thermodynamics (physics of energy
+    and matter). But I am also interested in the various controversies that have opposed this current to the
     neoclassical theory of natural resources.
 
 
-    From a historical point of view, my research deals with the period going from the 1970s to the present. But 
-    its ambition is mainly epistemological and methodological, questioning both the analytical tools used to 
+    From a historical point of view, my research deals with the period going from the 1970s to the present. But
+    its ambition is mainly epistemological and methodological, questioning both the analytical tools used to
     represent production and the interdisciplinary relations they assume between economics and physics.
 
 ############  Niels Boissonnet - en   #############
@@ -289,17 +347,17 @@
   contact: "niels.boissonnet@gmail.com"
   twitter: "NielsBoissonnet"
   free_text: >
-    The main part of my work is dedicated to building a theory of how awareness changes 
-    can yield preference changes. To elaborate such a theory I mix philosophical investigations 
-    with the axiomatic approach used by decision theorists. In order to turn my research 
-    on preference formation into a more empirical analysis, I am planning to develop my skill 
+    The main part of my work is dedicated to building a theory of how awareness changes
+    can yield preference changes. To elaborate such a theory I mix philosophical investigations
+    with the axiomatic approach used by decision theorists. In order to turn my research
+    on preference formation into a more empirical analysis, I am planning to develop my skill
     in machine learning, notably recommendation algorithms.
 
 
-    I am also interested in three topics that are more or less related to preference formation. 
-    The first is unawareness and the way it may affect beliefs dynamics both in games and in single 
-    agent choices context. The second is network theory and the way it can shape cultural 
-    mixing. The third consists of applying a beliefs manipulation framework to analyze a 
+    I am also interested in three topics that are more or less related to preference formation.
+    The first is unawareness and the way it may affect beliefs dynamics both in games and in single
+    agent choices context. The second is network theory and the way it can shape cultural
+    mixing. The third consists of applying a beliefs manipulation framework to analyze a
     government's decision to disclose or not the existence of a terrorist threat to public opinion.
 
 ############  Niels Boissonnet - fr   #############
@@ -323,19 +381,19 @@
   contact: "niels.boissonnet@gmail.com"
   twitter: "NielsBoissonnet"
   free_text: >
-    La majeure partie de mon travail consiste à théoriser l'effet d'une prise de conscience 
-    sur les changements de préférences. Pour élaborer une telle théorie je mêle approche 
-    philosophique à un approche plus axiomatique telle qu'elle se retrouve en théorie de la 
-    décision. Afin de confronter ces recherches théoriques avec des données empiriques, je 
-    projette également de développer mes compétences en machine learning, notamment les 
-    algorithmes de recommandation. 
+    La majeure partie de mon travail consiste à théoriser l'effet d'une prise de conscience
+    sur les changements de préférences. Pour élaborer une telle théorie je mêle approche
+    philosophique à un approche plus axiomatique telle qu'elle se retrouve en théorie de la
+    décision. Afin de confronter ces recherches théoriques avec des données empiriques, je
+    projette également de développer mes compétences en machine learning, notamment les
+    algorithmes de recommandation.
 
 
-    Je suis également intéressé par trois autres types de sujets qui ne sont pas sans lien 
-    avec mes recherches sur la formation des préférences. Le premier porte sur 
-    l'*unawareness* et la dynamique des croyances en générale. Le second sur la théorie des 
-    réseaux et la manière dont elle peut contribuer à construire une théorie des échanges 
-    culturelles. Le troisième applique un modèle de manipulationdes croyances afin d'analyser 
+    Je suis également intéressé par trois autres types de sujets qui ne sont pas sans lien
+    avec mes recherches sur la formation des préférences. Le premier porte sur
+    l'*unawareness* et la dynamique des croyances en générale. Le second sur la théorie des
+    réseaux et la manière dont elle peut contribuer à construire une théorie des échanges
+    culturelles. Le troisième applique un modèle de manipulationdes croyances afin d'analyser
     la décision d'un gouvernement de révéler ou non l'existence d'un menace terroriste.
 
 ############  Guillaume   #############
@@ -361,13 +419,13 @@
       link: "https://noblet.xyz"
   contact: "guillaume@noblet.xyz"
   free_text: >
-    My research focuses on agricultural economics in the first half of the 20th century in the US. An emphasis is put 
-    in particular on how the first economic experiments that were drawn for farm management and price analysis and the 
+    My research focuses on agricultural economics in the first half of the 20th century in the US. An emphasis is put
+    in particular on how the first economic experiments that were drawn for farm management and price analysis and the
     construction of new statistics relate to the becoming of economists as experts for policy-making.
 
 
-    Thus my research adresses part of the history of the sub-field agricultural economics as embedded 
-    in a tooled-discipline. In other words, I study the relationships between theory, practices, 
+    Thus my research adresses part of the history of the sub-field agricultural economics as embedded
+    in a tooled-discipline. In other words, I study the relationships between theory, practices,
     and expertise.
 
 
@@ -400,13 +458,13 @@
       link: "https://noblet.xyz"
   contact: "guillaume@noblet.xyz"
   free_text: >
-    Mes recherches portent sur l'économie agricole dans la première moitié du XXe siècle aux États-Unis. 
-    Une emphase particulière est mise sur la manière dont les premières expériences économiques, réalisées pour 
-    la gestion de la ferme et l'analyse des prix agricoles, et la construction de nouvelles statistiques s'intègrent dans 
+    Mes recherches portent sur l'économie agricole dans la première moitié du XXe siècle aux États-Unis.
+    Une emphase particulière est mise sur la manière dont les premières expériences économiques, réalisées pour
+    la gestion de la ferme et l'analyse des prix agricoles, et la construction de nouvelles statistiques s'intègrent dans
     la formation des économistes comme experts.
 
 
-    Ainsi, j'aborde une partie de l’histoire de l’économie agricole en la comprenant comme une sous-discipline outillée. 
+    Ainsi, j'aborde une partie de l’histoire de l’économie agricole en la comprenant comme une sous-discipline outillée.
     En d'autres termes, j'étudie les relations entre la théorie, les pratiques, et l'expertise.
 
 
@@ -449,7 +507,7 @@
 
 
     I am mainly interested in the emergence of modern financial theory after World War 2. In this regard,
-    I focus on constitutive contributions from this new discipline: the Random Character of Financial Fluctuations and 
+    I focus on constitutive contributions from this new discipline: the Random Character of Financial Fluctuations and
     the Efficient Market Hypothesis.
 
 ############  Thomas Delcey - fr   #############
@@ -483,7 +541,7 @@
   free_text: >
     Mes recherches portent sur l'histoire des théories financières, et plus particulièrement sur la théorie  de l'Efficience
     des Marchés Financiers (EMF). Je m'intéresse principalement à l’émergence de la théorie financière moderne. Dans cette
-    optique, je me concentre sur les contributions constitutives de cette nouvelle discipline: le caractère aléatoire des 
+    optique, je me concentre sur les contributions constitutives de cette nouvelle discipline: le caractère aléatoire des
     fluctuations financières et l'efficience des marchés financiers.
 
 ############  Guilhem Lecouteux - en   #############
@@ -508,23 +566,23 @@
   contact: "guilhem.lecouteux@unice.fr"
   twitter: "lecouteuxg"
   free_text: >
-    My research combines behavioural economics, game theory, and philosophy 
-    to investigate (i) the formation of individual preferences and beliefs, 
-    and (ii) the normative implications of endogenous preferences for the 
+    My research combines behavioural economics, game theory, and philosophy
+    to investigate (i) the formation of individual preferences and beliefs,
+    and (ii) the normative implications of endogenous preferences for the
     design of public policies.
 
 
-    A first objective is to study how agents use and are influenced by their 
-    environment when forming their preferences and beliefs, which requires 
-    investigating the actual reasoning processes of the agents, and go beyond 
+    A first objective is to study how agents use and are influenced by their
+    environment when forming their preferences and beliefs, which requires
+    investigating the actual reasoning processes of the agents, and go beyond
     revealed preferences approaches.
 
 
-    The second (related) objective is to develop a normatively justifiable 
-    and pragmatically usable framework for designing behavioural public 
+    The second (related) objective is to develop a normatively justifiable
+    and pragmatically usable framework for designing behavioural public
     policies, that accounts for the agents' ability to actively shape their
-    own preferences, which could offer an alternative to the current 
-    technocratic view of behavioural sciences (with nudging used as a tool 
+    own preferences, which could offer an alternative to the current
+    technocratic view of behavioural sciences (with nudging used as a tool
     of social design).
 
 ############  Guilhem Lecouteux  - fr  #############
@@ -549,20 +607,20 @@
   contact: "guilhem.lecouteux@unice.fr"
   twitter: "lecouteuxg"
   free_text: >
-    Ma recherche combine l'économie comportementale, la théorie des jeux, et la philosophie 
-    fin d'étudier (i) la formation des préférences et croyances des agents, et (ii) 
+    Ma recherche combine l'économie comportementale, la théorie des jeux, et la philosophie
+    fin d'étudier (i) la formation des préférences et croyances des agents, et (ii)
     les implications normatives de l'endogénéité des préférences pour les politiques publiques.
 
 
-    Un premier objectif de ce travail est de mieux comprendre comment les agents utilisent et 
-    sont influencés par leur environnement lors de la formation de leurs préférences et 
-    croyances, ce qui requiert d'étudier les processus de raisonnement des agents, et de 
+    Un premier objectif de ce travail est de mieux comprendre comment les agents utilisent et
+    sont influencés par leur environnement lors de la formation de leurs préférences et
+    croyances, ce qui requiert d'étudier les processus de raisonnement des agents, et de
     dépasser les approches fondées sur les préférences révélées.
-     
-    Un second objectif, complémentaire au premier, est de développer un cadre d'analyse pour 
-    les politiques publiques comportementales qui soit normativement justifiable, tout en 
-    restant applicable d'un point de vue pratique, et qui puisse offrir une alternative aux 
-    approches davantage technocratiques des sciences comportementales (qui voient dans les 
+
+    Un second objectif, complémentaire au premier, est de développer un cadre d'analyse pour
+    les politiques publiques comportementales qui soit normativement justifiable, tout en
+    restant applicable d'un point de vue pratique, et qui puisse offrir une alternative aux
+    approches davantage technocratiques des sciences comportementales (qui voient dans les
     *nudges* un simple outil de design social)
 
 ############  Justine Loulergue  - en   #############
@@ -592,12 +650,12 @@
       link: "https://fr.linkedin.com/in/justine-loulergue-461a06b5"
   contact: "justine.loulergue@unil.ch"
   free_text: >
-    Justine Loulergue holds both a MA in Theories, Methods and Epistemology of Economics, from Paris 1 Pantheon-Sorbonne 
-    University (with a thesis on Property rights transactions in John Roger Commons), and a MA in History of Philosophy 
-    from Paris 4 Lettres Sorbonne University (« The uses of negativity in Kierkegaard »). 
+    Justine Loulergue holds both a MA in Theories, Methods and Epistemology of Economics, from Paris 1 Pantheon-Sorbonne
+    University (with a thesis on Property rights transactions in John Roger Commons), and a MA in History of Philosophy
+    from Paris 4 Lettres Sorbonne University (« The uses of negativity in Kierkegaard »).
 
 
-    Her PhD, co-directed by Annie L. Cot (Paris 1, CES) and Roberto Barranzini (UNIL, Centre Walras-Pareto), deals with 
+    Her PhD, co-directed by Annie L. Cot (Paris 1, CES) and Roberto Barranzini (UNIL, Centre Walras-Pareto), deals with
     « The metaphors of equilibrium in the french-speaking economic litterature of the XIXth century ».
 
 ############ Justine Loulergue  - fr   #############
@@ -627,8 +685,8 @@
   contact: "justine.loulergue@unil.ch"
   free_text: >
     Titulaire d’un Master 2 en Théories, méthodes et épistémologie de l’économie à Paris 1 (Mémoire sur les transactions
-    de droits de propriété chez John Roger Commons), ainsi que d’un Master 2 en Histoire de la Philosophie à Paris 4 
-    (« les usages de la négativité chez Kierkegaard »). Ma thèse, en cotutelle avec Paris 1, porte sur les métaphores de 
+    de droits de propriété chez John Roger Commons), ainsi que d’un Master 2 en Histoire de la Philosophie à Paris 4
+    (« les usages de la négativité chez Kierkegaard »). Ma thèse, en cotutelle avec Paris 1, porte sur les métaphores de
     l’équilibre dans la littérature économique francophone de la 2nde moitié du XIXe siècle.
 
 ############ Nicolas Camillotto  - en   #############
@@ -656,8 +714,8 @@
       link: "https://www.linkedin.com/in/nicolas-camilotto-51451194/"
   contact: "nicolas.camilotto@unice.fr"
   free_text: >
-    My thesis deals with the notion of trust which, since the 1980s, has taken on considerable importance 
-    in economic analysis as in all social sciences. My work attempts to trace the genesis of this object 
+    My thesis deals with the notion of trust which, since the 1980s, has taken on considerable importance
+    in economic analysis as in all social sciences. My work attempts to trace the genesis of this object
     from both a historical and an analytical point of view.
 
 
@@ -666,12 +724,12 @@
 
 
     I first approach this work in a historical way, trying to show that this series of seminars marks the
-    starting point of the "economy of trust". To do this, I approach seminars as true historical objects 
+    starting point of the "economy of trust". To do this, I approach seminars as true historical objects
     that play a major role in the construction of a discipline.
 
 
-    I also discuss this work and the reactions it has generated analytically. This reflection raises the 
-    question of the possibility of a trust which rests on rational bases and pushes, ultimately, to wonder 
+    I also discuss this work and the reactions it has generated analytically. This reflection raises the
+    question of the possibility of a trust which rests on rational bases and pushes, ultimately, to wonder
     bout the definition of the economy as a discipline and its relation to the other social sciences.
 
 ############ Nicolas Camilotto - fr #############
@@ -699,22 +757,22 @@
       link: "https://www.linkedin.com/in/nicolas-camilotto-51451194/"
   contact: "nicolas.camilotto@unice.fr"
   free_text: >
-    Ma thèse porte sur la notion de confiance qui, depuis les années 1980, a pris une importance considérable 
+    Ma thèse porte sur la notion de confiance qui, depuis les années 1980, a pris une importance considérable
     dans l’analyse économique comme dans l’ensemble des sciences sociales. Mes travaux tentent de retracer la
     genèse de cet objet tant d’un point de vue historique qu’analytique.
 
 
-    Pour ce faire, je m’appuie sur une certaine vision de la confiance qui prend forme au milieu des années 
-    1980 dans une série de séminaires au *King’s College Cambridge*. 
+    Pour ce faire, je m’appuie sur une certaine vision de la confiance qui prend forme au milieu des années
+    1980 dans une série de séminaires au *King’s College Cambridge*.
 
 
-    J’aborde ces travaux d’abord de manière historique en essayant de montrer que cette série de séminaires 
-    marque le point de départ de « l’économie de la confiance ». Pour ce faire, j’aborde les séminaires 
+    J’aborde ces travaux d’abord de manière historique en essayant de montrer que cette série de séminaires
+    marque le point de départ de « l’économie de la confiance ». Pour ce faire, j’aborde les séminaires
     comme de véritables objets historiques qui jouent un rôle majeur dans la construction d’une discipline.
 
-    J’aborde également ces travaux et les réactions qu’ils ont entraînées de manière analytique. Cette réflexion 
-    pose la question de la possibilité d’une confiance qui repose sur des bases rationnelles et pousse, *in fine*, 
-    à s’interroger sur la définition de l’économie en tant que discipline et sur son rapport aux autres sciences 
+    J’aborde également ces travaux et les réactions qu’ils ont entraînées de manière analytique. Cette réflexion
+    pose la question de la possibilité d’une confiance qui repose sur des bases rationnelles et pousse, *in fine*,
+    à s’interroger sur la définition de l’économie en tant que discipline et sur son rapport aux autres sciences
     sociales.
 
 ############ Dorian Jullien - en   #############
@@ -746,8 +804,8 @@
       link: "http://www.theses.fr/2016NICE0012"
   contact: "jullien.dorian@gmail.com"
   free_text: >
-    My research focuses on rational choice theory in economics generally and more specifically 
-    on behavioral economics. My methodological perspective focuses on the roles of language in 
+    My research focuses on rational choice theory in economics generally and more specifically
+    on behavioral economics. My methodological perspective focuses on the roles of language in
     economic rationality (both the economist’s language in theoretical constructions and empirical
     work and the economic agents’ langage in their behavior).
 
@@ -783,7 +841,7 @@
     Mes recherches portent sur la théorie du choix rationnel en économie de manière générale,
     et sur l’économie comportementale en particulier. Ma perspective méthodologique se concentre
     sur les différents rôles que joue le langage dans la rationalité économique (à la fois
-    le langage de l’économiste dans ses constructions théoriques ou son travail empirique et 
+    le langage de l’économiste dans ses constructions théoriques ou son travail empirique et
     le langage des agents économiques dans leurs comportements).
 
 ########### Matthieu Renault - fr #############
@@ -876,30 +934,30 @@
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
-    My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally 
-    called the “New Classical revolution”. I highlighted that the process of transformations was far from being 
-    as direct as what a standard narrative uses to tell. I rejected a reading in terms of a succession of schools 
-    (the New Classical economics and RBC modellers overthrew the Keynesian paradigm, before the coming of New Keynesians 
-    and the emergence of a “New Neoclassical synthesis”). I focused on how macroeconomists interpreted stagflation at the time. 
-    It enables to understand how Keynesians reacted to New Classical criticisms (and thus to see that the ground for a supposed 
-    “New Keynesian” reaction was already settled), as it allows to observe the persistence of large-scale macroeconometric 
-    modelling. This empirical and contextual rereading of history of macroeconomics displays several similarities with the 
+    My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally
+    called the “New Classical revolution”. I highlighted that the process of transformations was far from being
+    as direct as what a standard narrative uses to tell. I rejected a reading in terms of a succession of schools
+    (the New Classical economics and RBC modellers overthrew the Keynesian paradigm, before the coming of New Keynesians
+    and the emergence of a “New Neoclassical synthesis”). I focused on how macroeconomists interpreted stagflation at the time.
+    It enables to understand how Keynesians reacted to New Classical criticisms (and thus to see that the ground for a supposed
+    “New Keynesian” reaction was already settled), as it allows to observe the persistence of large-scale macroeconometric
+    modelling. This empirical and contextual rereading of history of macroeconomics displays several similarities with the
     state of the field since the 2008 financial crisis.
 
 
-    The next step in my research journey is to study the effect of these transformations of macroeconomics on economic 
-    expertise and economic policies. As many historians and political scientists regard the late 1970s and early 1980s as 
-    a crucial turn (sometimes labelled “the neoliberal turn”) in terms of policy, it could be appealing to draw a direct line 
-    from changes in macroeconomics to changes in economic policies. Having endeavoured to underline the complexity and the 
+    The next step in my research journey is to study the effect of these transformations of macroeconomics on economic
+    expertise and economic policies. As many historians and political scientists regard the late 1970s and early 1980s as
+    a crucial turn (sometimes labelled “the neoliberal turn”) in terms of policy, it could be appealing to draw a direct line
+    from changes in macroeconomics to changes in economic policies. Having endeavoured to underline the complexity and the
     different ways to interpret the 1970s in macroeconomics, the situation also appeared less linear regarding economic expertise. For instance, in terms of macroeconometric modelling, the large-scale models sternly criticised by New Classical economists remained in use in many policymaking institutions and kept modified and improved. The DSGE models of the new synthesis just appeared in the second part of the 1990s, that is to say, more than 20 years after the Lucas Critique.
 
 
-    One of my current interest is the study of the Humphrey-Hawkins Act. Enacted in October 1978 in the United-States, 
-    it established explicit goals of 4% unemployment rate (for 1983) and 0% inflation rate (for 1988). The President of the U.S. 
-    has to commit to these targets, and the Fed has to write reports explaining how it will help to reach these goals. 
-    Sometimes considered as the beginning of the “Dual Mandate” of the Fed, the first version of the project (in 1974) 
-    only bore on unemployment. It was supported by civil rights movements as well as by supporters of economic planning. 
-    Relying on a large set of documents and archives, I am studying the role of economists in the elaboration of the project, 
+    One of my current interest is the study of the Humphrey-Hawkins Act. Enacted in October 1978 in the United-States,
+    it established explicit goals of 4% unemployment rate (for 1983) and 0% inflation rate (for 1988). The President of the U.S.
+    has to commit to these targets, and the Fed has to write reports explaining how it will help to reach these goals.
+    Sometimes considered as the beginning of the “Dual Mandate” of the Fed, the first version of the project (in 1974)
+    only bore on unemployment. It was supported by civil rights movements as well as by supporters of economic planning.
+    Relying on a large set of documents and archives, I am studying the role of economists in the elaboration of the project,
     as well as in the discussions about it in the following year and the final enactment of a very different version.
 
 ############ Aurélien Goustmedt - en  #############
@@ -934,38 +992,38 @@
   contact: "aurelien.goutsmedt@univ-paris1.fr"
   twitter: "AGoutsmedt"
   free_text: >
-    Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé 
-    la "révolution de la nouvelle économie classique". Je montrais que le processus de transformation était loin d'être aussi 
-    direct que ce qu'une certaine histoire standard laissait penser. Je rejettais une lecture en termes de succession d'écoles 
-    de pensée (la nouvelle économie classique et les modèles RBC qui renversaient le paradigme keynésien, avant l'arrivée des 
-    nouveaux keynésiens et l'émergence de la "nouvelle synthèse néoclassique"). Je me concentrais sur la manière dont les 
-    macroéconomistes interprétaient la stagflation à l'époque. Cela permet de comprendre comment les keynésiens ont réagi 
-    aux critique des nouveaux classiques (et ainsi de voir que la réaction "nouvelle keynésienne" était déjà bien en place 
-    dès les années 1970), mais aussi d'observer la persistence de la modélisation macroéconométrique standard. Cette relecture 
-    contextuelle et empirique de la macroéconomie permet de faire apparaître des ressemblances entre la crise traversée à 
+    Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé
+    la "révolution de la nouvelle économie classique". Je montrais que le processus de transformation était loin d'être aussi
+    direct que ce qu'une certaine histoire standard laissait penser. Je rejettais une lecture en termes de succession d'écoles
+    de pensée (la nouvelle économie classique et les modèles RBC qui renversaient le paradigme keynésien, avant l'arrivée des
+    nouveaux keynésiens et l'émergence de la "nouvelle synthèse néoclassique"). Je me concentrais sur la manière dont les
+    macroéconomistes interprétaient la stagflation à l'époque. Cela permet de comprendre comment les keynésiens ont réagi
+    aux critique des nouveaux classiques (et ainsi de voir que la réaction "nouvelle keynésienne" était déjà bien en place
+    dès les années 1970), mais aussi d'observer la persistence de la modélisation macroéconométrique standard. Cette relecture
+    contextuelle et empirique de la macroéconomie permet de faire apparaître des ressemblances entre la crise traversée à
     l'époque par la discipline, et celle rencontrée depuis la crise financière de 2008.
 
 
 
-    A la suite de ma thèse, j'ai commencé à m'intéresser aux effets de ces transformations de la macroéconomie sur l'expertise 
-    économique et les politiques économiques. La fin des années 1970 et le début des années 1980 sont souvent considérés par 
+    A la suite de ma thèse, j'ai commencé à m'intéresser aux effets de ces transformations de la macroéconomie sur l'expertise
+    économique et les politiques économiques. La fin des années 1970 et le début des années 1980 sont souvent considérés par
     les historiens et les politistes comme une période d'intenses transformations en termes de politiques économiques (parfois
-    appelé "tournant néolibéral"), ce qui incite à tracer une ligne droite entre les transformations de la macroéconomie, et 
+    appelé "tournant néolibéral"), ce qui incite à tracer une ligne droite entre les transformations de la macroéconomie, et
     ces changements de politiques économiques. Tout comme l'évolution de la macroéconomie dans les années 1970 et 1980 apparaît
     tout sauf linéaire, la situation en termes d'expertise économique s'avère complexe. Par exemple, les modèles macroéconométriques
-    dits "keynésiens" et critiqués par les économistes nouveaux classiques dans les années 1970 se sont maintenus dans les 
-    institutions de la politiques économiques jusque dans les années 1990 et n'ont parfois été que partiellement remplacé par 
+    dits "keynésiens" et critiqués par les économistes nouveaux classiques dans les années 1970 se sont maintenus dans les
+    institutions de la politiques économiques jusque dans les années 1990 et n'ont parfois été que partiellement remplacé par
     les modèles DSGE.
 
 
 
     Un de mes projets de recherche actuels s'intéresse à l'étude du Humphrey-Hawkins Act. Etabli aux Etats-Unis en octobre 1978,
-    il fixe un objectif explicite de 4% de taux de chômage et de 0% d'inflation.Le président américain doit s'engager à réaliser 
-    ces objectifs, et la Fed doit publier des rapports bi-annuels pour expliquer sa politique en fonction de ces objectifs. Cette 
-    loi est considérée comme l'établissement officiel du "double mandat" de la Fed. Or, la première version du projet de loi 
-    (en 1974) portait en fait uniquement sur le taux de chomâge, élaboré par des mouvements promouvant les droits civiques 
-    ainsi que par des défenseurs de la planification nationale. J'étudie l'implication des économistes dans les débats sur 
-    ce projet de loi et sur les réécritures ultérieures du projet. Un second projet de recherche, en collaboration avec Juan 
+    il fixe un objectif explicite de 4% de taux de chômage et de 0% d'inflation.Le président américain doit s'engager à réaliser
+    ces objectifs, et la Fed doit publier des rapports bi-annuels pour expliquer sa politique en fonction de ces objectifs. Cette
+    loi est considérée comme l'établissement officiel du "double mandat" de la Fed. Or, la première version du projet de loi
+    (en 1974) portait en fait uniquement sur le taux de chomâge, élaboré par des mouvements promouvant les droits civiques
+    ainsi que par des défenseurs de la planification nationale. J'étudie l'implication des économistes dans les débats sur
+    ce projet de loi et sur les réécritures ultérieures du projet. Un second projet de recherche, en collaboration avec Juan
     Acosta, Béatrice Cherrier, François Claveau, Clément Fontan et Francesco Sergi, porte sur l'histoire de l'expertise économique
     au sein de la Bank of England, depuis les années 1970.
 
@@ -997,7 +1055,7 @@
   twitter: "cescoeco"
   free_text: >
     My current research addresses the recent history of macroeconometric modelling, from Robert Lucas’s seminal
-    contributions in the 1970 to today's dynamic stochastic general equilibrium (DSGE) models. It provides an 
+    contributions in the 1970 to today's dynamic stochastic general equilibrium (DSGE) models. It provides an
     interpretation of the new interactions among macroeconomic theories, quantitative methods and expertise.
 
 
@@ -1031,8 +1089,8 @@
   twitter: "cescoeco"
   free_text: >
     Ma recherche porte sur l'histoire de la modélisation macroéconométrique, des contributions de Robert Lucas
-    dans les années 1970 aux modèles stochastiques dynamiques d'équilibre générale 
-    (DSGE) utilisés aujourd'hui. Mon travail analyse l'intéraction entre les théories macroéconomiques, 
+    dans les années 1970 aux modèles stochastiques dynamiques d'équilibre générale
+    (DSGE) utilisés aujourd'hui. Mon travail analyse l'intéraction entre les théories macroéconomiques,
     les méthodes quantitatives et l'expertise des politiques macroéconomiques.
 
 
@@ -1066,8 +1124,8 @@
   contact: "mbach@aup.edu"
   twitter: "mvsbach"
   free_text: >
-    I am an historian of economics interested especially in nineteenth century Indian Economics. 
-    I am currently finishing my PhD in International Political Economy at King's College London. 
+    I am an historian of economics interested especially in nineteenth century Indian Economics.
+    I am currently finishing my PhD in International Political Economy at King's College London.
     My thesis analyses how Indian economists constructed an idea of development at the turn of the nineteenth century.
 
 
@@ -1138,7 +1196,7 @@
   free_text: >
     Ma thèse porte sur les origines et le développement du néolibéralisme au XXème siècle. Je montre comment la reconstruction du libéralisme dans les années 1930, chez Lippmann, Hayek, les ordolibéraux, la première Ecole de Chicago, est marquée par un nouveau questionnement portant sur la possibilité de définir un gouvernement de la société sans tomber dans les écueils du laissez-faire ou de la planification. Ce questionnement sur les conditions de l'ordre socio-économique aboutit à l'insistance sur des "règles du jeu", essentiellement juridiques, qui vont venir former aussi bien qu'encadrer l'économie et le politique. Cette pensée est développée sur les objets politiques par James Buchanan, qui insiste très largement sur la dimension constitutionnelle du li béralisme, aussi bien que par Posner, qui développe juridiquement la réflexion néolibérale sur les règles les plus efficientes. La trajectoire néolibérale part ainsi d'une anthropologie politique renouvelée pour aboutir à une philosophie du droit conséquente.
 
-    Je suis intéressé plus largement par l'histoire du libéralisme et j'ai aussi travaillé sur le libéralisme dit "classique", notamment Adam Smith, Hume ou encore Mill. 
+    Je suis intéressé plus largement par l'histoire du libéralisme et j'ai aussi travaillé sur le libéralisme dit "classique", notamment Adam Smith, Hume ou encore Mill.
 
     En économie j'ai travaillé sur la théorie des jeux, et plus spécifiquement dans le cadre de l’ontologie sociale, en suivant le travail de Francesco Guala et Frank Hindriks, ainsi que, par exemple, Cyril Hédoin, qui discute des problèmes philosophiques relatifs à l’individualisme et au holisme, ou encore à l’intentionnalité collective.
 
@@ -1174,8 +1232,8 @@
     XXth century. In this perspective, I work on different sub-subjects: the historiography of neoliberalism;
     the birth of the critics of *laisser-faire* and classical liberalism with the Lippmann-Dewey debate;
     the debate on socialist planning led by Mises; the shift introduced by Hayek with his theory of information,
-    that irrigates much of the economic sciences of the second part of the century; and other periods of 
-    neoliberalism. I intend to work on the literature post-1980s. 
+    that irrigates much of the economic sciences of the second part of the century; and other periods of
+    neoliberalism. I intend to work on the literature post-1980s.
 
 
     I also work on game theory, especially in the frame of social ontology problems, following the works
@@ -1211,18 +1269,18 @@
   contact: "francois.allisson@unil.ch"
   twitter: "F_Allisson"
   free_text: >
-    I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of 
+    I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of
     the Lausanne School.
 
 
     I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth
     century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian
-    economic thought*, I have called *Russian synthesis* the attempt by Tugan-Baranovsky and others to conciliate these 
+    economic thought*, I have called *Russian synthesis* the attempt by Tugan-Baranovsky and others to conciliate these
     various trends in the theory of value.
 
 
-    I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D'Onofrio, 
-    Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on 
+    I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D'Onofrio,
+    Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on
     the "planning doctor" Charles Bettelheim (in a collective project on French economists under Vichy), etc.
 
 
@@ -1258,18 +1316,18 @@
   contact: "francois.allisson@unil.ch"
   twitter: "F_Allisson"
   free_text: >
-    Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire des théories de la valeur 
+    Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire des théories de la valeur
     et de la planification, l'histoire des marxismes, et l'histoire de l'école de Lausanne.
 
 
-    Je me suis notamment intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle, 
+    Je me suis notamment intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle,
     dans un contexte où les pensées classique et marxiste étaient dominantes. Dans ma monographie *Value and prices in
     Russian economic thought*, j'ai nommé *synthèse russe* la tentative réalisée par Tugan-Baranovsky et d'autres de concilier
     ces différents courants dans la théorie de la valeur.
 
 
     Je travaille actuellement sur plusieurs projets: sur le premier marxiste russe Nikolay Sieber (avec Federico D'Onofrio,
-    Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le 
+    Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le
     "planning doctor" Charles Bettelheim (dans le cadre d'un projet collectif sur Vichy), etc.
 
 
@@ -1338,26 +1396,26 @@
   contact: "cc2006@cam.ac.uk"
   twitter: "CleoCZ"
   free_text: >
-    I work on the history of Labour Economics and Applied Microeconomics, as well as to the more general theme of 
-    economists’ expertise, especially in the courtrooms. 
-    I am currently working on four projects. 
+    I work on the history of Labour Economics and Applied Microeconomics, as well as to the more general theme of
+    economists’ expertise, especially in the courtrooms.
+    I am currently working on four projects.
 
 
-    *History of the Economics of Discrimination*. Since my Ph.D. I try to write a biography of the concept of discrimination 
+    *History of the Economics of Discrimination*. Since my Ph.D. I try to write a biography of the concept of discrimination
     before and beyond Gary Becker’s work. I especially focus on the post-war American context, and especially on the
     confrontation of the human capital framework and the signaling paradigm in the late 1960s.
 
 
     *Measuring Discrimination in Context*. I am currently writing a history of the use of measurements of market discrimination
-    in the US courtrooms. Further project include an historical assessment of the “credibility revolution” in Forensic 
+    in the US courtrooms. Further project include an historical assessment of the “credibility revolution” in Forensic
     Economics.
 
 
-    *Wage Differences in Theory and in Practice*. In a joint project with Annie L. Cot, we explore the economic arguments and 
+    *Wage Differences in Theory and in Practice*. In a joint project with Annie L. Cot, we explore the economic arguments and
     the economists’ practices in the century-long “equal pay for equal work” controversy in the UK (from the 1920s till the
-    1970s). On the same subject, I contributed a chapter in the Handbook on Women Economists (forth. 2018) on Fawcett, 
-    Webb and Rathbone’s arguments on equal pay. In a joint project with François Allisson, we study the evolution of the 
-    content of Maurice Dobb’s Cambridge Economic Handbook Wages from 1928 to the 1960s, and its diffusion in the UK and in 
+    1970s). On the same subject, I contributed a chapter in the Handbook on Women Economists (forth. 2018) on Fawcett,
+    Webb and Rathbone’s arguments on equal pay. In a joint project with François Allisson, we study the evolution of the
+    content of Maurice Dobb’s Cambridge Economic Handbook Wages from 1928 to the 1960s, and its diffusion in the UK and in
     India.
 
 
@@ -1402,12 +1460,12 @@
 
 
     *Histoire de l’économie des discriminations*. Depuis ma thèse, j’écris une biographie du concept de discrimination,
-    notamment dans le contexte du développement de l’économie durant la Guerre Froide et depuis les années 1970s. 
-    Je m’intéresse notamment à l’émergence des théories du signal appliquées à la discrimination. 
+    notamment dans le contexte du développement de l’économie durant la Guerre Froide et depuis les années 1970s.
+    Je m’intéresse notamment à l’émergence des théories du signal appliquées à la discrimination.
 
 
     *La mesure des discrimination en contexte*. J’écris actuellement l’histoire de l’usage de la mesure des discriminations
-    dans les cours de justice états-uniennes. 
+    dans les cours de justice états-uniennes.
 
 
     *Différences entre salaires en théorie et en pratique*. Dans un projet conjointement mené avec Annie L. Cot, nous explorons les arguments économiques et les pratiques des économistes concernant la controverse « equal pay for equal work » au Royaume-Unis entre les années 1920 et les années 1970. Sur le même thème, j’ai écrit un chapitre pour le Handbook on Women economists (forth. 2018) sur les travaux de Fawcett, Webb, and Rathbone. J’étudie également avec François Allisson l’évolution du contenu du Cambridge Economic Handbook intitulé “Wages” de 1928 aux années 1960, ainsi que sa diffusion au Royaume-Uni et en Inde.
@@ -1461,11 +1519,11 @@
       link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
   contact: "julien.gradoz@ens-cachan.fr"
   free_text: >
-    Mon travail de recherche porte actuellement sur l’histoire 
-    de la modélisation de la qualité des produits dans la théorie 
-    économique néoclassique, sa quantification, sa naturalisation, et la 
-    façon dont s’articule la qualification des objets en tant que « bien 
-    économique » ou « marchandise » et les modalités d’évaluation de leur 
+    Mon travail de recherche porte actuellement sur l’histoire
+    de la modélisation de la qualité des produits dans la théorie
+    économique néoclassique, sa quantification, sa naturalisation, et la
+    façon dont s’articule la qualification des objets en tant que « bien
+    économique » ou « marchandise » et les modalités d’évaluation de leur
     qualité.
 
 ############ Julien Gradoz en #############
@@ -1491,10 +1549,10 @@
       link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
   contact: "julien.gradoz@ens-cachan.fr"
   free_text: >
-    My research project is mainly focused on the history of the 
-    modelling of quality of economic goods in the neoclassical economic 
-    theory, its quantification, its naturalization, and how the process of 
-    qualification of objects into "economic goods" or commodities" is 
+    My research project is mainly focused on the history of the
+    modelling of quality of economic goods in the neoclassical economic
+    theory, its quantification, its naturalization, and how the process of
+    qualification of objects into "economic goods" or commodities" is
     affecting the evaluation of their quality.
 
 ############ Cristian Fraser fr #############
@@ -1519,14 +1577,14 @@
       link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
   contact: "cristian.frasser@correounivalle.edu.co"
   free_text: >
-    Je suis actuellement doctorant en économie à l'Université Paris 1, Panthéon-Sorbonne, France. Je rejoindrai le département d'économie de l'Universidad del Valle en Colombie en 
+    Je suis actuellement doctorant en économie à l'Université Paris 1, Panthéon-Sorbonne, France. Je rejoindrai le département d'économie de l'Universidad del Valle en Colombie en
     tant que professeur assistant en juillet 2020.
 
 
     Mes domaines de recherche sont l’économie monétaire, la philosophie de l’économie et l’histoire de la pensée économique.
 
 
-    Je travaille actuellement à l'intersection de l'économie et de la philosophie dans le but de donner un sens à la nature de la liquidité ou, comme 
+    Je travaille actuellement à l'intersection de l'économie et de la philosophie dans le but de donner un sens à la nature de la liquidité ou, comme
     l'appellent les philosophes, l'ontologie de la liquidité. Mon travail de recherche s’appuie sur les modèles de prospection monétaire, la notion philosophique des types naturels, et l'histoire de la théorie monétaire
 
 ############ Cristian Fraser en #############
@@ -1551,14 +1609,14 @@
       link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
   contact: "cristian.frasser@correounivalle.edu.co"
   free_text: >
-    I am currently a PhD student in Economics at the Université Paris 1, Panthéon-Sorbonne, France. I will be joining the Department of Economics at the Universidad del Valle, 
+    I am currently a PhD student in Economics at the Université Paris 1, Panthéon-Sorbonne, France. I will be joining the Department of Economics at the Universidad del Valle,
     Colombia as an Assistant Professor in July 2020.
 
 
     My research interests include monetary economics, philosophy of economics, and history of economic thought.
 
 
-    I currently work in the intersection between economics and philosophy aiming to make sense of the nature of liquidity, or as philosophers call it, the ontology of liquidity. 
+    I currently work in the intersection between economics and philosophy aiming to make sense of the nature of liquidity, or as philosophers call it, the ontology of liquidity.
     Due to the complexity of such a subject matter, I tend to favor methodological pluralism: the higher the diversity of our tools, the better our chances of gaining an understanding.
      My research has so far been built on search-based models of money, philosophical insights about natural kinds, and the history of monetary theory
 
@@ -1606,18 +1664,18 @@
       link: "https://erichpinzonfuchs.wordpress.com"
   contact: "erapinzonfu@unal.edu.co"
   free_text: >
-    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia, 
-    Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling, 
-    in the history of recent economics, and in the effects that gender representations have in the production 
-    of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics 
+    I’m an assistant professor in the department of economics at Universidad Nacional de Colombia,
+    Bogotá. I’m particularly interested in the history and methodology of macroeconometric modeling,
+    in the history of recent economics, and in the effects that gender representations have in the production
+    of economic knowledge.  I teach courses in the history of economics, political economy, and gender and economics
     at UNAL and Uniandes.
 
 
     I’m the digital information manager of the History of Economics Society (HES) and a member of HES’s Executive Committee.
-    I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s 
+    I’m also a founding member of the Latin American Society for the History of Economics (ALAHPE), and a member of ALAHPE’s
     communication committee. I’m co-director of the Grupo de Investigación en Historia, Pensamiento y Teoría Económica (GIHPTE),
-    and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1 
-    Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History 
+    and I  make part of the Research Group in the History and Methodology of Recent Economics (REhPERE) of the University Paris 1
+    Panthéon-Sorbonne. I also tweet for the Societies for the History of Economics (SHoET), which is a joint initiative of the History
     of Economics Society (HES) and the European Society for the History of Economic Thought (ESHET).
 
 ############ Jean-sébastien Lenfant fr #############
@@ -1682,7 +1740,7 @@
       link: "https://pro.univ-lille.fr/jean-sebastien-lenfant/"
   contact: "jean-sebastien.lenfant@univ-lille.fr"
   free_text: >
-    I am interested in a variety of subjects and I deal with them either with a historicalor  methodological perspective. My main subjects of research are general equilibrium theory, 
+    I am interested in a variety of subjects and I deal with them either with a historicalor  methodological perspective. My main subjects of research are general equilibrium theory,
     choice and decision theories, microeconomics of demand and consumption, the notion of goods' quality, the links between economics and psychology and the developments of behavioral economics.
 
 ############ Nicolas Brisset fr #############
@@ -1704,17 +1762,17 @@
       link: "https://sites.google.com/site/nicolasbrissetacademique/home?authuser=0."
   contact: "brissetni@gmail.com"
   free_text: >
-    Mes travaux portent de manière générale sur les stratégies croisées de légitimation entre économie et politique. 
-    C’est dans ce cadre général que s’inscrivent les deux projets de recherche que je mène actuellement : 
+    Mes travaux portent de manière générale sur les stratégies croisées de légitimation entre économie et politique.
+    C’est dans ce cadre général que s’inscrivent les deux projets de recherche que je mène actuellement :
 
 
-    Projet "Economic, Discipline et Expertise sous Vichy" (EDEV). Avec Raphaël Fèvre, nous travaillons à une histoire de la pensée économique et de 
-    l'expertise économique sous le régime de Vichy. Nous tentons à la fois de penser la manière dont un certain discours économique a appuyé le régime 
+    Projet "Economic, Discipline et Expertise sous Vichy" (EDEV). Avec Raphaël Fèvre, nous travaillons à une histoire de la pensée économique et de
+    l'expertise économique sous le régime de Vichy. Nous tentons à la fois de penser la manière dont un certain discours économique a appuyé le régime
     en lui fournissant des fondements « scientifiques », et de comprendre comment ce régime a fourni les conditions institutionnelles d’une expertise économique.
 
 
-    Projet « Les modèles comme actes de langage » : je travaille à une approche socio-philosophique de la modélisation en économie. 
-    L’objectif est d’inscrire l’analyse épistémologique des modèles en économie dans une perspective sociologique. Ce travail est mené en collaboration avec Dorian Jullien. 
+    Projet « Les modèles comme actes de langage » : je travaille à une approche socio-philosophique de la modélisation en économie.
+    L’objectif est d’inscrire l’analyse épistémologique des modèles en économie dans une perspective sociologique. Ce travail est mené en collaboration avec Dorian Jullien.
 
 
     Par ailleurs, je m’intéresse à la notion de domination (qu’elle soit politique, économique ou sociale) comme fondement des relations économiques. C’est dans cette perspective que je travail sur le marxisme politique de Robert Brenner.
@@ -1738,17 +1796,17 @@
       link: "https://sites.google.com/site/nicolasbrissetacademique/home?authuser=0."
   contact: "brissetni@gmail.com"
   free_text: >
-    Mes travaux portent de manière générale sur les stratégies croisées de légitimation entre économie et politique. 
-    C’est dans ce cadre général que s’inscrivent les deux projets de recherche que je mène actuellement : 
+    Mes travaux portent de manière générale sur les stratégies croisées de légitimation entre économie et politique.
+    C’est dans ce cadre général que s’inscrivent les deux projets de recherche que je mène actuellement :
 
 
-    Projet "Economic, Discipline et Expertise sous Vichy" (EDEV). Avec Raphaël Fèvre, nous travaillons à une histoire de la pensée économique et de 
-    l'expertise économique sous le régime de Vichy. Nous tentons à la fois de penser la manière dont un certain discours économique a appuyé le régime 
+    Projet "Economic, Discipline et Expertise sous Vichy" (EDEV). Avec Raphaël Fèvre, nous travaillons à une histoire de la pensée économique et de
+    l'expertise économique sous le régime de Vichy. Nous tentons à la fois de penser la manière dont un certain discours économique a appuyé le régime
     en lui fournissant des fondements « scientifiques », et de comprendre comment ce régime a fourni les conditions institutionnelles d’une expertise économique.
 
 
-    Projet « Les modèles comme actes de langage » : je travaille à une approche socio-philosophique de la modélisation en économie. 
-    L’objectif est d’inscrire l’analyse épistémologique des modèles en économie dans une perspective sociologique. Ce travail est mené en collaboration avec Dorian Jullien. 
+    Projet « Les modèles comme actes de langage » : je travaille à une approche socio-philosophique de la modélisation en économie.
+    L’objectif est d’inscrire l’analyse épistémologique des modèles en économie dans une perspective sociologique. Ce travail est mené en collaboration avec Dorian Jullien.
 
 
     Par ailleurs, je m’intéresse à la notion de domination (qu’elle soit politique, économique ou sociale) comme fondement des relations économiques. C’est dans cette perspective que je travail sur le marxisme politique de Robert Brenner.
@@ -1777,27 +1835,27 @@
       link: "https://fr.linkedin.com/in/thibaud-choppin-de-janvry-a0ba8493"
   contact: "thibaudchoppin@gmail.com"
   free_text: >
-    L’identité est « à la mode ». Et, comme toute chose commune, il nous faut en saisir l’apport et en dévoiler les limites. 
+    L’identité est « à la mode ». Et, comme toute chose commune, il nous faut en saisir l’apport et en dévoiler les limites.
     Pour se faire, je m’interroge sur son origine, ses évolutions, et sa préservation kaléidoscopique depuis les années 1950.
 
-    « Mot valise » par excellence, le concept d’identité confronte les sciences sociales en questionnement leurs postulats 
-    fondamentaux autant qu’en redéfinissant leurs frontières. C’est donc par une approche transdisciplinaire que je tente de 
-    saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives, 
-    de la sociologie et de la philosophie. Mes travaux se subdivisent en trois temps : 
+    « Mot valise » par excellence, le concept d’identité confronte les sciences sociales en questionnement leurs postulats
+    fondamentaux autant qu’en redéfinissant leurs frontières. C’est donc par une approche transdisciplinaire que je tente de
+    saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives,
+    de la sociologie et de la philosophie. Mes travaux se subdivisent en trois temps :
 
 
     Une réflexion historique sur son émergence : afin de comprendre l’émergence de la notion d’identité, je la lie avec un
-     processus de « détricotage » de la notion de rationalité. Je travaille sur l’hypothèse selon laquelle ce serait sur le 
-     creux d’une rationalité doublement « limitée » que s’appuierait l’identité. Les critiques de la rationalité serait le socle duquel départ l’identité : tendons-nous faire une nouvelle rationalité identitaire ? 
+     processus de « détricotage » de la notion de rationalité. Je travaille sur l’hypothèse selon laquelle ce serait sur le
+     creux d’une rationalité doublement « limitée » que s’appuierait l’identité. Les critiques de la rationalité serait le socle duquel départ l’identité : tendons-nous faire une nouvelle rationalité identitaire ?
 
 
     Une réflexion épistémologique sur son usage polysémique : l’identité recouvre – ou équilibre – un ensemble de significations
-    hétérogènes ; cette pluralité intrinsèque est-elle le symbole d’une unification ontologique des sciences sociales ou, au 
+    hétérogènes ; cette pluralité intrinsèque est-elle le symbole d’une unification ontologique des sciences sociales ou, au
     contraire, celui de divorces irrémédiables ? Entre la rencontre et la confrontation, est-elle un espace d’entente ?
 
 
-    Une réflexion théorique : dans le but de résoudre les problèmes épistémologiques que pose la polysémie sémantique, je théorise 
-    l’identité comme un rapport entre soi et l’autre. Suivant une logique d’économie, le rapport identitaire serait conflictuel, absolutiste 
+    Une réflexion théorique : dans le but de résoudre les problèmes épistémologiques que pose la polysémie sémantique, je théorise
+    l’identité comme un rapport entre soi et l’autre. Suivant une logique d’économie, le rapport identitaire serait conflictuel, absolutiste
     et fondamentalement inertique. Par là, il s’apparenterait à un jeu de jugement, de reflet et de double.
 
 ############ Thibaud Choppin de Janvry en #############
@@ -1824,36 +1882,36 @@
       link: "https://fr.linkedin.com/in/thibaud-choppin-de-janvry-a0ba8493"
   contact: "thibaudchoppin@gmail.com"
   free_text: >
-    The concept of « Identity » is here, and there. As social scientists, 
-    one of our first duty resides in understanding what this semantic, social and scientific 
-    novation brought – its contributions and its limits. With this aim, I question the origin 
+    The concept of « Identity » is here, and there. As social scientists,
+    one of our first duty resides in understanding what this semantic, social and scientific
+    novation brought – its contributions and its limits. With this aim, I question the origin
     of the notion of identity, its evolution and its kaleidoscopic preservation since the 1950s.
 
 
-    As a “portmanteau word” (“mot-valise” as Deleuze notes) the concept of identity confronts social sciences 
-    by questioning their fundamental postulates as well as by redefining their borders. Thus, it is naturally 
-    by a transdisciplinary approach that I try to grasp the sense – the signification and the direction – of a 
+    As a “portmanteau word” (“mot-valise” as Deleuze notes) the concept of identity confronts social sciences
+    by questioning their fundamental postulates as well as by redefining their borders. Thus, it is naturally
+    by a transdisciplinary approach that I try to grasp the sense – the signification and the direction – of a
     notion that is located in-between psychology, economics, cognitive sciences, sociology and philosophy
 
 
-    More precisely, my work revolves around three main axes: 
+    More precisely, my work revolves around three main axes:
 
 
-    Historical axis : in order to understand the contemporary emergence of the notion of identity, 
-    I link it to an “unravelment” of classic rationality. I hypothesize that the hollow of a dually 
-    “limited” (or bounded) rationality is a fulcrum for identity. The critics of rationality would be 
-    the grounds from which departs the notion of identity, before impacting it in return: are we leaning 
-    towards a new rationality ? 
+    Historical axis : in order to understand the contemporary emergence of the notion of identity,
+    I link it to an “unravelment” of classic rationality. I hypothesize that the hollow of a dually
+    “limited” (or bounded) rationality is a fulcrum for identity. The critics of rationality would be
+    the grounds from which departs the notion of identity, before impacting it in return: are we leaning
+    towards a new rationality ?
 
 
-    Epistemological axis: as identity covers – or equilibrates – a set of heterogeneous significations, I try to 
-    uncover its polysemous use: does its intrinsic plurality symbolize the possibility of an ontological unification 
-    of social sciences or, a contrario, does it represent an irreparable divorce? 
+    Epistemological axis: as identity covers – or equilibrates – a set of heterogeneous significations, I try to
+    uncover its polysemous use: does its intrinsic plurality symbolize the possibility of an ontological unification
+    of social sciences or, a contrario, does it represent an irreparable divorce?
 
 
     Theoretical axis: with the objective of resolving the epistemological issues raised by this semantic polysemy, I propose
-    an original view on identity as a rapport between the Self and the Other. Specifically, the identity rapport (“rapport 
-    identitaire”), as I theorize it, is (1) conflictual, (2) absolutist and (3) driven by inertia. This novel optic enables 
+    an original view on identity as a rapport between the Self and the Other. Specifically, the identity rapport (“rapport
+    identitaire”), as I theorize it, is (1) conflictual, (2) absolutist and (3) driven by inertia. This novel optic enables
     to analyse identity as a game of judgments and reflections.
 
 ############ Elizaveta Burina fr #############
@@ -1880,9 +1938,9 @@
   contact: "elizavetaburina@list.ru"
   free_text: >
 
-    Je travaille sur les analogie avec les sciences exactes dans la modelisation économique. Je suis surtout interessée par les modèles élaborés 
+    Je travaille sur les analogie avec les sciences exactes dans la modelisation économique. Je suis surtout interessée par les modèles élaborés
     par les économistes de l'Union Soviétique dans les années 1920-1930, notamment Vladimir Bazarov. Il utilisait les analogies avec les réactions
-    chimiques pour modéliser «le processus de restauration» de l’économie soviétique aprés la révolution et la logique d’une pendule pour expliquer 
+    chimiques pour modéliser «le processus de restauration» de l’économie soviétique aprés la révolution et la logique d’une pendule pour expliquer
     l’équilibre général. Ce travail implique l’analyse détaillée des sources primaires et aussi l'analyse des revues économiques de l’époque.
 
   ############ Elizaveta Burina en #############
@@ -1908,7 +1966,7 @@
       link: "https://www.researchgate.net/profile/Elizaveta_Burina2"
   contact: "elizavetaburina@list.ru"
   free_text: >
-    I am working on the natural science analogies in economic modeling. I am particularly interested in the models developed 
-    by the economists of the Soviet Union in the 1920s and 1930s, especially those of Vladimir Bazarov. He used analogies with chemical 
-    reactions to model the "restoration process" of the Soviet economy after the revolution and the logic of a pendulum to explain the general 
+    I am working on the natural science analogies in economic modeling. I am particularly interested in the models developed
+    by the economists of the Soviet Union in the 1920s and 1930s, especially those of Vladimir Bazarov. He used analogies with chemical
+    reactions to model the "restoration process" of the Soviet economy after the revolution and the logic of a pendulum to explain the general
     equilibrium. This work involves the detailed analysis of primary sources and also the analysis of economic journals of the time.

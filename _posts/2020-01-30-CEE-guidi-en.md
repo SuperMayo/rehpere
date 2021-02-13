@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2020-01-29
 ref: CEE-guidi-2020-01-30
 lang: en
-anchor: True
+anchor: False
 ---
 
 <i class="fas fa-table"></i> Date : _30 january 2020_ at _18:00_
