@@ -1,3 +1,89 @@
+############  Raphaël Fèvre - fr  #############
+
+- firstname: Raphaël
+  surname: Fèvre
+  flatname: raphael-fevre
+  picture: "raphael-fevre.jpg"
+  lang: "fr"
+  status: "Maître de Conférences"
+  statuscode: "mdc"
+  institution: "GREDEG, CNRS, Université Côte d’Azur"
+  themes:
+    - Économie et politique
+    - Philosophie économique
+    - Histoire de la pensée économique européenne
+    - Ordolibéralisme
+
+  authors:
+    - Walter Eucken
+    - Wilhelm Röpke
+    - John Maynard Keynes
+    - François Perroux
+    - Georges Bataille
+
+  external:
+    - name: "Page GREDEG"
+      link: "http://unice.fr/membres/tous-les-membres/gredeg/fevre-raphael"
+    - name: "Site Personnel"
+      link: "https://sites.google.com/view/raphaelfevre/home"
+    - name: "CV"
+      link: "https://sites.google.com/view/raphaelfevre/cv"
+    - name: "Research Gate"
+      link: "https://www.researchgate.net/profile/Raphael_Fevre"
+    - name: "Orcid"
+      link: "https://orcid.org/0000-0001-7628-4888"
+  contact: "raphael.fevre@univ-cotedazur.fr"
+  free_text: >
+    Mes recherchent portent sur la pensée économique du XXe siècle. Je m’intéresse en particulier à la façon dont la tendance de fascination vs. répulsion face à la montée des régimes autoritaires européens a contribué à façonner certains débats économiques centraux de l’entre-deux-guerres, et de l’après-guerre.
+
+
+    Fin 2017, j’ai achevé ma thèse de doctorat qui retrace l’histoire intellectuelle de l’ordolibéralisme allemand (1932-1950), sous la direction conjointe de l’Université de Lausanne et de l’Université Paris I Panthéon-Sorbonne. Ma thèse se concentre en particulier sur les fondements épistémologiques et philosophiques de la théorie économique et des recommandations politiques en montrant que le « pouvoir » était un élément clé pour comprendre l’économie politique ordolibérale dans son ensemble.
+
+
+    Plus récemment, j’ai poursuivi mes thématiques de recherche via de nouveaux projets centrés sur la pensée économique française (des années 1930 aux années 1960). Au sein du projet « Expertise et Discipline Économique sous Vichy » (EDEV) conduit avec Nicolas Brisset, nous travaillons à une histoire de la pensée économique et de l’expertise économique sous le régime de Vichy. Nous tentons à la fois d’interroger la manière dont un certain discours économique a appuyé le régime en lui fournissant des fondements « scientifiques », et de comprendre comment ce régime a pu offrir les conditions institutionnelles d’une expertise économique. Avec Thomas M. Mueller ensuite, nous nous intéressons à la naissance de l’économie du bien-être à la française avec une attention particulière pour les travaux de Maurice Allais et les économistes de son entourage (Gérard Debreu et Marcel Boiteux notamment). Je m’intéresse enfin à l’économie générale développée par le philosophe Georges Bataille, et en particulier à la façon dont il s’est rapporté à la pensée économique académique de son temps.
+
+############  Raphaël Fèvre - en  #############
+
+- firstname: Raphaël
+  surname: Fèvre
+  flatname: raphael-fevre
+  picture: "raphael-fevre.jpg"
+  lang: "en"
+  status: "Associate Professor"
+  statuscode: "mdc"
+  institution: "GREDEG, CNRS, Université Côte d’Azur"
+  themes:
+    - Economics and politics
+    - Economic Philisophy
+    - History of european economic thought
+    - Ordoliberalism
+  authors:
+    - Walter Eucken
+    - Wilhelm Röpke
+    - John Maynard Keynes
+    - François Perroux
+    - Georges Bataille
+  external:
+    - name: "Page GREDEG"
+      link: "http://unice.fr/membres/tous-les-membres/gredeg/fevre-raphael"
+    - name: "Personal website"
+      link: "https://sites.google.com/view/raphaelfevre/home"
+    - name: "CV"
+      link: "https://sites.google.com/view/raphaelfevre/cv"
+    - name: "Research Gate"
+      link: "https://www.researchgate.net/profile/Raphael_Fevre"
+    - name: "Orcid"
+      link: "https://orcid.org/0000-0001-7628-4888"
+  contact: "raphael.fevre@univ-cotedazur.fr"
+  free_text: >
+    My research focuses on 20th century economic thought. In particular, I am interested in how the tendency of fascination vs. repulsion in the face of the rise of authoritarian regimes in Europe helped to shape some of the central economic debates of the interwar and post-war periods.
+
+
+    At the end of 2017, I completed my doctoral thesis tracing the intellectual history of German ordoliberalism (1932-1950), under the joint supervision of the University of Lausanne and the University of Paris I Panthéon-Sorbonne. My thesis focuses in particular on the epistemological and philosophical foundations of economic theory and policy recommendations, showing that "power" was a key element in understanding ordoliberal political economy as a whole.
+
+
+    More recently, I have pursued my research themes through new projects focusing on French economic thought (from the 1930s to the 1960s). Within the project "Expertise and Economic Discipline under Vichy" (EDEV) conducted with Nicolas Brisset, we are working on a history of economic thought and economic expertise under the Vichy regime. We attempt both to question the way in which a certain economic discourse supported the regime by providing it with "scientific" foundations, and to understand how this regime was able to provide the institutional conditions for economic expertise. Then, with Thomas M. Mueller, we look at the birth of French welfare economics, with a particular focus on the work of Maurice Allais and the economists of his entourage (Gérard Debreu and Marcel Boiteux in particular). Finally, I am interested in the general economy developed by the philosopher Georges Bataille, and in particular in the way he related to the academic economic thought of his time.
+
 ############  Florent His - fr  #############
 
 - firstname: Florent
@@ -18,11 +104,13 @@
     - John G. Gurley
     - Edward S. Shaw
   external:
-    - name: "Pars I"
+    - name: "Paris I"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
   contact: "his.florent@gmail.com"
   free_text: >
     Mon travail porte sur l'économiste américain Hyman P. Minsky (1919-1996), dont l'hypothèse d'instabilité financière a pu être mobilisée afin d'expliquer la crise des subprimes. Ma thèse cherche à explorer la conception alternative du système financier développée par Minsky, en montrant comment celle-ci s'inscrit dans différentes discussions secouant la macroéconomie de l'époque, comme le débat entre les monétaristes et les keynésiens dans les années 1960-1970.
+
+
 
     Je cherche d'abord à comprendre la place que Minsky occupait pendant sa carrière parmi les économistes s'intéressant aux questions monétaires et financières. C'est pourquoi je m'intéresse aux travaux que Minsky a produits pour la Commission on Money and Credit ainsi que pour la Fed.
 
@@ -46,12 +134,14 @@
     - John G. Gurley
     - Edward S. Shaw
   external:
-    - name: "Pars I"
+    - name: "Paris I"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e2508008116&cHash=85bcff43fbd0ac05a035327d70e35162"
 
   contact: "his.florent@gmail.com"
   free_text: >
     My work focuses on the American economist Hyman P. Minsky (1919-1996), whose hypothesis of financial instability was mobilized to explain the subprime crisis. My thesis seeks to explore Minsky's alternative conception of the financial system, showing how it fits into various discussions shaking the macroeconomy of the time, such as the debate between the monetarists and the Keynesians in the 1960s and 1970s.
+
+
 
     I first seek to understand the place Minsky occupied during his career among economists interested in monetary and financial issues. This is why I am interested in the work Minsky produced for the Commission on Money and Credit and for the Fed.
 
@@ -88,6 +178,8 @@
     intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de
     biens méritoires (sous tutelle). Depuis, j'ai poursuivi mes recherches sur la pensée de l'économiste américain Richard A. Musgrave
     (1910-2007).
+
+
 
     Je travaille actuellement à une prosopographie des historiens de la pensée économique avec Andrej Svorenčík (Université de Mannheim). Je
     rédige également un essai sur les origines de l'homo oeconomicus avec Michele Bee (Université de Lausanne). Dernièrement, j'ai aussi
