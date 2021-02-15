@@ -1,3 +1,59 @@
+############  David Philippy - fr  #############
+
+- firstname: David
+  surname: Philippy
+  flatname: david-philippy
+  picture: "david-philippy.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  themes:
+    - Pensée Économique Américaine
+    - Consommation
+    - Femmes économistes
+    - Économie Domestique
+    - Institutionnalisme
+  authors:
+    - Thorstein Veblen
+    - Ellen S. Richards
+    - Hazel Kyrk
+    - Elizabeth H. Hoyt
+  external:
+    - name: "Page UNIL"
+      link: "https://unil.academia.edu/DavidPhilippy"
+  contact: "david.philippy@gmail.com"
+  free_text: >
+    Mes travaux portent sur la consommation dans l’histoire de la pensée économique américaine (1885-1936) et sur les enjeux que son étude a impliqué dans le développement de la discipline. Je m’intéresse en particulier à la contribution de femmes économistes au début du 20ème siècle qui s’inscrivaient dans un double héritage du Home Economics Movement et de l’institutionnalisme. De manière générale, je suis intéressé par les questions de « frontières disciplinaires » et du rôle que jouent les enjeux épistémologiques dans la construction de l’identité des disciplines.
+
+############  David Philippy - en  #############
+
+- firstname: David
+  surname: Philippy
+  flatname: david-philippy
+  picture: "david-philippy.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  themes:
+    - US economic thought
+    - Consumption
+    - Women economists
+    - Home economics
+    - Institutionalism
+  authors:
+    - Thorstein Veblen
+    - Ellen S. Richards
+    - Hazel Kyrk
+    - Elizabeth H. Hoyt
+  external:
+    - name: "Page UNIL"
+      link: "https://unil.academia.edu/DavidPhilippy"
+  contact: "david.philippy@gmail.com"
+  free_text: >
+    My work focuses on consumption in the history of American economic thought (1885-1936) and the issues that its study has implied in the development of the discipline. I am particularly interested in the contribution of women economists at the beginning of the 20th century who were part of a double legacy of the Home Economics Movement and institutionalism. In general, I am interested in questions of "disciplinary boundaries" and the role that epistemological issues play in the construction of the identity of disciplines.
+
 ############  Raphaël Fèvre - fr  #############
 
 - firstname: Raphaël
@@ -13,14 +69,12 @@
     - Philosophie économique
     - Histoire de la pensée économique européenne
     - Ordolibéralisme
-
   authors:
     - Walter Eucken
     - Wilhelm Röpke
     - John Maynard Keynes
     - François Perroux
     - Georges Bataille
-
   external:
     - name: "Page GREDEG"
       link: "http://unice.fr/membres/tous-les-membres/gredeg/fevre-raphael"
@@ -994,21 +1048,23 @@
   free_text: >
     Je travaille actuellement sur les réactions des Anciens Keynésiens à la Macroéconomie Nouvelle Classique dans les années 1970 et 1980.
 
-############ Aurélien Goustmedt - fr #############
+############ Aurélien Goustmedt - en #############
 
 - firstname: Aurélien
   surname: Goustmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "en"
-  status: "Post Doctoral"
+  status: "Post-Doctorate"
   statuscode: "pd"
-  institution: "Center for the History of Political Economy, Duke University"
+  institution: "Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec à Montréal et Université de Sherbrooke"
   themes:
-    - macroeconomics
-    - inflation
-    - stagflation
-    - 1970s
+    - Macroeconomics
+    - Phillips Curve
+    - Stagflation
+    - Central banks
+    - Network analysis
+    - Bibliometrics
   authors:
     - Robert E. Lucas
     - Thomas Sargent
@@ -1021,9 +1077,9 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
 
-  contact: "aurelien.goutsmedt@univ-paris1.fr"
+  contact: "agoutsmedt@hotmail.fr"
   twitter: "AGoutsmedt"
   free_text: >
     My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally
@@ -1052,7 +1108,13 @@
     Relying on a large set of documents and archives, I am studying the role of economists in the elaboration of the project,
     as well as in the discussions about it in the following year and the final enactment of a very different version.
 
-############ Aurélien Goustmedt - en  #############
+
+    I am currently involved in a collective project funded by Rebuilding Macroeconomics on “[Excavating the Academia/Policy Pipeline: Economic analysis at the Bank of England Pre and Post-Crisis](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)”.
+
+
+    I am also working on a quantitative history of macroeconomics (1970-2020) with [Alexandre Truc](https://sites.google.com/view/alexandre-truc/home-and-contact). This project is funded by the History of Economics Society and aims at developing an interactive platform displaying our results. We are developing [R packages](https://github.com/agoutsmedt/biblionetwork) to apply network analysis to bibliometric data.
+
+############ Aurélien Goustmedt - fr  #############
 
 - firstname: Aurélien
   surname: Goustmedt
@@ -1063,10 +1125,12 @@
   statuscode: "pd"
   institution: "Center for the History of Political Economy, Duke University"
   themes:
-    - macroéconomique
-    - inflation
-    - stagflation
-    - années 1970
+    - Macroéconomie
+    - Courbe de Phillips
+    - Stagflation
+    - Banques centrales
+    - Analyse de réseaux
+    - Bibliométrie
   authors:
     - Robert E. Lucas
     - Thomas Sargent
@@ -1079,9 +1143,12 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
+    - name: "github"
+      link: "https://github.com/agoutsmedt"
 
-  contact: "aurelien.goutsmedt@univ-paris1.fr"
+
+  contact: "agoutsmedt@hotmail.fr"
   twitter: "AGoutsmedt"
   free_text: >
     Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé
@@ -1118,6 +1185,12 @@
     ce projet de loi et sur les réécritures ultérieures du projet. Un second projet de recherche, en collaboration avec Juan
     Acosta, Béatrice Cherrier, François Claveau, Clément Fontan et Francesco Sergi, porte sur l'histoire de l'expertise économique
     au sein de la Bank of England, depuis les années 1970.
+
+
+    Je suis également impliqué dans un project collectif financé par Rebuilding Macroeconomics, intitulé: “[Excavating the Academia/Policy Pipeline: Economic analysis at the Bank of England Pre and Post-Crisis](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)”.
+
+
+    Enfin, je travaille sur une histoire quantitative de la macroéconomie (1970-2020) avec [Alexandre Truc](https://sites.google.com/view/alexandre-truc/home-and-contact). Le project est financé par la *History of Economics Society* et a pour objectif de développer une plateforme interactive présentant nos résultats. Nous développons également des [paquets R](https://github.com/agoutsmedt/biblionetwork) pour appliquer l'analyse de réseau aux données bibliométriques.
 
 ############ Francesco Sergi - en  #############
 
