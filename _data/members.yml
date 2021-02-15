@@ -1,3 +1,123 @@
+############  Judith Favereau - fr  #############
+
+- firstname: Judith
+  surname: Favereau
+  flatname: judith-favereau
+  picture: "judith-favereau.jpg"
+  lang: "fr"
+  status: "Maîtresse de Conférences"
+  statuscode: "mdf"
+  institution: "Laboratoire TRIANGLE, Université Lyon 2"
+  themes:
+    - Philosophie économique
+    - Pauvreté
+    - Economie expérimentale
+    - Economie du développement
+    - Epistémologie
+#  authors:
+#    -
+  external:
+    - name: "Site web personnel"
+      link: "https://judithfavereau.wordpress.com"
+    - name: "Page TRIANGLE"
+      link: "http://triangle.ens-lyon.fr/spip.php?article6154"
+    - name: "Page HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/judith-favereau"
+    - name: "Thèse"
+      link: "http://www.theses.fr/2014PA010010 "
+  contact: "judith.favereau@gmail.com"
+  twitter: "@favereaujudith"
+  free_text: >
+    Je suis actuellement maitresse de conférence à l'université Lyon 2 et rattachée au laboratoire pluridisciplinaire TRIANGLE. Je suis aussi rattachée au Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). Mes domaines de recherches sont l'économie du développement, la philosophie économique, l'économie expérimentale et les approches fondées sur les preuves (e.g. evidence based-policy). Une partie de mes recherches visent à identifier comment les approches fondées sur les preuves, l'économie du développement et l'économie expérimentale interagissent en vue de lutter contre la pauvreté. Cela implique donc de se concentrer à la fois sur ces différents transferts disciplinaires tout autant qu'analyser les différentes méthodologies à l'oeuvre. De ce fait, la philosophie économique joue ici au moins deux rôles centraux. Un premier qui vise à analyser ces interactions et ces transfers disciplinaires et un second qui cherche à questionner leurs implications. À cela s'ajoute la dimension de la philosophie économique, à savoir saisir comment la lutte contre la pauvreté en est transformée en pratique, et comment cette dernière peut être appréhendée selon différents critères de justice sociale.
+
+
+    J'ai réalisé ma thèse à l'université Paris 1 Panthéon-Sorbonne sous la direction de la professeure Annie L. Cot, thèse que j'ai soutenue publiquement le 14 février 2014. Cette thèse, intitulée "l'approche expérimentale du J-PAL - un tournant épistémologique?" examine l'utilisation récente et de plus en plus massive des expériences de terrains randomisées en économie du développement et offre une analyse épistémologique des enjeux de cette dernière.
+
+############  Judith Favereau - en  #############
+
+- firstname: Judith
+  surname: Favereau
+  flatname: judith-favereau
+  picture: "judith-favereau.jpg"
+  lang: "en"
+  status: "Associate Professor"
+  statuscode: "mdc"
+  institution: "Laboratoire TRIANGLE, Université Lyon 2"
+  themes:
+    - Philosophy of economics
+    - Poverty
+    - Experimental economics
+    - Development economics
+    - Epistemology
+#  authors:
+#    -
+  external:
+    - name: "Personal Website"
+      link: "https://judithfavereau.wordpress.com"
+    - name: "TRIANGLE page"
+      link: "http://triangle.ens-lyon.fr/spip.php?article6154"
+    - name: "HAL page"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/judith-favereau"
+    - name: "Thesis Dissertation"
+      link: "http://www.theses.fr/2014PA010010 "
+  contact: "judith.favereau@gmail.com"
+  twitter: "@FavereauJudith"
+  free_text: >
+    I am currently a lecturer at the University Lyon 2 and attached to the multidisciplinary laboratory TRIANGLE. I am also attached to the Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). My areas of research are development economics, economic philosophy, experimental economics and evidence-based-policy approaches. Part of my research is aimed at identifying how evidence-based approaches, development economics and experimental economics interact to fight poverty. This implies focusing on both these different disciplinary transfers as well as analyzing the different methodologies at work. As a result, economic philosophy plays at least two central roles here. The first is to analyze these interactions and disciplinary transfers, and the second is to question their implications. To this is added the dimension of economic philosophy, namely to grasp how the fight against poverty is transformed into practice, and how the latter can be apprehended according to different criteria of social justice.
+
+
+    I completed my thesis at the University of Paris 1 Panthéon-Sorbonne under the supervision of Professor Annie L. Cot, which I defended publicly on February 14, 2014. This thesis, entitled "The experimental approach of the J-PAL - an epistemological turning point", examines the recent and increasingly massive use of randomized field experiments in development economics and offers an epistemological analysis of the issues at stake.
+
+
+############  Morten Luchtmann - fr  #############
+
+- firstname: Morten
+  surname: Luchtmann
+  flatname: morten-luchtmann
+  picture: "morten-luchtmann.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "BETA, Université de Lorraine"
+  themes:
+    - Microéconomie
+    - Incitations
+    - Analyse économique du droit
+#  authors:
+#    -
+#  external:
+#    - name: ""
+#      link: ""
+  contact: "morten.luchtmann@gmail.com"
+  twitter: "@MortenLuchtmann"
+  free_text: >
+    Je suis doctorant en histoire de la pensée économique à l'Université de Lorraine à Nancy. Après avoir obtenu un Master en Sciences Economiques à l'Université d'Hambourg et d'un Master 2 en Economie et Sciences Humaines à Paris I Panthéon-Sorbonne en 2020, je mène actuellement des recherches sur la rhétorique et la méthodologie en microéconomie. Actuellement, je suis particulièrement intéressé par la confrontation entre Becker et ses disciples et les économistes comportementaux. Plus largement, je m'intéresse aux effets de l'application des modèles microéconomiques aux politiques publiques et au rôle des économistes dans les discours publiques.
+
+############  Morten Luchtmann - en  #############
+
+- firstname: Morten
+  surname: Luchtmann
+  flatname: morten-luchtmann
+  picture: "morten-luchtmann.jpg"
+  lang: "en"
+  status: "PhD Student"
+  statuscode: "phd"
+  institution: "BETA, Université de Lorraine"
+  themes:
+    - Microeconomics
+    - Incentives
+    - Law economics
+#  authors:
+#    -
+#  external:
+#    - name: ""
+#      link: ""
+  contact: "morten.luchtmann@gmail.com"
+  twitter: "@MortenLuchtmann"
+  free_text: >
+    I am a doctoral student in the history of economic thought at the University of Lorraine in Nancy. After obtaining a Master's degree in Economics at the University of Hamburg and a Master 2 in Economics and Human Sciences at Paris I Panthéon-Sorbonne in 2020, I am currently conducting research on rhetoric and methodology in microeconomics. Currently, I am particularly interested in the confrontation between Becker and his disciples and behavioral economists. More broadly, I am interested in the effects of the application of microeconomic models to public policy and the role of economists in public discourse.
+
+
 ############  David Philippy - fr  #############
 
 - firstname: David
@@ -227,6 +347,7 @@
     - name: "Site Web personnel"
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
+  twitter: "@maxime_dt"
   free_text: >
     Mes travaux portent principalement sur l'histoire et les fondements philosophiques de l'économie publique. Dans ma thèse, je me suis
     intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de
@@ -266,6 +387,7 @@
     - name: "Personal web page"
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
+  twitter: "@maxime_dt"
   free_text: >
     My main research interests are in the recent history and the philosophical foundations of the modern theory of public finance. I studied
     the conceptual history of public goods and merit goods (merit wants). My research focuses on the contribution of Richard A. Musgrave to
