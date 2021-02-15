@@ -1,3 +1,179 @@
+############  Judith Favereau - fr  #############
+
+- firstname: Judith
+  surname: Favereau
+  flatname: judith-favereau
+  picture: "judith-favereau.jpg"
+  lang: "fr"
+  status: "Maîtresse de Conférences"
+  statuscode: "mdf"
+  institution: "Laboratoire TRIANGLE, Université Lyon 2"
+  themes:
+    - Philosophie économique
+    - Pauvreté
+    - Economie expérimentale
+    - Economie du développement
+    - Epistémologie
+#  authors:
+#    -
+  external:
+    - name: "Site web personnel"
+      link: "https://judithfavereau.wordpress.com"
+    - name: "Page TRIANGLE"
+      link: "http://triangle.ens-lyon.fr/spip.php?article6154"
+    - name: "Page HAL"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/judith-favereau"
+    - name: "Thèse"
+      link: "http://www.theses.fr/2014PA010010 "
+  contact: "judith.favereau@gmail.com"
+  twitter: "FavereauJudith"
+  free_text: >
+    Je suis actuellement maitresse de conférence à l'université Lyon 2 et rattachée au laboratoire pluridisciplinaire TRIANGLE. Je suis aussi rattachée au Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). Mes domaines de recherches sont l'économie du développement, la philosophie économique, l'économie expérimentale et les approches fondées sur les preuves (e.g. evidence based-policy). Une partie de mes recherches visent à identifier comment les approches fondées sur les preuves, l'économie du développement et l'économie expérimentale interagissent en vue de lutter contre la pauvreté. Cela implique donc de se concentrer à la fois sur ces différents transferts disciplinaires tout autant qu'analyser les différentes méthodologies à l'oeuvre. De ce fait, la philosophie économique joue ici au moins deux rôles centraux. Un premier qui vise à analyser ces interactions et ces transfers disciplinaires et un second qui cherche à questionner leurs implications. À cela s'ajoute la dimension de la philosophie économique, à savoir saisir comment la lutte contre la pauvreté en est transformée en pratique, et comment cette dernière peut être appréhendée selon différents critères de justice sociale.
+
+
+    J'ai réalisé ma thèse à l'université Paris 1 Panthéon-Sorbonne sous la direction de la professeure Annie L. Cot, thèse que j'ai soutenue publiquement le 14 février 2014. Cette thèse, intitulée "l'approche expérimentale du J-PAL - un tournant épistémologique?" examine l'utilisation récente et de plus en plus massive des expériences de terrains randomisées en économie du développement et offre une analyse épistémologique des enjeux de cette dernière.
+
+############  Judith Favereau - en  #############
+
+- firstname: Judith
+  surname: Favereau
+  flatname: judith-favereau
+  picture: "judith-favereau.jpg"
+  lang: "en"
+  status: "Associate Professor"
+  statuscode: "mdc"
+  institution: "Laboratoire TRIANGLE, Université Lyon 2"
+  themes:
+    - Philosophy of economics
+    - Poverty
+    - Experimental economics
+    - Development economics
+    - Epistemology
+#  authors:
+#    -
+  external:
+    - name: "Personal Website"
+      link: "https://judithfavereau.wordpress.com"
+    - name: "TRIANGLE page"
+      link: "http://triangle.ens-lyon.fr/spip.php?article6154"
+    - name: "HAL page"
+      link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/judith-favereau"
+    - name: "Thesis Dissertation"
+      link: "http://www.theses.fr/2014PA010010 "
+  contact: "judith.favereau@gmail.com"
+  twitter: "FavereauJudith"
+  free_text: >
+    I am currently a lecturer at the University Lyon 2 and attached to the multidisciplinary laboratory TRIANGLE. I am also attached to the Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). My areas of research are development economics, economic philosophy, experimental economics and evidence-based-policy approaches. Part of my research is aimed at identifying how evidence-based approaches, development economics and experimental economics interact to fight poverty. This implies focusing on both these different disciplinary transfers as well as analyzing the different methodologies at work. As a result, economic philosophy plays at least two central roles here. The first is to analyze these interactions and disciplinary transfers, and the second is to question their implications. To this is added the dimension of economic philosophy, namely to grasp how the fight against poverty is transformed into practice, and how the latter can be apprehended according to different criteria of social justice.
+
+
+    I completed my thesis at the University of Paris 1 Panthéon-Sorbonne under the supervision of Professor Annie L. Cot, which I defended publicly on February 14, 2014. This thesis, entitled "The experimental approach of the J-PAL - an epistemological turning point", examines the recent and increasingly massive use of randomized field experiments in development economics and offers an epistemological analysis of the issues at stake.
+
+
+############  Morten Luchtmann - fr  #############
+
+- firstname: Morten
+  surname: Luchtmann
+  flatname: morten-luchtmann
+  picture: "morten-luchtmann.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "BETA, Université de Lorraine"
+  themes:
+    - Microéconomie
+    - Incitations
+    - Analyse économique du droit
+#  authors:
+#    -
+#  external:
+#    - name: ""
+#      link: ""
+  contact: "morten.luchtmann@gmail.com"
+  twitter: "MortenLuchtmann"
+  free_text: >
+    Je suis doctorant en histoire de la pensée économique à l'Université de Lorraine à Nancy. Après avoir obtenu un Master en Sciences Economiques à l'Université d'Hambourg et d'un Master 2 en Economie et Sciences Humaines à Paris I Panthéon-Sorbonne en 2020, je mène actuellement des recherches sur la rhétorique et la méthodologie en microéconomie. Actuellement, je suis particulièrement intéressé par la confrontation entre Becker et ses disciples et les économistes comportementaux. Plus largement, je m'intéresse aux effets de l'application des modèles microéconomiques aux politiques publiques et au rôle des économistes dans les discours publiques.
+
+############  Morten Luchtmann - en  #############
+
+- firstname: Morten
+  surname: Luchtmann
+  flatname: morten-luchtmann
+  picture: "morten-luchtmann.jpg"
+  lang: "en"
+  status: "PhD Student"
+  statuscode: "phd"
+  institution: "BETA, Université de Lorraine"
+  themes:
+    - Microeconomics
+    - Incentives
+    - Law economics
+#  authors:
+#    -
+#  external:
+#    - name: ""
+#      link: ""
+  contact: "morten.luchtmann@gmail.com"
+  twitter: "MortenLuchtmann"
+  free_text: >
+    I am a doctoral student in the history of economic thought at the University of Lorraine in Nancy. After obtaining a Master's degree in Economics at the University of Hamburg and a Master 2 in Economics and Human Sciences at Paris I Panthéon-Sorbonne in 2020, I am currently conducting research on rhetoric and methodology in microeconomics. Currently, I am particularly interested in the confrontation between Becker and his disciples and behavioral economists. More broadly, I am interested in the effects of the application of microeconomic models to public policy and the role of economists in public discourse.
+
+
+############  David Philippy - fr  #############
+
+- firstname: David
+  surname: Philippy
+  flatname: david-philippy
+  picture: "david-philippy.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  themes:
+    - Pensée Économique Américaine
+    - Consommation
+    - Femmes économistes
+    - Économie Domestique
+    - Institutionnalisme
+  authors:
+    - Thorstein Veblen
+    - Ellen S. Richards
+    - Hazel Kyrk
+    - Elizabeth H. Hoyt
+  external:
+    - name: "Page UNIL"
+      link: "https://unil.academia.edu/DavidPhilippy"
+  contact: "david.philippy@gmail.com"
+  free_text: >
+    Mes travaux portent sur la consommation dans l’histoire de la pensée économique américaine (1885-1936) et sur les enjeux que son étude a impliqué dans le développement de la discipline. Je m’intéresse en particulier à la contribution de femmes économistes au début du 20ème siècle qui s’inscrivaient dans un double héritage du Home Economics Movement et de l’institutionnalisme. De manière générale, je suis intéressé par les questions de « frontières disciplinaires » et du rôle que jouent les enjeux épistémologiques dans la construction de l’identité des disciplines.
+
+############  David Philippy - en  #############
+
+- firstname: David
+  surname: Philippy
+  flatname: david-philippy
+  picture: "david-philippy.jpg"
+  lang: "en"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  themes:
+    - US economic thought
+    - Consumption
+    - Women economists
+    - Home economics
+    - Institutionalism
+  authors:
+    - Thorstein Veblen
+    - Ellen S. Richards
+    - Hazel Kyrk
+    - Elizabeth H. Hoyt
+  external:
+    - name: "Page UNIL"
+      link: "https://unil.academia.edu/DavidPhilippy"
+  contact: "david.philippy@gmail.com"
+  free_text: >
+    My work focuses on consumption in the history of American economic thought (1885-1936) and the issues that its study has implied in the development of the discipline. I am particularly interested in the contribution of women economists at the beginning of the 20th century who were part of a double legacy of the Home Economics Movement and institutionalism. In general, I am interested in questions of "disciplinary boundaries" and the role that epistemological issues play in the construction of the identity of disciplines.
+
 ############  Raphaël Fèvre - fr  #############
 
 - firstname: Raphaël
@@ -13,14 +189,12 @@
     - Philosophie économique
     - Histoire de la pensée économique européenne
     - Ordolibéralisme
-
   authors:
     - Walter Eucken
     - Wilhelm Röpke
     - John Maynard Keynes
     - François Perroux
     - Georges Bataille
-
   external:
     - name: "Page GREDEG"
       link: "http://unice.fr/membres/tous-les-membres/gredeg/fevre-raphael"
@@ -173,6 +347,7 @@
     - name: "Site Web personnel"
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
+  twitter: "@maxime_dt"
   free_text: >
     Mes travaux portent principalement sur l'histoire et les fondements philosophiques de l'économie publique. Dans ma thèse, je me suis
     intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de
@@ -212,6 +387,7 @@
     - name: "Personal web page"
       link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
+  twitter: "@maxime_dt"
   free_text: >
     My main research interests are in the recent history and the philosophical foundations of the modern theory of public finance. I studied
     the conceptual history of public goods and merit goods (merit wants). My research focuses on the contribution of Richard A. Musgrave to
@@ -994,21 +1170,23 @@
   free_text: >
     Je travaille actuellement sur les réactions des Anciens Keynésiens à la Macroéconomie Nouvelle Classique dans les années 1970 et 1980.
 
-############ Aurélien Goustmedt - fr #############
+############ Aurélien Goustmedt - en #############
 
 - firstname: Aurélien
   surname: Goustmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "en"
-  status: "Post Doctoral"
+  status: "Post-Doctorate"
   statuscode: "pd"
-  institution: "Center for the History of Political Economy, Duke University"
+  institution: "Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec à Montréal et Université de Sherbrooke"
   themes:
-    - macroeconomics
-    - inflation
-    - stagflation
-    - 1970s
+    - Macroeconomics
+    - Phillips Curve
+    - Stagflation
+    - Central banks
+    - Network analysis
+    - Bibliometrics
   authors:
     - Robert E. Lucas
     - Thomas Sargent
@@ -1021,9 +1199,9 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
 
-  contact: "aurelien.goutsmedt@univ-paris1.fr"
+  contact: "agoutsmedt@hotmail.fr"
   twitter: "AGoutsmedt"
   free_text: >
     My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally
@@ -1052,7 +1230,13 @@
     Relying on a large set of documents and archives, I am studying the role of economists in the elaboration of the project,
     as well as in the discussions about it in the following year and the final enactment of a very different version.
 
-############ Aurélien Goustmedt - en  #############
+
+    I am currently involved in a collective project funded by Rebuilding Macroeconomics on “[Excavating the Academia/Policy Pipeline: Economic analysis at the Bank of England Pre and Post-Crisis](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)”.
+
+
+    I am also working on a quantitative history of macroeconomics (1970-2020) with [Alexandre Truc](https://sites.google.com/view/alexandre-truc/home-and-contact). This project is funded by the History of Economics Society and aims at developing an interactive platform displaying our results. We are developing [R packages](https://github.com/agoutsmedt/biblionetwork) to apply network analysis to bibliometric data.
+
+############ Aurélien Goustmedt - fr  #############
 
 - firstname: Aurélien
   surname: Goustmedt
@@ -1061,12 +1245,14 @@
   lang: "fr"
   status: "Post Doctorant"
   statuscode: "pd"
-  institution: "Center for the History of Political Economy, Duke University"
+  institution: "Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec à Montréal et Université de Sherbrooke"
   themes:
-    - macroéconomique
-    - inflation
-    - stagflation
-    - années 1970
+    - Macroéconomie
+    - Courbe de Phillips
+    - Stagflation
+    - Banques centrales
+    - Analyse de réseaux
+    - Bibliométrie
   authors:
     - Robert E. Lucas
     - Thomas Sargent
@@ -1079,9 +1265,12 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/#!nTAjHarI!ARCzc1zb0nOKJErWHlL-JecExdzvUOurvOmKzHaK5ns"
+      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
+    - name: "github"
+      link: "https://github.com/agoutsmedt"
 
-  contact: "aurelien.goutsmedt@univ-paris1.fr"
+
+  contact: "agoutsmedt@hotmail.fr"
   twitter: "AGoutsmedt"
   free_text: >
     Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé
@@ -1118,6 +1307,12 @@
     ce projet de loi et sur les réécritures ultérieures du projet. Un second projet de recherche, en collaboration avec Juan
     Acosta, Béatrice Cherrier, François Claveau, Clément Fontan et Francesco Sergi, porte sur l'histoire de l'expertise économique
     au sein de la Bank of England, depuis les années 1970.
+
+
+    Je suis également impliqué dans un project collectif financé par Rebuilding Macroeconomics, intitulé: “[Excavating the Academia/Policy Pipeline: Economic analysis at the Bank of England Pre and Post-Crisis](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)”.
+
+
+    Enfin, je travaille sur une histoire quantitative de la macroéconomie (1970-2020) avec [Alexandre Truc](https://sites.google.com/view/alexandre-truc/home-and-contact). Le projet est financé par la *History of Economics Society* et a pour objectif de développer une plateforme interactive présentant nos résultats. Nous développons également des [paquets R](https://github.com/agoutsmedt/biblionetwork) pour appliquer l'analyse de réseaux aux données bibliométriques.
 
 ############ Francesco Sergi - en  #############
 
@@ -1332,6 +1527,7 @@
     of Guala and Hindriks or Cyril Hédoin for example, which discuss the philosophical problems of individualism
     and holism or collective intentionnality.
 
+
 ############ Francois Allisson - en #############
 
 - firstname: François
@@ -1347,12 +1543,14 @@
     - Value and Planning
     - Lausanne School
     - Marxisms and socialisms
+    - Capitalism
   authors:
     - Mikhail Ivanovich Tugan-Baranovsky
     - Nikolay Ivanovich Sieber
     - Maurice Dobb
     - Natalie Moszkowska
     - Charles Bettelheim
+    - Robert Brenner
   external:
     - name: "Université de Lausanne"
       link: "https://www.unil.ch/unisciences/FrancoisAllisson"
@@ -1361,23 +1559,15 @@
   contact: "francois.allisson@unil.ch"
   twitter: "F_Allisson"
   free_text: >
-    I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of
-    the Lausanne School.
+    I am interested in the histories of Russian economic thought, of value and planning theories, of Marxisms, and of the Lausanne School.
 
-
-    I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth
-    century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian
-    economic thought*, I have called *Russian synthesis* the attempt by Tugan-Baranovsky and others to conciliate these
-    various trends in the theory of value.
-
-
-    I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D'Onofrio,
-    Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on
-    the "planning doctor" Charles Bettelheim (in a collective project on French economists under Vichy), etc.
-
-
-    I also teach history of economic thought, and among others, I taught an only-women HET lecture (Rosa Luxemburg,
-    Natalie Moszkowska, Joan Robinson, Esther Duflo).
+    I am interested in the histories of Russian economic thought, of value and planning theories, of capitalism, of Marxian political economy and of the Lausanne School.
+    
+    I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian economic thought*, I have called Russian synthesis the attempt by Tugan-Baranovsky and others to conciliate these various trends in the theory of value.
+    
+    I am actually working on several projects: on the first Russian Marxist Nikolay Sieber (with Federico D’Onofrio, Danila Raskov and Leonid Shirokorad), on the British Marxist Maurice Dobb (with Cléo Chassonnery-Zaïgouche), on Political Marxist Robert Brenner (with Nicolas Brisset), etc.
+    
+    I mainly teach history of economic thought: for instance contemporary economic thought, including both orthodox and heterodox traditions; or the Marxian reproduction schemes; or a whole semester using only women economists (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo, etc.).
 
 ############ Francois Allisson - fr  #############
 
@@ -1394,12 +1584,14 @@
     - valeur et planification
     - école de Lausanne
     - marxismes et socialismes
+    - capistalisme
   authors:
     - Mikhail I. Tugan-Baranovsky
     - Nikolay Sieber
     - Maurice Dobb
     - Natalie Moszkowska
     - Charles Bettelheim
+    - Robert Brenner
   external:
     - name: "Site internet personnel"
       link: "http://francois.allisson.co"
@@ -1408,22 +1600,11 @@
   contact: "francois.allisson@unil.ch"
   twitter: "F_Allisson"
   free_text: >
-    Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire des théories de la valeur
-    et de la planification, l'histoire des marxismes, et l'histoire de l'école de Lausanne.
-
-
-    Je me suis notamment intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle,
-    dans un contexte où les pensées classique et marxiste étaient dominantes. Dans ma monographie *Value and prices in
-    Russian economic thought*, j'ai nommé *synthèse russe* la tentative réalisée par Tugan-Baranovsky et d'autres de concilier
-    ces différents courants dans la théorie de la valeur.
-
-
-    Je travaille actuellement sur plusieurs projets: sur le premier marxiste russe Nikolay Sieber (avec Federico D'Onofrio,
-    Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le
-    "planning doctor" Charles Bettelheim (dans le cadre d'un projet collectif sur Vichy), etc.
-
-
-    J'enseigne également l'histoire de la pensée économique. J'ai par exemple donné un cours sur la pensée économique écrite exclusivement par des femmes (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo).
+    Je travaille principalement sur l'histoire de la pensée économique russe, l'histoire de la valeur et de la planification, l'histoire du capitalisme, l'économie politique marxiste et l'école de Lausanne. Je me suis intéressé à la réception de la révolution marginaliste en Russie à la fin du XIXe siècle, dans un contexte où les pensées classique et marxiste étaient dominantes. Dans ma monographie *Value and prices in Russian economic thought*, j’ai nommé synthèse russe la tentative réalisée par Tugan-Baranovsky et d’autres de concilier ces différents courants dans la théorie de la valeur.
+    
+    Je travaille actuellement sur plusieurs projets: sur le premier marxiste russe, Nikolay Sieber (avec Federico D'Onofrio, Danila Raskov et Leonid Shirokorad), sur le marxiste anglais Maurice Dobb (avec Cléo Chassonnery-Zaïgouche), sur le marxiste politique Robert Brenner (avec Nicolas Brisset), etc.
+    
+    J’enseigne principalement l’histoire de la pensée économique : par exemple la pensée économique récente, tant orthodoxe qu'hétérodoxe; ou encore les schémas de la reproduction; ou un cours sur la pensée économique qui ne mobilise que des femmes (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo, etc.).
 
 ############ Jerome Lallement #############
 
