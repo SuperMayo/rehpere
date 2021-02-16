@@ -2,9 +2,9 @@
 
 The *Réseau en Epistémologie et en Histoire de la Pensée Economique Récente* (stands for Network in Epistemology and History of Recent Economic Thought) brings together researches on the evolution of economics from the late  19<sup>th</sup> to the early 21<sup>st</sup> centuries. REHPERE is a network of researchers based on the research team in Epistemology and History of Recent Economic Thought, one of the teams of the Centre d’Economie de la Sorbonne (CES, axis "Institutions and Regulations", UMR 8174 CNRS - University Paris 1 Panthéon-Sorbonne). REHPERE gathers researchers from other research centers, whose members share common research programs.
 
-The members of the REHPERE team explore the evolution of the frontiers of economics in relation to other disciplines. Our common themes are: the getting beyond methodological individualism, the relationship between economic representations and public policies, the role of economists as experts, the analysis of the role of economic tools (modeling, simulations, experiments, etc.) in controversies of methods and outside the academic world (public sphere, expertise, courts). The work of the REHPERE team is currently organized around five epistemological and historical axis: methodology of economic theories and practices; macroeconomics since the 1970s; economics and psychology; theoretical and applied microeconomics; public economics and the political economy of power.
+The members of the REHPERE team explore the evolution of the frontiers of economics in relation to other disciplines. Our common themes are: the getting beyond methodological individualism, the relationship between economic representations and public policies, the role of economists as experts, the analysis of the role of economic tools (modeling, simulations, experiments, etc.) in controversies of methods and outside the academic world (public sphere, expertise, courts).
 
-
+{>>
 <div>
 <div class="card">
   <div class="card-header" id="headingZero">
@@ -81,3 +81,4 @@ This second axis is devoted to the history of macroeconomics since the 1970s. Th
   </div>
 </div>
 </div>
+<<}
