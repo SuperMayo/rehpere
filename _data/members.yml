@@ -1050,9 +1050,9 @@
   flatname: dorian-jullien
   picture: "dorian-jullien.jpg"
   lang: "en"
-  status: "Associate Researcher"
-  statuscode: "pd"
-  institution: "GREDEG, Université Côte d'Azur"
+  status: "Associate Professor"
+  statuscode: "mcf"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
     - behavioral economics
     - experimental economics
@@ -1084,16 +1084,16 @@
   flatname: dorian-jullien
   picture: "dorian-jullien.jpg"
   lang: "fr"
-  status: "Associate Researcher"
-  statuscode: "pd"
-  institution: "GREDEG, Université Côte d'Azur"
+  status: "Maître de conférence"
+  statuscode: "mcf"
+  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
-    - behavioral economics
-    - experimental economics
-    - decision theory
-    - history of economics
-    - methodology of economics
-    - philosophy of economics
+    - économie comportementale
+    - économie expérimentale
+    - théorie de la décision
+    - histoire de l'économie
+    - méthodologie de l'économie
+    - philosophie de l'économie
   authors:
     - Amartya Sen
     - Vivian Walsh
@@ -1390,9 +1390,9 @@
   flatname: maria-bach
   picture: "maria-bach.jpg"
   lang: "en"
-  status: "Economics lecturer"
-  statuscode: "sl"
-  institution: "Economics Department, The American University of Paris"
+  status: "Post-doctorate"
+  statuscode: "pd"
+  institution: "Université de Lausanne, social and political sciences department"
   themes:
     - International Diffusion of Economic Ideas
     - Indian Economics
@@ -1425,9 +1425,9 @@
   flatname: maria-bach
   picture: "maria-bach.jpg"
   lang: "fr"
-  status: "Chargé de cours en économie"
-  statuscode: "sl"
-  institution: "Economics Department, The American University of Paris"
+  status: "Post-doctorante"
+  statuscode: "pd"
+  institution: "Université de Lausanne, Faculté des sciences sociales et politiques"
   themes:
     - Diffusion internationale de la pensée économique
     - Economie indienne
