@@ -1561,7 +1561,7 @@
   free_text: >
     I am interested in the histories of Russian economic thought, of value and planning theories, of capitalism, of Marxian political economy and of the Lausanne School.
 
-    
+
     I worked quite a long time on the reception of the marginalist revolution in Russia at the end of the nineteenth century, in a context where classical and Marxist thought were dominant. In my book *Value and prices in Russian economic thought*, I have called Russian synthesis the attempt by Tugan-Baranovsky and others to conciliate these various trends in the theory of value.
 
 
@@ -1609,7 +1609,7 @@
 
     J’enseigne principalement l’histoire de la pensée économique : par exemple la pensée économique récente, tant orthodoxe qu'hétérodoxe; ou encore les schémas de la reproduction; ou un cours sur la pensée économique qui ne mobilise que des femmes (Rosa Luxemburg, Natalie Moszkowska, Joan Robinson, Esther Duflo, etc.).
 
-############ Jerome Lallement #############
+############ Jerome Lallement - fr #############
 
 - firstname: Jérôme
   surname: Lallement
@@ -1618,7 +1618,7 @@
   lang: "fr"
   status: "Professeur des universités"
   statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne"
+  institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
   themes:
     - Équilibre Général
     - Explication et causalité
@@ -1634,12 +1634,41 @@
   contact: "jerome.lallement@univ-paris.fr"
   free_text: >
     **Epistémologie et Philosophie de l’économie** <br/>
-    Mots clefs : modèle déductif-nomologique,explication et causalité ;
+    Mots clefs : modèle déductif-nomologique, explication et causalité ;
     épistémologie de la théorie économique contemporaine;
     économie pure et économie appliquée;
     individualisme et holisme ontologie et épistémologie.
 
-############ Cléo Chassonnery-Zaïgouche #############
+
+  ############ Jerome Lallement - en #############
+
+  - firstname: Jérôme
+      surname: Lallement
+      flatname: jerome-lallement
+      picture: "jerome-lallement.jpg"
+      lang: "en"
+      status: "Professor"
+      statuscode: "pr"
+      institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
+      themes:
+        - General Equilibrium
+        - Explanation and causality
+        - Theory of Price
+      authors:
+        - Leon Walras
+        - Maurice Allais
+        - Piero Srafa
+        - Alfred Marshall
+      external:
+        - name: "ResearchGate"
+          link: "https://www.researchgate.net/profile/Jerome_Lallement"
+      contact: "jerome.lallement@univ-paris.fr"
+      free_text: >
+        **Epistemology and Philosophy of Economics** <br/>
+         Key words: deductive-nomological model, explanation and causality ; epistemology of contemporary economic theory; pure and applied economics; individualism and holism ontology and epistemology.
+
+
+############ Cléo Chassonnery-Zaïgouche - en #############
 
 - firstname: "Cléo"
   surname: "Chassonnery-Zaïgouche"
@@ -1697,6 +1726,9 @@
 
     Finally, I work on a history of the CSWEP with Beatrice Cherrier and John Singleton.
 
+
+############ Cléo Chassonnery-Zaïgouche - fr #############
+
 - firstname: "Cléo"
   surname: "Chassonnery-Zaïgouche"
   flatname: cleo-cz
@@ -1747,7 +1779,7 @@
     *Différences entre salaires en théorie et en pratique*. Dans un projet conjointement mené avec Annie L. Cot, nous explorons les arguments économiques et les pratiques des économistes concernant la controverse « equal pay for equal work » au Royaume-Unis entre les années 1920 et les années 1970. Sur le même thème, j’ai écrit un chapitre pour le Handbook on Women economists (forth. 2018) sur les travaux de Fawcett, Webb, and Rathbone. J’étudie également avec François Allisson l’évolution du contenu du Cambridge Economic Handbook intitulé “Wages” de 1928 aux années 1960, ainsi que sa diffusion au Royaume-Uni et en Inde.
     Par ailleurs, je travaille une histoire du CSWEP avec Béatrice Cherrier et John Singleton.
 
-############ Annie L. Cot #############
+############ Annie L. Cot - fr #############
 - firstname: "Annie L."
   surname: "Cot"
   flatname: annie-cot
@@ -1755,7 +1787,7 @@
   lang: "fr"
   status: "Professeur des universités"
   statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne"
+  institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
   themes:
     - Utilitarisme
     - Économie & psychologie
@@ -1771,6 +1803,33 @@
       link: "https://www.researchgate.net/profile/Annie_Cot"
   contact: "annie-cot@mymail.fr"
   twitter: "AnnieLouCot"
+
+
+  ############ Annie L. Cot - en #############
+  - firstname: "Annie L."
+    surname: "Cot"
+    flatname: annie-cot
+    picture: "annie-cot.jpg"
+    lang: "en"
+    status: "Professor"
+    statuscode: "pr"
+    institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
+    themes:
+      - Utilitarism
+      - Economics & psychology
+      - Experimental Economics
+      - Expertise
+    authors:
+      - Jeremy Bentham
+      - Michel Foucault
+      - Gary Becker
+      - Irving Fisher
+    external:
+      - name: "ResearchGate"
+        link: "https://www.researchgate.net/profile/Annie_Cot"
+    contact: "annie-cot@mymail.fr"
+    twitter: "AnnieLouCot"
+
 
 ############ Julien Gradoz fr #############
 - firstname: "Julien"
