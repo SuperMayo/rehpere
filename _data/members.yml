@@ -344,8 +344,8 @@
   external:
     - name: "Goldsmiths"
       link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
-    - name: "Site Web personnel"
-      link: "http://desmarais-tremblay.com"
+    #- name: "Site Web personnel"
+    #  link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
   twitter: "@maxime_dt"
   free_text: >
@@ -384,8 +384,8 @@
   external:
     - name: "Goldsmiths"
       link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
-    - name: "Personal web page"
-      link: "http://desmarais-tremblay.com"
+  #  - name: "Personal web page"
+  #    link: "http://desmarais-tremblay.com"
   contact: "M.Desmarais-Tremblay@gold.ac.uk"
   twitter: "@maxime_dt"
   free_text: >
