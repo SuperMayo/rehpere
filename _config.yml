@@ -48,8 +48,8 @@ subtitle: Réseau en Épistémologie et en Histoire de la Pensée Économique R�
 scholar:
   bibliography_list_tag: "ul"
   bibliography_class: "fa-ul"
-  sort_by: year
-  order: descending
+  sort_by: author
+  order: ascending
   bibliography_template: bib
   group_by: year
   group_order: descending
