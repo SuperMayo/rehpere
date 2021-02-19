@@ -49,7 +49,7 @@ scholar:
   bibliography_list_tag: "ul"
   bibliography_class: "fa-ul"
   sort_by: author
-  order: descending
+  order: ascending
   bibliography_template: bib
   group_by: year
   group_order: descending
