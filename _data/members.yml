@@ -1193,13 +1193,15 @@
     - Robert J. Gordon
   external:
     - name: "Website"
-      link: "https://agoutsmedt.wordpress.com/"
+      link: "https://aurelien-goutsmedt.com/"
     - name: "Thèses.fr"
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
       link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
+    - name: "github"
+      link: "https://github.com/agoutsmedt"
 
   contact: "agoutsmedt@hotmail.fr"
   twitter: "AGoutsmedt"
@@ -1259,7 +1261,7 @@
     - Robert J. Gordon
   external:
     - name: "Site Web"
-      link: "https://agoutsmedt.wordpress.com/"
+      link: "https://aurelien-goutsmedt.com/"
     - name: "Thèses.fr"
       link: "https://tel.archives-ouvertes.fr/tel-01806267"
     - name: "Orcid"
