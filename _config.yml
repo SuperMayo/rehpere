@@ -129,9 +129,9 @@ menu:
 ####### Home ########
 home:
   fr:
-    anchored-info: "Publication ancrée"
+    anchored-info: "Actualités"
   en:
-    anchored-info: "Anchored publication"
+    anchored-info: "News"
 
 ####### Team ########
 team:
