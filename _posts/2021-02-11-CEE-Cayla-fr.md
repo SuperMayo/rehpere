@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-01-29
 ref: CEE-cayla-2021-02-11
 lang: fr
-anchor: True
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _11 février 2021_ à _18:00_
