@@ -533,8 +533,8 @@
     - Robert Solow
     - Joseph Stiglitz
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0801038227&cHash=35bfcac337f6019261e4e1ffd4795809"
+#    - name: "Université Paris 1 Panthéon-Sorbonne"
+#      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0801038227&cHash=35bfcac337f6019261e4e1ffd4795809"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
@@ -573,8 +573,8 @@
     - Robert Solow
     - Joseph Stiglitz
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0801038227&cHash=35bfcac337f6019261e4e1ffd4795809"
+#    - name: "Université Paris 1 Panthéon-Sorbonne"
+#      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0801038227&cHash=35bfcac337f6019261e4e1ffd4795809"
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
@@ -762,8 +762,8 @@
     - Eugene Fama
     - Paul Samuelson
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0103002657"
+  #  - name: "Université Paris 1 Panthéon-Sorbonne"
+  #    link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0103002657"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
@@ -798,8 +798,8 @@
     - Eugene Fama
     - Paul Samuelson
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
+#    - name: "Université Paris 1 Panthéon-Sorbonne"
+#      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
