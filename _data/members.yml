@@ -1686,12 +1686,14 @@
     - Equal Pay
     - Quantification
     - Courtrooms
+    - Policy
   authors:
     - Beatrice Webb
     - Milicent Fawcett
     - Eleanor Rathbone
     - Kenneth Arrow
     - Gary Becker
+    - Phillys Wallace
   external:
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
@@ -1699,6 +1701,8 @@
       link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
     - name: "Personal website"
       link: "https://www.cleocz.com"
+    - name: "SocArXiv"
+      link: "https://osf.io/ywdsv/"
   contact: "cc2006@cam.ac.uk"
   twitter: "CleoCZ"
   free_text: >
@@ -1735,7 +1739,7 @@
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "fr"
-  status: "Chercheuse postdoctoral"
+  status: "Chercheuse postdoctorale"
   statuscode: "pd"
   institution: "CRASSH, University of Cambridge"
   themes:
@@ -1745,6 +1749,7 @@
     - Equal Pay
     - Quantification
     - Courts
+    - Politiques publiques
   authors:
     - Kenneth Arrow
     - Gary Becker
@@ -1752,6 +1757,7 @@
     - Milicent Fawcett
     - Eleanor Rathbone
     - Barbara Bergmann
+    - Phillys Wallace
   external:
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
