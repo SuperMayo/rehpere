@@ -766,8 +766,8 @@
   #    link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0103002657"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "C.V"
-      link: "/assets/Curriculum_vitae.pdf"
+    - name: "CV"
+      link: "/assets/pdf/CV_delcey.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -802,8 +802,8 @@
 #      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vita_oct2019_d9eafed845.pdf"
+    - name: "CV"
+      link: "/assets/pdf/CV_delcey.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
@@ -982,7 +982,7 @@
       link: "https://blogs.mediapart.fr/nicolas-camilotto/blog"
   contact: "nicolas.camilotto@unice.fr"
   free_text: >
-    My thesis deals with the notion of trust which, since the 1980s, has been increasingly important 
+    My thesis deals with the notion of trust which, since the 1980s, has been increasingly important
     in economic analysis as in all social sciences. My work attempts to trace the genesis of this object
     from both a historical and an analytical point of view.
 
@@ -1000,7 +1000,7 @@
   themes:
     - Confiance
     - Théorie du choix rationnel
-    - Economie expérimentale 
+    - Economie expérimentale
   external:
     - name: "Université Côte d'Azur"
       link: "http://unice.fr/laboratoires/gredeg/contenus-riches/archives/membres/doctorants-/camilotto-nicolas%20"
