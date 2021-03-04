@@ -753,30 +753,29 @@
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
-    - financial economics*
-    - efficient market hypothesis
-    - random fluctuations
-    - fundamental value
+    - History of financial economics
+    - Efficient market hypothesis
+    - Information 
   authors:
     - Holbrook Working
     - Eugene Fama
     - Paul Samuelson
   external:
-  #  - name: "Université Paris 1 Panthéon-Sorbonne"
-  #    link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0103002657"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "CV"
-      link: "/assets/pdf/CV_delcey.pdf"
+    - name: "C.V"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vita_oct2019_d9eafed845.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
-    My research focuses on the history of financial economics, especially of the Efficient Market Hypothesis (EMH).
+    My research focuses on the history of the efficient market hypothesis, 
+    a concept that is central to financial economics but also extremely controversial. 
+    My work proposes a long history of market efficiency, covering the evolution of the concept, 
+    and the related communities of economists, over the XXth century. Through this analysis, my objective 
+    is to understand the evolution of economic thought regarding financial markets, their functioning and their role in society.
 
-
-    I am mainly interested in the emergence of modern financial theory after World War 2. In this regard,
-    I focus on constitutive contributions from this new discipline: the Random Character of Financial Fluctuations and
-    the Efficient Market Hypothesis.
 
 ############  Thomas Delcey - fr   #############
 
@@ -789,28 +788,30 @@
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
-    - économie financière
-    - efficience des marchés financiers
-    - fluctuation aléatoire
-    - valeur fondamentale
+    - Histoire de l'économie financière
+    - Efficience des marchés financiers
+    - Information
   authors:
     - Holbrook Working
     - Eugene Fama
     - Paul Samuelson
   external:
-#    - name: "Université Paris 1 Panthéon-Sorbonne"
-#      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "CV"
-      link: "/assets/pdf/CV_delcey.pdf"
+    - name: "C.V"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vita_oct2019_d9eafed845.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
-    Mes recherches portent sur l'histoire des théories financières, et plus particulièrement sur la théorie  de l'Efficience
-    des Marchés Financiers (EMF). Je m'intéresse principalement à l’émergence de la théorie financière moderne. Dans cette
-    optique, je me concentre sur les contributions constitutives de cette nouvelle discipline: le caractère aléatoire des
-    fluctuations financières et l'efficience des marchés financiers.
+    Mes recherches portent sur l'histoire du concept d'efficience des marchés, 
+    une notion centrale en économie financière mais aussi extrêmement controversé. 
+    Mes travaux proposent une histoire de longue durée de l'efficience des marchés, 
+    qui couvrent l'évolution de concept, et les communautés d'économistes associées, 
+    tout au long du XXème siècle. A travers cette analyse, mon objectif est de 
+    comprendre l'évolution de la pensée économique concernant les marchés financiers, 
+    leur fonctionnement et leur rôle dans la société.
 
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
