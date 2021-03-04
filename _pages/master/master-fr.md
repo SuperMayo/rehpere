@@ -20,7 +20,7 @@ L'objectif de cette spécialité consiste donc à resituer ces recherches qui re
 # Le mémoire
 {: #memoire}
 
-La validation du Master ESH comporte la rédaction d'un mémoire de recherche, sous la direction de membres de l'équipe enseignante du Master. 
+La validation du Master ESH comporte la rédaction d'un mémoire de recherche, sous la direction de membres de l'équipe enseignante du Master.
 
 Le mémoire occupe une place importante dans le parcours de formation. C'est en effet le moment privilégié  pour acquérir les compétences propres aux métiers de la recherche :
 
@@ -37,11 +37,11 @@ Le mémoire occupe une place importante dans le parcours de formation. C'est en 
 Le travail de recherche, tout comme la rédaction d'un mémoire, n'est ni une compétence innée ni une occupation solitaire. Pour ces raisons, l'équipe de recherche adossée au Master ESH complète en partie le travail d'encadrement de chaque directeur de mémoire par deux séminaires.
 
  - __Séminaire de méthode__ _Annie Cot et Jérôme Lallement_
-   * Ce séminaire vise à donner aux étudiant·e·s du Master une perspective générale sur la méthode à adopter pour réaliser un  mémoire de recherche. Le séminaire donne des éléments de repères entre les différentes approches historiographiques existantes, sur les commentaires de textes ainsi que des éléments formels. 
+   * Ce séminaire vise à donner aux étudiant·e·s du Master une perspective générale sur la méthode à adopter pour réaliser un  mémoire de recherche. Le séminaire donne des éléments de repères entre les différentes approches historiographiques existantes, sur les commentaires de textes ainsi que des éléments formels.
    La validation du séminaire se fait par rendu d'une fiche de lecture sur un ouvrage au choix.
 
- - __Séminaire Albert O. Hirschman__ 
-   * Ce séminaire, animé par l'équipe des doctorant·e·s de REhPERE, aide chaque étudiant·e du master à perfectionner son mémoire. Chacun·e y présente l'état d'avancement de son travail, sous forme de projet-résumé, plan détaillé ou chapitre. 
+ - __Séminaire Albert O. Hirschman__
+   * Ce séminaire, animé par l'équipe des doctorant·e·s de REhPERE, aide chaque étudiant·e du master à perfectionner son mémoire. Chacun·e y présente l'état d'avancement de son travail, sous forme de projet-résumé, plan détaillé ou chapitre.
    Pendant une heure, le travail des étudiant·e·s est soumis aux remarques et aux critiques des autres étudiant·e·s ainsi que des doctorant·e·s. Ces discussions permettent de mettre en évidence les améliorations et les développements à apporter sur le travail de chacun·e. Les doctorant·e·s mettent à disposition leur expérience du travail de recherche. Ce séminaire est un espace collaboratif. Il ne donne pas lieu à évaluation.
 
 # Débouchés
@@ -61,8 +61,3 @@ Le travail de recherche, tout comme la rédaction d'un mémoire, n'est ni une co
 # Cours
 
 La liste des cours est disponible [ici](/cours).
-
-
-
-
-
