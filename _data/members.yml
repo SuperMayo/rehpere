@@ -767,7 +767,11 @@
   themes:
     - History of financial economics
     - Efficient market hypothesis
+<<<<<<< HEAD
     - Information
+=======
+    - Information 
+>>>>>>> f1ec489ce9070667717a60d07651526b1b005c0b
   authors:
     - Holbrook Working
     - Eugene Fama
@@ -782,6 +786,7 @@
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
+<<<<<<< HEAD
     My research focuses on the history of the efficient market hypothesis,
     a concept that is central to financial economics but also extremely controversial.
     My work proposes a long history of market efficiency, covering the evolution of the concept,
@@ -789,6 +794,15 @@
     is to understand the evolution of economic thought regarding financial markets, their functioning and their role in society.
 
 
+=======
+    My research focuses on the history of the efficient market hypothesis, 
+    a concept that is central to financial economics but also extremely controversial. 
+    My work proposes a long history of market efficiency, covering the evolution of the concept, 
+    and the related communities of economists, over the XXth century. Through this analysis, my objective 
+    is to understand the evolution of economic thought regarding financial markets, their functioning and their role in society.
+
+
+>>>>>>> f1ec489ce9070667717a60d07651526b1b005c0b
 ############  Thomas Delcey - fr   #############
 
 - firstname: Thomas
@@ -817,12 +831,21 @@
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
+<<<<<<< HEAD
     Mes recherches portent sur l'histoire du concept d'efficience des marchés,
     une notion centrale en économie financière mais aussi extrêmement controversé.
     Mes travaux proposent une histoire de longue durée de l'efficience des marchés,
     qui couvrent l'évolution de concept, et les communautés d'économistes associées,
     tout au long du XXème siècle. A travers cette analyse, mon objectif est de
     comprendre l'évolution de la pensée économique concernant les marchés financiers,
+=======
+    Mes recherches portent sur l'histoire du concept d'efficience des marchés, 
+    une notion centrale en économie financière mais aussi extrêmement controversé. 
+    Mes travaux proposent une histoire de longue durée de l'efficience des marchés, 
+    qui couvrent l'évolution de concept, et les communautés d'économistes associées, 
+    tout au long du XXème siècle. A travers cette analyse, mon objectif est de 
+    comprendre l'évolution de la pensée économique concernant les marchés financiers, 
+>>>>>>> f1ec489ce9070667717a60d07651526b1b005c0b
     leur fonctionnement et leur rôle dans la société.
 
 ############  Guilhem Lecouteux - en   #############
