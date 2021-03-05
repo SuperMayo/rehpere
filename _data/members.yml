@@ -423,13 +423,21 @@
       link: "https://www.researchgate.net/profile/Nicolas_Vallois"
   contact: "nicolas.vallois@u-picardie.fr"
   free_text: >
-    Mes recherches actuelles portent sur l'histoire des "statistiques juives" ou "sciences sociales juives"
-    (fin XIXème -début XXème siècle). Je travaille plus particulièrement en ce moment sur les travaux de Jacob Lestschinsky
-    et ses archives au Jewish Scientific Institute (YIVO). Je m'intéresse plus généralement aux questions relatives aux Juifs et
-    au judaïsme dans l'histoire de la pensée économique contemporaine.
-
-
-    Mes recherches précédentes concernaient l'histoire de la neuroéconomie et de l'économie comportementale.
+    Mes recherches actuelles portent sur l’histoire
+    des “statistiques juives” ou “sciences sociales juives”,
+    lesquelles désignent l'important développement d'études
+    statistiques sur les populations juives qui apparaît en
+    Europe et aux États-Unis à partir de la seconde moitié du
+    XIXe s. Je m'intéresse aux influences théoriques de
+    ce courant de recherche et à la manière avec laquelle
+    celui-ci s'est progressivement constitué en champ
+    intellectuel autonome. Mes travaux relèvent donc de
+    l'histoire de l'économie et des statistiques, mais aussi
+    de l'histoire culturelle puisque je m'intéresse plus
+    généralement aux représentations et stéréotypes économiques
+    associés aux Juifs dans la pensée économique. Mes recherches
+    précédentes concernaient l’histoire de la neuroéconomie et d
+    e l’économie comportementale.
 
   ############  Nicolas Vallois - en  #############
 
@@ -458,13 +466,17 @@
       link: "https://www.researchgate.net/profile/Nicolas_Vallois"
   contact: "nicolas.vallois@u-picardie.fr"
   free_text: >
-    My current research bears on the history of "Jewish statistics" and "Jewish social sciences"
-    (late 19th century - early 20th century). I am working on the works of Jacob Lestschinsky and his archives
-    at the Jewish Scientific Institute (YIVO). More generally, I am interested in issues related to the Jews and judaism in
-    the history of recent economic thought.
+  My current research focuses on the history of "Jewish statistics"
+  or "Jewish social sciences", which refers to the important development
+  of statistical studies of Jewish populations that began to emerge in Europe
+  and the United States in the second half of the XIXth century. I am interested
+  in the theoretical influences of this current of research and in the way in which
+  it gradually developed into an autonomous intellectual field. My work is therefore
+  related to the history of economics and statistics, but also to cultural history
+  since I am more generally interested in economic representations and stereotypes
+  associated with Jews in economic thought. My previous research was in the history
+  of neuroeconomics and behavioral economics.
 
-
-    My former research dealt with the history of neuroeconomics and behavioural economics.
 
 ############  Clara Léonard - fr   #############
 - firstname: Clara
@@ -753,30 +765,29 @@
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
-    - financial economics*
-    - efficient market hypothesis
-    - random fluctuations
-    - fundamental value
+    - History of financial economics
+    - Efficient market hypothesis
+    - Information
   authors:
     - Holbrook Working
     - Eugene Fama
     - Paul Samuelson
   external:
-  #  - name: "Université Paris 1 Panthéon-Sorbonne"
-  #    link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=e0103002657"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "CV"
-      link: "/assets/pdf/CV_delcey.pdf"
+    - name: "C.V"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vita_oct2019_d9eafed845.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
-    My research focuses on the history of financial economics, especially of the Efficient Market Hypothesis (EMH).
+    My research focuses on the history of the efficient market hypothesis,
+    a concept that is central to financial economics but also extremely controversial.
+    My work proposes a long history of market efficiency, covering the evolution of the concept,
+    and the related communities of economists, over the XXth century. Through this analysis, my objective
+    is to understand the evolution of economic thought regarding financial markets, their functioning and their role in society.
 
-
-    I am mainly interested in the emergence of modern financial theory after World War 2. In this regard,
-    I focus on constitutive contributions from this new discipline: the Random Character of Financial Fluctuations and
-    the Efficient Market Hypothesis.
 
 ############  Thomas Delcey - fr   #############
 
@@ -789,28 +800,30 @@
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
-    - économie financière
-    - efficience des marchés financiers
-    - fluctuation aléatoire
-    - valeur fondamentale
+    - Histoire de l'économie financière
+    - Efficience des marchés financiers
+    - Information
   authors:
     - Holbrook Working
     - Eugene Fama
     - Paul Samuelson
   external:
-#    - name: "Université Paris 1 Panthéon-Sorbonne"
-#      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=e0103002657"
+    - name: "Université Paris 1 Panthéon-Sorbonne"
+      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
-    - name: "CV"
-      link: "/assets/pdf/CV_delcey.pdf"
+    - name: "C.V"
+      link: "https://www.pantheonsorbonne.fr/uploads/pics/Curriculum_vita_oct2019_d9eafed845.pdf"
   contact: "thomas.delcey@univ-paris1.fr"
   twitter: "thomdelcey"
   free_text: >
-    Mes recherches portent sur l'histoire des théories financières, et plus particulièrement sur la théorie  de l'Efficience
-    des Marchés Financiers (EMF). Je m'intéresse principalement à l’émergence de la théorie financière moderne. Dans cette
-    optique, je me concentre sur les contributions constitutives de cette nouvelle discipline: le caractère aléatoire des
-    fluctuations financières et l'efficience des marchés financiers.
+    Mes recherches portent sur l'histoire du concept d'efficience des marchés,
+    une notion centrale en économie financière mais aussi extrêmement controversé.
+    Mes travaux proposent une histoire de longue durée de l'efficience des marchés,
+    qui couvrent l'évolution de concept, et les communautés d'économistes associées,
+    tout au long du XXème siècle. A travers cette analyse, mon objectif est de
+    comprendre l'évolution de la pensée économique concernant les marchés financiers,
+    leur fonctionnement et leur rôle dans la société.
 
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
