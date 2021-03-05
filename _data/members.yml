@@ -401,7 +401,7 @@
 - firstname: Nicolas
   surname: Vallois
   flatname: nicolas-vallois
-  picture: "Nicolas-Vallois.jpg"
+  picture: "nicolas-Vallois.jpg"
   lang: "fr"
   status: "Maître de Conférences"
   statuscode: "mdc"
@@ -444,7 +444,7 @@
 - firstname: Nicolas
   surname: Vallois
   flatname: nicolas-vallois
-  picture: "Nicolas-Vallois.jpg"
+  picture: "nicolas-Vallois.jpg"
   lang: "en"
   status: "Associate Professor"
   statuscode: "mdc"
