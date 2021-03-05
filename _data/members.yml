@@ -444,7 +444,7 @@
 - firstname: Nicolas
   surname: Vallois
   flatname: nicolas-vallois
-  picture: "nicolas-Vallois.jpg"
+  picture: "nicolas-vallois.jpg"
   lang: "en"
   status: "Associate Professor"
   statuscode: "mdc"
@@ -872,14 +872,16 @@
   flatname: guilhem-lecouteux
   picture: "guilhem-lecouteux.jpg"
   lang: "fr"
-  status: "Maître de conférences"
+  status: "Maître de conférences en sciences économiques"
   statuscode: "mcf"
   institution: "GREDEG, Université Côte d'Azur"
   themes:
-    - normative economics
-    - nudge and behavioural public policy
-    - individual and collective rationality
-    - game theory
+    - Economie normative
+    - Economie comportementale
+    - Théorie des enjeux
+    - Rationalité
+    - Addictions
+    - Nudge et boosts
   external:
     - name: "Université Nice Sophia Antipolis"
       link: "https://unice.fr/membres/tous-les-membres/gredeg/lecouteux-guilhem"
