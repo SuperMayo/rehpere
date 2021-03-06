@@ -532,13 +532,12 @@
   flatname: quentin-couix
   picture: "quentin-couix.jpg"
   lang: "fr"
-  status: "Doctorant"
+  status: "Postdoctorant"
   institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
   themes:
     - Economie écologique
-    - Ressources naturelles
-    - Thermodynamique
-    - Théorie de la croissance
+    - Energie et ressources naturelles
+    - Histoire et méthodologie de l'économie
   authors:
     - Nicholas Georgescu-Roegen
     - Robert Ayres
@@ -551,9 +550,11 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
+    - name: "Thèse"
+      link: "https://www.theses.fr/s151839"
     - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/CV_Couix_fd00979fe1.pdf"
-  contact: "quentin.couix@univ-paris1.fr"
+      link: "https://drive.google.com/file/d/1pDmuUhuclUntJ-kBZxTCHQOlzxjYt7NU/view?usp=sharing"
+  contact: "quentin.couix@gmail.com"
   free_text: >
     Mon travail interroge la manière dont la théorie économique tente d’appréhender les bases matérielles du développement, et
     par là son caractère soutenable ou non. Je m’intéresse notamment à l'économie écologique, et plus particulièrement aux
@@ -572,13 +573,12 @@
   flatname: quentin-couix
   picture: "quentin-couix.jpg"
   lang: "en"
-  status: "PhD candidate"
+  status: "Postdoctoral researcher"
   institution: "Centre d'économie de la Sorbonne</br>Université Paris 1 Panthéon-Sorbonne"
   themes:
     - Ecological economics
-    - Natural resources
-    - Thermodynamics
-    - Growth theory
+    - Energy and natural resources
+    - History and methodology of economics
   authors:
     - Nicholas Georgescu-Roegen
     - Robert Ayres
@@ -591,9 +591,9 @@
       link: "https://ideas.repec.org/f/pco952.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Quentin_Couix"
-    - name: "C.V"
-      link: "https://www.pantheonsorbonne.fr/uploads/pics/CV_Couix_fd00979fe1.pdf"
-  contact: "quentin.couix@univ-paris1.fr"
+    - name: "PhD Thesis"
+      link: "https://www.theses.fr/s151839"
+  contact: "quentin.couix@gmail.com"
   free_text: >
     My work questions the way economic theory tries to understand the material bases of development,
     and whether it is sustainable or not. I focus on the school of ecological economics, and more
