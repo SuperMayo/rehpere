@@ -835,36 +835,46 @@
   statuscode: "mcf"
   institution: "GREDEG, Université Côte d'Azur"
   themes:
-    - normative economics
-    - nudge and behavioural public policy
-    - individual and collective rationality
-    - game theory
+    - Normative economics
+    - Behavioral economics
+    - Game theory
+    - Rationality
+    - Addictions
+    - Nudge and boosts
   external:
     - name: "Université Nice Sophia Antipolis"
       link: "https://unice.fr/membres/tous-les-membres/gredeg/lecouteux-guilhem"
     - name: "Personal website"
-      link: "https://sites.google.com/site/guilhemlecouteux"
+      link: "https://sites.google.com/site/guilhemlecouteux/"
+    - name: "Thèse"
+      link: "https://pastel.archives-ouvertes.fr/tel-01175744"
+    - name: "Twitter"
+      link: "https://twitter.com/lecouteuxg"
+    - name: "Master sociologie-économie"
+      link: "https://univ-cotedazur.fr/offre-de-formation/economie-sociologie"
+    - name: "Master CODEEN"
+      link: "https://univ-cotedazur.fr/offre-de-formation/strategie-digitale-1"
   contact: "guilhem.lecouteux@unice.fr"
   twitter: "lecouteuxg"
   free_text: >
-    My research combines behavioural economics, game theory, and philosophy
-    to investigate (i) the formation of individual preferences and beliefs,
-    and (ii) the normative implications of endogenous preferences for the
-    design of public policies.
+    I am associate professor in economics since 2016 at Université Côte d'Azur
+    (formerly Université Nice Sophia Antipolis), after having written a thesis
+    in 2015 on the normative issues raised by behavioral economics, under the
+    supervision of Francis Bloch and Robert Sugden. Before coming to Nice, I held
+    a teaching associate position in 2015-2016 at the University of Bristol. I am
+    co-director of the double master in Sociology-Economics offered by the Université
+    Côte d'Azur, and I direct the master in behavioral and digital economics. Since
+    February 2021, I am also in charge of international relations at EUR ELMI
+    (the faculty of economics and management of the Université Côte d'Azur).
 
-
-    A first objective is to study how agents use and are influenced by their
-    environment when forming their preferences and beliefs, which requires
-    investigating the actual reasoning processes of the agents, and go beyond
-    revealed preferences approaches.
-
-
-    The second (related) objective is to develop a normatively justifiable
-    and pragmatically usable framework for designing behavioural public
-    policies, that accounts for the agents' ability to actively shape their
-    own preferences, which could offer an alternative to the current
-    technocratic view of behavioural sciences (with nudging used as a tool
-    of social design).
+    My research focuses on behavioral economics, normative economics, the history of economic
+    thought, and game theory, and aims to study (i) the formation of preferences and beliefs
+    of economic agents, as well as (ii) the normative and policy implications of the endogeneity
+    of preferences and beliefs. In particular, I am interested in the growing role of behavioural
+    sciences in the design of public policies (including the use of nudges and boosts) and in the
+    issues of ethical issues that these raise. Since 2020, I have been piloting a project involving
+    economists, psychologists, and doctors, focusing on the prevention of risky behaviors and the fight
+    against addictions among 18-25 year olds.
 
 ############  Guilhem Lecouteux  - fr  #############
 - firstname: Guilhem
@@ -878,7 +888,7 @@
   themes:
     - Economie normative
     - Economie comportementale
-    - Théorie des enjeux
+    - Théorie des jeux
     - Rationalité
     - Addictions
     - Nudge et boosts
@@ -886,25 +896,38 @@
     - name: "Université Nice Sophia Antipolis"
       link: "https://unice.fr/membres/tous-les-membres/gredeg/lecouteux-guilhem"
     - name: "Personal website"
-      link: "https://sites.google.com/site/guilhemlecouteux"
+      link: "https://sites.google.com/site/guilhemlecouteux/"
+    - name: "Thèse"
+      link: "https://pastel.archives-ouvertes.fr/tel-01175744"
+    - name: "Twitter"
+      link: "https://twitter.com/lecouteuxg"
+    - name: "Master sociologie-économie"
+      link: "https://univ-cotedazur.fr/offre-de-formation/economie-sociologie"
+    - name: "Master CODEEN"
+      link: "https://univ-cotedazur.fr/offre-de-formation/strategie-digitale-1"
   contact: "guilhem.lecouteux@unice.fr"
   twitter: "lecouteuxg"
   free_text: >
-    Ma recherche combine l'économie comportementale, la théorie des jeux, et la philosophie
-    fin d'étudier (i) la formation des préférences et croyances des agents, et (ii)
-    les implications normatives de l'endogénéité des préférences pour les politiques publiques.
+    Je suis maître de conférences en sciences économiques depuis 2016 à
+    Université Côte d'Azur (anciennement Université Nice Sophia Antipolis),
+    après avoir rédigé une thèse en 2015 sur les enjeux normatifs soulevés par
+    l'économie comportementale, sous la direction de Francis Bloch et Robert Sugden.
+    Avant d'arriver à Nice, j'ai occupé un poste de teaching associate en
+    2015-2016 à University of Bristol. Je suis co-responsable du double master
+    en sociologie-économie proposé par l'Université Côte d'Azur, et dirige le
+    master CODEEN en économie comportementale et numérique. Depuis Février 2021,
+    je suis également chargé de mission aux relations internationales de l'EUR ELMI
+    (la faculté d'économie et gestion d'Université Côte d'Azur).
 
-
-    Un premier objectif de ce travail est de mieux comprendre comment les agents utilisent et
-    sont influencés par leur environnement lors de la formation de leurs préférences et
-    croyances, ce qui requiert d'étudier les processus de raisonnement des agents, et de
-    dépasser les approches fondées sur les préférences révélées.
-
-    Un second objectif, complémentaire au premier, est de développer un cadre d'analyse pour
-    les politiques publiques comportementales qui soit normativement justifiable, tout en
-    restant applicable d'un point de vue pratique, et qui puisse offrir une alternative aux
-    approches davantage technocratiques des sciences comportementales (qui voient dans les
-    *nudges* un simple outil de design social)
+    Mes recherches portent sur l'économie comportementale, l'économie normative, l'histoire de
+    la pensée économique, et la théorie des jeux, et visent à étudier (i) la formation des
+    préférences et des croyances des agents économiques, ainsi que (ii) les implications
+    normatives et politiques de l'endogénéité des préférences et croyances. En particulier,
+    je m'intéresse au rôle grandissant des sciences comportementales dans la conception des
+    politiques publiques -- notamment l'utilisation des nudges et boosts -- et des enjeux
+    éthiques que celles-ci soulèvent. Je pilote depuis 2020 un projet impliquant des économistes,
+    psychologues, et médecins, portant sur la prévention des comportements à risques et la lutte
+    contre les addictions chez les 18-25 ans.
 
 ############  Justine Loulergue  - en   #############
 
@@ -1830,23 +1853,24 @@
   themes:
     - Economie de la qualité
     - Quantification
-    - Naturalisation
-    - Marché et marchandises
+    - Méthodes hédoniques
+    - Hypothèse de nomenclature
   authors:
     - Kevin Lacaster,
-    - Edward Chamberlin
+    - Sherwin Rosen
     - George Akerlof
   external:
     - name: "Linkedin"
       link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+    - name: "C.V."
+      link: "/assets/pdf/CV_julien-gradoz.pdf"
   contact: "julien.gradoz@ens-cachan.fr"
   free_text: >
-    Mon travail de recherche porte actuellement sur l’histoire
-    de la modélisation de la qualité des produits dans la théorie
-    économique néoclassique, sa quantification, sa naturalisation, et la
-    façon dont s’articule la qualification des objets en tant que « bien
-    économique » ou « marchandise » et les modalités d’évaluation de leur
-    qualité.
+    Mon travail de recherche porte actuellement sur les débats autour de l’introduction de
+    la qualité des produits dans la théorie lancasterienne et à sa diffusion plus large dans
+    la théorie microéconomique des années 1970 (méthodes hédoniques, théorie de la différenciation,
+    économie de l’information). Je m’intéresse également à la réception critique de cette approche
+    dans une certaine littérature économique française d’inspiration sociologique dans les années 1990.
 
 ############ Julien Gradoz en #############
 - firstname: "Julien"
@@ -1860,8 +1884,8 @@
   themes:
     - Economics of quality
     - Quantification
-    - Naturalization
-    - Market and commodities
+    - Hedonic methodology
+    - Nomenclature hypothesis
   authors:
     - Kevin Lacaster,
     - Edward Chamberlin
@@ -1871,11 +1895,11 @@
       link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
   contact: "julien.gradoz@ens-cachan.fr"
   free_text: >
-    My research project is mainly focused on the history of the
-    modelling of quality of economic goods in the neoclassical economic
-    theory, its quantification, its naturalization, and how the process of
-    qualification of objects into "economic goods" or commodities" is
-    affecting the evaluation of their quality.
+    My current research focuses on the debates concerning the introduction of
+    the quality of products in Lancasterian theory and its wider diffusion in
+    the microeconomic theory of the 1970s (hedonic methods, differentiation theory,
+    information economics). I am also interested in the critical reception of this
+    approach in a certain French economic literature of sociological inspiration in the 1990s.
 
 ############ Cristian Fraser fr #############
 - firstname: "Cristian"
@@ -1883,9 +1907,9 @@
   flatname: cristian-frasser
   picture: "cristian-frasser.jpg"
   lang: "fr"
-  status: "Doctorant"
-  statuscode: "phd"
-  institution: "Centre d'Economie de la Sorbonne"
+  status: "Maitre de conférence"
+  statuscode: "mcf"
+  institution: "Universidad del Valle"
   themes:
     - Liquidité
     - Monnaie
@@ -1893,21 +1917,22 @@
     - Philosophie de l'économie
     - Economie monétaire
   external:
+    - name: "Twitter"
+      link: "https://twitter.com/cfrasser"
+    - name: "RePEc"
+      link: "https://ideas.repec.org/f/pfr289.html"
     - name: "ResearchGate"
       link: "https://www.researchgate.net/profile/Cristian_Frasser"
     - name: "Site personnel"
       link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
   contact: "cristian.frasser@correounivalle.edu.co"
   free_text: >
-    Je suis actuellement doctorant en économie à l'Université Paris 1, Panthéon-Sorbonne, France. Je rejoindrai le département d'économie de l'Universidad del Valle en Colombie en
-    tant que professeur assistant en juillet 2020.
+    Mes domaines de recherche sont l’économie monétaire, la philosophie de l’économie et l’histoire
+    de la pensée économique. Je travaille actuellement à l’intersection de l’économie et de la philosophie dans le but de
+    donner un sens à la nature de la liquidité, de la monnaie, et du crédit. Mon travail de recherche
+    s’appuie sur les modèles de prospection monétaire, la notion philosophique des types naturels,
+    et l’histoire de la théorie monétaire.
 
-
-    Mes domaines de recherche sont l’économie monétaire, la philosophie de l’économie et l’histoire de la pensée économique.
-
-
-    Je travaille actuellement à l'intersection de l'économie et de la philosophie dans le but de donner un sens à la nature de la liquidité ou, comme
-    l'appellent les philosophes, l'ontologie de la liquidité. Mon travail de recherche s’appuie sur les modèles de prospection monétaire, la notion philosophique des types naturels, et l'histoire de la théorie monétaire
 
 ############ Cristian Fraser en #############
 - firstname: "Cristian"
@@ -1929,18 +1954,20 @@
       link: "https://www.researchgate.net/profile/Cristian_Frasser"
     - name: "Personal Website"
       link: "https://sites.google.com/correounivalle.edu.co/cristianfrasser/home"
+    - name: "Twitter"
+      link: "https://twitter.com/cfrasser"
+    - name: "RePEc"
+      link: "https://ideas.repec.org/f/pfr289.html"
   contact: "cristian.frasser@correounivalle.edu.co"
   free_text: >
-    I am currently a PhD student in Economics at the Université Paris 1, Panthéon-Sorbonne, France. I will be joining the Department of Economics at the Universidad del Valle,
-    Colombia as an Assistant Professor in July 2020.
+    My research interests include monetary economics, philosophy of economics, and history of
+    economic thought.
 
-
-    My research interests include monetary economics, philosophy of economics, and history of economic thought.
-
-
-    I currently work in the intersection between economics and philosophy aiming to make sense of the nature of liquidity, or as philosophers call it, the ontology of liquidity.
-    Due to the complexity of such a subject matter, I tend to favor methodological pluralism: the higher the diversity of our tools, the better our chances of gaining an understanding.
-     My research has so far been built on search-based models of money, philosophical insights about natural kinds, and the history of monetary theory
+    I conduct research at the intersection of economics and philosophy, aiming to make sense
+    of the nature of liquidity, money, and credit. Due to the complexity of such a subject matter,
+    I tend to favor methodological pluralism: the higher the diversity of our tools, the better our
+    chances of gaining an understanding. My research has so far been built on search-based models
+    of money, philosophical insights about natural kinds, and the history of monetary theory.
 
 ############ Erich Pinzon-Fuchs en #############
 - firstname: "Erich"
@@ -2014,9 +2041,9 @@
     - Equilibre général
     - Préférences révélées
     - Rationalité
-    - économie comportementale
-    - transitivité
-    - qualité
+    - Economie comportementale
+    - Transitivité
+    - Qualité
   authors:
     - Walras
     - Hicks
@@ -2030,7 +2057,14 @@
       link: "https://pro.univ-lille.fr/jean-sebastien-lenfant/"
   contact: "jean-sebastien.lenfant@univ-lille.fr"
   free_text: >
-    Mes recherches portent sur différents sujets, dans une perspective à la fois historique et méthodologique ou épistémologique. Je m'intéresse à la théorie de l'équilibre général, à la théorie des choix et de la décision, à la théorie microéconomique de la demande et de la consommation, à la notion de qualité des biens (et à la définition même des biens), à la place de la psychologie dans la théorie économique, à l'économie comportementale.
+    Avec le marginalisme, la pensée économique se réorganise autour d'une polarité entre les données
+    subjectives qui déterminent les choix individuels et la quête de modèles capables de représenter
+    les résultats des interactions entre les agents. Je m'intéresse aux différents champs de la théorie
+    économique qui permettent de concevoir l'articulation entre les dimensions subjectives de la
+    représentation des agents économiques (théories de la rationalité, fondements psychologiques
+    des choix, formation des croyances et des anticipations, traitement de l'information) et leurs
+    conséquences agrégées au travers des interactions sociales (coordination marchande, théorie
+    des jeux, conventions).
 
 ############ Jean-sébastien Lenfant en #############
 - firstname: "Jean-Sébastien"
@@ -2062,8 +2096,11 @@
       link: "https://pro.univ-lille.fr/jean-sebastien-lenfant/"
   contact: "jean-sebastien.lenfant@univ-lille.fr"
   free_text: >
-    I am interested in a variety of subjects and I deal with them either with a historicalor  methodological perspective. My main subjects of research are general equilibrium theory,
-    choice and decision theories, microeconomics of demand and consumption, the notion of goods' quality, the links between economics and psychology and the developments of behavioral economics.
+    With the emergence of marginalism, economic thought was reorganized around a polarity between
+    the subjective data that determine individual choices and the quest for models capable of
+    representing the results of interactions between agents. I am interested in different fields
+    of theory which make it possible to conceive the articulation between the subjective dimensions
+    of the representation of economic agents (theories of rationality, psychological foundations, etc.). of choices, formation of beliefs and anticipations, information processing) and their aggregated consequences through social interactions (market coordination, theory, etc.). games, conventions).
 
 ############ Nicolas Brisset fr #############
 - firstname: "Nicolas"
@@ -2157,19 +2194,19 @@
       link: "https://fr.linkedin.com/in/thibaud-choppin-de-janvry-a0ba8493"
   contact: "thibaudchoppin@gmail.com"
   free_text: >
-   L’identité est « à la mode ». Et, comme toute chose commune, il nous faut en saisir l’apport et en dévoiler les limites. Pour ce faire, je m’interroge sur son origine, ses évolutions, et sa préservation kaléidoscopique depuis les années 1950. « Mot valise » par excellence, le concept d’identité confronte les sciences sociales en questionnant leurs postulats fondamentaux autant qu’en redéfinissant leurs frontières. C’est donc par une approche transdisciplinaire (et indisciplinée) que je tente de saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives, de la sociologie et de la philosophie. 
-   
-   
-   **Axe 1 : Réflexion historique sur l’émergence identitaire** 
+   L’identité est « à la mode ». Et, comme toute chose commune, il nous faut en saisir l’apport et en dévoiler les limites. Pour ce faire, je m’interroge sur son origine, ses évolutions, et sa préservation kaléidoscopique depuis les années 1950. « Mot valise » par excellence, le concept d’identité confronte les sciences sociales en questionnant leurs postulats fondamentaux autant qu’en redéfinissant leurs frontières. C’est donc par une approche transdisciplinaire (et indisciplinée) que je tente de saisir le sens – la signification et la direction – d’une notion au carrefour de la psychologie, de l’économie, des sciences cognitives, de la sociologie et de la philosophie.
+
+
+   **Axe 1 : Réflexion historique sur l’émergence identitaire**
 
     Afin de comprendre l’émergence de la notion d’identité, je la lie avec un processus de « détricotage » de la notion de rationalité. Ce serait hypothétiquement sur le creux d’une rationalité doublement « limitée » que s’appuierait l’identité. Tendons-nous faire une nouvelle rationalité identitaire ? Si oui, comment comprendre cette mise-en-tension ?
 
     **Axe 2 : Réflexion théorique et épistémique**
-    
+
     Pour saisir l’identité, il nous faut d’emblée en comprendre la polysémie. Le mot d’ « identité » recouvre – équilibre ou déséquilibre – un ensemble de significations hétérogènes. Tellement de sens divers et variés se font entendre autour d’elle. Comment alors continuer d’utiliser *adéquatement* un tel concept ? que nous apporte-t-il ? Que permet-il ? et que garde-t-il sous silence ?
-    Je défends un déplacement épistémique qui consisterait à théoriser l’identité comme un *rapport* entre soi et l’autre. Suivant une logique d’économie, le rapport identitaire serait ainsi conflictuel, absolutiste ou neg-entropique. Il s’apparenterait à un jeu de classification, de jugement, de reflet et de double. 
-    
-    **Axe 3 : Réflexion épistémologique**  
+    Je défends un déplacement épistémique qui consisterait à théoriser l’identité comme un *rapport* entre soi et l’autre. Suivant une logique d’économie, le rapport identitaire serait ainsi conflictuel, absolutiste ou neg-entropique. Il s’apparenterait à un jeu de classification, de jugement, de reflet et de double.
+
+    **Axe 3 : Réflexion épistémologique**
 
     La pluralité intrinsèque de l’identité est-elle un obstacle pour l’esprit scientifique ou au contraire constitue-t-elle la possibilité d’une unification ontologique des sciences sociales ? Entre la rencontre et la confrontation – deux manières d’être-avec que l’identité semble englober –, l’identité est-elle un espace d’entente épistémologique ? Peut-on faire s’entendre toutes les voix disparates qui parlent de l’identité ? Ou, au contraire, représente-t-elle un point de divorce irrémédiable ?
     Retourner l’identité « contre » la science elle-même : comment caractériser l’identité d’une discipline ? et comment questionner le rapport identitaire qui se perpétue entre différentes disciplines scientifiques ? Comment dé-faire une épistémologie identitaire ? et que proposer d’autre ?
@@ -2203,24 +2240,24 @@
     As a “portmanteau word” (“mot-valise” as Deleuze notes) the concept of identity confronts social sciences by questioning their fundamental postulates as well as by redefining their borders. Thus, it is naturally by a transdisciplinary approach that I try to grasp the sense – the signification and the direction – of a notion that is located in-between psychology, economics, cognitive sciences, sociology and philosophy.
 
 
-    **Historical axis** 
-    
+    **Historical axis**
+
 
     In order to understand the contemporary emergence of the notion of identity, I link it to an “unravelment” of classic rationality. I hypothesize that the hollow of a dually “limited” (or bounded) rationality is a fulcrum for identity. The critics of rationality would be the grounds from which departs the notion of identity, before impacting it in return: are we leaning towards a new identital rationality (rationalité identitaire) ? And if so, how can we characterize it ?
 
 
-    **Theoretical and epistemic axis** 
-    
-
-    The concept of identity covers – equilibrates or disequilibrates – a set of heterogeneous significations. I try to uncover this polysemous use. How can we keep using the concept of identity adequately ? How can we understand it ? What does it bring to the table ? and what does it keep for itself, silently ? 
-    I propose an *epistemic jump* consisting in grasping identity as a *rapport* between the self and the other. More precisely, this identital rapport (*rapport identitaire*) is conflictual, absolutist and neg-entropic. It reveals itself as a game of classification, judgment and reflection. 
+    **Theoretical and epistemic axis**
 
 
-    **Epistemological axis**  
-    
+    The concept of identity covers – equilibrates or disequilibrates – a set of heterogeneous significations. I try to uncover this polysemous use. How can we keep using the concept of identity adequately ? How can we understand it ? What does it bring to the table ? and what does it keep for itself, silently ?
+    I propose an *epistemic jump* consisting in grasping identity as a *rapport* between the self and the other. More precisely, this identital rapport (*rapport identitaire*) is conflictual, absolutist and neg-entropic. It reveals itself as a game of classification, judgment and reflection.
 
-    Is the intrinsic plurality of identity an obstacle for the scientific mind or, a contrario, a unique possibility for ontological unification of social sciences ? Can the concept of identity be seen as a space of *epistemological entente* ? Or as a moment of irremediable divorce ? Can all disparate voices that talk about identity be unified ? Should they be ? And why ? 
-    Returning identity “against” science: how can we characterize a discipline’s identity ? How to question this identital rapport which perpetuates itself between different scientific disciplines ? How to deconstruct the dominant *identital epistemology* ? and what can we propose in exchange ? 
+
+    **Epistemological axis**
+
+
+    Is the intrinsic plurality of identity an obstacle for the scientific mind or, a contrario, a unique possibility for ontological unification of social sciences ? Can the concept of identity be seen as a space of *epistemological entente* ? Or as a moment of irremediable divorce ? Can all disparate voices that talk about identity be unified ? Should they be ? And why ?
+    Returning identity “against” science: how can we characterize a discipline’s identity ? How to question this identital rapport which perpetuates itself between different scientific disciplines ? How to deconstruct the dominant *identital epistemology* ? and what can we propose in exchange ?
 
 ############ Elizaveta Burina fr #############
 - firstname: "Elizaveta"
