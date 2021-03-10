@@ -1893,6 +1893,8 @@
   external:
     - name: "Linkedin"
       link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
+    - name: "C.V."
+      link: "/assets/pdf/CV_julien-gradoz.pdf"
   contact: "julien.gradoz@ens-cachan.fr"
   free_text: >
     My current research focuses on the debates concerning the introduction of
@@ -1940,9 +1942,9 @@
   flatname: cristian-frasser
   picture: "cristian-frasser.jpg"
   lang: "en"
-  status: "PhD Candidate"
-  statuscode: "phd"
-  institution: "Centre d'Economie de la Sorbonne"
+  status: "Assistant Professor"
+  statuscode: "mcf"
+  institution: "Universidad del Valle"
   themes:
     - Liquidity
     - Money
