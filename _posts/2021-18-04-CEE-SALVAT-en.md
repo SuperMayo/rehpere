@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2021-03-02
-ref: CEE-gramain-2021-03-04
+date: 2021-03-18
+ref: CEE-gramain-2021-03-18
 lang: en
 anchor: true
 ---
