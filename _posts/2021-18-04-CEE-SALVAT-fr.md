@@ -11,7 +11,7 @@ anchor: true
 
 <i class="fa fa-video-camera"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/97742490339?pwd=L2w0YmxxRW96akN3b1k1Q0EwQTVRdz09)
 
-**Agnès Gramain** (BETA, Université de Lorraine) and **Laurent Feller** (LAMOP, Université Paris 1) animera la séance sur le thème:
+**Christophe Salvat** (Centre Gilles Gaston Granger, Université Aix-Marseille) animera la séance sur le thème:
 
 #### « Utilitarisme et évaluation du bien-être »
 
