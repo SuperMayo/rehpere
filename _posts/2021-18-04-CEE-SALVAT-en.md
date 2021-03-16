@@ -9,7 +9,7 @@ anchor: true
 
 <i class="fas fa-table"></i> Date : _March 18, 2021_ at _6 pm_
 
-<i class="fas fa-video"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/97742490339?pwd=L2w0YmxxRW96akN3b1k1Q0EwQTVRdz09)
+<i class="fas fa-map-marked"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/97742490339?pwd=L2w0YmxxRW96akN3b1k1Q0EwQTVRdz09)
 
 **Christophe Salvat** (Centre Gilles Gaston Granger, Université Aix-Marseille) will give a talk:
 
