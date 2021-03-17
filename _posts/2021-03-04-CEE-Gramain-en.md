@@ -4,12 +4,12 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-03-02
 ref: CEE-gramain-2021-03-04
 lang: en
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _March 4, 2021_ at _6 pm_
 
-<i class="fas icon-facetime-video"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/95996963723?pwd=T1BDTllzTmp6R05xOWZ6RFpZWjBWUT09)
+<i class= "fas fa-map-marked"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/95996963723?pwd=T1BDTllzTmp6R05xOWZ6RFpZWjBWUT09)
 
 **Agnès Gramain** (BETA, Université de Lorraine) and **Laurent Feller** (LAMOP, Université Paris 1) will give a talk:
 
