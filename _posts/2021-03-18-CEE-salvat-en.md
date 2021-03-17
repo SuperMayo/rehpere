@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2021-03-18
+date: 2021-03-16
 ref: CEE-SALVAT-2021-03-18
 lang: en
 anchor: true
@@ -15,4 +15,4 @@ anchor: true
 
 #### « Utilitarisme et évaluation du bien-être »
 
-about the book they have edited at _Editions de la Découverte_ en 2020,  [*L’utilitarisme*](https://www.editionsladecouverte.fr/l_utilitarisme-9782348055379).
+about his book published at _Editions de la Découverte_ in 2020,  [*L’utilitarisme*](https://www.editionsladecouverte.fr/l_utilitarisme-9782348055379).
