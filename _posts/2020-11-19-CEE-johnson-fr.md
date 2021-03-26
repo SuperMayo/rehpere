@@ -7,7 +7,7 @@ lang: fr
 anchor: false
 ---
 
-<i class="fas fa-table"></i> Date : _19 Novembre 2020_ à _18:00_
+<i class="fas fa-table"></i> Date : _19 novembre 2020_ à _18:00_
 
 
 **Marianne Johnson** (University of Wisconsin Oshkosh) animera la séance sur le thème:
