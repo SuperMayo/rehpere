@@ -7,7 +7,7 @@ lang: fr
 anchor: false
 ---
 
-<i class="fas fa-table"></i> Date : _November 12, 2020_ at _6 pm_
+<i class="fas fa-table"></i> Date : _12 novembre 2020_ à _18:00_
 
 
 **Olivier Martin** (Centre de Recherche sur les Liens Sociaux, Université de Paris) animera la séance sur le thème:
