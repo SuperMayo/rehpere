@@ -14,4 +14,4 @@ anchor: false
 
 #### « Les statistiques et au-delà : une sociologie de tous les chiffres est-elle possible ? »
 
-about his book published at _Armand Colin_ in 2020,  [*L'empire des chiffres*].
+about his book published at _Armand Colin_ in 2020, *L'empire des chiffres*.
