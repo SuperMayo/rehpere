@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-03-16
 ref: CEE-SALVAT-2021-03-18
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _18 mars 2021_ à _18h_
