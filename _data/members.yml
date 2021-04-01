@@ -1604,13 +1604,14 @@
   flatname: jerome-lallement
   picture: "jerome-lallement.jpg"
   lang: "fr"
-  status: "Professeur des universités"
+  status: "Professeur émérite"
   statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
+  institution: "Université de Paris et Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
   themes:
     - Équilibre Général
     - Explication et causalité
-    - Théorie des prix
+    - Individualisme et holisme
+    - Pauvreté
   authors:
     - Leon Walras
     - Maurice Allais
@@ -1621,11 +1622,7 @@
       link: "https://www.researchgate.net/profile/Jerome_Lallement"
   contact: "jerome.lallement@univ-paris.fr"
   free_text: >
-    **Epistémologie et Philosophie de l’économie** <br/>
-    Mots clefs : modèle déductif-nomologique, explication et causalité ;
-    épistémologie de la théorie économique contemporaine;
-    économie pure et économie appliquée;
-    individualisme et holisme ontologie et épistémologie.
+    Mes travaux interrogent les fondements épistémologiques et philosophiques des théories économiques. Cette interrogation m'a conduit à aborder le partage entre individualisme et holisme méthodologique, mais aussi entre individualisme et holisme ontologique. Les critères de validité des théories économiques soulèvent le débat opposant le modèle déductif-nomologique à l'explication causale. Le traitement de ces questions se fait en s'appuyant sur l'histoire des théories économiques. Ce recours à l'histoire de la pensée économique tend à souligner que les critères de vérité évoluent en fonction du temps, et plus précisément en fonction des questions posées aux théories économiques. D’où l'incitation à prendre parti pour une manière spécifique de faire de l’histoire de la pensée : l'histoire de la  pensée apparaît ici comme l'histoire des questions qui sont posées aux théories économiques et non comme l'histoire des réponses proposées par les économistes. Les  théories sur la pauvreté illustrent ce point de vue.
 
 
   ############ Jerome Lallement - en #############
@@ -1634,13 +1631,14 @@
   flatname: jerome-lallement
   picture: "jerome-lallement.jpg"
   lang: "en"
-  status: "Professor"
+  status: "Emeritus Professor"
   statuscode: "pr"
-  institution: "Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
+  institution: "Université de Paris and Centre d'Économie de la Sorbonne, Université Paris I Panthéon-Sorbonne"
   themes:
     - General Equilibrium
     - Explanation and causality
-    - Theory of Price
+    - Individualism and holism
+    - Poverty
   authors:
     - Leon Walras
     - Maurice Allais
@@ -1651,8 +1649,7 @@
       link: "https://www.researchgate.net/profile/Jerome_Lallement"
   contact: "jerome.lallement@univ-paris.fr"
   free_text: >
-        **Epistemology and Philosophy of Economics** <br/>
-         Key words: deductive-nomological model, explanation and causality ; epistemology of contemporary economic theory; pure and applied economics; individualism and holism ontology and epistemology.
+    My work questions the epistemological and philosophical foundations of economic theories. This questioning has led me to address the division between individualism and methodological holism, but also between individualism and ontological holism. The criteria of validity of economic theories raise the debate between the deductive-nomological model and the causal explanation. The treatment of these questions is based on the history of economic theories. This recourse to the history of economic thought tends to underline the fact that the criteria of truth evolve with time, and more precisely with the questions posed to economic theories. Hence the incitement to take sides with a specific way of doing the history of thought: the history of thought appears here as the history of the questions that are put to economic theories and not as the history of the answers proposed by economists. Theories on poverty illustrate this point of view.
 
 
 ############ Cléo Chassonnery-Zaïgouche - en #############
