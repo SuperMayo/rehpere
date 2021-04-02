@@ -4,7 +4,7 @@ title: "Conférence - Les frontières de l’économie : déplacements récents"
 date: 2021-03-31
 ref: colloque-fontiere
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <center>
@@ -16,7 +16,7 @@ anchor: true
 <br>
 
 <center>
-<img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "55%" class = "center">
+<img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "90%" class = "center">
 </center>
 
 <br>
@@ -62,7 +62,7 @@ Ce colloque a pour objectif de faire le point sur les réflexions récentes conc
 
 <center>
 <h3>Conseil scientifique</h3>
-François Allisson (Université de Lausanne) ; Roger Backhouse (University of Birmingham); Antoinette Baujard (Université Jean Monnet, Lyon Saint-Etienne); Cléo Chassonnery-Zaïgouche (University of Cambridge); Béatrice Cherrier (CREST); François Claveau (University of Sherbrooke); Annie L. Cot (Université Paris 1 Panthéon-Sorbonne); Muriel Dal-Pont Legrand (Université Côte d'Azur, Nice);  John Davis (Marquette University); Judith Favereau (Université Lumière Lyon 2); Jérôme Gautié (Université Paris 1 Panthéon-Sorbonne); Wade Hands (University of Puget Sound); Catherine Herfeld (University of Zurich); Jérôme Lallement (Université de Paris); Catherine Larrère (Université Paris 1 Panthéon-Sorbonne); Jean-Sébastien Lenfant (Université de Lille) ; Harro Maas (Université de Lausanne) ; Eric Monnet (Ecole d’Economie de Paris).
+François Allisson (Université de Lausanne) ; Roger Backhouse (University of Birmingham) ; Antoinette Baujard (Université Jean Monnet, Lyon Saint-Etienne) ; Cléo Chassonnery-Zaïgouche (University of Cambridge) ; Béatrice Cherrier (CREST) ; François Claveau (University of Sherbrooke) ; Annie L. Cot (Université Paris 1 Panthéon-Sorbonne) ; Muriel Dal-Pont Legrand (Université Côte d'Azur, Nice) ;  John Davis (Marquette University) ; Judith Favereau (Université Lumière Lyon 2) ; Jérôme Gautié (Université Paris 1 Panthéon-Sorbonne) ; Wade Hands (University of Puget Sound); Catherine Herfeld (University of Zurich) ; Jérôme Lallement (Université de Paris) ; Catherine Larrère (Université Paris 1 Panthéon-Sorbonne) ; Jean-Sébastien Lenfant (Université de Lille) ; Harro Maas (Université de Lausanne) ; Eric Monnet (Ecole d’Economie de Paris).
 </center>
 
 <br>
