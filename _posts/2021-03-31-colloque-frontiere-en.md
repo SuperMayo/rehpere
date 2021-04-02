@@ -4,7 +4,7 @@ title: "Conference - Recent Shifts in the Boundaries of Economics: Philosophy an
 date: 2021-03-31
 ref: colloque-frontiere
 lang: en
-anchor: true
+anchor: false
 ---
 <center>
 <i class="fas fa-table"></i> Paris, January 4, 5 and 6, 2022.
@@ -13,7 +13,7 @@ anchor: true
 <br>
 
 <center>
-<img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "55%" class = "center">
+<img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "90%" class = "center">
 </center>
 
 <br>
@@ -62,7 +62,7 @@ Finally, we shall welcome contributions that explore the changing internal bound
 <center>
 <h3>Scientific Council</h3>
 
-François Allisson (University of Lausanne); Roger Backhouse (University of Birmingham); Antoinette Baujard (University Jean Monnet, Lyon Saint-Etienne); Cléo Chassonnery-Zaïgouche (University of Cambridge); Béatrice Cherrier (Center for Research in Economics and Statistics); François Claveau (University of Sherbrooke); Annie L. Cot (University Paris 1 Panthéon-Sorbonne); Muriel Dal-Pont Legrand (University Côte d'Azur, Nice);  John Davis (Marquette University); Judith Favereau (Lumière University Lyon 2); Jérôme Gautié (University Paris 1 Panthéon-Sorbonne); Wade Hands (University of Puget Sound); Catherine Herfeld (University of Zurich); Jérôme Lallement (University of Paris); Catherine Larrère (University Paris 1 Panthéon-Sorbonne); Jean-Sébastien Lenfant (University of Lille); Harro Maas (University of Lausanne); Eric Monnet (Paris School of Economics).
+François Allisson (Université de Lausanne); Roger Backhouse (University of Birmingham); Antoinette Baujard (University Jean Monnet, Lyon Saint-Etienne); Cléo Chassonnery-Zaïgouche (University of Cambridge); Béatrice Cherrier (Center for Research in Economics and Statistics); François Claveau (Université de Sherbrooke); Annie L. Cot (Université Paris 1 Panthéon-Sorbonne); Muriel Dal-Pont Legrand (Université Côte d'Azur, Nice);  John Davis (Marquette University); Judith Favereau (Université Lumière Lyon 2); Jérôme Gautié (Université Paris 1 Panthéon-Sorbonne); Wade Hands (University of Puget Sound); Catherine Herfeld (University of Zurich); Jérôme Lallement (Université de Paris); Catherine Larrère (Université Paris 1 Panthéon-Sorbonne); Jean-Sébastien Lenfant (Université de Lille); Harro Maas (Université de Lausanne); Eric Monnet (Paris School of Economics).
 </center>
 
 <br>
