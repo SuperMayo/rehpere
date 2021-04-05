@@ -4,7 +4,7 @@ title: "Conférence - Les frontières de l’économie : déplacements récents"
 date: 2021-03-31
 ref: colloque-fontiere
 lang: fr
-anchor: false
+anchor: true
 ---
 
 <center>
