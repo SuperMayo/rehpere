@@ -5,8 +5,8 @@
   flatname: judith-favereau
   picture: "judith-favereau.jpg"
   lang: "fr"
-  status: "Maîtresse de Conférences"
-  statuscode: "mdf"
+  status: "Maîtresse de conférences"
+  statuscode: "mcf"
   institution: "Laboratoire TRIANGLE, Université Lyon 2"
   themes:
     - Philosophie économique
@@ -28,10 +28,10 @@
   contact: "judith.favereau@gmail.com"
   twitter: "FavereauJudith"
   free_text: >
-    Je suis actuellement maitresse de conférence à l'université Lyon 2 et rattachée au laboratoire pluridisciplinaire TRIANGLE. Je suis aussi rattachée au Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). Mes domaines de recherches sont l'économie du développement, la philosophie économique, l'économie expérimentale et les approches fondées sur les preuves (e.g. evidence based-policy). Une partie de mes recherches visent à identifier comment les approches fondées sur les preuves, l'économie du développement et l'économie expérimentale interagissent en vue de lutter contre la pauvreté. Cela implique donc de se concentrer à la fois sur ces différents transferts disciplinaires tout autant qu'analyser les différentes méthodologies à l'oeuvre. De ce fait, la philosophie économique joue ici au moins deux rôles centraux. Un premier qui vise à analyser ces interactions et ces transfers disciplinaires et un second qui cherche à questionner leurs implications. À cela s'ajoute la dimension de la philosophie économique, à savoir saisir comment la lutte contre la pauvreté en est transformée en pratique, et comment cette dernière peut être appréhendée selon différents critères de justice sociale.
+    Je suis actuellement maitresse de conférence à l'université Lyon 2 et rattachée au laboratoire pluridisciplinaire TRIANGLE. Je suis aussi rattachée au Academy of Finland Centre of Excelence in the Philosophy of the Social Sciences (TINT). Mes domaines de recherches sont l'économie du développement, la philosophie économique, l'économie expérimentale et les approches fondées sur les preuves (e.g. *evidence based-policy*). Une partie de mes recherches visent à identifier comment les approches fondées sur les preuves, l'économie du développement et l'économie expérimentale interagissent en vue de lutter contre la pauvreté. Cela implique donc de se concentrer à la fois sur ces différents transferts disciplinaires tout autant qu'analyser les différentes méthodologies à l'oeuvre. De ce fait, la philosophie économique joue ici au moins deux rôles centraux. Un premier qui vise à analyser ces interactions et ces transfers disciplinaires et un second qui cherche à questionner leurs implications. À cela s'ajoute la dimension de la philosophie économique, à savoir saisir comment la lutte contre la pauvreté en est transformée en pratique, et comment cette dernière peut être appréhendée selon différents critères de justice sociale.
 
 
-    J'ai réalisé ma thèse à l'université Paris 1 Panthéon-Sorbonne sous la direction de la professeure Annie L. Cot, thèse que j'ai soutenue publiquement le 14 février 2014. Cette thèse, intitulée "l'approche expérimentale du J-PAL - un tournant épistémologique?" examine l'utilisation récente et de plus en plus massive des expériences de terrains randomisées en économie du développement et offre une analyse épistémologique des enjeux de cette dernière.
+    J'ai réalisé ma thèse à l'université Paris 1 Panthéon-Sorbonne sous la direction de la professeure Annie L. Cot, thèse que j'ai soutenue publiquement le 14 février 2014. Cette thèse, intitulée "l'approche expérimentale du J-PAL - un tournant épistémologique ?" examine l'utilisation récente et de plus en plus massive des expériences de terrains randomisées en économie du développement et offre une analyse épistémologique des enjeux de cette dernière.
 
 ############  Judith Favereau - en  #############
 
@@ -661,7 +661,7 @@
     sur les changements de préférences. Pour élaborer une telle théorie je mêle approche
     philosophique à un approche plus axiomatique telle qu'elle se retrouve en théorie de la
     décision. Afin de confronter ces recherches théoriques avec des données empiriques, je
-    projette également de développer mes compétences en machine learning, notamment les
+    projette également de développer mes compétences en *machine learning*, notamment les
     algorithmes de recommandation.
 
 
@@ -669,8 +669,8 @@
     avec mes recherches sur la formation des préférences. Le premier porte sur
     l'*unawareness* et la dynamique des croyances en générale. Le second sur la théorie des
     réseaux et la manière dont elle peut contribuer à construire une théorie des échanges
-    culturelles. Le troisième applique un modèle de manipulationdes croyances afin d'analyser
-    la décision d'un gouvernement de révéler ou non l'existence d'un menace terroriste.
+    culturelles. Le troisième applique un modèle de manipulation des croyances afin d'analyser
+    la décision d'un gouvernement de révéler ou non l'existence d'une menace terroriste.
 
 ############  Guillaume   #############
 
@@ -814,9 +814,9 @@
   twitter: "thomdelcey"
   free_text: >
     Mes recherches portent sur l'histoire du concept d'efficience des marchés,
-    une notion centrale en économie financière mais aussi extrêmement controversé.
+    une notion centrale en économie financière mais aussi extrêmement controversée.
     Mes travaux proposent une histoire de longue durée de l'efficience des marchés,
-    qui couvrent l'évolution de concept, et les communautés d'économistes associées,
+    qui couvre l'évolution de ce concept, et les communautés d'économistes associées,
     tout au long du XXème siècle. A travers cette analyse, mon objectif est de
     comprendre l'évolution de la pensée économique concernant les marchés financiers,
     leur fonctionnement et leur rôle dans la société.
@@ -876,7 +876,7 @@
   flatname: guilhem-lecouteux
   picture: "guilhem-lecouteux.jpg"
   lang: "fr"
-  status: "Maître de conférences en sciences économiques"
+  status: "Maître de conférences"
   statuscode: "mcf"
   institution: "GREDEG, Université Côte d'Azur"
   themes:
@@ -1077,7 +1077,7 @@
   flatname: dorian-jullien
   picture: "dorian-jullien.jpg"
   lang: "fr"
-  status: "Maître de conférence"
+  status: "Maître de conférences"
   statuscode: "mcf"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
@@ -1159,7 +1159,7 @@
 ############ Aurélien Goustmedt - en #############
 
 - firstname: Aurélien
-  surname: Goustmedt
+  surname: Goutsmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "en"
@@ -1227,7 +1227,7 @@
 ############ Aurélien Goustmedt - fr  #############
 
 - firstname: Aurélien
-  surname: Goustmedt
+  surname: Goutsmedt
   flatname: aurelien-goutsmedt
   picture: "aurelien-goutsmedt.jpg"
   lang: "fr"
@@ -1309,7 +1309,7 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "en"
-  status: "Assistant professor in economics"
+  status: "Associate professor"
   statuscode: "mcf"
   institution: "Université Paris Est Créteil, LIPHA"
   themes:
@@ -1343,7 +1343,7 @@
   flatname: francesco-sergi
   picture: "francesco-sergi.jpg"
   lang: "fr"
-  status: "Maître de conférence en économie"
+  status: "Maître de conférences"
   statuscode: "mcf"
   institution: "Université Paris Est Créteil, LIPHA"
   themes:
@@ -1400,11 +1400,11 @@
   twitter: "mvsbach"
   free_text: >
     I am an historian of economics interested especially in nineteenth century Indian Economics.
-    I am currently finishing my PhD in International Political Economy at King's College London.
+    I have completed my PhD in International Political Economy at King's College London.
     My thesis analyses how Indian economists constructed an idea of development at the turn of the nineteenth century.
 
 
-    I am also working on a project with Mary Morgan at LSE on how the UN measures development.
+    I am also working on a project with Mary Morgan (London School of Economics) on how the UN measures development.
 
 ############ Maria Bach - fr  #############
 
@@ -1434,12 +1434,12 @@
   contact: "mbach@aup.edu"
   twitter: "mvsbach"
   free_text: >
-    Je suis une historienne de la pensée économique intéressée en particlier par l'économie indienne du XIXe siècle.
-    Je termine actuellement ma thèse en Economie Politique Internationale au King's College de Londres.
+    Je suis une historienne de la pensée économique intéressée en particulier par l'économie indienne du XIXe siècle.
+    J'ai réalisé ma thèse en Economie Politique Internationale au King's College de Londres.
     Ma thèse analyse comment des économistes indiens ont construit l'idée de développement au tournant du XIXe siècle.
 
 
-    Je travaille par ailleurs sur un projet avec Mary Morgan à la LSE étudiant les manières dont les Nations Unies mesure le développement.
+    Je travaille par ailleurs sur un projet de recherche avec Mary Morgan (London School of Economics) étudiant les manières dont les Nations Unies mesurent le développement.
 
 ########## Nathanael Colin- fr #############
 
@@ -1890,7 +1890,7 @@
   flatname: cristian-frasser
   picture: "cristian-frasser.jpg"
   lang: "fr"
-  status: "Maitre de conférence"
+  status: "Maître de conférences"
   statuscode: "mcf"
   institution: "Universidad del Valle"
   themes:
