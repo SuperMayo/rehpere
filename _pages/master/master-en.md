@@ -5,6 +5,10 @@ permalink: en/master/
 lang: en
 ---
 
+<center>
+To register <i class="fas fa-hand-point-right"></i> <i> <a href="https://ecandidat.univ-paris1.fr/ecandidat/">REGISTRATION</a></i>.
+</center>
+
 # Presentation of the Master
 {: #presentation}
 
@@ -57,6 +61,9 @@ Research work, like writing a dissertation, is neither an innate skill nor a sol
 - Profiles
     + The M2 ESH is designed to accommodate a variety of profiles. While a majority of students have previously studied economics, students from other humanities disciplines are still very well represented (in particular politicians, philosophers and sociologists). Finally, the M2 is marked by its strong international character.
 
+# Registration
+
+To register <i class="fas fa-hand-point-right"></i> <i><a href="https://ecandidat.univ-paris1.fr/ecandidat/">REGISTRATION</a></i>
 
 # Courses
 

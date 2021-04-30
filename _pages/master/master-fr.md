@@ -5,6 +5,9 @@ permalink: /master/
 lang: fr
 ---
 
+<center>
+Pour s'inscrire <i class="fas fa-hand-point-right"></i> <i> <a href="https://ecandidat.univ-paris1.fr/ecandidat/">INSCRIPTION</a></i>.
+</center>
 
 # Presentation du Master
 {: #presentation}
@@ -61,3 +64,7 @@ Le travail de recherche, tout comme la rédaction d'un mémoire, n'est ni une co
 # Cours
 
 La liste des cours est disponible [ici](/cours).
+
+# Inscription
+
+Pour s'inscrire, <i class="fas fa-hand-point-right"></i> <i> <a href="https://ecandidat.univ-paris1.fr/ecandidat/">INSCRIPTION</a></i>.
