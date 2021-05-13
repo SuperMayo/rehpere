@@ -8,12 +8,18 @@ anchor: true
 ---
 
 <center>
-<i class="fas fa-table"></i> Paris, le 4, 5 et 6 janvier 2022.
+<i class="fas fa-table"></i> <b>Paris, le 4, 5 et 6 janvier 2022.</b>
 
 </center>
 
 
 <br>
+
+<div class="alert alert-primary" role="alert">
+<center>
+  Extension de la date de soumission des propositions : 15 juin 2021
+</center>
+</div>
 
 <center>
 <img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "90%" class = "center">
@@ -53,7 +59,7 @@ Ce colloque a pour objectif de faire le point sur les réflexions récentes conc
 
 <center>
 <p>Le colloque se tiendra à Paris, les <b>4, 5 et 6 janvier 2022</b>.</p>
-<p>Les propositions de contributions (de <b>600 to 800 words</b>) doivent être envoyées avant le <b>10 mai 2021</b> à Annie.Cot@univ-paris1.fr ou Dorian.Jullien@univ-paris1.fr</p>
+<p>Les propositions de contributions (de <b>600 to 800 words</b>) doivent être envoyées avant le <b>15 juin 2021</b> à Annie.Cot@univ-paris1.fr ou Dorian.Jullien@univ-paris1.fr</p>
 <p>Les réponses du Conseil Scientifique seront notifiées le  <b>12 juillet 2021</b></p>
 <p>Les contributions au colloque devront être envoyées avant le <b>1er décembre 2021</b></p>
 </center>
