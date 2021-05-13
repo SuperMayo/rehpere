@@ -7,10 +7,16 @@ lang: en
 anchor: true
 ---
 <center>
-<i class="fas fa-table"></i> Paris, January 4, 5 and 6, 2022.
+<i class="fas fa-table"></i> <b>Paris, January 4, 5 and 6, 2022. </b>
 </center>
 
 <br>
+
+<div class="alert alert-primary" role="alert">
+<center>
+  Deadline extension: June 15 2021
+</center>
+</div>
 
 <center>
 <img src="/assets/img/posts/boundary.jpg" alt="boundary" width = "90%" class = "center">
@@ -52,7 +58,7 @@ Finally, we shall welcome contributions that explore the changing internal bound
 
 <center>
 <p>The conference will be held in Paris on <b>January 4, 5 and 6, 2022</b>.</p>
-<p>Abstracts (from <b>600 to 800 words</b>) should be sent before <b>May 10, 2021</b> to Annie.Cot@univ-paris1.fr or Dorian.Jullien@univ-paris1.fr</p>
+<p>Abstracts (from <b>600 to 800 words</b>) should be sent before <b>June 15, 2021</b> to Annie.Cot@univ-paris1.fr or Dorian.Jullien@univ-paris1.fr</p>
 <p>The Scientific Council's answers will be notified on <b>July 12, 2021</b></p>
 <p>Contributions to the conference should be sent before <b>December 1, 2021</b></p>
 </center>
