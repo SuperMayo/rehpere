@@ -757,17 +757,14 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "en"
-  status: "PhD candidate"
+  status: "Ph.D in economics"
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
     - History of financial economics
     - Efficient market hypothesis
     - Information
-  authors:
-    - Holbrook Working
-    - Eugene Fama
-    - Paul Samuelson
+    - Regulation
   external:
     - name: "Université Paris 1 Panthéon-Sorbonne"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
@@ -775,7 +772,7 @@
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
       link: "/assets/pdf/CV_delcey.pdf"
-  contact: "thomas.delcey@univ-paris1.fr"
+  contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
     My research focuses on the history of the efficient market hypothesis,
@@ -792,17 +789,14 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "fr"
-  status: "Doctorant"
+  status: "Docteur en éconoomie"
   statuscode: "phd"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
     - Histoire de l'économie financière
     - Efficience des marchés financiers
     - Information
-  authors:
-    - Holbrook Working
-    - Eugene Fama
-    - Paul Samuelson
+    - Régulation
   external:
     - name: "Université Paris 1 Panthéon-Sorbonne"
       link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
@@ -810,7 +804,7 @@
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "C.V"
       link: "/assets/pdf/CV_delcey.pdf"
-  contact: "thomas.delcey@univ-paris1.fr"
+  contact: "thodelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
     Mes recherches portent sur l'histoire du concept d'efficience des marchés,
