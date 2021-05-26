@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-05-17
-ref: CEE-MATA-2021-05-17
+ref: CEE-DEKKER-2021-05-17
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _20 mail 2021_ à _18H_
