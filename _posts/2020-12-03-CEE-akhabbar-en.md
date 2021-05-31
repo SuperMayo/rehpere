@@ -14,4 +14,4 @@ anchor: false
 
 #### « ‘L'économie est-elle une science empirique?’ L'épistémologie économique de Wassily Leontief »
 
-about his book published at _ENS Editions_ in 2029, *Wassily Leontief et la science économique*.
+about his book published at _ENS Editions_ in 2019, *Wassily Leontief et la science économique*.
