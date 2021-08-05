@@ -8,12 +8,12 @@ layout: one-column
   <header class="post-header">
     <h1>{{ page.title }}</h1>
     <p class="font-italic text-primary">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <time class="dt-published text-muted" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% include date.html date= page.date %}
         {% if page.lang == 'fr' %}
-        {{ day }}{{ sup }} {{ month }} {{ year }}
+        Publié le {{ day }}{{ sup }} {{ month }} {{ year }}
         {% else %}
-        {{ month }} {{ year }}, {{ day }}{{ sup }}
+        Published on {{ month }} {{ year }}, {{ day }}{{ sup }}
         {% endif %}
       </time>
     </p>
