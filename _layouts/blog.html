@@ -11,13 +11,13 @@ paginate: 1
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     {{ page.date | date: date_format }}
-	<p class="font-italic">
+	<p class="font-italic text-muted">
         {% include date.html date=post.date %}
         {% if page.lang == 'fr' %}
-        	{{ day }}{{ sup }} {{ month }} {{ year }}
+        	Publié le {{ day }}{{ sup }} {{ month }} {{ year }}
         {% else %}
-			{{ month }} {{ year }}, {{ day }}{{ sup }}
-		{% endif %}
+					Published on {{ month }} {{ year }}, {{ day }}{{ sup }}
+				{% endif %}
 	</p>
 	<hr>
 	<div class="text-justify">
