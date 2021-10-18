@@ -15,4 +15,4 @@ anchor: true
 
 #### « La véritable économie est à faire »
 
-about his book [book*](https://classiques-garnier.com/les-lois-de-l-economie-selon-les-romanciers-du-xixe-siecle.html), *Les Lois de l’économie selon les romanciers du xixe siècle*, Classique Garnier Editions.
+about his book, *Les Lois de l’économie selon les romanciers du xixe siècle*, Classique Garnier Editions.

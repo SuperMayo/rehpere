@@ -13,8 +13,6 @@ anchor: true
 
 **Christophe Refait** (CERCLL, Université de Picardie)
 
-#### « Cournot, économie et philosophie »
-
 #### « La véritable économie est à faire »
 
-à propos de son ouvrage [book*](https://classiques-garnier.com/les-lois-de-l-economie-selon-les-romanciers-du-xixe-siecle.html), *Les Lois de l’économie selon les romanciers du xixe siècle*, publié aux Editions Classique Garnier.
+à propos de son ouvrage, *Les Lois de l’économie selon les romanciers du xixe siècle*, publié aux Editions Classique Garnier.
