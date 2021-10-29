@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-10-18
-ref: CEE-MARTIN-2021-10-18
+ref: CEE-REFAIT-2021-10-18
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _21 septembre 2021_ à _18h_
