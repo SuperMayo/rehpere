@@ -2,11 +2,7 @@
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-10-18
-<<<<<<< HEAD
-ref: CEE-REFAIT-2021-10-18
-=======
 ref: CEE-Refait-2021-10-18
->>>>>>> f8f68c1637326adc9d3dc24536893256dd4da00d
 lang: en
 anchor: false
 ---

@@ -1154,7 +1154,7 @@
   lang: "en"
   status: "Post-Doctorate"
   statuscode: "pd"
-  institution: "Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec à Montréal et Université de Sherbrooke"
+  institution: "UCLouvain, ISPOLE; FNRS"
   themes:
     - Macroeconomics
     - Phillips Curve
@@ -1174,11 +1174,11 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
+      link: "https://aurelien-goutsmedt.com/media/CV_en_Goutsmedt.pdf"
     - name: "github"
       link: "https://github.com/agoutsmedt"
 
-  contact: "agoutsmedt@hotmail.fr"
+  contact: "aurelien.goutsmedt@uclouvain.be"
   twitter: "AGoutsmedt"
   free_text: >
     My research in the past focused on the transformations of macroeconomics in the 1970s and what is generally
@@ -1222,7 +1222,7 @@
   lang: "fr"
   status: "Post Doctorant"
   statuscode: "pd"
-  institution: "Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Université du Québec à Montréal et Université de Sherbrooke"
+  institution: "UCLouvain, ISPOLE; FNRS"
   themes:
     - Macroéconomie
     - Courbe de Phillips
@@ -1242,12 +1242,12 @@
     - name: "Orcid"
       link: "http://orcid.org/0000-0002-3788-7237"
     - name: "CV"
-      link: "https://mega.nz/file/iOgUlbJD#xNrmGYqseedQZgFc1fes0vaHZJn3IxEnfV6qrHpM5Iw"
+      link: "https://aurelien-goutsmedt.com/media/CV_fr_Goutsmedt.pdf"
     - name: "github"
       link: "https://github.com/agoutsmedt"
 
 
-  contact: "agoutsmedt@hotmail.fr"
+  contact: "aurelien.goutsmedt@uclouvain.be"
   twitter: "AGoutsmedt"
   free_text: >
     Lors de ma thèse, je me suis intéressé aux transformations de la macroéconomie dans les années 1970 et ce que l'on a appelé
