@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prix ESHET 2021"
-date: 2021-03-31
+date: 2021-09-31
 ref: prix-ESHET
 lang: fr
 anchor: true
