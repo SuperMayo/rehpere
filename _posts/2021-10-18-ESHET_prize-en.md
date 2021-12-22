@@ -4,7 +4,7 @@ title: "2021 ESHET Awards"
 date: 2021-09-31
 ref: ESHET-prize
 lang: en
-anchor: true
+anchor: false
 ---
 
 

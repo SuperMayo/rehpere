@@ -4,7 +4,7 @@ title: "Prix ESHET 2021"
 date: 2021-09-31
 ref: prix-ESHET
 lang: fr
-anchor: true
+anchor: false
 ---
 <img src="/assets/img/posts/logo_eshet.png" alt="ESHET">
 
