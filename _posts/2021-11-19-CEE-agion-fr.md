@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-11-19
-ref: CEE-BETRAND-2021-11-19
+ref: CEE-AGHION-2021-11-19
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _2 décembre_ à _18h_

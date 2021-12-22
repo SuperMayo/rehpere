@@ -4,7 +4,7 @@ title: "HDR de Dorian Jullien"
 date: 2021-10-18
 ref: dorian-HDR
 lang: fr
-anchor: true
+anchor: false
 ---
 
 Félicitations à [Dorian Jullien](/dorian-jullien) pour avoir défendu avec succès son *Habilitation à diriger des recherches* le 7 septembre 2021 à la Maison des Sciences Economiques, à Paris.
