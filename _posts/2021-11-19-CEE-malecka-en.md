@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-11-19
 ref: CEE-BERTRAND-2021-11-19
 lang: en
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _25 novembre_ à _18h_
