@@ -8,7 +8,7 @@ anchor: true
 ---
 
 <center>
-<img src="/assets/img/posts/book_judith.jpg" alt="book_judith" width = "50%" class = "center">
+<img src="/assets/img/posts/book_judith.jpg" alt="book_judith" width = "35%" class = "center">
 </center>
 
 <br>
