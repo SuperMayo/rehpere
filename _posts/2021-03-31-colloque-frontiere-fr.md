@@ -2,9 +2,9 @@
 layout: post
 title: "Conférence - Les frontières de l’économie : déplacements récents"
 date: 2021-03-31
-ref: colloque-fontiere
+ref: colloque-frontiere
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <center>

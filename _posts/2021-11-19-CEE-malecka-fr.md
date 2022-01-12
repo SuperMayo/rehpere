@@ -2,7 +2,7 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-11-19
-ref: CEE-BETRAND-2021-11-19
+ref: CEE-MALECKA-2021-11-19
 lang: fr
 anchor: false
 ---

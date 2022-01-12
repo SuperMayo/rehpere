@@ -7,11 +7,11 @@ lang: en
 anchor: true
 ---
 
-<i class="fas fa-table"></i> Date : _December 16_ à _18h_
+<i class="fas fa-table"></i> Date : _December 16_ at _6pm_
 
-<i class="fas fa-map-marked"></i> Venue : _Videoconference and in person at the Maison des Sciences Économiques, salle du 6e étage_
+<i class="fas fa-map-marked"></i> Venue : _Videoconference and in person at the Maison des Sciences Économiques, 6th floor_
 
-<i class="fas fa-video"></i> [Lien Zoom]( https://zoom.univ-paris1.fr/j/96444769746?pwd=Y05YU21KZWtYb1ZBMUhjWFBoeWhQZz09)
+<i class="fas fa-video"></i> [Zoom Link]( https://zoom.univ-paris1.fr/j/96444769746?pwd=Y05YU21KZWtYb1ZBMUhjWFBoeWhQZz09)
 
 **David TEIRA** (UFR de Philosophie, Sorbonne Université)
 
