@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2021-12-15
 ref: CEE-TEIRA-2021-12-15
 lang: en
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _December 16_ at _6pm_
