@@ -14,7 +14,7 @@ anchor: true
 </div>
 
 <center>
-<img src="/assets/img/posts/affiche_conf_frontieres.jpg" alt="boundary" width = "90%" class = "center">
+<img src="/assets/img/posts/affiche_conf_frontieres.jpg" alt="boundary" width = "50%" class = "center">
 </center>
 
 <br>
