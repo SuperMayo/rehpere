@@ -11,7 +11,7 @@ anchor: true
 
 <i class="fas fa-map-marked"></i> Venue : _Videoconference and in person at the Maison des Sciences Économiques, 6th floor_
 
-<i class="fas fa-video"></i> [Zoom Link]( https://zoom.univ-paris1.fr/j/96444769746?pwd=Y05YU21KZWtYb1ZBMUhjWFBoeWhQZz09)
+<i class="fas fa-video"></i> [Zoom Link](https://zoom.univ-paris1.fr/j/99249271799?pwd=Um1xUzZEMnMySFhqRFlZU3dsQW03dz09)
 
 **Eric Monnet** (PSE, EHESS)
 
