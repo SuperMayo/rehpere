@@ -7,9 +7,9 @@ lang: fr
 anchor: true
 ---
 
-<i class="fas fa-table"></i> Date : _February 3_ at _6pm_
+<i class="fas fa-table"></i> Date : _3 Février_ at _6pm_
 
-<i class="fas fa-map-marked"></i> Venue : _Videoconférence et présentiel à la Maison des Sciences Économiques, salle du 6e étager_
+<i class="fas fa-map-marked"></i> Venue : _Videoconférence et présentiel à la Maison des Sciences Économiques, salle du 6e étage_
 
 <i class="fas fa-video"></i> [Zoom Link](https://zoom.univ-paris1.fr/j/91429767940?pwd=ZjdTMmhnNDNXLzQwTXYvczREeTBKQT09)
 
