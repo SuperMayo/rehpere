@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2022-01-18
 ref: CEE-monnet-2022-01-27
 lang: en
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _January 27_ at _6pm_
