@@ -3,7 +3,7 @@ layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2022-02-01
 ref: CEE-monnet-2022-02-01
-lang: en
+lang: fr
 anchor: true
 ---
 
