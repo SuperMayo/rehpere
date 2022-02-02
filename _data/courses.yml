@@ -263,8 +263,6 @@
   course_type_id: 1
   semester: 3
   prof_name: Jean-Sébastien Lenfant, Goulven Rubin
-  prof_id:
-    - jean-lenfant
   lang: 'fr'
   description: >
     Le séminaire de méthodes aborde différentes dimensions du travail de recherche. Il permet d’appréhender les questions d’historiographie, d’édition critique, de gestion des ressources documentaires, de présentation du mémoire, et propose une première prise en main du logiciel de traitement de données R.
