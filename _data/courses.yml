@@ -504,7 +504,7 @@
     TBA
 
 - course_name: "Visualisations des données avec R"
-  course_id: visu-R
+  course_id: visualisation-r
   course_master: "Master Histoire de Paris 1, parcours HSNQ"
   lang: "fr"
   semester: 3
@@ -513,7 +513,7 @@
     TBA
 
 - course_name: "Data Visualisations with R"
-  course_id: visu-R
+  course_id: visualisation-r
   course_master: "Master Histoire of Paris 1, parcours HSNQ"
   lang: "en"
   semester: 3
@@ -818,7 +818,7 @@
     TBA
 
 - course_name: "Histoire environmentale II: Matières et énergies XIXe-XXIe"
-  course_id: environmental-history-II
+  course_id: environmental-history
   course_master: "M2 Etudes environmentales, EHESS"
   lang: "fr"
   semester: 4
@@ -827,7 +827,7 @@
     TBA
 
 - course_name: "Environmental History II"
-  course_id: environmental-history-II
+  course_id: environmental-history
   course_master: "M2 Etudes environmentales, EHESS"
   lang: "en"
   semester: 4
