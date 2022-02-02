@@ -3,24 +3,59 @@ layout: one-column
 ---
 
 <div class="text-center p-1">
-	<h1> {{ site.courses[page.lang].title}}</h1>
+	<h1> {{ site.courses[page.lang].obligatoire}}</h1>
 </div>
 
-{% for sem in (1..2) %}
-{% assign courses = site.data.courses | where:"lang", page.lang | where:"semester", sem | sort:"course_name" %}
-	<h3>{{ site.courses[page.lang].semester}} {{sem}}</h3>
+{% for id in (1..2) %}
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"course_type_id", id | sort:"course_rank" %}
 
+	{% if id == 1 %}
 	<ul class="fa-ul">
 		{% for course in courses %}
 		<li >
 			<i class="fa-li fa fa-angle-right"></i>
-					<h5>{{ course.prof_name }}</h5>
+					<h4><a href="{{course.course_id}}" class="font-italic">
+									{{ course.course_name }}
+									{% if course.semester.size == 2 %}
+										(S{{course.semester[0]}} & S{{course.semester[1]}})
+									{% else %}
+										(S{{course.semester}})
+									{% endif %}
+								</a></h4>
 				<ul>
-                    <li><a href="{{course.course_id}}" class="font-italic">
-                            {{ course.course_name }}
-					</a></li>
+                    <li>{{ course.prof_name }}</li>
 				</ul>
 		</li>
 		{% endfor %}
 	</ul>
+	{% endif %}
+{% endfor %}
+
+<div class="text-center p-1">
+	<h1> {{ site.courses[page.lang].optionnel}}</h1>
+</div>
+
+{% for id in (1..2) %}
+{% assign courses = site.data.courses | where:"lang", page.lang | where:"course_type_id", id | sort:"course_name" %}
+
+	{% if id == 2 %}
+	<ul class="fa-ul">
+		{% for course in courses %}
+		<li >
+			<i class="fa-li fa fa-angle-right"></i>
+					<h4><a href="{{course.course_id}}" class="font-italic">
+									{{ course.course_name }}
+									{% if course.semester.size == 2 %}
+										(S{{course.semester[0]}} & S{{course.semester[1]}})
+									{% else %}
+										(S{{course.semester}})
+									{% endif %}
+								</a></h4>
+				<ul>
+                    <li>{{ course.prof_name }}</li>
+				</ul>
+		</li>
+		{% endfor %}
+	</ul>
+	{% endif %}
 {% endfor %}

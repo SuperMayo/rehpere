@@ -4,14 +4,14 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2022-01-18
 ref: CEE-monnet-2022-01-27
 lang: fr
-anchor: true
+anchor: false
 ---
 
-<i class="fas fa-table"></i> Date : _7 janvier_ à _18h_
+<i class="fas fa-table"></i> Date : _27 janvier_ à _18h_
 
 <i class="fas fa-map-marked"></i> Lieu : _Videoconférence et présentiel à la Maison des Sciences Économiques, salle du 6e étage_
 
-<i class="fas fa-video"></i> [Lien Zoom]( https://zoom.univ-paris1.fr/j/96444769746?pwd=Y05YU21KZWtYb1ZBMUhjWFBoeWhQZz099)
+<i class="fas fa-video"></i> [Lien Zoom](https://zoom.univ-paris1.fr/j/99249271799?pwd=Um1xUzZEMnMySFhqRFlZU3dsQW03dz09)
 
 **Eric Monnet** (PSE, EHESS)
 

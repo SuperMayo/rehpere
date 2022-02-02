@@ -1,42 +1,4 @@
-
-histoire-idees-politiques:
-  bib: |
-    - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
-    - Roger Chartier , Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000
-    - Mathieu Hauchecorne, « Le “professeur Rawls” et le “Nobel des pauvres”. La politisation différenciée des théories de la justice de John Rawls et d’Amartya Sen dans les années 90 en France », Actes de la recherche en sciences sociales, 2009-1, p. 166-177
-    - Frédérique Matonti « Plaidoyer pour une histoire sociale des idées politiques », Revue d’histoire moderne e& contemporaine, 59-4 bis de la RHMC, « Regards sur l'histoire intellectuelle », 2012
-    - Timothy Tackett dans Par la volonté du peuple, Paris, Albin Michel, coll. « L’évolution de l’humanité », 1997 [1996]
-    - Quentin Skinner, Visions of politics, Vol, 1. Regarding Method, Cambridge University Press, 2002
-    - Quentin Skinner, La Liberté avant le libéralisme, Paris, Seuil, 2000
-    - Arnault Skornicki et Jérôme Tournadre, La nouvelle histoire des idées politiques, Paris, La Découverte, Repères, 2015.
-
-economie-comportementale:
-  bib: |
-    - Ariely, D. C’est (vraiment?) moi qui décide, Paris : Flammarion (2008).
-    - Camerer, C. F. Behavioral Game Theory: Experiments in Strategic Interaction, Princeton: Princeton University Press (2003).
-    - Camerer, C.F., Loewenstein, G. and M. Rabin (eds.) Advances in Behavioral Economics, Princeton: Princeton University Press (2004).
-    - Gigerenzer, G. and R. Selten (eds.) Bounded Rationality: the adaptive toolbox, Cambridge, Mass: MIT Press (2001).
-    - Gironde, S. La neuroéconomie, Paris: Plon (2008).
-    - Glimcher, P.W. Decisions, Uncertainty, and the Brain: the science of neuroeconomics, Cambridge, Mass: MIT Press (2003).
-    - Glimcher, P.W., Camerer, C.F., Fehr, E. and R.A. Poldrack (eds.) Neuroeconomics: Decision Making in the Brain, Amsterdam: Elsevier (2009).
-    - Kahneman, D. , Slovic, P. and A. Tversky (eds.) Judgment under Uncertainty: Heuristics and Biases, Cambridge: Cambridge University Press (1982).
-    - Kahneman, D. and A. Tversky “Prospect theory: an analysis of decisions under risk”, Econometrica 47 (1979), 263-291.
-    - Kahneman, D. and A. Tversky (eds.) Choices, Values and Frames, New York: Cambridge University Press (2000).
-    - Kahneman, D. and A. Tversky “Maps of Bounded Rationality: Psychology for Behavioral Economics”, American 
-    - Economic Review 93 (2003), 1449-1475.
-    - Kahneman, D. and A. Tversky, Thinking Fast and Slow, New York: Farrar, Straus and Giroux (2011).
-    - Lehrer, J. Faire le Bon Choix: comment notre cerveau prend ses décisions, Paris: Robert Laffont (2010)
-    - Lévy-Garboua, L. “Perception séquentielle et rationalité limitée”, Journal des Economistes et des Etudes Humaines 14 (2004), 63-77.
-    - Lévy-Garboua, L., Meidinger, C. and B. Rapoport “The Formation of Social Preferences: Some Lessons from 
-    - Psychology and Biology”, in Handbook on the Economics of Giving, Altruism and Reciprocity (Vol.1), S.C. Kolm and J. Mercier-Ythier, Eds., Amsterdam: Elsevier, (2006), 545-613.
-    - Machina, M. “Choice under uncertainty: problems solved and unsolved”, Journal of Economic Perspectives 1 (1987), 121-154.
-    - Rabin, M. “Psychology and Economics”, Journal of Economic Literature 36 (1998), 11-46.
-    - Thaler, R. and C.R. Sunstein Nudge: Improving Decisions About Health, Wealth, and Happiness, Penguin Books (2008, Revised and expanded edition, 2009).
-    - Thaler, R. The winner’s curse: Paradoxes and anomalies of economic life, Princeton: Princeton University Press (1992).
-    - Schmidt, C. Neuroéconomie, Paris: Editions Odile Jacob (2010).
-    - Smith, V.L. “Constructivist and Ecological Rationality in Economics”, American Economic Review 93 (2003), 465-508.
-    
-epistemo-1-2:
+epistemo-1:
   bib: |
     - Amariglio, J., S. Cullenberg, D. Ruccio, eds. 2001. Post-Modernism, Economics and Knowledge. London: Routledge.
     - Daniel Andler, Anne Fagot-Largeault et Bertrand Saint-Sernin. 2002. Philosophie des sciences, 2 vols. Paris: Gallimard (Folio essais).
@@ -115,7 +77,6 @@ epistemo-1-2:
     - Isabelle Stengers, ed. 1987. D'une sciences à l'autre. Des concepts nomades. Paris : Le Seuil.
     - Pierre Wagner, ed. 2002. Les philosophes et la science. Paris : Gallimard.
     - E. Roy Weintraub. 2002. How Economics Became a Mathematical Science. Durham, NC: Duke University Press.ssais)
-    
     - Antoine d’Autume et Jean Cartelier (dir.), L’économie devient-elle une science dure ? Paris, Economica, 1995.
     - Roger Backhouse et alii (eds), Economic and methodology, Macmillan Press, 1998.
     - Nicolas Bouleau, La modélisation critique, Paris : coédition QUAE et NSS, 2014.
@@ -155,7 +116,148 @@ epistemo-1-2:
     - John Searle, La construction de la réalité sociale, tr. fr., Paris, Gallimard, 1998.
     - Bruno Ventelou, Au-delà de la rareté, Paris, A. Michel, 2001
 
-marx-orlean: 
+epistemo-2:
+  bib: |
+    - Agassi, Joseph. 1975, Individualism institutionnel (traduit par Hervé Charmettant et Julien Reysz, « Individualisme institutionnel », Œconomia, 2021, 2(4): 487-501.)
+    - Davis, John B. 2018. Agent-Based Modeling’s Open Methodology Approach: Simulation, Reflexivity, and Abduction, Œconomia, 8(4): 509-529.
+    - Friedman, Milton. 1953. Essays in positive economics. The University of Chicago Press
+    - Fullbrook, Edward. 2009. Ontology and Economics. Tony Lawson and his critics. Routledge.
+    - Hacking, Ian. 2000. The social construction of what ? Harvard University Press. (trad. Française : Entre science et réalité. La construction sociale de quoi ? La Découverte, 2008)
+    - Hausman, Daniel M. (1999). Ontology and methodology in economics. Economics & Philosophy, 15(2): 283-288.
+    - Hédoin, Cyril. 2012. Veblen et son actualité : sélection multi-niveaux et darwinisme généralisé. Œconomia, 2(2): 179-207.
+    - Herrmann-Pillath, C. 2015. Energy, growth, and evolution: Towards a naturalistic ontology of economics. Ecological Economics, 119, 432-442.
+    - Hodgson, Geoffrey M. 2002. Darwinism in economics: from analogy to ontology. Journal of evolutionary economics, 12(3): 259-281.
+    - Lallement, Jérôme 2017. Individu et société selon Walras. Revue de philosophie économique, 18(1): 57-89.
+    - Mäki, Uskali (Ed.). 2001. The economic world view: Studies in the ontology of economics. Cambridge University Press.
+    - Mäki, Uskali. 2001. Economic ontology: what? why? how. In The economic world view: Studies in the ontology of economics, 3-14. Cambridge university press
+    - Mongin, Philippe. 1999. La méthodologie économique au XXe siècle. Les controverses en théorie de l'entreprise et la théorie des préférences révélées.
+    - Robbins, Lionel. [1932] 2007. An essay on the nature and significance of economic science. Ludwig von Mises Institute.
+    - Samuelson, Paul A. [1947] 1983. Foundations of economic analysis. Enlarged edition. Harvard University Press
+    - Samuelson, Paul A. 1938. A note on the pure theory of consumer's behaviour. Economica, 5(17): 61-71
+    - Schmidt, Christian, et Pierre Livet. 2014. Comprendre nos interactions sociales. Une perspective neuroéconomique. Paris : Odile Jacob.
+    - Searle, John. 1997. The construction of social reality. Free Press. (trad. Française : La construction de la réalité sociale, 1998, Gallimard)
+    - Staddon, John. 2016. Theoretical behaviorism, economic theory, and choice. History of Political Economy, 48(suppl.): 316-331.
+    - Touffut, Jean-Philippe (dir.) 2010. Changement de climat, changement d’économie ? Paris : Albin Michel
+    - Vianna Franco, Marco P. 2020. The Factual Nature of Resource Flow Accounting in the Calculation in Kind of the “Other Austrian Economics”. Œconomia, 10(3): 453-472.
+    - Vromen, J. 2004. Conjectural revisionary economic ontology: Outline of an ambitious research agenda for evolutionary economics. Journal of Economic Methodology, 11(2) : 213-247.
+
+
+eco-socio:
+  bib: |
+    - Becker G., (1976) - “The Economic Approach to Human Behavior”, in The Economic Approach to Human Behavior, University of Chicago Press, pp.1-13.
+    - Becker G., Murphy K. (2000), Social Economics, Cambridge MA, Belknap Press/Harvard University Press.
+    - Bourdieu P. (1997), "Le champ économique", Actes de la Recherche en Sciences Sociales, vol.119, n°1, pp. 48-66
+    - Fourcade M. (2009), Economists and Societies, Discipline and Profession in the United-States, Britain and France, 1890s to 1990s, Princeton, Princeton University Press.
+    - Fourcade M., Ollion E., Algan Y. (2015), “The Superiority of Economists”, Journal of Economic Perspectives, 29(1), Winter, p.89-114.
+    - Gautié J. (2007), « L’économie à ses frontières (psychologie, sociologie) », Revue économique, 58(4), p.927-939.
+    - Granovetter M. (1985). - « Economic Action and Social Structure, the Problem of Embededness », American Journal of Sociology, 91(3), pp.481-510, (traduit dans Granovetter M., Le marché autrement, Desclée de Brouwer, 2001).
+    - Smelser N., Swedberg R. (2005). Handbook of Economic Sociology, Princeton University Press.
+    - Steiner P. (1990). La sociologie économique, La Découverte.
+    - Swedberg R. (1990). Economics and Sociology, redefining their boundaries, conversation with economists and sociologists, Russell Sage Foundation.
+
+tcr:
+  bib: |
+    - Amadae, S. M. (2003). Rationalizing capitalist democracy: The cold war origins of rational choice liberalism. University of Chicago Press.
+    - Erickson, P., Klein, J. L., Daston, L., Lemov, R., Sturm, T., & Gordin, M. D. (2013). How reason almost lost its mind. University of Chicago Press.
+    - Giocoli, N. (2003). Modeling rational agents: From interwar economics to early modern game theory. Edward Elgar Publishing.
+    - Hands, D. W. (2014). Paul Samuelson and revealed preference theory. History of political economy, 46(1), 85-116.
+    - Mirowski, P. (2002). Machine dreams: Economics becomes a cyborg science. Cambridge University Press.
+    - Hands, D. W. (2017). The road to rationalisation: A history of “Where the Empirical Lives”(or has lived) in consumer choice theory. The European Journal of the History of Economic Thought, 24(3), 555-588.
+    - Hands, D. W. (2020). Libertarian paternalism: taking Econs seriously. International Review of Economics, 67(4), 419-441.
+    - Herfeld, C. (2017). Between mathematical formalism, normative choice rules, and the behavioural sciences: The emergence of rational choice theories in the late 1940s and early 1950s. The European Journal of the History of Economic Thought, 24(6), 1277-1317
+    - Herfeld, C. (2018). From theories of human behavior to rules of rational choice: tracing a normative turn at the Cowles Commission, 1943–54. History of Political Economy, 50(1), 1-48.
+    - Herfeld, C. (2020). The diversity of rational choice theory: A review note. Topoi, 39(2), 329-347.
+    - Herfeld, C. (2021). Revisiting the criticisms of rational choice theories. Philosophy Compass, e12774.
+    - Małecka, M. (2020). The normative decision theory in economics: a philosophy of science perspective. The case of the expected utility theory. Journal of Economic Methodology, 27(1), 36-50.
+    - Moscati, I. (2021). On the recent philosophy of decision theory. Journal of Economic Methodology, 28(1), 98-106.
+
+
+
+eco-normative-1945:
+  bib: |
+    - Arrow, K. J. 1951. Social Choice and Individual Values. John Wiley & Sons, New York.
+    - Aslanbeigui, N. et S. G. Medema 1998. Beyond the Dark Clouds,  Pigou and Coase on Social Cost. History of Political Economy, 30, 4, pp. 601-625.
+    - Backhouse, R. A History of Modern Economic Analysis. Basil Blackwell, Oxford, 1985.
+    - Baujard, A. Welfare economics. In Handbook of the History of Economic Analysis, G. Faccarello and H. D. Kurz, Eds., vol. 3. Ch. 41. Edward Elgar Publishing Limited, Cheltenham (U.K.), 2016.
+    - Cherrier, B. et J-B Fleury, Economists’ interest in collective decision after World War II, a History, Mimeo.
+    - Chipman, J. S. et Moore, J. C. 1978. The new welfare economics, 1939-1974. International Economic Review 19, 3, pp. 547-584.
+    - Cooter, R. et Rappoport, P. 1984. Were the ordinalists wrong about welfare economics. Journal of Economic Literature 22, 2, pp. 507-530. Reproduit in M. Blaug ed., A. C. Pigou, Edward Elgar Publishing Limited, chap. 12, pp. 150-173, 1992.
+    - Faccarello, G et R. Sturn Eds. Studies in the history of Public Economics. Routledge, London 2010.
+    - Fleurbaey, M. 1996. Théories économiques de la justice. Economie et Statistiques Avancées. Economica.
+    - Fleurbaey, M., and Mongin, P. The new of the death of welfare economics is greatly exagerated. Social Choice and Welfare 25 (2005), 381-418.
+    - Hayek, F.A., 1995. Droit, Législation et Liberté (trad. fr. de Law, Legislation and Liberty, 3 vol., 1973, 1976, 1979), P.U.F., Paris.
+    - Hennipman, P. et Mishan, E. J. 1995, Welfare economics,  The Hennipman - Mishan debate. In Welfare Economics and the Theory of Economic Policy, D. walker, A. Heertje, et H. van den Doel, Eds. Edward Edgar Publishing Limited, Aldershot, ch. 3, pp. 87-123.
+    - Hicks, J. R. Essays in World economics. Preface –and a Manifesto, Oxford,  Oxford University Press, Clarendon Press (1959).
+    - Hicks, J. R. The scope and the status of welfare economics. Oxford economic papers (1975), 307-326.
+    - Hovenkamp, H. 1995. The Economic Analysis of Law in the United States, A Brief Historical Survey. Cambridge Journal of Economics, vol. 19, n°2, pp. 331-352.
+    - Kaplow, L et S. Shavell, 2006. Fairness vs. Welfare, Harvard University Press, Cambridge.
+    - Kolm, S.-C. An historical introduction to normative economics. Social Choice and Welfare 17, 4 (august 1999), 707-738.
+    - Kolm, S.-C. History of public economics, The historical french school. European Journal of the History of Economic Thought 17, 4 (2010), 687-718.
+    - Little, I. 1950. A critique of welfare economics, Oxford University Press.
+    - Medema, S. G. et N. Mercuro 1997. Economics and the Law, From Posner to Post-Modernism. Princeton University Press, Princeton.
+    - Mishan, E. J. 1981. Economic efficiency and social welfare. Selected essays on fundamental aspects of the economic theory of social welfare. G. Allen and Unwin, London.
+    - Mongin, P. A concept of progress for normative economics, Economics and Philosophy, 22, 2006, p. 19-54.
+    - Myint, H. Theories of welfare economics. Augustus M. Kelley, Bookseller, New York, 1965. Published for The London School of Economics and Political Science.
+    - Nishizawa, T., Dardi, M., and Caldari, K Eds. Aspects of the history of welfare economics. History of Economic Ideas, 1 (2014).
+    - Pattanaik, P. K. 1994, Some non-welfaristic issues in welfare economics. In Welfare Economics, B. Dutta, Ed. Oxford University Press, pp. 197-248.
+    - Posner, R.A. 1980. The Ethical and Political Basis of the Efficiency Norm in Common Law Adjudication. Hofstra Law Review, 8, 3, pp. 487-507.
+    - Posner, R.A., 1979. Utilitarianism, Economics, and Legal Theory. Journal of Legal Studies, 8, 1, pp. 103-140.
+    - Salles, M. ed. The history of social choice. Soc Choice Welfare (2005) 25(2)
+    - Samuelson, P. A. 1947. Foundations of Economic Analysis. Harvard University Press, Cambridge.
+    - Sen, A. K. 1970. Collective Choice and Social Welfare. Holden-Day, Inc., San Fransicso.
+    - Sen, A. K. 1979. Personal utilities and public judgements, Or what's wrong with welfare economics ? The Economic Journal 89, 355, pp. 537-558.
+    - Sen, A. K. 1985. Well-being, agency and freedom, The Dewey Lectures 1984. The Journal of Philosophy 72, 4, pp. 169-221.
+    - Sunstein, C. (ed.), 2000. Behavioral Law and Economics. Cambridge University Press, Cambridge.
+    - Suzumura, K. An interview with Paul Samuelson, welfare economics, old and new, and social choice theory. Social Choice and Welfare 25, 2-3 (2005), 327-356.
+
+    Other suggesting readings:
+      - Douglas, E. Science, Policy, and the value-free ideal. University of Pittsburgh Press, Pittsburgh, Pa., 2009.
+      - Douglas, H. Border skirmishes between science and policy: Autonomy, responsibility, and values. In Science, Values, and Objectivity. University of Pittsburgh Press, 2004, ch. 11, pp. 220-244.
+      - Longino, H. E. How values can be good for science. In Science, Values, and Objectivity, P. Machamer and G. Wolters, Eds. Univ. of Pittsburgh Press, Pittsburgh, 2004, ch. 7, pp. 127-142.
+      - Mongin, Philippe. 2003. L'axiomatisation et les théories économiques. Revue Economique 54, 1, pp.  99-138.
+      - Mongin, Philippe. Value judgments and value neutrality in economics. Economica 72 (2006), 257–286.
+      - Mongin, Philippe. Robbins and the separation of economics and ethics. Cowles Foundation Working Papers, 2008.
+      - Robbins, Lionel. 1932. An essay on the nature and significance of Economic Science, 3ème ed. Macmillan, London.
+
+
+histoire-idees-politiques:
+  bib: |
+    - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
+    - Roger Chartier , Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000
+    - Mathieu Hauchecorne, « Le “professeur Rawls” et le “Nobel des pauvres”. La politisation différenciée des théories de la justice de John Rawls et d’Amartya Sen dans les années 90 en France », Actes de la recherche en sciences sociales, 2009-1, p. 166-177
+    - Frédérique Matonti « Plaidoyer pour une histoire sociale des idées politiques », Revue d’histoire moderne e& contemporaine, 59-4 bis de la RHMC, « Regards sur l'histoire intellectuelle », 2012
+    - Timothy Tackett dans Par la volonté du peuple, Paris, Albin Michel, coll. « L’évolution de l’humanité », 1997 [1996]
+    - Quentin Skinner, Visions of politics, Vol, 1. Regarding Method, Cambridge University Press, 2002
+    - Quentin Skinner, La Liberté avant le libéralisme, Paris, Seuil, 2000
+    - Arnault Skornicki et Jérôme Tournadre, La nouvelle histoire des idées politiques, Paris, La Découverte, Repères, 2015.
+
+economie-comportementale:
+  bib: |
+    - Ariely, D. C’est (vraiment?) moi qui décide, Paris : Flammarion (2008).
+    - Camerer, C. F. Behavioral Game Theory: Experiments in Strategic Interaction, Princeton: Princeton University Press (2003).
+    - Camerer, C.F., Loewenstein, G. and M. Rabin (eds.) Advances in Behavioral Economics, Princeton: Princeton University Press (2004).
+    - Gigerenzer, G. and R. Selten (eds.) Bounded Rationality: the adaptive toolbox, Cambridge, Mass: MIT Press (2001).
+    - Gironde, S. La neuroéconomie, Paris: Plon (2008).
+    - Glimcher, P.W. Decisions, Uncertainty, and the Brain: the science of neuroeconomics, Cambridge, Mass: MIT Press (2003).
+    - Glimcher, P.W., Camerer, C.F., Fehr, E. and R.A. Poldrack (eds.) Neuroeconomics: Decision Making in the Brain, Amsterdam: Elsevier (2009).
+    - Kahneman, D. , Slovic, P. and A. Tversky (eds.) Judgment under Uncertainty: Heuristics and Biases, Cambridge: Cambridge University Press (1982).
+    - Kahneman, D. and A. Tversky “Prospect theory: an analysis of decisions under risk”, Econometrica 47 (1979), 263-291.
+    - Kahneman, D. and A. Tversky (eds.) Choices, Values and Frames, New York: Cambridge University Press (2000).
+    - Kahneman, D. and A. Tversky “Maps of Bounded Rationality: Psychology for Behavioral Economics”, American
+    - Economic Review 93 (2003), 1449-1475.
+    - Kahneman, D. and A. Tversky, Thinking Fast and Slow, New York: Farrar, Straus and Giroux (2011).
+    - Lehrer, J. Faire le Bon Choix: comment notre cerveau prend ses décisions, Paris: Robert Laffont (2010)
+    - Lévy-Garboua, L. “Perception séquentielle et rationalité limitée”, Journal des Economistes et des Etudes Humaines 14 (2004), 63-77.
+    - Lévy-Garboua, L., Meidinger, C. and B. Rapoport “The Formation of Social Preferences: Some Lessons from
+    - Psychology and Biology”, in Handbook on the Economics of Giving, Altruism and Reciprocity (Vol.1), S.C. Kolm and J. Mercier-Ythier, Eds., Amsterdam: Elsevier, (2006), 545-613.
+    - Machina, M. “Choice under uncertainty: problems solved and unsolved”, Journal of Economic Perspectives 1 (1987), 121-154.
+    - Rabin, M. “Psychology and Economics”, Journal of Economic Literature 36 (1998), 11-46.
+    - Thaler, R. and C.R. Sunstein Nudge: Improving Decisions About Health, Wealth, and Happiness, Penguin Books (2008, Revised and expanded edition, 2009).
+    - Thaler, R. The winner’s curse: Paradoxes and anomalies of economic life, Princeton: Princeton University Press (1992).
+    - Schmidt, C. Neuroéconomie, Paris: Editions Odile Jacob (2010).
+    - Smith, V.L. “Constructivist and Ecological Rationality in Economics”, American Economic Review 93 (2003), 465-508.
+
+marx-orlean:
   bib: |
     - Aglietta Michel, Régulation et crises du capitalisme, Paris, Odile Jacob, coll. « Opus », 1997 [1ère édition 1976].
     - Audier Serge, Le Colloque Lippmann. Aux origines du néo-libéralisme, Éditions Le Bord de L’eau, coll. « Les voies du politiques », 2008.
@@ -232,58 +334,6 @@ rationalite-philo-eco:
     - Sen (Amartya K.), Collective Choice and Social Welfare, Edimbourg, Oliver & Boyd et Amsterdam, North-Holland, 1970.
     - Séris (Jean-­Pierre), La Théorie des jeux. Paris, Presses Universitaires de France, 1974.
     - Van Hees (Martin), Rights and Decisions. Formal Models of Law and Liberalism, Dordrecht, Kluwer Academic Press, 1995.
-
-
-eco-normative-1945: 
-  bib: |
-    - Arrow, K. J. 1951. Social Choice and Individual Values. John Wiley & Sons, New York.
-    - Aslanbeigui, N. et S. G. Medema 1998. Beyond the Dark Clouds,  Pigou and Coase on Social Cost. History of Political Economy, 30, 4, pp. 601-625.
-    - Backhouse, R. A History of Modern Economic Analysis. Basil Blackwell, Oxford, 1985.
-    - Baujard, A. Welfare economics. In Handbook of the History of Economic Analysis, G. Faccarello and H. D. Kurz, Eds., vol. 3. Ch. 41. Edward Elgar Publishing Limited, Cheltenham (U.K.), 2016.
-    - Cherrier, B. et J-B Fleury, Economists’ interest in collective decision after World War II, a History, Mimeo.
-    - Chipman, J. S. et Moore, J. C. 1978. The new welfare economics, 1939-1974. International Economic Review 19, 3, pp. 547-584.
-    - Cooter, R. et Rappoport, P. 1984. Were the ordinalists wrong about welfare economics. Journal of Economic Literature 22, 2, pp. 507-530. Reproduit in M. Blaug ed., A. C. Pigou, Edward Elgar Publishing Limited, chap. 12, pp. 150-173, 1992.
-    - Faccarello, G et R. Sturn Eds. Studies in the history of Public Economics. Routledge, London 2010.
-    - Fleurbaey, M. 1996. Théories économiques de la justice. Economie et Statistiques Avancées. Economica.
-    - Fleurbaey, M., and Mongin, P. The new of the death of welfare economics is greatly exagerated. Social Choice and Welfare 25 (2005), 381-418.
-    - Hayek, F.A., 1995. Droit, Législation et Liberté (trad. fr. de Law, Legislation and Liberty, 3 vol., 1973, 1976, 1979), P.U.F., Paris.
-    - Hennipman, P. et Mishan, E. J. 1995, Welfare economics,  The Hennipman - Mishan debate. In Welfare Economics and the Theory of Economic Policy, D. walker, A. Heertje, et H. van den Doel, Eds. Edward Edgar Publishing Limited, Aldershot, ch. 3, pp. 87-123.
-    - Hicks, J. R. Essays in World economics. Preface –and a Manifesto, Oxford,  Oxford University Press, Clarendon Press (1959).
-    - Hicks, J. R. The scope and the status of welfare economics. Oxford economic papers (1975), 307-326. 
-    - Hovenkamp, H. 1995. The Economic Analysis of Law in the United States, A Brief Historical Survey. Cambridge Journal of Economics, vol. 19, n°2, pp. 331-352.
-    - Kaplow, L et S. Shavell, 2006. Fairness vs. Welfare, Harvard University Press, Cambridge. 
-    - Kolm, S.-C. An historical introduction to normative economics. Social Choice and Welfare 17, 4 (august 1999), 707-738.
-    - Kolm, S.-C. History of public economics, The historical french school. European Journal of the History of Economic Thought 17, 4 (2010), 687-718. 
-    - Little, I. 1950. A critique of welfare economics, Oxford University Press.
-    - Medema, S. G. et N. Mercuro 1997. Economics and the Law, From Posner to Post-Modernism. Princeton University Press, Princeton.
-    - Mishan, E. J. 1981. Economic efficiency and social welfare. Selected essays on fundamental aspects of the economic theory of social welfare. G. Allen and Unwin, London.
-    - Mongin, P. A concept of progress for normative economics, Economics and Philosophy, 22, 2006, p. 19-54.
-    - Myint, H. Theories of welfare economics. Augustus M. Kelley, Bookseller, New York, 1965. Published for The London School of Economics and Political Science.
-    - Nishizawa, T., Dardi, M., and Caldari, K Eds. Aspects of the history of welfare economics. History of Economic Ideas, 1 (2014). 
-    - Pattanaik, P. K. 1994, Some non-welfaristic issues in welfare economics. In Welfare Economics, B. Dutta, Ed. Oxford University Press, pp. 197-248.
-    - Posner, R.A. 1980. The Ethical and Political Basis of the Efficiency Norm in Common Law Adjudication. Hofstra Law Review, 8, 3, pp. 487-507.
-    - Posner, R.A., 1979. Utilitarianism, Economics, and Legal Theory. Journal of Legal Studies, 8, 1, pp. 103-140.
-    - Salles, M. ed. The history of social choice. Soc Choice Welfare (2005) 25(2)
-    - Samuelson, P. A. 1947. Foundations of Economic Analysis. Harvard University Press, Cambridge.
-    - Sen, A. K. 1970. Collective Choice and Social Welfare. Holden-Day, Inc., San Fransicso.
-    - Sen, A. K. 1979. Personal utilities and public judgements, Or what's wrong with welfare economics ? The Economic Journal 89, 355, pp. 537-558.
-    - Sen, A. K. 1985. Well-being, agency and freedom, The Dewey Lectures 1984. The Journal of Philosophy 72, 4, pp. 169-221.
-    - Sunstein, C. (ed.), 2000. Behavioral Law and Economics. Cambridge University Press, Cambridge.
-    - Suzumura, K. An interview with Paul Samuelson, welfare economics, old and new, and social choice theory. Social Choice and Welfare 25, 2-3 (2005), 327-356. 
-
-
-eco-socio:
-  bib: |
-    - Becker G., (1976) - “The Economic Approach to Human Behavior”, in The Economic Approach to Human Behavior, University of Chicago Press, pp.1-13.
-    - Becker G., Murphy K. (2000), Social Economics, Cambridge MA, Belknap Press/Harvard University Press.
-    - Bourdieu P. (1997), "Le champ économique", Actes de la Recherche en Sciences Sociales, vol.119, n°1, pp. 48-66
-    - Fourcade M. (2009), Economists and Societies, Discipline and Profession in the United-States, Britain and France, 1890s to 1990s, Princeton, Princeton University Press.
-    - Fourcade M., Ollion E., Algan Y. (2015), “The Superiority of Economists”, Journal of Economic Perspectives, 29(1), Winter, p.89-114.
-    - Gautié J. (2007), « L’économie à ses frontières (psychologie, sociologie) », Revue économique, 58(4), p.927-939.
-    - Granovetter M. (1985). - « Economic Action and Social Structure, the Problem of Embededness », American Journal of Sociology, 91(3), pp.481-510, (traduit dans Granovetter M., Le marché autrement, Desclée de Brouwer, 2001).
-    - Smelser N., Swedberg R. (2005). Handbook of Economic Sociology, Princeton University Press.
-    - Steiner P. (1990). La sociologie économique, La Découverte.
-    - Swedberg R. (1990). Economics and Sociology, redefining their boundaries, conversation with economists and sociologists, Russell Sage Foundation.
 
 science-studies:
   bib: |
