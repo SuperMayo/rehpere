@@ -35,17 +35,67 @@ The thesis occupies an important place in the training program. Indeed, it is th
 
 - knowing how to present and defend one's work.
 
-## Method Seminars
+# Formation
 
-Research work, like writing a dissertation, is neither an innate skill nor a solitary occupation. For these reasons, the research team of the ESH Master's program complements the supervision of each thesis director with two seminars.
+### Required courses
+<br>
+##### **S3**
 
- - __Method Seminar__ _Annie Cot and Jérôme Lallement_
-   * This seminar aims to give Master's students a general perspective on the method to be adopted to complete a research dissertation. The seminar gives elements of reference between the different existing historiographical approaches, on text commentaries as well as formal elements.
-   The validation of the seminar is done by a reading report on a book of the student's choice.
+##### UE 1 Fondamentals
 
- - __Albert O. Hirschman Seminar__
-   * This seminar, led by the REhPERE doctoral team, helps each master's student to perfect his or her thesis. Each student presents the progress of his or her work in the form of a project summary, detailed plan or chapter.
-   For one hour, the students' work is submitted to the comments and criticism of other students and doctoral students. These discussions help to highlight the improvements and developments to be made to each student's work. The doctoral students make their experience of research work available. This seminar is a collaborative space. It does not give rise to evaluation.
+- Epistemology of economics 1 : authors and controversies
+- Epistemology of economics 2 : methods and ontology
+- Economics and Sociology
+
+##### UE 3 Methods
+
+- Methodological Seminar (shared with M2 HPE)
+
+##### **S4**
+
+##### UE 1 Fondamentals
+
+- Quantify and model in economics
+- Economic theories of justice: welfare, social choice and norms
+- Rational choice theory : epistemology and history
+
+##### UE 3 Methods
+Research in practice and "Cercle d'Epistémologie Economique"
+
+
+### Optionnal courses
+<br>
+##### **S3**
+
+##### UE 2 Going Further
+
+- Methods 1 (see the [list of courses](/en/course))
+- Themes 1 (see the [list of courses](/en/course))
+
+##### **S4**
+
+##### UE 2 Going Further
+
+- Methods 2 (see the [list of courses](/en/course))
+- Themes 2 (see the [list of courses](/en/course))
+
+
+<br>
+
+**N.B.** :
+
+- Some courses validated in S4 are given in S3 or straddle the two semesters S3/S4.
+- The hourly volume of some courses is higher than 18 hours.
+- The total annual number of courses in the M2 HPE is limited to two.
+- Access to some courses is limited to a few places and/or requires registration at the end of August. Some courses start the first week of September.
+
+<br>
+
+You can consult the general model of the master:
+
+- [Maquette S3](/assets/pdf/maquette_S3.pdf)
+
+- [Maquette S4](/assets/pdf/maquette_S4.pdf)
 
 # Job Opportunities
 {: #debouches}
