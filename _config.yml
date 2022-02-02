@@ -77,11 +77,6 @@ menu:
       sublinks:
         - name: "Présentation"
           url: "/master/#presentation"
-        - name: "Mémoire"
-          url: "/master/#memoire"
-        - name: "Débouchées"
-          url: "/master/#debouches"
-      secondary-sublinks:
         - name: "Cours"
           url: "/cours"
     team:
@@ -107,8 +102,13 @@ menu:
       prep: '<i class="fas fa-home"></i>'
     master:
       name: "Master ESH"
-      url: "/en/master"
+      url: "/en/master/"
       prep: '<i class="fas fa-user-graduate"></i>'
+      sublinks:
+        - name: "Presentation"
+          url: "/en/master/#presentation"
+        - name: "Courses"
+          url: "/en/course"
     team:
       name: "Members"
       url: "/en/members"
@@ -166,10 +166,12 @@ people:
 courses:
   fr:
     title: "Enseignements"
-    semester: "Semestre"
+    obligatoire: "Cours obligatoires"
+    optionnel: "Cours à la carte"
   en:
     title: "Courses"
-    semester: "Semester"
+    obligatoire: "Required Courses"
+    optionnel: "Elective Courses"
 
 ###### footer ######
 logos:

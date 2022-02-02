@@ -1,450 +1,129 @@
-- course_name: Epistémologie I et II
-  course_id: epistemo-1-2
-  semester: 1
+- course_name: Epistémologie de l'économie I
+  course_id: epistemo-1
+  course_rank: 1
+  course_type: Cours obligatoire
+  course_type_id: 1
+  semester: 3
   prof_id:
-    - annie-cot, jerome-lallement
-  prof_name: Annie L. Cot, Jérôme Lallement
+    - annie-cot
+    - jerome-lallement
+    - jean-lenfant
+  prof_name: Annie L. Cot, Jérôme Lallement, Jean-Sébastien Lenfant
   lang: "fr"
   description: >
-    Le séminaire **double** ‘’Epistémologie des sciences économiques I et II’’ est assuré par Annie L. COT, professeure (Université Paris 1, CES) et par Jérôme LALLEMENT, professeur émérite (Université Paris-Descartes, CES.)
+    Ce cours, avec le cours « Épistémologie de l’économie II » propose une introduction aux épistémologies des théories économiques.
 
 
-    Ce séminaire est une introduction à l’épistémologie des théories économiques. L’objectif est de présenter les conditions de vérité des théories économiques, c’est-à-dire les exigences épistémologiques que l’on peut formuler vis-à-vis d’une théorie économique pour que l’on puisse considérer cette théorie comme vraie ou valide. On montre la variété des exigences qui dépendent largement des problématiques de vérité adoptées par les auteurs : rationalisme ou positivisme, induction ou déduction, monisme ou dualisme épistémologique… Cette diversité montre les difficultés que l’on rencontre pour pouvoir affirmer qu’une théorie économique est vraie. On complète ce tableau en abordant des problèmes spécifiques aux sciences sociales comme la question de l’explication et de la causalité dans le modèle déductif-nomologique ou le choix entre l’individualisme et le holisme. Enfin, on aborde les conséquences du post-modernisme sur les développements récents des sciences économiques.
+    Il a pour objectif de présenter les débats de méthode qui structurent le champ de l’économie sur certains sujets essentiels : les critères de validité des théories ; les débats entre rationalisme et positivisme, entre induction, déduction et abduction ; la querelle entre monisme méthodologique et dualisme méthodologique ; les questions de frontières disciplinaires ; le rôle performatif des énoncés économiques ; les auteurs et les traditions qu’ils ont initiées ; l’ontologie
 
 
-    - Dates et horaires du cours. 1er semestre lundi de 11h à 13h et le mardi, 10h à 12h.
+    Ce séminaire présente quelques grands débats de méthode auxquels se sont confrontés les économistes, depuis la naissance de l’économie politique jusqu’à la période contemporaine.
 
-    - Lieu. Maison des Sciences économiques.
+    - Intervenants :
+      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
+      - Jérôme Lallement (<a href="mailto:jerome.lallement@univ-paris1.fr">jerome.lallement@univ-paris1.fr</a>)
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
 
-    - Ces deux séminaires sont complémentaires. Les séances du lundi et du mardi sont assurées indifféremment par A.L. Cot ou J. Lallement.
+    - Informations pratiques : S3, 18h, Maison des Sciences Économiques.
 
-    - Modalités de validation. Un examen écrit unique, commun pour le double séminaire, à la fin du 1er semestre.
+- course_name: Epistémologie de l'économie II
+  course_id: epistemo-2
+  course_rank: 2
+  course_type: Cours obligatoire
+  course_type_id: 1
+  semester: 3
+  prof_id:
+    - annie-cot
+    - jean-lenfant
+  prof_name: Annie L. Cot, Jean-Sébastien Lenfant
+  lang: "fr"
+  description: >
+    Le cours « Épistémologie de l’économie II » complète les thématiques du cours « Épistémologie de l’économie I ».
 
 
-      Contact. annie.cot@univ-paris1.fr , jerome.lallement@univ-paris1.fr
+    Dans un premier temps, le cours présente plusieurs traditions d’approche épistémologique en économie à partir de quelques économistes (Walras, Marshall, Friedman, Samuelson).
 
-- course_name: Epistemology I and II
-  course_id: epistemo-1-2
-  semester: 1
-  prof_id: annie-cot, jerome-lallement
-  prof_name: Annie L. Cot, Jérôme Lallement
+
+    Dans un second temps, on interroge les hypothèses ontologiques de la théorie économique. Ces hypothèses ontologiques en économie restent implicites tant que les questions méthodologiques ou théoriques se limitent à un paradigme stabilisé. Elles deviennent centrales lorsque des approches hétérodoxes ou des confrontations théoriques   sont à l’œuvre, ou lorsqu’une approche philosophique vient remettre en question l’unité et la cohérence de certains concepts premiers : les biens (ou les marchandises), le marché, les agents, les ressources, etc. Le séminaire abordera la question de l’ontologie des théories économiques à partir de réflexions sur ces différentes dimensions.
+
+
+    L’ontologie de la marchandise a été plusieurs fois questionnée (ex. Marx et la réalité sociale de la valeur de la marchandise ; Lancaster et la déconstruction des biens en caractéristiques). Une littérature riche repense l’agent économique à partir du concept d’identité multiple (multiple selves). La théorie autrichienne et l’économie évolutionniste théorisent le marché et les institutions comme des objets naturels. Enfin, l’avènement de l’économie écologique a été accompagné de débats virulents sur ses ontologies fondatrices (écosystème, environnement, climat, paysages).
+
+    - Intervenants :
+      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
+      - Antoine Missemer
+
+    - Informations pratiques : S3, 18h, Maison des Sciences Économiques.
+
+
+- course_name: Epistemology of economics I
+  course_id: epistemo-1
+  course_rank: 1
+  course_type_id: 1
+  course_type: Required Course
+  semester: 3
+  prof_id:
+    - annie-cot
+    - jerome-lallement
+    - jean-lenfant
+  prof_name: Annie L. Cot, Jérôme Lallement, Jean-Sébastien Lenfant
   lang: "en"
   description: >
-    This **double** seminar "Epistemology of economic science I and II" is provided by Annie L. COT, full professor (University Paris 1, CES), and Jérome LALLEMENT, emeritus professor ((Université Paris-Descartes , CES.)
+    This course, together with the course "Epistemology of Economics II", offers an introduction to the epistemologies of economic theories.
 
-- course_name: "Monnaie, valeur et prix : l'apport de la pensée marxiste"
-  course_id: marx-orlean
-  semester:
-    - 1
-    - 2
-  prof_name: André Orléan
-  lang: 'fr'
+
+    It aims to present the methodological debates that structure the field of economics on certain essential subjects: the criteria of validity of theories; the debates between rationalism and positivism, between induction, deduction and abduction; the quarrel between methodological monism and methodological dualism; the questions of disciplinary boundaries; the performative role of economic statements; the authors and the traditions they have initiated; ontology.
+
+
+    This seminar presents some of the major methodological debates that have confronted economists from the birth of political economy to the contemporary period.
+
+    - Teachers:
+      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
+      - Jérôme Lallement (<a href="mailto:jerome.lallement@univ-paris1.fr">jerome.lallement@univ-paris1.fr</a>)
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
+
+    - Practical Information: S3, 18h, Maison des Sciences Économiques.
+
+
+- course_name: Epistemology of economics II
+  course_id: epistemo-2
+  course_rank: 2
+  course_type_id: 1
+  course_type: Required Course
+  semester: 3
+  prof_id:
+    - annie-cot
+    - jean-lenfant
+  prof_name: Annie L. Cot, Jean-Sébastien Lenfant
+  lang: "en"
   description: >
-    Ce séminaire présentait en français débute le mardi 4 décembre 2018 et finit le mardi 2 juillet 2019. Il se déroule tous les 1er, 3ème et 5ème mardis du mois de 17 h à 20 h. **En salle 2, à l’EHESS, au 105 bd Raspail 75006 Paris**
+    The course "Epistemology of Economics II" completes the themes of the course "Epistemology of Economics I".
 
 
-    Notre séminaire porte sur ces deux concepts fondamentaux de l'économie que sont la valeur et la monnaie. L'approche marxiste sera tout particulièrement étudiée et mobilisée mais toujours en dialogue critique avec la pensée
-    néo-classique et la théorie marginaliste de la valeur. La question si débattue de la “transformation des valeurs en prix de production” sera également examinée tout comme l'approche sraffaienne. Sur tous ces problèmes, notre
-    présentation fera une large place aux désaccords théoriques qui traversent jusqu'à aujourd'hui les approches hétérodoxes. D'une part, parce que nous ne cherchons nullement à imposer une conception aux dépens des autres ;
-    d'autre part, parce que ces débats sont fort utiles en tant qu'ils font prendre la mesure des difficultés que rencontre l'économie politique lorsqu'elle cherche à articuler valeur et monnaie.
+    First, the course presents several traditions of epistemological approach in economics based on a few economists (Walras, Marshall, Friedman, Samuelson).
 
 
-    Comme les années passées, cette partie conceptuelle sera mise à l'épreuve de divers épisodes historiques. En premier lieu, la situation monétaire en Grèce aux VIIe et VIe siècles avant notre ère. Cette période est très
-    intéressante et, tout particulièrement, parce qu'on y trouve un événement de très grande portée : l'invention de la monnaie frappée d'argent et d'or. De très grands analystes ont étudié cette innovation : Aristote, Finley,
-    Polanyi, Will, Vernant, Foucault. Nous examinerons comment ils abordent la question de la valeur et de la monnaie. Si nous avons suffisamment de temps, un second épisode sera ensuite abordé qui n'est pas moins intéressant
-    au regard des questions qui sont au cœur du séminaire : l'expérience de John Law. À nouveau pour ce qui est de cet épisode, mais dans un contexte tout différent, c'est la question de la nature de la monnaie et de la
-    valeur économique qui se trouve directement posée.
+    Secondly, the ontological assumptions of economic theory are examined. These ontological assumptions in economics remain implicit as long as the methodological or theoretical questions are limited to a stabilized paradigm. They become central when heterodox approaches or theoretical confrontations are at work, or when a philosophical approach questions the unity and coherence of certain primary concepts: goods (or commodities), the market, agents, resources, etc. The seminar will address the question of the ontology of economic theories from reflections on these different dimensions.
 
-- course_name: "Monnaie, valeur et prix : l'apport de la pensée marxiste"
-  course_id: marx-orlean
-  semester:
-    - 1
-    - 2
-  prof_name: André Orléan
-  lang: 'en'
-  description: >
-    This seminar presented in French begins the tuesday december, 4th 2018 and finishes the tuesday July, 2nd 2019. It takes place the first, third and the fifth tuesdays of the month between 5pm and 8 pm. **In room 2 ("salle 2"), at the EHESS, au 105 bd Raspail 75006 Paris
 
-- course_name: Séminaire de la chaire Ethique et Finance
-  course_id: ethique-finance
-  semester:
-    - 1
-    - 2
-  prof_name: Christian Walter
-  lang: 'fr'
-  description: >
-    **Ce séminaire est dispensé à la Fondation Maison des Sciences de l'Homme au 54 Boulevard Raspail, 75006 Paris.**
+    The ontology of the commodity has been questioned several times (e.g. Marx and the social reality of the value of the commodity; Lancaster and the deconstruction of goods into characteristics). A rich literature rethinks the economic agent from the concept of multiple identity (multiple selves). Austrian theory and evolutionary economics theorize the market and institutions as natural objects. Finally, the advent of ecological economics has been accompanied by virulent debates on its founding ontologies (ecosystem, environment, climate, landscape).
 
 
-    La pratique de la modélisation en finance a profondément modifié le paysage de la profession financière dans le monde
-    et a contribué à l’omniprésence de la finance dans la société. D’où viennent les modèles, quelle est leur histoire,
-    quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses autres que financières se fondent
-    leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes
-    des questions auxquelles toute analyse de l’activité financière se trouve aujourd’hui confrontée, en raison de l’impact
-    sociétal de l’utilisation des modèles mathématiques ou statistiques utilisés par les financiers professionnels.
-    Le séminaire d'enseignement a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a
-    prise la modélisation du risque en finance et des controverses scientifiques qui ont accompagné cette évolution.
-    On suivra en particulier l’évolution centenaire d’une représentation probabiliste à la fois déterminante et dominante
-    du risque financier, celle induite par le modèle de marche au hasard (random walk model). Les enjeux éthiques des choix
-    de modélisation du risque seront abordés en introduisant la notion d’"éthique épistémique".
+    - Teachers:
+      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
+      - Antoine Missemer
 
+    - Practical Information: S3, 18h, Maison des Sciences Économiques.
 
-
-    Un séminaire de recherche accompagne cet enseignement et a lieu une fois par mois. Pour plus d'informations voir
-    le site de la [Chaire Ethique et Finance](https://www.fmsh.fr/fr/college-etudesmondiales/167).
-
-- course_name: Séminaire de la chaire Ethique et Finance
-  course_id: ethique-finance
-  semester:
-    - 1
-    - 2
-  prof_name: Christian Walter
-  lang: 'en'
-  description: >
-    **This seminar is delivered at the "Fondation Maison des Sciences de l'Homme" at the 54 Boulevard Raspail, 75006 Paris.
-
-
-    The practice of financial modeling has profoundly changed the landscape of the financial profession around the world. and contributed to the omnipresence of finance in society. Where do the models come from, what is their history? what are their technical, historical or social foundations, on what premises other than financial ones are based  their assumptions, are they still relevant to the development of the proposed solutions? These are some of the questions questions that any analysis of financial activity is nowadays confronted with, due to the impact societal use of mathematical or statistical models used by professional financiers. The teaching seminar aims to examine these questions by analyzing the successive forms that the use of mathematical or statistical models by professional financiers has taken. The company has taken the risk modeling in finance and the scientific controversies that have accompanied this evolution. In particular, we will follow the century-old evolution of a probabilistic representation that is both decisive and dominant. financial risk, that induced by the random walk model. The ethical stakes of choices of risk modeling will be addressed by introducing the notion of "epistemic ethics".
-
-
-    A research seminar accompanies this teaching and takes place once a month. For more information see  the website of the [Chair of Ethics and Finance](https://www.fmsh.fr/fr/college-etudesmondiales/167).
-
-
-- course_name: Histoire sociale des idées politiques
-  course_id: histoire-idees-politiques
-  semester:
-    - 1
-    - 2
-  prof_name: Frédérique Matonti
-  lang: 'fr'
-  description: >
-    L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon
-    le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone.
-
-
-    Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge,
-    apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby).
-
-
-    La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de
-    l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
-
-- course_name: Histoire sociale des idées politiques
-  course_id: histoire-idees-politiques
-  semester:
-    - 1
-    - 2
-  prof_name: Frédérique Matonti
-  lang: 'en'
-  description: >
-    The objective of the course is to familiarize students with the social history of ideas (or the sociology of ideas, depending on the subject). the vocabulary that will be privileged), an emerging sub-discipline in France, and very well represented in the English-speaking world.
-
-
-    The course is organized in two parts. The first part focuses on methodology (study of the Cambridge School, contributions from the work of Howard Becker, Max Weber, Pierre Bourdieu..., taking into account the historical event through the work of Timothy Tackett and Georges Duby).
-
-
-    The second is centered on its application to a given period, that of the 1960s and 1970s, firstly around the appearance of the label "structuralism" (its social and intellectual conditions of possibility through the study of its "cardinal" authors and their followers, changes in the school system, upheavals in the world of magazines and news magazines, etc.), secondly, the effects of the "event "68 on political ideas.
-
-
-- course_name: Économie comportementale
-  course_id: economie-comportementale
-  semester: 1
-  prof_name: Louis Lévy-Garboua
-  lang: 'fr'
-  description: >
-    Ce cours, en anglais, présente une synthése des données, des expériences et des théories psychologiques
-    qui remettent en cause la théorie économique, et essaye de réconcillier ces anomalies avec le savoir économique.
-
-
-    Il prend ainsi note des recherches menées en psychologie pour comprendre le comportement et le fonctionnement des institutions.
-
-
-- course_name: Économie comportementale
-  course_id: economie-comportementale
-  semester: 1
-  prof_name: Louis Lévy-Garboua
-  lang: 'en'
-  description: >
-    This course, in English, presents a synthesis of data, experiments and psychological theories that challenge economic theory, and attempts to reconcile these anomalies with economic wisdom.
-
-
-    It draws lessons from psychology for understanding behaviour and the working of institutions.
-
-- course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
-  course_id: science-studies
-  semester: 2
-  prof_name: Cléo Chassonnery-Zaïgouche, Emmanuel Didier
-  lang: 'fr'
-  description: >
-    L’objectif de ce cours est d’introduire les étudiant·e·s à l’analyse historique des pratiques de quantification et de modélisation en sciences sociales à l’aide des
-    outils et des méthodes des Sciences and Technologies Studies (STS).
-
-    Le cours se déroulera sur 6 séances de trois heures. Chaque séance abordera des thématiques abordées par les STS à travers une séléction d'articles qui seront présentés et discutés par les étudiants.
-
-
-
-    **Présentation Générale**
-
-
-    Après une brève introduction au thème « Sciences et société » (Bonneuil & Joly 2013 ; Pestre 2006, 2013) et au « programme fort » des STS (Bloor 1976, MacKenzie 1981, Shapin & Schaffer 1993),
-    la séance sera consacrée au thème de la gouvernance et du gouvernement à travers l’étude des régimes de production des savoirs
-    (Foucault 2004a et 2004b, Latour 1984, 1989, 1991, 2001 ; Callon 1986, 2007 ; Supiot 2015 ; Pestre 2003).
-
-
-    Texte 1, Desrosières 2008a. Pour une sociologie historique de la quantification. Chapitre 1, La statistique outil de preuve et de gouvernement.
-    Texte 2, Armatte 2010. La science économique comme ingénierie. Introduction, Ingénierie économique. Régimes d’expertise.
-
-
-    **Du probable aux probabilités**
-
-
-    Cette séance est consacrée à l’émergence, aux enjeux et aux significations du probable aux XVIIIème et XIXème siècles. Les thèmes abordés sont les débats sur le hasard et les probabilités à l’âge
-    classique (Daston 1989, Hacking 1975, Coumet 1970) ; les travaux de Quételet sur « l’homme moyen » et de Cournot et le hasard ontique ; le tournant de 1859 avec les travaux de Maxwell et Darwin (Lestienne 1993).
-
-
-    Texte 3, Armatte 2004. La théorie des erreurs (1750-1820), enjeux problématiques et résultats.
-    Texte 4, Armatte 2012. La marche de l’aléa ou le hasard dans les sciences.
-
-
-
-    **Statistique économique libérale (1850-1930), invention de l’enquêtes statistique**
-
-
-    Une très grande partie des statistiques disponibles aujourd’hui sont produites au moyen d’enquêtes par questionnaires. Cette séance montrera la genèse de cette méthode entre 1880 et 1930 aux USA.
-    Parmi les questions essentielles posées par cette invention on trouve celle de définir un arbitre, présupposé objectif, dans la production de ces chiffres, et d’autre part celle de l’articulation
-    entre la population comme source et comme usager de l’information. D’autre part, cette séance insiste fortement sur la matérialité de la production statistique.
-
-
-    Texte 5, C. Wright Mills, L’imagination sociologique, Paris, La Découverte 1997 (1959). Chapitre 5, L’éthique bureaucratique.
-    Texte 6, Bruno Latour, « Le « pedofil » de Boa Vista », in La Clef de Berlin, Paris, La découverte, pp. 171-225, 1993.
-    Texte 7, Desrosières 2008b introduction et chapitre 7 ;
-    Texte 8, Desrosières 2008a Chap. 3, historiciser l’action publique (L’Etat, le marché les statistiques
-
-
-
-    **Quantification et expertise, l’exemple des tribunaux américains**
-
-
-    La “troisième vague” des STS (Collins & Evans 2002, Delmas 2011) est étudiée à partir du cas de l’expertise dans les tribunaux. Il s’agit notamment de s’intéresser à l’évolution de l’usage des statistiques
-    dans les tribunaux (Golan 1999 ; Lynch & McNally 1999) mais également à la manière dont les enjeux de la quantification se traduisent dans un contexte légal (Jasanoff 1995). Deux études de cas seront proposées,
-    celle de l’expertise des économistes et celle des sociologues. L’idée est de permettre aux étudiant·e·s d’appréhender les différents type d’expertise (Joly 1999) dans une perspective comparative centrée sur
-    a quantification.
-
-
-    Texte 9, Jasanoff 1992. What Judges Should Know About the Sociology of Science.
-    Texte 10, Chassonnery-Zaïgouche 2019. Economists Entered the ‘Numbers Game’, The Early Reception of Wage Decomposition Methods in the U.S. Courtrooms (1971-1989).
-    Texte 11, Jacoby 1996. ‘We Don’t Deal in Probabilities Here’, Tales of a Quantitative Sociologist in Court.
-
-
-
-    **Quantifier l’efficacité des politiques publiques (1970s-2000s)**
-
-
-    La séance 5 aborde les transformations de l’évaluation des politiques publiques depuis les années 1970, notamment en terme de type de quantification. L’objectif est d’introduire les étudiant·e·s à ce que les économistes ont
-    appelé « la révolution de la crédibilité » en économie (Cherrier 2016 ; Desrosières 2014 ; Fourcade, Ollion & Algan. 2015 ; Shapin 1995). Deux études de cas seront menées, d’une part, l’utilisation des méthodes
-    d’analyse coût-bénéfice dans le cadre d’une administration américaine et d’autre part, l’utilisation des expériences de terrain randomisées en économie du développement.
-
-
-    Texte 12, Breslau. 1997. The Political Power of Research Methods, Knowledge Regimes in US Labor Market Policy.
-    Texte 13, Labrousse 2010. Nouvelle économie du développement et essais cliniques randomisés, une mise en perspective d’un outil de preuve et de gouvernement.
-
-
-
-    **Victoire des sondages et critiques de la statistique après la seconde guerre mondiale**
-
-
-    Cette séance poursuit l’histoire des enquêtes statistiques. On montre comment pendant la première moitié du XXème siècle, la notion de représentativité statistique a été reprise à la sphère politique et reformatée pour renforcer les
-    méthodes d’enquêtes. On montre ensuite qu’après la seconde guerre mondiale les enquêtes ont été l’objet de vives critiques qui ont abouti à l’établissement de la « sociologie qualitative ». Quelles sont les critiques émises contre les
-    enquêtes ? Sont-elles toujours convaincantes aujourd’hui ? Remettent-elles en cause toute forme de quantification ?
-
-
-    Texte 14, Theodore Porter, Trust in Numbers, Cambridge University Press 1995 (Traduit en Français par La confiance dans les chiffres, Les Belles Lettres, 2017), chapitre 7, « US Army Engineers and the Rise of Cost-Benefit Analysis ».
-    Texte 15, Isabelle Bruno, Emmanuel Didier, Julien Prévieux, Cyprien Tasset, « Introduction, Pour un statactivisme », Statactivisme, Comment lutter avec des nombres, Paris, La Découverte, Coll. Zones, 2014.
-    Texte 16, Gadrey, Jean, et Florence Jany-Catrice. Les nouveaux indicateurs de richesse. 3e éd. entièrement refondue et mise à jour. 1 vol. Repères 404. Paris, la Découverte, 2012.
-
-
-
-- course_name: "Introduction aux Sciences Studies. Histoire sociale de la quantification et de la modélisation"
-  course_id: science-studies
-  semester: 2
-  prof_name: Cléo Chassonnery-Zaïgouche, Emmanuel Didier
-  lang: 'en'
-  description: >
-    This lecture introduce students to the historical analysis of quantification and modelisation practices in social sciences using tools and methods from the Science Studies.
-
-    The lecture is divided in 6 courses of 3 hours. Each courses focus a topic of research thanks to a selection of articles that students will present and discuss.
-
-
-
-
-- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
-  course_id: ethique-appliquee-1
-  semester: 1
-  prof_name: Emmannuel Picavet
-  lang: 'fr'
-  description: >
-    **Ce séminaire est dispensé à La Sorbonne, 75005 Paris**
-
-    L'éthique sociale générale et divers champs appliqués de l'éthique des pratiques sont aujourd'hui
-    marqués par l'articulation difficile, autant que nécessaire, entre le souci de la liberté de choix
-    et les besoins réels ou supposés de l’organisation collective. L'autonomie individuelle est une source
-    de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d'organisation,
-    elle ne parvient à éliminer les conflits de principes qui retiendront l'attention.
-
-
-
-    On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au
-    libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation
-    des situations de libre choix et d'expression de l'autonomie. Il sera nécessaire de revenir sur quelques sources
-    doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux,
-    développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
-
-
-
-    Le parcours comportera des études de cas dans le champs des politiques et des formes d'organisation mettant en jeu les
-    exigences d'autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence,
-    seront encouragés.
-
-
-    **Ce cours peut être complété par Ethique appliquée 2 au second semetre.**
-
-- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
-  course_id: ethique-appliquee-1
-  semester: 2
-  prof_name: Emmannuel Picavet
-  lang: 'en'
-  description: >
-    **This seminar is delivered at Sorbonne, 75005 Paris**
-
-
-    General social ethics and various applied fields of ethics in practice are today marked by the difficult articulation, as much as necessary, between the concern for freedom of choice and the real or supposed needs of the collective organization. Individual autonomy is a source of important ethical and social normativity. However, neither are organizational imperatives, it fails to eliminate conflicts of principle that will attract attention.
-
-
-    The influence of organizational contexts on the ethical relevance of free choice ideas will be explored. The role of the conceptualization of situations of free choice and the expression of autonomy in the delineation of ethical issues will also be examined. It will be necessary to return to some sources
-    doctrinal debates of contemporary debates (political liberalism, theories of individual rights, analysis of social choices, development of economic conceptions of freedom of choice and "capability" theory).
-
-
-    The course will include case studies in the field of policies and forms of organization involving the autonomy requirements. Lectures on theoretical or applied issues, or on reference texts, will be encouraged.
-
-
-    **The course could be completed by Ethique appliquée 2 during the second semester.**
-
-- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquee-2
-  semester: 2
-  prof_name: Emmannuel Picavet
-  lang: 'fr'
-  description: >
-    **Ce séminaire est dispensé à La Sorbonne, 75005 Paris**
-
-
-    Le séminaire, au second semestre, aura pour objectif de progresser dans la compréhension des exigences de l'action
-    « par principe » dans des contextes collectifs, comportant habituellement un volet institutionnalisé et donnant
-    le plus souvent une place aux échanges discursifs. On s'attachera particulièrement aux enjeux d'interprétation et
-    de mise en œuvre de principes reconnus en commun, conservant une forme générale et possédant des virtualités
-    ouvertes en termes de concrétisation.
-
-
-
-    Cela conduira à s’intéresser aux conceptions contemporaines de la normativité qui
-    visent à développer la dimension réflexive des opérations de mise en œuvre des normes ou des principes.
-    On s’intéressera à l’impact possible de ces développements sur les conceptions de la régulation publique visant
-    à concrétiser des principes, d'une manière directe ou indirecte. On tentera de poser quelques jalons pour une théorie
-    de la concrétisation indirecte des principes, selon un modèle qui s'éloigne de la logique de l'action concertée en vue
-    d'« appliquer » des principes supposés directement mobilisables.
-
-
-
-    Les études de cas développées concerneront notamment la régulation socio-économique et la responsabilité environnementale et sociale.
-    D'autres études de cas, relevant d'autres champs contemporains de la normativité, de l'éthique institutionnelle et du gouvernement,
-    pourront faire l'objet d'exposéss.
-
-    **Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.**
-
-- course_name: "Ethique appliquée 2, l’organisation collective et l’effectivité des principes"
-  course_id: ethique-appliquee-2
-  semester: 2
-  prof_name: Emmannuel Picavet
-  lang: 'en'
-  description: >
-    **This seminar is delivered at Sorbonne, 75005 Paris**
-
-
-    The seminar, in the second half of the year, will aim to progress in the understanding of the requirements of action "on principle" in collective contexts, usually with an institutionalized component and giving most often a place for discursive exchanges. Particular attention will be paid to the issues of interpretation and the implementation of commonly recognized principles, keeping a general form and possessing virtualities open in terms of concretization.
-
-
-
-    This will lead to an interest in contemporary conceptions of normativity that aim to develop the reflexive dimension of operations to implement standards or principles. The possible impact of these developments on conceptions of public regulation aimed at giving concrete form to principles, either directly or indirectly, will be examined. We will attempt to lay the groundwork for a theory of the indirect concretization of principles, based on a model that moves away from the logic of concerted action to "apply" principles that are supposed to be directly mobilizable.
-
-
-
-    The case studies developed will concern in particular socio-economic regulation and environmental and social responsibility. Other case studies will concern other contemporary fields of normativity, institutional ethics and government, may be the subject of presentations.
-
-    **This course follows a course of the first semester entitled Ethique Appliquée 1.**.
-
-- course_name: "Rationalité et stratégie en politique et en économie"
-  course_id: rationalite-philo-eco
-  semester: 2
-  prof_name: Emmannuel Picavet, Joseph Abdou
-  lang: 'fr'
-  description: >
-    Issu d'une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles,
-    institutions et processus politiques, qui mettent l'accent sur les normes et les problèmes de la rationalité
-    (individuelle et collective). On s'intéressera aux problèmes d'action collective, de coordination et d'organisation qui sont
-    au cœur de nombreuses recherches en sciences politiques et en philosophie politique, mais aussi dans les mathématiques sociales.
-    L'objectif est de contribuer à l'avancement des études sur la théorie des normes et des institutions de la vie publique, autour
-    de notions telles que les pouvoirs, les droits et l'organisation internationale.
-
-
-
-    L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes
-    (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier)
-    appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société »
-    trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception
-    des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre
-    les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d'examen sont conçus de manière à
-    permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
-
-- course_name: "Rationalité et stratégie en politique et en économie"
-  course_id: rationalite-philo-eco
-  semester: 2
-  prof_name: Emmannuel Picavet, Joseph Abdou
-  lang: 'en'
-  description: >
-    **This seminar is delivered at Sorbonne, 75005 Paris**
-
-- course_name: "Histoire de l'économie normative après 1945"
-  course_id: eco-normative-1945
-  semester: 2
-  prof_name: Antoinette Baujard, Samuel Ferey
-  lang: 'fr'
-  description: >
-    Le cours se concentre sur l’histoire de certaines branches de l’économie publique après 1945.
-    On insistera sur les rapports qu’entretiennent économie publique, implication avec l’action publique
-    et valeurs éthiques. En reprenant d’abord l’histoire de l’économie du bien-être dans ses dimensions épistémologiques,
-    théoriques et appliquées, on montrera comment de nouvelles approches ont renouvelé en profondeur l’économie normative.
-
-
-    Deux blocs de recherches seront alors plus particulièrement étudiés, les nouvelles théories économiques de la justice
-    d’une part et l’économie du droit et des systèmes juridiques d’autre part. On insistera plus particulièrement sur la
-    construction interdisciplinaire du discours du law and economics entre théorie du droit, théorie normative et économie positive.
-
-- course_name: "Histoire de l'économie normative après 1945"
-  course_id: eco-normative-1945
-  semester: 2
-  prof_name: Antoinette Baujard, Samuel Ferey
-  lang: 'en'
-  description: >
-    The course focuses on the history of certain branches of the public economy after 1945. Emphasis will be placed on the relationship between public economics, involvement with public action and ethical values. Starting with the history of welfare economics in its epistemological, theoretical and applied dimensions, we will show how new approaches have profoundly renewed normative economics.
-
-
-    Two blocks of research will then be studied in particular, the new economic theories of justice on the one hand and the economics of law and legal systems on the other. Particular emphasis will be placed on the interdisciplinary construction of the discourse of law and economics between legal theory, normative theory and positive economics.
 
 - course_name: "Economie et sociologie"
   course_id: eco-socio
-  semester:
-    - 1
-    - 2
+  course_rank: 3
+  course_type: Cours obligatoire
+  course_type_id: 1
+  semester: 3
   prof_name: Jérôme Gautié
   lang: 'fr'
   description: >
@@ -458,9 +137,18 @@
     de sociologie des sciences est nécessaire pour comprendre comment se sont constitués et ont interagi ces deux champs de savoir,
     au cours du temps et dans différents espaces nationaux.
 
-- course_name: "Economie et sociologie"
+
+    - Intervenant :
+      - Jérôme Gautié (<a href="mailto:jerome.gautie@univ-paris1.fr">jerome.gautie@univ-paris1.fr</a>)
+
+    - Informations pratiques : S3, 18h, Maison des Sciences Économiques.
+
+- course_name: "Economics and sociology"
   course_id: eco-socio
-  semester: 2
+  course_rank: 3
+  course_type: Required Course
+  course_type_id: 1
+  semester: 3
   prof_name: Jérome Gautié
   lang: 'en'
   description: >
@@ -469,125 +157,886 @@
 
     The perspective adopted is not only that of epistemology and the history of thought. An approach in terms of the sociology of science is necessary to understand how these two fields of knowledge were constituted and interacted, over time and in different national spaces.
 
+
+    - Teacher:
+      - Jérôme Gautié (<a href="mailto:jerome.gautie@univ-paris1.fr">jerome.gautie@univ-paris1.fr</a>)
+
+    - Practical Information: S3, 18h, Maison des Sciences Économiques.
+
+
 - course_name: "Histoire et philosophie de la théorie du choix rationnel"
   course_id: tcr
-  semester: 2
+  course_rank: 4
+  course_type: Cours obligatoire
+  course_type_id: 1
+  semester: 4
   prof_name: Dorian Jullien
+  prof_id: dorian-jullien
   lang: 'fr'
   description: >
-    Le séminaire se déroule en deux temps. Premièrement, un cours magistral résume les contributions récentes en histoire et en philosophie de la théorie du choix rationnel. Les thèmes qui n'ont pas été beaucoup étudié dans ces champs sont notamment soulignés. Secondement, un de ces thèmes (ou un autre suggéré par les étudiant.es) fait l'objet d'une tentative d'écriture collective d'un article de recherche (par le biais de présentations orales, d'ateliers d'écritures etc.).
+    Premièrement, un cours magistral introduit quelques prérequis pour cerner la structure globale de la théorie du choix rationnel, en distinguant ses concepts centraux (utilité, préférence et choix) et ses principaux domaines d'applications (la décision sous certitude, sous incertitude, dans le temps et vis-à-vis d'autrui), avant de présenter un ensemble de contributions en histoire et en philosophie de la théorie du choix rationnel. Nous explorons aussi bien des ouvrages "classiques" tels que Modeling Rational Agents de Nicola Giocoli (2003) ou Rationalizing Capitalist Democracy de Sonja Amadae (2003) que des travaux plus récents comme ceux de Wade Hands, Catherine Herfeld, Ivan Moscati et d'autres sur la théorie du consommateur, la théorie de l'utilité espérée, les nudges, les problèmes d'interprétations des concepts d'utilité, de préférences et de choix, etc.  L'objectif est d'identifier les thèmes qui n’ont pas été beaucoup étudiés dans ces travaux à la lumière de la structure globale de la théorie du choix rationnel introduite au début du cours.
 
-- course_name: "Histoire et philosophie de la théorie du choix rationnel"
+
+    Dans un second temps, un de ces thèmes (ou un autre suggéré par les étudiant·e·s) fait l'objet d’un travail collectif qui a pour but de construire un projet d'article. Des ateliers de lecture et d'écriture sont alors au cœur des séances, afin d'accompagner les étudiant.es dans une pratique concrète de la recherche universitaire en histoire et philosophie de l'économie.
+
+    - Teacher:
+      - Dorian Jullien (<a href="mailto:dorian.jullien@univ-paris1.fr">dorian.jullien@univ-paris1.fr</a>)
+
+    - Informations pratiques : S4, Maison des Sciences Économiques.
+
+
+- course_name: "History and philosophy of rational choice theory"
   course_id: tcr
-  semester: 2
+  course_rank: 4
+  course_type: Required Course
+  course_type_id: 1
+  semester: 4
   prof_name: Dorian Jullien
+  prof_id: dorian-jullien
   lang: 'en'
   description: >
-    The seminar takes place in two parts. First, a lecture summarizes recent contributions to the history and philosophy of rational choice theory. In particular, topics that have not been studied much in these fields are highlighted. Second, one of these themes (or another suggested by the students) is the subject of an attempt to collectively write a research paper (through oral presentations, writing workshops, etc.).
+    First, a lecture introduces some prerequisites for understanding the overall structure of rational choice theory, distinguishing its central concepts (utility, preference and choice) and its main areas of application (decision under certainty, under uncertainty, over time and with respect to others), before presenting a set of contributions to the history and philosophy of rational choice theory. We explore both "classic" works such as Nicola Giocoli's Modeling Rational Agents (2003) or Sonja Amadae's Rationalizing Capitalist Democracy (2003) and more recent works such as those of Wade Hands, Catherine Herfeld, Ivan Moscati and others on consumer theory, expected utility theory, nudges, problems of interpreting concepts of utility, preferences and choice, etc.  The objective is to identify the themes that have not been much studied in these works in the light of the overall structure of rational choice theory introduced at the beginning of the course.
 
 
-- course_name: "Economie et philosophie, rationalité, décision, sciences cognitives"
-  course_id: sciences-cognitives
-  semester: 1
-  prof_name: Jean-Sébastien Lenfant
+    In a second step, one of these themes (or another one suggested by the students) is the object of a collective work that aims at building a draft article. Reading and writing workshops are then at the heart of the sessions, in order to accompany the students in a concrete practice of academic research in history and philosophy of economics.
+
+
+    - Teacher:
+      - Dorian Jullien (<a href="mailto:dorian.jullien@univ-paris1.fr">dorian.jullien@univ-paris1.fr</a>)
+
+    - Practical Information: S4, Maison des Sciences Économiques.
+
+- course_name: "Théories économiques de la justice, bien-être, choix social et normes"
+  course_id: eco-normative-1945
+  course_rank: 5
+  course_type: Cours obligatoire
+  course_type_id: 1
+  semester:
+    - 3
+    - 4
+  prof_name: Antoinette Baujard, Samuel Ferey
   lang: 'fr'
   description: >
-    L’objectif du cours est de proposer une histoire des relations entre économie et psychologie en se concentrant sur l’analyse
-    des choix et décisions individuels. On prendra comme aboutissement de cette histoire les contributions séminales de Kahneman
-    et Tversky à la fin des années 1970), qui mettent en place une relation stable entre économie et psychologie, encadrée par des
-    protocole expérimentaux. Le cours propose d’interroger la transformation de la science économique qui se joue à ce moment là en
-    retraçant l’histoire des relations entre économie et psychologie depuis le milieu du XIXe siècle, qui correspond au moment de
-    naissance d’une psychologie scientifique (expérimentale) et aux premières contributions saisissantes à une théorie marginaliste
-    des prix et de l’utilité.
+    Le cours se concentre sur l’histoire de certaines branches de l’économie publique après 1945.
+    On insistera sur les rapports qu’entretiennent économie publique, implication avec l’action publique
+    et valeurs éthiques. En reprenant d’abord l’histoire de l’économie du bien-être dans ses dimensions épistémologiques,
+    théoriques et appliquées, on montrera comment de nouvelles approches ont renouvelé en profondeur l’économie normative.
 
 
+    Deux blocs de recherches seront alors plus particulièrement étudiés, les nouvelles théories économiques de la justice
+    d’une part et l’économie du droit et des systèmes juridiques d’autre part. On insistera plus particulièrement sur la
+    construction interdisciplinaire du discours du law and economics entre théorie du droit, théorie normative et économie positive.
 
-    L’hypothèse de travail qui jalonne le cours est que le type de psychologie qui imprègne les théories du choix est lié étroitement
-    au type de questionnement et aux objectifs des économistes. Si la théorie du choix n’est que l’élément de base d’une théorie de la
-    demande et de l’équilibre économique, alors la relation avec la psychologie sera plutôt distendue. Si au contraire des enjeux de
-    bien-être ou de répartition sont mis en avant, alors elle peut jouer un rôle plus important. Au-delà de cette relation schématique,
-    ce qui se joue également au cours de l’histoire est la capacité de la psychologie scientifique à fournir un modèle de scientificité
-    aux autres sciences sociales. Ainsi, dans le temps, la psychophysique, puis le comportementalisme, et enfin l’approche cognitive ont
-    pu fournir des modèles différents pour comprendre les relations entre économie et psychologie.
+    - Intervenants :
+      - Antoinette Baujard (<a href="mailto:antoinette.baujard@univ-st-etienne.fr">antoinette.baujard@univ-st-etienne.fr</a>)
+      - Samuel Ferey (<a href="mailto:Samuel.Ferey@univ-lorraine.fr">Samuel.Ferey@univ-lorraine.fr</a>)
 
 
-- course_name: "Economie et philosophie, rationalité, décision, sciences cognitives"
-  course_id: sciences-cognitives
-  semester: 1
-  prof_name: Jean-Sébastien Lenfant
+    - Informations pratiques : S3/S4, 18h, Maison des Sciences Économiques.
+- course_name: "Economic theories of justice, welfare, social choice and norms"
+  course_id: eco-normative-1945
+  course_rank: 5
+  course_type: Required course
+  course_type_id: 1
+  semester:
+    - 3
+    - 4
+  prof_name: Antoinette Baujard, Samuel Ferey
   lang: 'en'
   description: >
-    The objective of the course is to propose a history of the relationship between economics and psychology by focusing on the analysis of individual choices and decisions. The culmination of this history will be the seminal contributions of Kahneman and Tversky in the late 1970s), which established a stable relationship between economics and psychology, framed by experimental protocols. The course proposes to question the transformation of economic science that is taking place at this time in tracing the history of the relationship between economics and psychology since the mid-nineteenth century, which corresponds to the moment of birth of a scientific (experimental) psychology and the first striking contributions to a marginalist theory price and utility.
+    The course focuses on the history of certain branches of the public economy after 1945. Emphasis will be placed on the relationship between public economics, involvement with public action and ethical values. Starting with the history of welfare economics in its epistemological, theoretical and applied dimensions, we will show how new approaches have profoundly renewed normative economics.
 
 
-    The working hypothesis that runs through the course is that the type of psychology that permeates choice theories is closely related to the type of questioning and the objectives of economists. If choice theory is only the basic element of a theory of demand and economic equilibrium, then the relationship with psychology will be rather distended. If, on the contrary, the stakes of If the focus is on welfare or distribution, then it can play a more important role. Beyond this schematic relationship, What is also at stake in history is the ability of scientific psychology to provide a model of scientificity. to other social sciences. Thus, over time, psychophysics, then behavioralism, and finally the cognitive approach have could provide different models for understanding the relationship between economics and psychology.
+    Two blocks of research will then be studied in particular, the new economic theories of justice on the one hand and the economics of law and legal systems on the other. Particular emphasis will be placed on the interdisciplinary construction of the discourse of law and economics between legal theory, normative theory and positive economics.
 
+    - Teacher:
+      - Antoinette Baujard (<a href="mailto:antoinette.baujard@univ-st-etienne.fr">antoinette.baujard@univ-st-etienne.fr</a>)
+      - Samuel Ferey (<a href="mailto:Samuel.Ferey@univ-lorraine.fr">Samuel.Ferey@univ-lorraine.fr</a>)
 
-- course_name: "Les méthodes de l'historien-nes de la pensée économique (MHPE)"
-  course_id: methode-histoire
-  semester:
-    - 1
-    - 2
-  prof_name: Cléo Chassonnery-Zaïgouche, Aurélien Goutsmedt, Judith Favereau, Maxime Desmarais-Tremblay, Raphaël Fèvre, Francesco Sergi, Niels Boissonnet, Thibaud Choppin de Janvry, Quentin Couix, Justine Loulergue, Matthieu Renault, Nicolas Vallois
+    - Practical Information: S3/S4, 18h, Maison des Sciences Économiques.
+
+- course_name: "Séminaire de Méthodes"
+  course_master: "Commun avec M2 HPE"
+  course_id: methods
+  course_rank: 6
+  course_type: Required course
+  course_type_id: 1
+  semester: 3
+  prof_name: Jean-Sébastien Lenfant, Goulven Rubin
+  prof_id:
+    - jean-lenfant
   lang: 'fr'
   description: >
-    Le cours a été créé en 2018 pour impliquer les membres du réseau [REHPERE](https://rehpere.org/membres/) dans le [Master Economie et Sciences Humaines](https://rehpere.org/master/#presentation) de Paris 1 Panthéon-Sorbonne. L'objectif est d'initier les étudiants en master (mais aussi les nouveaux doctorants) aux thèmes de recherche récents en histoire et philosophie de l'économie. La série de séminaires de ce cours se veut "pratique", dans le sens où nous visons à pousser les étudiants à tester des outils, à appliquer les questions et les problèmes soulevés dans le cours à leurs propres recherches, à lire et à discuter des publications de recherche récentes. Le séminaire d'introduction apporte des outils et des conseils pour aider les étudiants dans la rédaction de leur mémoire de recherche.
+    Le séminaire de méthodes aborde différentes dimensions du travail de recherche. Il permet d’appréhender les questions d’historiographie, d’édition critique, de gestion des ressources documentaires, de présentation du mémoire, et propose une première prise en main du logiciel de traitement de données R.
 
 
-    **Programme pour 2020-2021**:
+    - Intervenants :
+      - Annie L. Cot
+      - Aurélien Goutsmedt
+      - Jérôme Lallement
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
+      - Nicolas Rieucau
+      - Goulven Rubin (<a href="mailto:Goulven.Rubin@univ-paris1.fr">Goulven.Rubin@univ-paris1.fr</a>)
+      - Francesco Sergi
 
+    - Informations pratiques : S3, 18h, Maison des Sciences Économiques.
 
-    * Introduction au séminaire et à l'écriture du mémoire. Mardi 1<sup>er</sup> décembre, 15h30-17h30. Aurélien Goutsmedt (UQAM) & Francesco Sergi (UPEC)
-
-
-    * Philosophie et épistémologie de l'économie (modélisation, interdisciplinarité, approches probabilistes). Lundi 18 janvier, 10h30-12h30, 14h-16h. Niels Boissonnet (Bielefeld), Quentin Couix (Paris I), Judith Favereau (Lyon 2) & Thibaud Chopin de Janvry (Paris I)
-
-
-    * Introduction à l'histoire intellectuelle. Vendredi 22 janvier, 13h-16h. Maxime Desmarais-Tremblay (Goldsmiths) & Raphaël Fèvre (Université Côte d'Azur)
-
-
-    * Les histoires de la disciplines racontées par les économistes. Lundi 25 janvier, 10h30-12h30, 14h-16h. Matthieu Renault (Université Côte d'Azur) & Francesco Sergi (UPEC)
-
-
-    * Histoire des statistiques ethniques et raciales utilisées en économie. Lundi 1<sup>er</sup> février, 10h30-12h30, 14h-16h. Cléo Chassonnery-Zaïgouche (Cambridge) & Nicolas Vallois (Université Picardie)
-
-
-    * Approche quantitative en histoire et philosophie de l'économie. Lundi 8 février, 10h30-12h30, 14h-16h. Aurélien Goutsmedt (UQAM) & Justine Loulergue (UNIL)
-
-
-    * Introduction à l'économie de la science. Lundi 1<sup>er</sup> mars, 10h30-12h30, 14h-16h. Niels Boissonnet (Bielefeld) & Thomas Delcey (Paris I)
-
-
-- course_name: "Les méthodes de l'historien-nes de la pensée économique (MHPE)"
-  course_id: methode-histoire
-  semester:
-    - 1
-    - 2
-  prof_name: Cléo Chassonnery-Zaïgouche, Aurélien Goutsmedt, Judith Favereau, Maxime Desmarais-Tremblay, Raphaël Fèvre, Francesco Sergi, Niels Boissonnet, Thibaud Choppin de Janvry, Quentin Couix, Justine Loulergue, Matthieu Renault, Nicolas Vallois
+- course_name: "Methodoly Seminar"
+  course_master: "Shared with M2 HPE"
+  course_id: methods
+  course_rank: 6
+  course_type: Required course
+  course_type_id: 1
+  semester: 3
+  prof_name: Jean-Sébastien Lenfant, Goulven Rubin
+  prof_id: jean-lenfant
   lang: 'en'
   description: >
-    The course has been created in 2018 to involve the members of the [REHPERE](https://rehpere.org/membres/) network in the [Master Economics and Human Sciences](https://rehpere.org/master/#presentation) of Paris 1 Panthéon-Sorbonne. The goal is to introduce master students (but also new Ph.D. students) to recent research topics in history and philosophy of economics. The series of seminars in this course aimed at being "practical", in the sense that we aim at pushing students to test tools, to apply the questions and issues raised in the course to their own research, to read and discuss recent research publications. The introductory seminar brings tools and tips for helping student in the writing of their master dissertation.
+    The methods seminar addresses different dimensions of research work. It provides an understanding of the issues of historiography, critical editing, management of documentary resources, presentation of the dissertation, and offers a first introduction to the R data processing software.
 
 
-    **Program for 2020-2021**:
+    - Teachers:
+      - Annie L. Cot
+      - Aurélien Goutsmedt
+      - Jérôme Lallement
+      - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
+      - Nicolas Rieucau
+      - Goulven Rubin (<a href="mailto:Goulven.Rubin@univ-paris1.fr">Goulven.Rubin@univ-paris1.fr</a>)
+      - Francesco Sergi
+
+    - Practical Information: S3, 18h, Maison des Sciences Économiques.
+
+- course_name: "Pratiques de le recherche"
+  course_id: research-practice
+  course_rank: 7
+  course_type: Required course
+  course_type_id: 1
+  semester: 4
+  prof_name: Jean-Sébastien Lenfant, Dorian Jullien, Aurélien Goutsmedt
+  prof_id:
+    - jean-lenfant
+    - dorian-jullien
+    - aurelien-goutsmedt
+  lang: 'fr'
+  description: >
+    Les objectifs du séminaire sont :
+
+    1. Initier les étudiant·e·s aux différentes approches de recherche mobilisées dans les publications les plus récentes en histoire et philosophie de l’économie. Cela inclut, entre autres, une introduction aux méthodes suivantes :
+        - l'analyse textuelle, contextuelle et méta-textuelle des sources publiées ;
+        - la recherche, le traitement et l'analyse de sources archivistiques ;
+        - la collecte et l'analyse de sources orales (entretiens, "witness seminars") ;
+        - l'usage de techniques quantitatives (bibliométrie, analyse de réseau, "text-mining") pour traiter des corpus larges.
+
+    1. Lire et à discuter des publications de recherche récentes, présentées par leurs auteurs. Le séminaire est donc conçu pour favoriser le contact direct entre les étudiant·e·s et le monde de la recherche. Pour cela, la programmation du séminaire s’appuie sur les chercheurs dans le réseau de l’équipe de recherche adossée au master.
+
+    1. Examiner des exemples d’applications de ces méthodes à différents objets et questions historiques. Cela inclut, entre autres, les suivants thèmes généraux :
+        - la filiation des idées et des pratiques en économie (héritage, influence) ;
+        - l'appréciation des tournants et transformation des idées et des pratiques en économie (originalité, "révolutions") ;
+        - l'analyse des débats et des controverses ;
+        - le lien et l'influence réciproque entre économie et expertise.
 
 
-    * Introduction au séminaire et à l'écriture du mémoire. Mardi 1<sup>er</sup> décembre, 15h30-17h30. Aurélien Goutsmedt (UQAM) & Francesco Sergi (UPEC)
+    A l'issue du séminaire, l’étudiant·e sera capable :
+
+    1. d’identifier, comparer et discuter de façon critique ces approches et leurs applications. Le cours s’appuie pertinemment sur une diversité des intervenant·e·s (diversité de leurs objets de recherche et de leurs méthodes) dans le but explicite d’exposer les étudiant·e·s à ce pluralisme ;
+
+    1. d’appliquer (de façon pertinente et critique) au moins une de ces méthodes historiographiques à son propre objet de recherche (mémoire de M2). Le séminaire aménage des espaces de discussion entre les différentes intervenant·e·s et les étudiant·e·s, pour échanger sur les outils et les conseils utiles à la réalisation du travail du mémoire de recherche.
 
 
-    * Philosophie et épistémologie de l'économie (modélisation, interdisciplinarité, approches probabilistes). Lundi 18 janvier, 10h30-12h30, 14h-16h. Niels Boissonnet (Bielefeld), Quentin Couix (Paris I), Judith Favereau (Lyon 2) & Thibaud Chopin de Janvry (Paris I)
+
+    - Intervenants :
+      - Chercheurs du groupe [Rehpere](https://rehpere.org/)
+      - Chercheurs invités
 
 
-    * Introduction à l'histoire intellectuelle. Vendredi 22 janvier, 13h-16h. Maxime Desmarais-Tremblay (Goldsmiths) & Raphaël Fèvre (Université Côte d'Azur)
+    - Informations pratiques : S4, 18h, Maison des Sciences Économiques.
+
+- course_name: "Research in practice"
+  course_id: research-practice
+  course_rank: 7
+  course_type: Required course
+  course_type_id: 1
+  semester: 4
+  prof_name: Jean-Sébastien Lenfant, Dorian Jullien, Aurélien Goutsmedt
+  prof_id:
+    - jean-lenfant
+    - dorian-jullien
+    - aurelien-goutsmedt
+  lang: 'en'
+  description: >
+    The objectives of the seminar are:
+
+    1. To introduce students to the different research approaches used in the most recent publications in economic history and philosophy. This includes, among others, an introduction to the following methods
+        - textual, contextual and meta-textual analysis of published sources
+        - research, processing and analysis of archival sources;
+        - the collection and analysis of oral sources (interviews, witness seminars)
+        - the use of quantitative techniques (bibliometrics, network analysis, text-mining) to process large corpora.
+
+    1. Read and discuss recent research publications, presented by their authors. The seminar is therefore designed to promote direct contact between students and the research world. To this end, the seminar program relies on the researchers in the network of the research team attached to the Master's degree.
+
+    1. Examine examples of the application of these methods to different historical objects and questions. This includes, but is not limited to, the following general themes:
+        - the filiation of ideas and practices in economics (legacy, influence) ;
+        - the appreciation of turning points and transformations of ideas and practices in economics (originality, "revolutions");
+        - the analysis of debates and controversies;
+        - the link and reciprocal influence between economics and expertise.
 
 
-    * Les histoires de la disciplines racontées par les économistes. Lundi 25 janvier, 10h30-12h30, 14h-16h. Matthieu Renault (Université Côte d'Azur) & Francesco Sergi (UPEC)
+    At the end of the seminar, students will be able to:
+
+    1. identify, compare and critically discuss these approaches and their applications. The course relies on a diversity of speakers (diversity of their research objects and methods) with the explicit aim of exposing students to this pluralism;
+
+    1. to apply (in a relevant and critical way) at least one of these historiographical methods to one's own research object (M2 thesis). The seminar provides opportunities for discussion between the various speakers and the students, in order to share tools and advice useful to the completion of the research paper.
 
 
-    * Histoire des statistiques ethniques et raciales utilisées en économie. Lundi 1<sup>er</sup> février, 10h30-12h30, 14h-16h. Cléo Chassonnery-Zaïgouche (Cambridge) & Nicolas Vallois (Université Picardie)
+    - Teachers:
+      - Researcher of the [Rehpere](https://rehpere.org/) network
+      - Invited researchers
+
+    - Practical Information: S4, 18h, Maison des Sciences Économiques.
 
 
-    * Approche quantitative en histoire et philosophie de l'économie. Lundi 8 février, 10h30-12h30, 14h-16h. Aurélien Goutsmedt (UQAM) & Justine Loulergue (UNIL)
+- course_name: "Economie et psychologie"
+  course_id: eco-psycho
+  course_master: "M2 Economics and Psychology"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
 
+- course_name: "Economics and Psychology"
+  course_id: eco-psycho
+  course_master: "M2 E&P"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
 
-    * Introduction à l'économie de la science. Lundi 1<sup>er</sup> mars, 10h30-12h30, 14h-16h. Niels Boissonnet (Bielefeld) & Thomas Delcey (Paris I)
+- course_name: "Histoire Economique (Avancée)"
+  course_id: eco-history
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Advanced Economic History"
+  course_id: eco-history
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Mise à niveau en philosophie"
+  course_id: upgrade-philo
+  course_master: "Master Philosophie"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Upgrading in Philosophy"
+  course_id: upgrade-philo
+  course_master: "Master Philosophie"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie et nature: approches interdisciplinaires"
+  course_id: eco-nature
+  course_master: "EHESS"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economics and Nature: Interdisciplinary Approaches"
+  course_id: eco-nature
+  course_master: "Master Philosophie"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Philosophie Morale"
+  course_id: philo-moral
+  course_master: "M2 Philosophie et Société"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Moral Philosophy"
+  course_id: philo-moral
+  course_master: "Master Philosophie"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Philosophie sociale"
+  course_id: philo-social
+  course_master: "M2 Philosophie et société"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Social Philosophy"
+  course_id: philo-social
+  course_master: "M2 Philosophie et société"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Visualisations des données avec R"
+  course_id: visu-R
+  course_master: "Master Histoire de Paris 1, parcours HSNQ"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Data Visualisations with R"
+  course_id: visu-R
+  course_master: "Master Histoire of Paris 1, parcours HSNQ"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Socio-histoire de la statistique"
+  course_id: socio-histor-stat
+  course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Socio-history of statistics"
+  course_id: socio-histor-stat
+  course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Cours du M2 HPE"
+  course_id: master-hpe
+  course_master: "M2 HPE"
+  lang: "fr"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    Plus d'information [ici](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html).
+
+- course_name: "Courses of M2 HPE"
+  course_id: master-hpe
+  course_master: "M2 HPE"
+  lang: "en"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    More information [here](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html)
+
+- course_name: "Ethique appliquée"
+  course_id: applied-ethics
+  course_master: "M2 Philosophie et société"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Applied Ethics"
+  course_id: applied-ethics
+  course_master: "M2 Philosophie et société"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Histoire sociale des idées politiques"
+  course_id: social-history-ideas
+  course_master: "M2 Philosophie et société"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Social history of political ideas"
+  course_id: social-history-ideas
+  course_master: "M2 Philosophie et société"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie du bien-être et applications"
+  course_id: applied-welfare-economics
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Welfare Economics and Applications"
+  course_id: applied-welfare-economics
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie du bonheur et des états subjectifs"
+  course_id: happiness-economics
+  course_master: "M2 E&P"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economics of happiness and subjective states"
+  course_id: happiness-economics
+  course_master: "M2 E&P"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie environmentale"
+  course_id: environmental-economics
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Environmental Economics"
+  course_id: environmental-economics
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Organisation industrielle"
+  course_id: industrial-organisation
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Industrial Organisation"
+  course_id: industrial-organisation
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Institutions de la monnaie et de la dette"
+  course_id: monnaie-dette
+  course_master: "M2 SES Institutions, Economies et Sociétés PSL-EHESS"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Institutions of money and debt"
+  course_id: monnaie-dette
+  course_master: "M2 SES Institutions, Economies et Sociétés PSL-EHESS"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie de la transition écologique"
+  course_id: ecological-transition
+  course_master: "EHESS"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economics of ecological transition"
+  course_id: ecological-transition
+  course_master: "EHESS"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Emotions, identité et comportement"
+  course_id: emotions-identity
+  course_master: "M2 E&P"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Emotions, Identity and Behavior"
+  course_id: emotions-identity
+  course_master: "M2 E&P"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Modèle stratégique et rationalité"
+  course_id: strategic-model
+  course_master: "M2 Philo et Société"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Strategic Model and Rationality"
+  course_id: strategic-model
+  course_master: "M2 Philo et Société"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Economie expérimentale"
+  course_id: experimental-economics
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Experimental Economics"
+  course_id: experimental-economics
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Datamining"
+  course_id: datamining
+  course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Datamining"
+  course_id: datamining
+  course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Textométrie"
+  course_id: textometry
+  course_master: "Master Histoire de Paris 1, parcous HSNQ"
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Textometry"
+  course_id: textometry
+  course_master: "Master Histoire de Paris 1, parcous HSNQ"
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Systèmes complexes et sciences sociales"
+  course_id: complex-systems
+  course_master: "EHESS"
+  lang: "fr"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Complex systems and social sciences"
+  course_id: complex-systems
+  course_master: "EHESS"
+  lang: "en"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Histoire environmentale II: Matières et énergies XIXe-XXIe"
+  course_id: environmental-history-II
+  course_master: "M2 Etudes environmentales, EHESS"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Environmental History II"
+  course_id: environmental-history-II
+  course_master: "M2 Etudes environmentales, EHESS"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Séminaire de Philosophie politique normative"
+  course_id: normative-political-philosophy
+  course_master: "EHESS"
+  lang: "fr"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Normative Political Philosophy"
+  course_id: normative-political-philosophy
+  course_master: "EHESS"
+  lang: "en"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Philosophie politique"
+  course_id: political-philosophy
+  course_master: "M2 Philo et société"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Political Philosophy"
+  course_id: political-philosophy
+  course_master: "M2 Philo et société"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Ethique et finance"
+  course_id: ethics-finance
+  course_master: "Chaire Ethique et finance, FMSH"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Finance and Ethics"
+  course_id: ethics-finance
+  course_master: "Chaire Ethique et finance, FMSH"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Neuroéconomie"
+  course_id: neuroeconomics
+  course_master: "M2 E&P"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Neuroeconomics"
+  course_id: neuroeconomics
+  course_master: "M2 E&P"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Histoire monétaire et financière"
+  course_id: monetary-history
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Monetary and Financial History"
+  course_id: monetary-history
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Ethique appliquée 2"
+  course_id: applied-ethics-2
+  course_master: "M2 Philosophie et société"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Applied Ethics 2"
+  course_id: applied-ethics-2
+  course_master: "M2 Philosophie et société"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Théories du choix collectif"
+  course_id: collective-choice-theory
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Theories of collective choice"
+  course_id: collective-choice-theory
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Topics in Antitrust"
+  course_id: antitrust
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Topics in Antitrust"
+  course_id: antitrust
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Interactions sociales"
+  course_id: social-interactions
+  course_master: "M2 APE"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Social Interactions"
+  course_id: social-interactions
+  course_master: "M2 APE"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "L'institutionalisme monétaire : concepts fondamentaux et analyses historiques"
+  course_id: monetary-institutionalism
+  course_master: "EHESS"
+  lang: "fr"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Monetary Institutionalism"
+  course_id: monetary-institutionalism
+  course_master: "EHESS"
+  lang: "en"
+  semester:
+    - 3
+    - 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Finance Comportementale"
+  course_id: behavioral-finance
+  course_master: "M2 E&P"
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA
+
+- course_name: "Behavioral Finance"
+  course_id: behavioral-finance
+  course_master: "M2 E&P"
+  lang: "en"
+  semester: 4
+  course_type_id: 2
+  description: >
+    TBA

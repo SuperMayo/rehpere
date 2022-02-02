@@ -1,68 +1,81 @@
-epistemo-1-2:
+epistemo-1:
     fr: |
-        1. <h5>Partie I, Rappels d'épistémologie générale. </h5>
-            1. Les problèmes et les débats épistémologiques généraux dont héritent les économistes, *ALC*.
-              1. Les héritages, 1.
-                1. Réalisme *versus* nominalisme. 
-                1. Enoncés positifs *versus* nominatifs.
-                1. Induction *versus* déduction.
-                1. L'apriorisme.
-              1. Les héritages, 2.
-                1. Monisme méthodologiques *versus* dualisme méthodologiques, le *Methodenstreit*
-                1. Une synthèse unificatrice ? John Neville Keynes. 
-                1. Les leçons du pragmatisme américain du tournant des XIXe et XXe siècles.
-            1. Les deux dimension de la vérité (cohérence logique et rapport à l'objet), *JL*.
-              1. La cohérence logique des théories.
-              1. Le rapport de la théorie à son objet. 
-                1. La question de l'origine des connaissances, Rationalisme *versus* empirisme.
-              1. Les problématiques de la vérité.
-                1. L'empirisme naif et le problème de Hume.
-                1. Le Rationalisme Kantien. 
-                1. Du positivism d'Auguste Compte au néo-positivism du Cercle de Vienne.
-                1. Le rationalisme critique de Karl Popper
-                1. L'abandon des critères de vérité par le post-modernisme. 
-        1. <h5>Partie II, Essai de définition de l'économie, *JL*.</h5>
-            1. La définition formelle de l'économie (Lionnel Robbins).
-            1. La définition substantielle de l'économie (Jean-Baptiste Say)
-            1. L'économie comme idéologie.
-              1. Le caractère artificiel de l'économie (contre la naturalisation de l'économie)
-              1. L'économie comme système de representations. 
-                1. L'autonomie. 
-                2. La complètude. 
-            1. Conclusion: une définition de l'économie politique. 
-        1. <h5>Partie III, Les épistémologies des théories économiques, *JL*</h5>
-            1. La tradition économique réaliste.
-              1. J. Neville Keynes et le réalisme de Alfref Marshall (vérification des hypothèses).
-              1. L'a priorism de Lionel Robbins (hypothèse vraies *a priori*). 
-              1. Le retour à la discipline des tests empiriques (Terence W. Hutchison).
-              1. Le test des conclusions (Jon R. Hicks). 
-              1. L'instrumentalisme de Milton Friedman. 
-            1. Le courant rationaliste.
-              1. Léon. Walras. 
-              1. Gérard Debreu. 
-            1. Le modèle nomologico-déductif et la causalité.
-            1. Individualisme et holisme méthodologiques.
-        1. <h5>Partie IV, Vers un "post-modernisme"</h5> *ALC*
-            1. Elargir et dépasser le positivisme logique.
-              1. Imre Lakatos, "noyau dur" et "ceinture protectrice" des programmes de recherche. 
-              1. Paul Feyerabend, *Anything goes* ou l'anarchisme méthodologiques. 
-              1. Thomas Khun, la succession des paradigmes.
-            1. *Beyond positivism*. 
-              1. Michel Foucault: des "épistémés" aux "dispositifs".
-              1. Le néo-pragmatisme contemporains.
-            1. Qu'est ce que le post-modernism ?
-              1. Une défintion négative. 
-              1. Discours scientifique ou rhétorique économique ? 
-              1. Le "programme fort" de l'école d'Edimbourg.
-              1. Les lieux d'énonciation, sujets individuels et sujets collectifs, les "communautés scientifiques".
-            1. Quelques leçons de l'histoire des sciences.
-              1.La notion de *theory ladeness*: la construction théoriques, sociale et historique des empiricités.
-              1. Transgresser les frontières, analogies, métaphores, concepts nomades, impérialismes et impérialismes inversés. 
-              1. Sur la performativité des énoncés économiques.
-      
+        1. <h5>Premières définitions</h5>
+            1. Réalisme versus nominalisme
+            1. Enoncés positifs versus énoncés normatifs
+            1. Induction versus déduction  (1) : de David Hume à John Stuart Mill
+            1. La tradition aprioriste : John Eliot Cairnes, Nassau Senior, Lionel Robbins
+            1. La philosophie pragmatiste américaine du tournant du XXe siècle
+
+        1. <h5>Monisme versus dualisme méthodologiques</h5>
+            1. Monisme méthodologique versus dualisme méthodologique : le Methodenstreit
+            1. Rationalisme versus empirisme
+            1. Induction versus déduction  (2)
+                - Le Manifeste du Cercle de Vienne: pour une méthode scientifique unifiée
+                - Karl Popper et  la « logique de la découverte scientifique »
+            1. Imre Lakatos : « noyau dur » et « ceinture protectrice » des programmes de recherche
+
+        1. <h5>Du structuralisme au post-modernisme </h5>
+            1. Thomas Kuhn : « paradigmes » et « révolution scientifiques »
+            1. Michel Foucault et la tradition épistémologique de Bachelard et Canguilhem : des « épistémès » aux « dispositifs »
+            1. Deirdre McCloskey et la « rhétorique » économique ; David Bloor et le strong program de l’école d’Edimbourg
+
+        1. <h5>Trois leçons du post-modernisme</h5>
+            1. La « construction sociale » des objets empiriques
+            1. Réalisme versus impérialisme : analogies, métaphores, concepts nomades, impérialismes
+            1. La « performativité » des énoncés théoriques
+
+
     en: |
 
-    
+epistemo-2:
+    fr: |
+        1. <h5>Des définitions de l’économie</h5>
+            1. Définition substantielle vs définition formelle
+            1. L’économie comme système de représentation
+
+        1. <h5>Les auteurs et leurs épistémologies</h5>
+            1. Le réalisme marshallien contre le rationalisme walrassien
+            1. L’a priorisme de Robbins face à la discipline des tests du positivisme
+            1. Behaviorisme de Samuelson et instrumentalisme de Friedman
+            1. Le marché et les institutions selon Hayek et Friedman
+
+        1. <h5>Économie et ontologies</h5>
+            1. Le marché, la marchandise et les biens
+            1. L’agent économique (rationnel ou de type multiple selves)
+            1. Les objets naturels (ressources, écosystèmes, climat) face au paradigme de la rareté et de la valeur
+
+
+    en: |
+
+eco-socio:
+    fr: |
+        1. <h5>Les économistes à l'assaut</h5>
+            L'impérialisme économique. A partir des années 1960, sous l'impulsion de Gary Becker, les économistes vont s'intéresser à des objets relevant jusqu'alors de la sociologie, en mobilisant leur boîte à outil conceptuelle(l'homo oeconomicus et le marché) et méthodologique.
+        1. <h5>La contre-attaque des sociologues</h5>
+            La sociologie économique. Les sociologues, surtout à partir des années 1980, vont à leur tour s'intéresser aux phénomènes économiques, pour montrer comment ces derniers sont "encastrés" dans des relations sociales. On s'intéressera ici plus particulièrement à la démarche de trois d'entre eux (Granovetter, Zelizer et Bourdieu).
+        1. <h5>HDepuis les années 2000</h5>
+           Quels nouveaux rapports entre l'économie et la sociologie ? L'émergence de l'économie comportementale et le tournant "empiriciste" de l'économie redéfinit à la fois les frontières et les relations entre les deux disciplines.
+    en: |
+
+eco-normative-1945:
+    fr: |
+        1. <h5>Histoire de l'économie du bien-être</h5>
+        1. <h5>Histoire des nouvelles théories économiques de la justice</h5>
+        1. <h5>Histoire du courant de l’analyse économique du droit</h5>
+
+    en: |
+
+research-practice:
+    fr: |
+        - Introduction à la recherche et à l’écriture du mémoire
+        - Philosophie et épistémologie de l’économie : modélisation et valeurs en économie
+        - Pratiques de l’histoire intellectuelle
+        - Approches quantitatives en histoire et philosophie de l’économie
+        - Ecrire l’histoire de la quantification et de la modélisation : les discours des économistes
+        - Les outils de l’économie de la science
+        - Histoire des statistiques ethniques et raciales utilisées en économie
+
 ethique-finance:
     fr: |
         1. <h5>Introduction: éthique de la finance et modélisation mathématique du risque</h5>
@@ -78,7 +91,7 @@ ethique-finance:
         1. <h5>La résistance au changement dans la modélisation du risque en finance</h5>
             Comment la représentation brownienne des variations boursières est devenue un croire collectif malgré les invalidations empiriques permanentes de ses hypothèses fondamentales. Rôle des normes et des réglementations dans cette domination.
 
-    en: 
+    en:
 
 histoire-idees-politiques:
     fr: |
@@ -87,11 +100,11 @@ histoire-idees-politiques:
             - Robert Darnton, Bohème littéraire et Révolution, Le Monde des Livres au XVIIIe siècle, Paris, Gallimard/le Seuil, 1983, Ch. 1, « Dans la France pré-révolutionnaire : des philosophes des Lumières aux “Rousseau des Ruisseaux” », p. 7-41.
         1. <h5>Questions de Méthode</h5>
             - Max Weber et Howard Becker
-            - Howard S. Becker, Les Mondes de l’art et plus particulièrement, ch. 1, « Mondes de l’art et activité collective », ch. 4, « La distribution des œuvres d’art » et ch 5, « l’Esthétique, les esthéticiens et les critiques », Les Mondes de l’art, Paris, Flammarion, 1988.    
+            - Howard S. Becker, Les Mondes de l’art et plus particulièrement, ch. 1, « Mondes de l’art et activité collective », ch. 4, « La distribution des œuvres d’art » et ch 5, « l’Esthétique, les esthéticiens et les critiques », Les Mondes de l’art, Paris, Flammarion, 1988.
         1. <h5>Logiques sociales et logiques de champ (1)</h5>
             - Gisèle Sapiro, « La Raison littéraire », Actes de la Recherche en sciences sociales, n° 111-112, mars 1996, p. 3-35
             - Gisèle Sapiro, « Salut littéraire et littérature du salut », Actes de la Recherche en sciences sociales, n° 111-112, mars 1996, p. 36-58
-        1. <h5>Logiques sociales et logiques de champ (2)</h5> 
+        1. <h5>Logiques sociales et logiques de champ (2)</h5>
             - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
         1. <h5>Le rôle de l’événement</h5>
             - Alban Bensa, Éric Fassin : « Les Sciences sociales face à l’événement »
@@ -153,7 +166,7 @@ rationalite-philo-eco:
             J. Abdou
         1. <h5>Effectivity functions, notions of power and interactive forms.</h5>
             J. Abdou
-            
+
     en: |
 
         1. <h5>Instrumental rationality and strategy in individual choice</h5>
@@ -168,22 +181,3 @@ rationalite-philo-eco:
             J. Abdou
         1. <h5>Effectivity functions, notions of power and interactive forms.</h5>
             J. Abdou
-            
-eco-normative-1945:
-    fr: |
-        1. <h5>Histoire de l'économie du bien-être</h5>
-        1. <h5>Histoire des nouvelles théories économiques de la justice</h5>
-        1. <h5>Histoire du courant de l’analyse économique du droit</h5>
-           
-    en: |
-    
-    
-eco-socio:
-    fr: |
-        1. <h5>Les économistes à l'assaut</h5>
-            L'impérialisme économique. A partir des années 1960, sous l'impulsion de Gary Becker, les économistes vont s'intéresser à des objets relevant jusqu'alors de la sociologie, en mobilisant leur boîte à outil conceptuelle(l'homo oeconomicus et le marché) et méthodologique.
-        1. <h5>La contre-attaque des sociologues</h5>
-            La sociologie économique. Les sociologues, surtout à partir des années 1980, vont à leur tour s'intéresser aux phénomènes économiques, pour montrer comment ces derniers sont "encastrés" dans des relations sociales. On s'intéressera ici plus particulièrement à la démarche de trois d'entre eux (Granovetter, Zelizer et Bourdieu).
-        1. <h5>HDepuis les années 2000</h5>
-           Quels nouveaux rapports entre l'économie et la sociologie ? L'émergence de l'économie comportementale et le tournant "empiriciste" de l'économie redéfinit à la fois les frontières et les relations entre les deux disciplines.
-    en: |

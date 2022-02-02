@@ -4,12 +4,25 @@ layout: one-column
 
 
 <h1>{{ page.course_name }}</h1>
+<hr/>
+
 {% if page.semester.size == 2 %}
-	<h4>Semestre {{page.semester[0]}} & {{page.semester[1]}}</h4>
+	{% if page.lang == "fr" %}
+		<h4>Semestre {{page.semester[0]}} & {{page.semester[1]}} - {{ page.course_type }}</h4>
+	{% else %}
+		<h4>Semester {{page.semester[0]}} & {{page.semester[1]}} - {{ page.course_type }}</h4>
+	{% endif %}
 {% else %}
-	<h4>Semestre {{page.semester}}</h4>
+	{% if page.lang == "fr" %}
+			<h4>Semestre {{page.semester}} - {{ page.course_type }}</h4>
+	{% else %}
+			<h4>Semester {{page.semester}} - {{ page.course_type }}</h4>
+	{% endif %}
 {% endif %}
 
+{% if page.course_master %}
+<h5>{{ page.course_master}}</h5>
+{% endif %}
 
 {% if page.prof_id %}
 	{% assign profs = site.data.members | where: "lang", page.lang %}
@@ -24,16 +37,16 @@ layout: one-column
 
 
 	{% capture professors %}
-		<h2>
+		<h3>
 		{% for id in profIds %}
 			{% assign prof = profs | where:"flatname", id %}
 			{% assign prof = prof[0] %}
-				<a href="{{site.url}}/{{folder}}{{prof.flatname}}">{{ prof.name }} {{ prof.surname }}</a>
+				<a href="{{site.url}}/{{folder}}{{prof.flatname}}">{{ prof.firstname }} {{ prof.surname }}</a>
 			{% if forloop.last  == false %}
 				<span>&mdash;</span>
 			{% endif %}
 		{% endfor %}
-		</h2>
+		</h3>
 	{% endcapture %}
 {% endif %}
 
@@ -47,9 +60,10 @@ layout: one-column
 {% if page.prof_id %}
 	{{ professors }}
 {% else %}
-	<h2>{{ page.prof_name}}</h2>
+	<h3>{{ page.prof_name}}</h3>
 {% endif %}
 
+<hr/>
 <div class="text-justify">
 	{{ page.description | markdownify}}
 </div>
@@ -65,7 +79,3 @@ layout: one-column
 	<h3>References</h3>
 	{{ site.data.courses_bib[page.course_id].bib | markdownify }}
 {% endif %}
-
-
-
-
