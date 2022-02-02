@@ -14,7 +14,7 @@ layout: one-column
 		{% for course in courses %}
 		<li >
 			<i class="fa-li fa fa-angle-right"></i>
-					<h4><a href="{{course.course_id}}" class="font-italic">
+					<h4><a href="{{course.course_id}}">
 									{{ course.course_name }}
 									{% if course.semester.size == 2 %}
 										(S{{course.semester[0]}} & S{{course.semester[1]}})
@@ -43,7 +43,7 @@ layout: one-column
 		{% for course in courses %}
 		<li >
 			<i class="fa-li fa fa-angle-right"></i>
-					<h4><a href="{{course.course_id}}" class="font-italic">
+					<h4><a href="{{course.course_id}}">
 									{{ course.course_name }}
 									{% if course.semester.size == 2 %}
 										(S{{course.semester[0]}} & S{{course.semester[1]}})
