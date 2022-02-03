@@ -9,36 +9,40 @@ lang: en
 To register <i class="fas fa-hand-point-right"></i> <i> <a href="https://ecandidat.univ-paris1.fr/ecandidat/">REGISTRATION</a></i>.
 </center>
 
-# Presentation of the Master
+# General presentation
 {: #presentation}
 
-Unique in France, the Master "Economics and Human Sciences: epistemology, methods, theories" at the University Paris 1 Panthéon-Sorbonne focuses on the epistemology of economics and the analysis of the shifting boundaries between economic and social sciences.
+Unique in France, the Master 2 "Economics and Human Sciences: Epistemology, Methods, Theories" at the University of Paris 1 Panthéon-Sorbonne focuses on the epistemology of economics and on the recent history of the discipline. It offers a training program that allows students to question the changing and complex relations between economics and other disciplines, whether to understand the conditions of knowledge production and its uses in the academic sphere or to shed light on the normative dimensions and political uses of theories.
 
-The ESH Master's degree aims to question the foundations and methods of contemporary economic theory while exploring its multiple relationships with other human and social sciences: law, philosophy, sociology, psychology.
+The relations that economics has with other human and social sciences, as well as with natural sciences, mathematics, and more recently with computer sciences, are an integral part of the history of the discipline and of the debates that have taken place. More than ever in the last half-century, the objects and methods of economics have been influenced by other disciplines and have in turn redefined the ways in which economic and public policies are legitimized.
 
-Over the last three decades, fields situated at the frontiers of economics and these disciplines have been particularly active: social justice theories, economics of law, economic sociology and the economics of social interactions, economic psychology (from neuroeconomics to the economics of happiness), etc. The aim of this paper is to explore the relationship between these disciplines and the humanities and social sciences.
+Three significant facts for economic epistemology characterize the evolution of the discipline in recent decades.
 
-The objective of this specialization is therefore to resituate this research, which renews the discipline, in its transdisciplinary context, by putting it into historical, methodological and epistemological perspective, which is essential to fully grasp the issues at stake.
+The first fact concerns the relationship between economics and philosophy. The normative dimension of economic hypotheses, theories, and policies, which was once underpinned by the privileged links between political economy and moral and political philosophy, was considerably transformed in the mid-20th century. Normative issues have since been reinvested by certain fields of the discipline (social choice, decision theory, ecological economics, health economics, legal economics, etc.), thus engaging in a lively and renewed dialogue with philosophy.
 
-# The Master Dissertation
-{: #memoire}
+The second striking fact concerns the economist's tools and data. In the space of thirty years, the range of tools and methodologies available to the researcher in economics has widened: almost all fields of economic theory now include experiments (laboratory, field, natural). Many fields produce data thanks to the use of big data. Programs allowing to perform simulations have multiplied, in the service of a study of complex systems. The effect of all these transformations is to modify the conditions of production of economic facts, by leading economists to shift their attention to new objects and to produce adapted data, thanks to the ever more advanced use of information technologies.
 
-The validation of the Master ESH includes the writing of a research thesis, under the supervision of members of the teaching team of the Master.
+The third fact concerns the relationship between economics and politics. Directly or indirectly, economic theories and analyses produce evaluations of social states. They contribute to promoting radical transformations of the economic system or specific policies in this or that field. To understand how economic theories and representations can influence social actors, it is necessary to analyze the modalities of social construction and legitimization of economists' interventions in the public sphere. The epistemology of economics must allow us to reflect on the specific roles of language and narrative devices at all levels of the production and implementation of knowledge, from the laboratory to the courtroom, from academic journals to social networks. Particular attention is paid to the role of expertise in the public sphere.
 
-The thesis occupies an important place in the training program. Indeed, it is the privileged moment to acquire the skills specific to the research professions:
+The objective of the Master 2 ESH is therefore to offer a complete and diversified training on the foundations and methods of recent economic theory. It emphasizes relations with other disciplines (psychology, law, sociology, environmental sciences), reflection on the social contexts of knowledge production and dissemination, and the natural links between economics and philosophy. Finally, it offers students the opportunity to acquire thematic and methodological skills specifically adapted to their research and professional projects and to their thematic sensibilities. A wide choice of courses or seminars from other programs is offered (with a limited number of places) and it is also possible to take courses from the [Master 2 Histoire de la pensée économique](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html) of the University of Paris 1.
 
-- mastering an academic literature on a specific subject;
+# Prerequisites
 
-- developing an original point of view on a research question;
+The M2 ESH is a demanding course, which is aimed at students who have already completed an M1 degree, but also at students who have already completed an M2 degree in another speciality and who wish to complete and reinforce their ability to reflect on a given theme and acquire a reflexive background before starting a thesis or seeking employment. It requires an open mind and an appetite for reading, debate, writing, and research. Students who apply to the M2 ESH after an M1 must prepare for this training by following reading guidelines and thinking about the research themes they would like to pursue. Several courses in the program start in the first week of September and require registration as early as the end of August, so it is advisable to take the time to think about the program and make an informed choice of courses.
 
-- writing a scientific contribution;
+# What is the purpose of the M2 ESH?
 
-- knowing how to present and defend one's work.
+Some of the students who have completed the M2 ESH program intend to pursue a thesis, and obtain funding for this in various universities in France or abroad. Others choose to take the secondary education exams (CAPES, agrégation de sciences économiques et sociales). Finally, others choose to continue in another M2 or to look for a job, and succeed without difficulty. Indeed, the M2 ESH is an opportunity to acquire a base of theoretical and cross-disciplinary skills: analytical, writing, synthesis, reading and documentary monitoring, oral presentation, and possibly skills in the use of data visualization or lexicographic analysis tools (R software). These skills are highly valued by employers in many fields, such as consulting firms, publishing, NGOs, public or international organizations (OECD, ILO, etc.), unions, and journalism.
+
+
+# Doing an internship during the M2
+
+Doing an internship during the M2 year can be an asset for pursuing a professional career. The M2 ESH program supports students who wish to do a research-oriented internship. Various public or semi-public organizations and local authorities are likely to offer assignments on topics of interest to students, in line with the research project.
 
 # Formation
 
 ### Required courses
-<br>
+
 ##### **S3**
 
 ##### UE 1 Fondamentals
@@ -62,9 +66,9 @@ The thesis occupies an important place in the training program. Indeed, it is th
 ##### UE 3 Methods
 Research in practice and "Cercle d'Epistémologie Economique"
 
-
-### Optionnal courses
 <br>
+### Optionnal courses
+
 ##### **S3**
 
 ##### UE 2 Going Further
@@ -97,24 +101,6 @@ You can consult the general model of the master:
 
 - [Maquette S4](/assets/pdf/maquette_S4.pdf)
 
-# Job Opportunities
-{: #debouches}
-
-- Knowledge and skills
-    + The Master 2 in Economics and Human Sciences prepares students for research (thesis writing, positions in the research departments of public or private organizations), teaching competitions, international organizations and, more generally, institutions looking for "generalist" economists, capable of putting contemporary economic theories into a historical and philosophical perspective.
-- Professions
-    + The M2 ESH aims to develop skills in research-based learning, in particular through thesis work. Students acquire intellectual tools that prepare ::
-        * employment in academic research, often preparing a PhD after M2 ;
-        * a job in education (high school, prepas, business schools) ;
-        * work in public institutions (e.g. Ministry of Finance, Central Banks) or international institutions (UNESCO, OECD) ;
-        * to a job in the private sector (e.g. journalist, consultant).
-- Profiles
-    + The M2 ESH is designed to accommodate a variety of profiles. While a majority of students have previously studied economics, students from other humanities disciplines are still very well represented (in particular politicians, philosophers and sociologists). Finally, the M2 is marked by its strong international character.
-
 # Registration
 
 To register <i class="fas fa-hand-point-right"></i> <i><a href="https://ecandidat.univ-paris1.fr/ecandidat/">REGISTRATION</a></i>
-
-# Courses
-
-The list of courses is available [here](/en/course).
