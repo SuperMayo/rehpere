@@ -9,7 +9,7 @@ lang: fr
 Pour s'inscrire <i class="fas fa-hand-point-right"></i> <i> <a href="https://ecandidat.univ-paris1.fr/ecandidat/">INSCRIPTION</a></i>.
 </center>
 
-# Presentation générale
+# Présentation générale
 {: #presentation}
 
 Unique en France, le Master 2 “Économie et Sciences Humaines : Épistémologie, Méthodes, Théories” de l’Université Paris 1 Panthéon-Sorbonne est centré sur l’épistémologie de l’économie et sur l’histoire récente de la discipline. Il propose une formation qui permet d’interroger les relations mouvantes et complexes de l’économie avec d’autres disciplines, que ce soit pour comprendre les conditions de production des connaissances et leurs usages dans la sphère académique ou pour éclairer les dimensions normatives et les usages politiques des théories.
