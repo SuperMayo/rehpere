@@ -40,7 +40,7 @@ Une partie des étudiantes et des étudiants ayant suivi le M2 ESH se destinent 
 
 Faire un stage pendant l’année de M2 peut être un atout pour la poursuite d’un parcours professionnel. Le M2 ESH accompagne les étudiants qui souhaitent faire un stage orienté vers la recherche. Différents organismes publics ou parapublics, des collectivités, sont susceptibles de proposer des missions sur des thématiques qui intéressent les étudiants, en cohérence avec le projet de mémoire de recherche.
 
-# Offre de formation
+# Offre de formation (en cours de validation)
 
 ### Cours obligatoires
 
@@ -95,7 +95,7 @@ Pratiques de la recherche et Cercle d'épistémologie économique
 
 <br>
 
-Vous pouvez consulter la maquette générale du master:
+Vous pouvez consulter la maquette générale du master (sous réserve de validation, en cours):
 
 - [Maquette S3](/assets/pdf/maquette_S3.pdf)
 

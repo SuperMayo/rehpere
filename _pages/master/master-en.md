@@ -39,7 +39,7 @@ Some of the students who have completed the M2 ESH program intend to pursue a th
 
 Doing an internship during the M2 year can be an asset for pursuing a professional career. The M2 ESH program supports students who wish to do a research-oriented internship. Various public or semi-public organizations and local authorities are likely to offer assignments on topics of interest to students, in line with the research project.
 
-# Formation
+# Formation (in the process of being validated)
 
 ### Required courses
 
@@ -95,7 +95,7 @@ Research in practice and "Cercle d'Epistémologie Economique"
 
 <br>
 
-You can consult the general model of the master:
+You can consult the general model of the master (in the process of being validated):
 
 - [Maquette S3](/assets/pdf/maquette_S3.pdf)
 
