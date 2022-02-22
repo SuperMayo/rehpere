@@ -757,29 +757,35 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "en"
-  status: "Ph.D in economics"
+  status: "Post-doc"
   statuscode: "phd"
-  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  institution: "Center for the History of Political Economy, Duke University"
   themes:
     - History of financial economics
-    - Efficient market hypothesis
-    - Information
-    - Regulation
+    - Quantitative history
+    - Methodology of economics
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
+    - name: "Website"
+      link: "https://www.thomasdelcey.com/#about"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3545180"
     - name: "C.V"
       link: "/assets/pdf/CV_delcey.pdf"
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    My research focuses on the history of the efficient market hypothesis,
-    a concept that is central to financial economics but also extremely controversial.
-    My work proposes a long history of market efficiency, covering the evolution of the concept,
-    and the related communities of economists, over the XXth century. Through this analysis, my objective
-    is to understand the evolution of economic thought regarding financial markets, their functioning and their role in society.
+    I am a historian of economics. My research aims at tracing the evolution of economic thought
+    about financial markets through the 20th century. I use qualitative data (content analysis,
+    private and administrative archives, oral history) and, more recently, quantitative data (bibliometric analysis and text mining).
+
+    I completed a Ph.D. in economics at the University of Paris I Panthéon Sorbonne in 2021;
+    I am currently a post-doctoral fellow at the Center for the History of Political Economy at Duke University.
+    I work currently on three projects: (a) the emergence of the U.S. economic thought about
+    speculation and its regulation during the interwar period, (b) a history of the concept
+    of bubbles, with a special focus on the tulip mania, (c) building quantitative tools for
+    measuring the impact of business schools on contemporary economics.
 
 
 ############  Thomas Delcey - fr   #############
@@ -789,31 +795,38 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "fr"
-  status: "Docteur en éconoomie"
+  status: "Post-doc"
   statuscode: "phd"
-  institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
+  institution: "Center for the History of Political Economy, Duke University"
   themes:
     - Histoire de l'économie financière
-    - Efficience des marchés financiers
-    - Information
-    - Régulation
+    - Histoire quantitative
+    - Méthodologie de l'économie
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
+    - name: "Site web"
+      link: "https://www.thomasdelcey.com/#about"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3545180"
     - name: "C.V"
       link: "/assets/pdf/CV_delcey.pdf"
-  contact: "thodelcey@hotmail.fr"
+  contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    Mes recherches portent sur l'histoire du concept d'efficience des marchés,
-    une notion centrale en économie financière mais aussi extrêmement controversée.
-    Mes travaux proposent une histoire de longue durée de l'efficience des marchés,
-    qui couvre l'évolution de ce concept, et les communautés d'économistes associées,
-    tout au long du XXème siècle. A travers cette analyse, mon objectif est de
-    comprendre l'évolution de la pensée économique concernant les marchés financiers,
-    leur fonctionnement et leur rôle dans la société.
+    Je suis historien de l'économie. Mes recherches portent sur l'évolution de la pensée
+    économique en matière de marchés financiers au cours du XXe siècle. J'utilise des données
+    qualitatives (analyse de contenu, archives privées et administratives, histoire orale) et,
+    plus récemment, des données quantitatives (analyse bibliométrique et text mining).
+
+    J'ai obtenu un doctorat en économie à l'Université de Paris I Panthéon Sorbonne en 2021 ;
+    je suis actuellement post-doctorant au Center for the History of Political Economy de
+    l'Université Duke.  Je travaille actuellement sur trois projets : (a) l'émergence de la
+    pensée économique américaine concernant la spéculation et sa régulation durant
+    l'entre-deux-guerres, (b) une histoire du concept de bulles, avec un focus particulier
+    sur la tulip mania, (c) la construction d'outils quantitatifs pour mesurer l'influence
+    des écoles de commerce sur l'économie contemporaine.
+
 
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
