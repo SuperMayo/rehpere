@@ -765,8 +765,8 @@
     - Quantitative history
     - Methodology of economics
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
+    - name: "Website"
+      link: "https://www.thomasdelcey.com/#about"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "SSRN"
@@ -803,15 +803,15 @@
     - Histoire quantitative
     - Méthodologie de l'économie
   external:
-    - name: "Université Paris 1 Panthéon-Sorbonne"
-      link: "https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1[uid]=tdelcey&cHash=7958e71df2d80291fd27b7e7833452f8"
+    - name: "Site web"
+      link: "https://www.thomasdelcey.com/#about"
     - name: "HAL"
       link: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/thomas-delcey"
     - name: "SSRN"
       link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3545180"
     - name: "C.V"
       link: "/assets/pdf/CV_delcey.pdf"
-  contact: "thodelcey@hotmail.fr"
+  contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
     Je suis historien de l'économie. Mes recherches portent sur l'évolution de la pensée
