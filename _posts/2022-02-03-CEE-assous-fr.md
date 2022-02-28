@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2022-02-01
-ref: CEE-monnet-2022-02-01
+ref: CEE-assous-2022-02-01
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _3 Février_ at _6pm_
