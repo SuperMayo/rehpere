@@ -1815,28 +1815,17 @@
   lang: "fr"
   status: "Doctorant"
   statuscode: "phd"
-  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
+  institution: "Université de Lille, Clersé"
   themes:
-    - Economie de la qualité
-    - Quantification
-    - Méthodes hédoniques
-    - Hypothèse de nomenclature
-  authors:
-    - Kevin Lacaster,
-    - Sherwin Rosen
-    - George Akerlof
+    - qualité des produits
+    - différenciation
+    - méthodologie économique
   external:
-    - name: "Linkedin"
-      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
-    - name: "C.V."
-      link: "/assets/pdf/CV_julien-gradoz.pdf"
-  contact: "julien.gradoz@ens-cachan.fr"
+    - name: "Page personnelle"
+      link: "https://sites.google.com/site/gradozjulien/home?fbclid=IwAR20IzrKzJOqaN4kmXrut3Zryn9kfiCzjd3s1GM6WURNJPofqtnys0zPEjc"
+  contact: "julien.gradoz@univ-lille.fr"
   free_text: >
-    Mon travail de recherche porte actuellement sur les débats autour de l’introduction de
-    la qualité des produits dans la théorie lancasterienne et à sa diffusion plus large dans
-    la théorie microéconomique des années 1970 (méthodes hédoniques, théorie de la différenciation,
-    économie de l’information). Je m’intéresse également à la réception critique de cette approche
-    dans une certaine littérature économique française d’inspiration sociologique dans les années 1990.
+    Mon travail s'intéresse aux enjeux méthodologiques de l'introduction de la qualité des produits parmi les variables de la coordination marchande dans la théorie microéconomique depuis les années 1970.
 
 ############ Julien Gradoz en #############
 - firstname: "Julien"
@@ -1846,28 +1835,18 @@
   lang: "en"
   status: "PhD candidate"
   statuscode: "phd"
-  institution: "Clersé (Centre lillois d’études et de recherches sociologiques et économiques)"
+  institution: "Université de Lille, Clersé"
   themes:
-    - Economics of quality
-    - Quantification
-    - Hedonic methodology
-    - Nomenclature hypothesis
-  authors:
-    - Kevin Lacaster,
-    - Edward Chamberlin
-    - George Akerlof
+    - quality of products
+    - differenciation
+    - methodology of economics
   external:
-    - name: "Linkedin"
-      link: "https://www.linkedin.com/in/julien-gradoz-07031211b/"
-    - name: "C.V."
-      link: "/assets/pdf/CV_julien-gradoz.pdf"
-  contact: "julien.gradoz@ens-cachan.fr"
+    - name: "Personal website"
+      link: "https://sites.google.com/site/gradozjulien/home?fbclid=IwAR20IzrKzJOqaN4kmXrut3Zryn9kfiCzjd3s1GM6WURNJPofqtnys0zPEjc"
+  contact: "julien.gradoz@univ-lille.fr"
   free_text: >
-    My current research focuses on the debates concerning the introduction of
-    the quality of products in Lancasterian theory and its wider diffusion in
-    the microeconomic theory of the 1970s (hedonic methods, differentiation theory,
-    information economics). I am also interested in the critical reception of this
-    approach in a certain French economic literature of sociological inspiration in the 1990s.
+    My current research focuses on the methodological issue in the introduction of
+    the quality of products in the microeconomic theory of the 1970s.
 
 ############ Cristian Fraser fr #############
 - firstname: "Cristian"
