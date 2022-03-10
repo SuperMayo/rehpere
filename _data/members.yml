@@ -2302,7 +2302,7 @@
   authors:
     - John Stuart Mill
   external:
-    - name: "Institution profile page"
+    - name: "University personal page"
       link: "https://www.gold.ac.uk/institute-management-studies/staff/villeneuve-louise/"
   contact: "l.villeneuve@gold.ac.uk"
   free_text: >
@@ -2324,7 +2324,56 @@
   authors:
     - John Stuart Mill
   external:
-    - name: "Profil de l'université"
+    - name: "Page de l'université"
       link: "https://www.gold.ac.uk/institute-management-studies/staff/villeneuve-louise/"
   contact: "l.villeneuve@gold.ac.uk"
   free_text: >
+
+
+  ############ Amanar Akhabbar en #############
+- firstname: "Amanar"
+  surname: "Akhabbar"
+  flatname: "amanar-akhabbar"
+  picture: "amanar-akhabbar.jpg"
+  lang: "en"
+  status: "Professor"
+  statuscode: "mdc"
+  institution: "ESSCA School of Management, Paris campus"
+  themes:
+    - input-output analysis
+    - general equilibrium theory
+    - econometrics
+  authors:
+    - Wassily Leontief
+  external:
+    - name: "University personal page"
+      link: "https://www.essca.fr/people/akhabbar-amanar-professeur"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3415733"
+  contact: "amanar.akh@gmail.com"
+  free_text: >
+    My research focuses on the history and epistemology of quantitative economics. Quantitative Economics was a distant ideal for many economists and has been made a practical reality by many others. It has taken various forms and is continuously evolving, from the Harvard Barometers and NBER early time series, to the Structural Econometrics of the Cowles Commission and more recent randomized controlled trials and other experimental approaches. My focus is on Interindustry Economics—Input-Output Analysis—as pioneered by Wassily Leontief in the interwar at Harvard University, its emergence and development as one of the various forms taken by quantitative economics.
+
+  ############ Amanar Akhabbar fr #############
+- firstname: "Amanar"
+  surname: "Akhabbar"
+  flatname: "amanar-akhabbar"
+  picture: "amanar-akhabbar.jpg"
+  lang: "fr"
+  status: "Professeur"
+  statuscode: "mdc"
+  institution: "ESSCA School of Management, Paris campus"
+  themes:
+    - analyse input-output
+    - théorie de l'équilibre générale
+    - econometrie
+  authors:
+    - Wassily Leontief
+  external:
+    - name: "Page de l'université"
+      link: "https://www.essca.fr/people/akhabbar-amanar-professeur"
+    - name: "SSRN"
+      link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3415733"
+  contact: "amanar.akh@gmail.com"
+  free_text: >
+    Mes recherches portent sur l'histoire et l'épistémologie de l'économie quantitative. L'économie quantitative a d'abord été un idéal lointain pour de nombreux économistes avant d'être transformée en une réalité pratique par de nombreux autres. Elle prend diverses formes et évolue en permanence, depuis les baromètres de Harvard et les premières séries chronologiques du NBER jusqu'à l'économétrie structurelle de la Commission Cowles et, plus récemment, les essais contrôlés randomisés et autres approches expérimentales. Je me concentre sur l'économie interindustrielle —l'analyse input-output— telle qu'elle a été formalisée par Wassily Leontief dans l'entre-deux-guerres à l'université de Harvard, sur son émergence et son développement comme l'une des diverses formes prises par l'économie quantitative.
