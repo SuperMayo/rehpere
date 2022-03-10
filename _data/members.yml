@@ -1398,7 +1398,7 @@
       link: "https://ceterisneverparibus.net/"
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/mvsbach/"
-  contact: "mbach@aup.edu"
+  contact: "maria.bach@unil.ch"
   twitter: "mvsbach"
   free_text: >
     I am an historian of economics interested especially in nineteenth century Indian Economics.
@@ -1433,7 +1433,7 @@
       link: "https://ceterisneverparibus.net/"
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/mvsbach/"
-  contact: "mbach@aup.edu"
+  contact: "maria.bach@unil.ch"
   twitter: "mvsbach"
   free_text: >
     Je suis une historienne de la pensée économique intéressée en particulier par l'économie indienne du XIXe siècle.
@@ -2291,3 +2291,48 @@
     by the economists of the Soviet Union in the 1920s and 1930s, especially those of Vladimir Bazarov. He used analogies with chemical
     reactions to model the "restoration process" of the Soviet economy after the revolution and the logic of a pendulum to explain the general
     equilibrium. This work involves the detailed analysis of primary sources and also the analysis of economic journals of the time.
+
+  ############ Louise Villeneuve en #############
+- firstname: "Louise"
+  surname: "Villeneuve"
+  flatname: "louise-villeneuve"
+  picture: "louise-villeneuve.jpg"
+  lang: "en"
+  status: "Ph.D. student"
+  statuscode: "phd"
+  institution: "Goldsmiths, University of London"
+  themes:
+    - Consommation
+    - Consommation non productive
+    - Art
+    - Histoire conceptuelle
+    - Histoire intellectuelle
+  authors:
+    - John Stuart Mill
+  external:
+    - name: "Institution profile page"
+      link: "https://www.gold.ac.uk/institute-management-studies/staff/villeneuve-louise/"
+  contact: "l.villeneuve@gold.ac.uk"
+  free_text: >
+
+  ############ Louise Villeneuve fr #############
+- firstname: "Louise"
+  surname: "Villeneuve"
+  flatname: "louise-villeneuve"
+  picture: "louise-villeneuve.jpg"
+  lang: "fr"
+  status: "Doctorante"
+  statuscode: "phd"
+  institution: "Goldsmiths, University of London"
+  themes:
+    - Consumption
+    - Non-productive consumption
+    - Art
+    - Intellectual History
+  authors:
+    - John Stuart Mill
+  external:
+    - name: "Profil de l'université"
+      link: "https://www.gold.ac.uk/institute-management-studies/staff/villeneuve-louise/"
+  contact: "l.villeneuve@gold.ac.uk"
+  free_text: >
