@@ -2265,11 +2265,10 @@
   statuscode: "phd"
   institution: "Goldsmiths, University of London"
   themes:
-    - Consommation
-    - Consommation non productive
+    - Consumption
+    - Non-productive consumption
     - Art
-    - Histoire conceptuelle
-    - Histoire intellectuelle
+    - Intellectual History
   authors:
     - John Stuart Mill
   external:
@@ -2290,10 +2289,11 @@
   statuscode: "phd"
   institution: "Goldsmiths, University of London"
   themes:
-    - Consumption
-    - Non-productive consumption
+    - Consommation
+    - Consommation non productive
     - Art
-    - Intellectual History
+    - Histoire conceptuelle
+    - Histoire intellectuelle
   authors:
     - John Stuart Mill
   external:
@@ -2303,7 +2303,7 @@
   free_text: >
     Ma recherche porte sur la façon dont la consommation a été conceptualisée en économie politique avant la révolution marginaliste. En effet, la place de la consommation dans les traités d’économie politique avant la fin du 19ème siècle n’était pas primordial. La consommation n'était pas non plus au centre des définitions de l'économie politique. Ma thèse analyse donc les discours économiques portant sur la consommation à une époque où celle-ci n’était pas systématiquement entendue comme une « activité économique productive ».  Dans ce contexte, elle analyse les concepts de consommation productive et non productive ainsi que leur place ou non dans l’économie politique. Elle s’intéresse particulièrement à la façon dont John Stuart Mill a conceptualisé la consommation et pourquoi selon lui elle ne relèverait pas de l’économie politique. L’analyse de ces discours se situe à la fin des débats sur le luxe qui ont traversé le 18ème siècle ainsi que dans un contexte où la croissance de la production liée à la révolution industrielle s’est accompagnée d’un désir croissant de consommer. L’objectif de ma thèse est de révéler des conceptions de la consommation alternatives à celles qui ont émergé avec le tournant marginaliste et qui dans une large mesure, prévalent encore aujourd’hui.
 
-    
+
   ############ Amanar Akhabbar en #############
 - firstname: "Amanar"
   surname: "Akhabbar"
