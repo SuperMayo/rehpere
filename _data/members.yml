@@ -1112,12 +1112,13 @@
   institution: "Université de Côte d'Azur"
   themes:
     - history of macroeconomics
-    - disequilibrium theory
-    - microfoundations
-    - economic expertise
-  authors:
-    - Edmond Malinvaud
-    - Old Keynesians
+    - economic methodology and Philosophy
+    - disequilibrium Macroeconomics
+    - large-scale macroeconometric models
+    - (macroeconomic) agent-based models
+    - economic history
+    - history of European integration
+    - developement economics
   external:
     - name: "Thèses.fr"
       link: "https://www.theses.fr/2016PA01E055"
@@ -1141,12 +1142,13 @@
   institution: "Université de Côte d'Azur"
   themes:
     - histoire de la macroéconomie
-    - théorie du déséquilibre
-    - microfondations
-    - expertise économique
-  authors:
-    - Edmond Malinvaud
-    - Anciens Keynésiens
+    - méthodologie et philosophie l'économie
+    - macroéconomie des déséquilibre
+    - large-scale macroeconometric models
+    - (macroeconomic) agent-based models
+    - histoire économique
+    - histoire de l'integration européenne
+    - economie du development
   external:
     - name: "Thèses.fr"
       link: "https://www.theses.fr/2016PA01E055"
