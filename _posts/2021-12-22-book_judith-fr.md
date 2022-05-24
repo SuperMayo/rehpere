@@ -4,7 +4,7 @@ title: "Sortie du <i>Hasard de la preuve</i> de Judith Favereau"
 date: 2021-12-22
 ref: book-judith
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <center>

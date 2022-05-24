@@ -5,10 +5,8 @@
   course_type_id: 1
   semester: 3
   prof_id:
-    - annie-cot
-    - jerome-lallement
     - jean-lenfant
-  prof_name: Annie L. Cot, Jérôme Lallement, Jean-Sébastien Lenfant
+  prof_name: Cyril Hédoin, Jean-Sébastien Lenfant
   lang: "fr"
   description: >
     Ce cours, avec le cours « Épistémologie de l’économie II » propose une introduction aux épistémologies des théories économiques.
@@ -17,7 +15,7 @@
     Il a pour objectif de présenter les débats de méthode qui structurent le champ de l’économie sur certains sujets essentiels : les critères de validité des théories ; les débats entre rationalisme et positivisme, entre induction, déduction et abduction ; la querelle entre monisme méthodologique et dualisme méthodologique ; les questions de frontières disciplinaires ; le rôle performatif des énoncés économiques ; les auteurs et les traditions qu’ils ont initiées ; l’ontologie
 
 
-    Ce séminaire présente quelques grands débats de méthode auxquels se sont confrontés les économistes, depuis la naissance de l’économie politique jusqu’à la période contemporaine.
+    Ce séminaire présente quelques grands débats de méthode auxquels se sont confrontés les économistes, depuis la naissance de l’économie politique jusqu’à la période contemporaine. Ces débats seront regroupés en quatre chapitres
 
     - Intervenants :
       - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
@@ -33,9 +31,8 @@
   course_type_id: 1
   semester: 3
   prof_id:
-    - annie-cot
     - jean-lenfant
-  prof_name: Annie L. Cot, Jean-Sébastien Lenfant
+  prof_name: Samuel Ferey, Jean-Sébastien Lenfant
   lang: "fr"
   description: >
     Le cours « Épistémologie de l’économie II » complète les thématiques du cours « Épistémologie de l’économie I ».
@@ -50,6 +47,7 @@
     L’ontologie de la marchandise a été plusieurs fois questionnée (ex. Marx et la réalité sociale de la valeur de la marchandise ; Lancaster et la déconstruction des biens en caractéristiques). Une littérature riche repense l’agent économique à partir du concept d’identité multiple (multiple selves). La théorie autrichienne et l’économie évolutionniste théorisent le marché et les institutions comme des objets naturels. Enfin, l’avènement de l’économie écologique a été accompagné de débats virulents sur ses ontologies fondatrices (écosystème, environnement, climat, paysages).
 
     - Intervenants :
+      - Samuel Ferey (<a href="mailto:samuel.ferey@univ-lorraine.fr">annie.cot@univ-paris1.fr</a>)
       - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
       - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
       - Antoine Missemer
@@ -64,10 +62,8 @@
   course_type: Required Course
   semester: 3
   prof_id:
-    - annie-cot
-    - jerome-lallement
     - jean-lenfant
-  prof_name: Annie L. Cot, Jérôme Lallement, Jean-Sébastien Lenfant
+  prof_name: Cyril Hédoin, Jean-Sébastien Lenfant
   lang: "en"
   description: >
     This course, together with the course "Epistemology of Economics II", offers an introduction to the epistemologies of economic theories.
@@ -79,7 +75,7 @@
     This seminar presents some of the major methodological debates that have confronted economists from the birth of political economy to the contemporary period.
 
     - Teachers:
-      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
+      - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">samuel.ferey@univ-lorraine.fr</a>)
       - Jérôme Lallement (<a href="mailto:jerome.lallement@univ-paris1.fr">jerome.lallement@univ-paris1.fr</a>)
       - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
 
@@ -95,7 +91,7 @@
   prof_id:
     - annie-cot
     - jean-lenfant
-  prof_name: Annie L. Cot, Jean-Sébastien Lenfant
+  prof_name: Samuel Ferey, Jean-Sébastien Lenfant
   lang: "en"
   description: >
     The course "Epistemology of Economics II" completes the themes of the course "Epistemology of Economics I".
@@ -111,6 +107,7 @@
 
 
     - Teachers:
+      - Samuel Ferey (<a href="mailto:samuel.ferey@univ-lorraine.fr">samuel.ferey@univ-lorraine.fr</a>)
       - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
       - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
       - Antoine Missemer
@@ -174,6 +171,9 @@
   prof_id: dorian-jullien
   lang: 'fr'
   description: >
+    Le Séminaire se déroule en deux temps.
+
+
     Premièrement, un cours magistral introduit quelques prérequis pour cerner la structure globale de la théorie du choix rationnel, en distinguant ses concepts centraux (utilité, préférence et choix) et ses principaux domaines d'applications (la décision sous certitude, sous incertitude, dans le temps et vis-à-vis d'autrui), avant de présenter un ensemble de contributions en histoire et en philosophie de la théorie du choix rationnel. Nous explorons aussi bien des ouvrages "classiques" tels que Modeling Rational Agents de Nicola Giocoli (2003) ou *Rationalizing Capitalist Democracy* de Sonja Amadae (2003) que des travaux plus récents comme ceux de Wade Hands, Catherine Herfeld, Ivan Moscati et d'autres sur la théorie du consommateur, la théorie de l'utilité espérée, les nudges, les problèmes d'interprétations des concepts d'utilité, de préférences et de choix, etc.  L'objectif est d'identifier les thèmes qui n’ont pas été beaucoup étudiés dans ces travaux à la lumière de la structure globale de la théorie du choix rationnel introduite au début du cours.
 
 
@@ -263,6 +263,7 @@
   course_type_id: 1
   semester: 3
   prof_name: Jean-Sébastien Lenfant, Goulven Rubin
+  prof_id: jean-lenfant
   lang: 'fr'
   description: >
     Le séminaire de méthodes aborde différentes dimensions du travail de recherche. Il permet d’appréhender les questions d’historiographie, d’édition critique, de gestion des ressources documentaires, de présentation du mémoire, et propose une première prise en main du logiciel de traitement de données R.
@@ -304,15 +305,65 @@
 
     - Practical Information: S3, 18h, Maison des Sciences Économiques.
 
+- course_name: "Quantifier et modéliser en économie"
+  course_id: quantify-model
+  course_rank: 6
+  course_type: Required course
+  course_type_id: 1
+  semester: 4
+  prof_id: francesco-sergi
+  prof_name: Francesco Sergi
+  lang: 'fr'
+  description: >
+    L'objectif du séminaire « Quantifier et modéliser en économie (STS) » est d'analyser, d’une part, les processus historiques et sociaux qui amènent à la quantification du monde économique et social, et d’autre part, la manière dont cette quantification est mobilisée pour agir sur le monde (politiques publiques, politiques économiques, …). En s’appuyant sur l’étude historique de diverses épisodes (du XIXe siècle à aujourd’hui), les séances du séminaire visent à illustrer un résultat simple : « la donnée n'est pas une donnée ». De l’indice des prix à la consommation aux scénarios climatiques du GIEC, en passant par le PIB et la mesure des discriminations salariales, toute forme de quantification est le résultat de débats et controverses, compromis et conventions entre les différents acteurs de la société, animés par des logiques différentes et parfois contradictoires (chercheurs universitaires de disciplines différentes, statisticiens, enquêteurs, informaticiens, élus, directeurs des administrations publiques, journalistes, militants et activistes, …). Le séminaire met également en lumière les fonctions des activités de modélisation (macroéconomique, économétrique, climatique, …), notamment la fonction des modèles comme « médiateurs » ou « ponts » entre les données et la théorie, entre la quantification du présent et la quantification des avenirs possibles, et entre différents acteurs sociaux.
+
+
+    Le séminaire adopte ainsi une perspective de « socio-histoire » de la quantification, inspirée notamment des travaux de Michel Armatte et Alain Desrosières (qui assuraient les enseignements dans ce séminaire par le passé). Plus largement, en raison de cette perspective, le séminaire « Quantifier et modéliser en économie » constitue également une introduction aux méthodes d’analyse des « Sciences and Technology Studies » (STS).
+
+
+    Le séminaire s'appuie sur la lecture, la présentation et la discussion d’articles de recherche (voir bibliographie). Les thématiques spécifiques abordées sont définies également en fonction des intervenants invités.
+
+
+    - Intervenants :
+      - Francesco Sergi
+      - Invités
+
+    - Informations pratiques : S4, 18h, Maison des Sciences Économiques.
+
+- course_name: "Quantification and Modelling in Economics (STS)"
+  course_id: quantify-model
+  course_rank: 6
+  course_type: Required course
+  course_type_id: 1
+  semester: 4
+  prof_id: francesco-sergi
+  prof_name: Francesco Sergi
+  lang: 'en'
+  description: >
+    The purpose of the seminar “Quantification and modelling in economics (STS)” is to analyse two historical and social processes: on the one hand, the process of quantification of the economic and social reality; on the other hand, how quantification is used to shape real-world policies. By relying on the analysis of different historical episodes (from the XIXth century to present-day examples), the seminar illustrates that data (the consumer price index, climate change scenarios from IPCC,   macroeconomic forecasts, …) are the results of debates and conventions across different social groups (academics, policymakers, statisticians, staff of of policymaking institutions, journalists, politicians, computer scientists …) driven by distinct (and somehow antagonist) social endeavours. The seminar also presents the different functions of modelling, such as providing “mediation” or “building bridges” between different social groups, between theory and data, between the quantification of the present and the quantification of possible futures.
+
+
+    The seminar takes the perspective of a social history of quantification, inspired from the work of Michel Armatte and Alain Desrosières (who had been in charge of this seminar in the past). As a result, the seminar also provides an introduction to Sciences and Technology Studies (STS).
+
+
+    The seminar relies on readings, presentations by students, and discussion of research articles in French and in English (see bibliography). Specific themes are addressed each year in relation with some invited lecturers.
+
+
+    - Teachers:
+      - Francesco Sergi (<a href="mailto:francesco.sergi@u-pec.fr">francesco.sergi@u-pec.fr</a>)
+      - Invited Speakers
+
+    - Practical Information: S4, 18h, Maison des Sciences Économiques.
+
+
 - course_name: "Pratiques de le recherche"
   course_id: research-practice
   course_rank: 7
   course_type: Required course
   course_type_id: 1
   semester: 4
-  prof_name: Jean-Sébastien Lenfant, Dorian Jullien, Aurélien Goutsmedt
+  prof_name: Dorian Jullien, Aurélien Goutsmedt
   prof_id:
-    - jean-lenfant
     - dorian-jullien
     - aurelien-goutsmedt
   lang: 'fr'
@@ -355,9 +406,8 @@
   course_type: Required course
   course_type_id: 1
   semester: 4
-  prof_name: Jean-Sébastien Lenfant, Dorian Jullien, Aurélien Goutsmedt
+  prof_name: Dorian Jullien, Aurélien Goutsmedt
   prof_id:
-    - jean-lenfant
     - dorian-jullien
     - aurelien-goutsmedt
   lang: 'en'
