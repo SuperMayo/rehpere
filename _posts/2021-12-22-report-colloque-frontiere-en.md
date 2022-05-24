@@ -4,7 +4,7 @@ title: "Conference Postponed - Recent Shifts in the Boundaries of Economics: Phi
 date: 2021-12-18
 ref: colloque-frontiere
 lang: en
-anchor: true
+anchor: false
 ---
 
 <div class="alert alert-primary" role="alert">

@@ -4,7 +4,7 @@ title: "Report du colloque - Les frontières de l’économie : déplacements r�
 date: 2021-12-18
 ref: report-colloque-frontiere
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <div class="alert alert-primary" role="alert">
