@@ -215,29 +215,29 @@ philo-social:
 
 experimental-economics:
     fr: |
-        Part 1 What is it? 
-            1: The emergence of experiments in economics 
-            2: A laboratory experiment, in the class. 
-        Part 2 Why? The need for experimental methods in economics. 
-            3: The need for experimental methods in empirical economics. 
-            4: The need for experimental methods in economic theory.
-        Part 3 How? Laboratory experiments in practice 
-            5: Designing an experiment: internal validity issues 
-            6: Practicalities and training to Z-tree programming 
-        Part 4 What for? What laboratory experiments tell us 
-            7: About the real world: external validity issues 
-            8: About economic theory and public policies 
-    
-   en: |
-        Part 1 What is it? 
-            1: The emergence of experiments in economics 
-            2: A laboratory experiment, in the class. 
-        Part 2 Why? The need for experimental methods in economics. 
-            3: The need for experimental methods in empirical economics. 
-            4: The need for experimental methods in economic theory.
-        Part 3 How? Laboratory experiments in practice 
-            5: Designing an experiment: internal validity issues 
-            6: Practicalities and training to Z-tree programming 
-        Part 4 What for? What laboratory experiments tell us 
-            7: About the real world: external validity issues 
-            8: About economic theory and public policies 
+        1. Part 1 What is it? 
+            - The emergence of experiments in economics 
+            - A laboratory experiment, in the class. 
+        2. Part 2 Why? The need for experimental methods in economics. 
+            - The need for experimental methods in empirical economics. 
+            - The need for experimental methods in economic theory.
+        3. Part 3 How? Laboratory experiments in practice 
+            - Designing an experiment: internal validity issues 
+            - Practicalities and training to Z-tree programming 
+        4. Part 4 What for? What laboratory experiments tell us 
+            - About the real world: external validity issues 
+            - About economic theory and public policies 
+
+    en: |    
+        1. Part 1 What is it? 
+            - The emergence of experiments in economics 
+            - A laboratory experiment, in the class. 
+        2. Part 2 Why? The need for experimental methods in economics. 
+            - The need for experimental methods in empirical economics. 
+            - The need for experimental methods in economic theory.
+        3. Part 3 How? Laboratory experiments in practice 
+            - Designing an experiment: internal validity issues 
+            - Practicalities and training to Z-tree programming 
+        4. Part 4 What for? What laboratory experiments tell us 
+            - About the real world: external validity issues 
+            - About economic theory and public policies 
