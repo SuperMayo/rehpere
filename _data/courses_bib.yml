@@ -517,3 +517,14 @@ philo-social:
       - ROSA, Hartmut, Accélération. Une critique sociale du temps, trad. D. Renaut, Paris, La découverte, 2010.
       - YOUNG, Iris Marion, Justice and the Politics of Difference, Princeton, Princeton University Press, 1990.
       - YOUNG, Iris Marion, Responsibility for Justice, Oxford, Oxford University Press, 2011.
+
+behavioral-finance:
+  bib: |
+    - Forbes, William (2009) Behavioural Finance, Wiley.
+    - Akerlof, George and Robert Shiller (2009) Animal Spirits, Princeton University Press.
+    - Barberis, Nicholas C. and Richard Thaler (2003) “A Survey of Behavioral Finance”,
+    - Handbook of the Economics of Finance, G. Constantinides, R. Stulz, M. Harris eds., North Holland, Amsterdam.
+    - Kahneman, Daniel (2013) Thinking Fast and Slow, Farrar, Straus and Giroux.
+    - Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
+    - Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
+    - Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.

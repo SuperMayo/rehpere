@@ -47,7 +47,7 @@
     L'ontologie de la marchandise a été plusieurs fois questionnée (ex. Marx et la réalité sociale de la valeur de la marchandise ; Lancaster et la déconstruction des biens en caractéristiques). Une littérature riche repense l'agent économique à partir du concept d'identité multiple (multiple selves). La théorie autrichienne et l'économie évolutionniste théorisent le marché et les institutions comme des objets naturels. Enfin, l'avènement de l'économie écologique a été accompagné de débats virulents sur ses ontologies fondatrices (écosystème, environnement, climat, paysages).
 
     - Intervenants :
-      - Samuel Ferey (<a href="mailto:samuel.ferey@univ-lorraine.fr">annie.cot@univ-paris1.fr</a>)
+      - Samuel Ferey (<a href="mailto:samuel.ferey@univ-lorraine.fr">samuel.ferey@univ-lorraine.fr</a>)
       - Annie L. Cot (<a href="mailto:annie.cot@univ-paris1.fr">annie.cot@univ-paris1.fr</a>)
       - Jean-Sébastien Lenfant (<a href="mailto:jean-sebastien.lenfant@univ-paris1.fr">jean-sebastien.lenfant@univ-paris1.fr</a>)
       - Antoine Missemer
@@ -702,7 +702,9 @@
     Cette formation vise à exploiter une base de données ou un corpus lexicométrique déjà constitué à travers différentes méthodes, ainsi que des données issues du web. Celle-ci s'attachera à enseigner les méthodes d'analyse de données permettant d'aller plus loin dans l'exploration d'un gisement de données historiques (analyses factorielles, classifications, etc.). Après quelques rappels de statistiques descriptives et inférentielles, cette approche sera croisée avec des outils de visualisation des données (analyses réseaux et cartographie). Les étudiants se familiariseront ainsi avec le logiciel d'analyses statistiques open source R.
 
 
-    Responsables : Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr), Julien Alerini
+    - Responsables : 
+      - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+      - Julien Alerini
 
 
     Informations pratiques : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
@@ -715,7 +717,9 @@
   semester: 3
   course_type_id: 2
   description: >
-    Responsables : Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr), Julien Alerini
+    - Teachers : 
+        - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+        - Julien Alerini
 
 
     Informations pratiques : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
@@ -1367,28 +1371,24 @@
   description: >
     There is a growing strand of research suggesting that the standard economic paradigm-i.e. the assumptions that investors are fully rational, that markets are efficient and that collective actions are in efficient markets-does not adequately describe behavior in financial markets. Behavioral finance research argues that many facts about asset prices, investor behavior, and managerial behavior are best understood in models and empirical papers where at least some agents are recognized as being not fully rational. In this course, we will explore part of this literature.
 
+
     In particular, we will focus on understanding the motivations behind the study of behavioral aspects of financial decision-making and of finance as an industry. We will study the limits to arbitrage, investor psychology, some experimental behavioral finance, some behavioral corporate finance and finally, we will focus on topics related to learning and information.
+
 
     In addition to overviewing some of the most important existing results, you will learn key research capabilities. In particular, you will learn how to read research papers, how to identify the key aspects of a research strategy and how to overview empirical results. You will also participate in a few experiments, and help analyze the results in class.
 
+
     70%: Exam It will be a closed-book exam. To prepare for the exam, you should review the key topics studied in class and in the readings. I do not expect you to know all the results of the research papers that you will study, but I expect you to be able to summarize the main findings that we studied in class. You should also review the homework assignments you handed in. The schedule for the exam will be released at the beginning of the second semester.
+    
     
     20%: Homework assignments: You need to summarize two research papers over the course of the semester. Please pick papers from the list above. You will hand in homework assignments in groups or 2 to 5 students and you will sent the assignments to me by email the day before class. Each summary needs to fit in a single page and it needs to be sent in a word or open office format.
     
-    10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
     
-    Suggested readings
-    Forbes, William (2009) Behavioural Finance, Wiley.
-    Akerlof, George and Robert Shiller (2009) Animal Spirits, Princeton University Press.
-    Barberis, Nicholas C. and Richard Thaler (2003) “A Survey of Behavioral Finance”,
-    Handbook of the Economics of Finance, G. Constantinides, R. Stulz, M. Harris eds., North Holland, Amsterdam.
-    Kahneman, Daniel (2013) Thinking Fast and Slow, Farrar, Straus and Giroux.
-    Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
-    Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
-    Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.
-
+    10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class. 
+    
     
     Informations pratiques :  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
+    
     
     [Page web du cours](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
 
@@ -1403,27 +1403,23 @@
   description: >
     There is a growing strand of research suggesting that the standard economic paradigm-i.e. the assumptions that investors are fully rational, that markets are efficient and that collective actions are in efficient markets-does not adequately describe behavior in financial markets. Behavioral finance research argues that many facts about asset prices, investor behavior, and managerial behavior are best understood in models and empirical papers where at least some agents are recognized as being not fully rational. In this course, we will explore part of this literature.
 
+
     In particular, we will focus on understanding the motivations behind the study of behavioral aspects of financial decision-making and of finance as an industry. We will study the limits to arbitrage, investor psychology, some experimental behavioral finance, some behavioral corporate finance and finally, we will focus on topics related to learning and information.
+
 
     In addition to overviewing some of the most important existing results, you will learn key research capabilities. In particular, you will learn how to read research papers, how to identify the key aspects of a research strategy and how to overview empirical results. You will also participate in a few experiments, and help analyze the results in class.
 
+
     70%: Exam It will be a closed-book exam. To prepare for the exam, you should review the key topics studied in class and in the readings. I do not expect you to know all the results of the research papers that you will study, but I expect you to be able to summarize the main findings that we studied in class. You should also review the homework assignments you handed in. The schedule for the exam will be released at the beginning of the second semester.
-    
+
+
     20%: Homework assignments: You need to summarize two research papers over the course of the semester. Please pick papers from the list above. You will hand in homework assignments in groups or 2 to 5 students and you will sent the assignments to me by email the day before class. Each summary needs to fit in a single page and it needs to be sent in a word or open office format.
-    
+
+
     10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
     
-    Suggested readings
-    Forbes, William (2009) Behavioural Finance, Wiley.
-    Akerlof, George and Robert Shiller (2009) Animal Spirits, Princeton University Press.
-    Barberis, Nicholas C. and Richard Thaler (2003) “A Survey of Behavioral Finance”,
-    Handbook of the Economics of Finance, G. Constantinides, R. Stulz, M. Harris eds., North Holland, Amsterdam.
-    Kahneman, Daniel (2013) Thinking Fast and Slow, Farrar, Straus and Giroux.
-    Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
-    Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
-    Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.
-
     
     Practical information :  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
+    
     
     [Course's web page](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
