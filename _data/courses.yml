@@ -691,7 +691,7 @@
 
     Informations pratiques : S3, Sorbonne, cours du M2 Philosophie et Société.
 
-- course_name: "Visualisations des données avec R"
+- course_name: "Analyse et visualisation de données"
   course_id: visualisation-r
   course_master: "Master Histoire de Paris 1, parcours HSNQ"
   lang: "fr"
@@ -707,7 +707,7 @@
 
     Informations pratiques : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
 
-- course_name: "Data Visualisations with R"
+- course_name: "Data Analysis and Visualisation"
   course_id: visualisation-r
   course_master: "Master Histoire of Paris 1, parcours HSNQ"
   lang: "en"
@@ -949,29 +949,51 @@
   description: >
     TBA
 
-- course_name: "Modèle stratégique et rationalité"
+- course_name: "Théorie des jeux et philosophie politique"
   course_id: strategic-model
   course_master: "M2 Philo et Société"
   lang: "fr"
+  prof_name: Joseph Abdou et Emmanuel Picavet 
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Issu d’une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles, institutions et processus politiques, qui mettent l’accent sur les normes et les problèmes de la rationalité (individuelle et collective). On s’intéressera aux problèmes d’action collective, de coordination et d’organisation qui sont au cœur de nombreuses recherches en sciences politiques et en philosophie politique, mais aussi dans les mathématiques sociales. L’objectif est de contribuer à l’avancement des études sur la théorie des normes et des institutions de la vie publique, autour de notions telles que les pouvoirs, les droits et l’organisation internationale.
+    
+    L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d’examen sont conçus de manière à permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
 
-- course_name: "Strategic Model and Rationality"
+    1.	Instrumental rationality and strategy in individual choice (E.Picavet)
+
+    2.	Interactive nature of political choice (E.Picavet)
+
+    3.	Cooperative games and power (J.Abdou)
+
+    4.	Procedural rationality and social choice analysis (E. Picavet)
+
+    5.	Strategy and the main results of social choice theory (J. Abdou)
+
+    6.	Effectivity functions, notions of power and interactive forms (J. Abdou)
+
+    Indications bibliographiques :
+    Arrow, Kenneth J. 1951. Social Choice and Individual Values. New York: Wiley, 1951. Traduction en français, Choix collectifs et préférences individuelles. Paris: Calmann-¬Lévy.
+    Boudon (Raymond), Le juste et le vrai. Etude sur l’objectivité des valeurs et de la connaissance, Paris, Fayard, 1995.
+    Buchanan (James M.) et Tullock (Gordon), Calculus of Consent. The Logical Foundations of Constitutional Democracy, Ann Arbor, University of Michigan Press, 1962.
+    Damien (Robert) et Tosel (André) (dir.), L’Action collective. Coordination, conseil, planification, Besançon, diffusion Les Belles-Lettres, 1998.
+    Lewis (David K.), Convention. A Philosophical Study, Cambridge (MA), Harvard University Press, 1969.
+    Luce (R. Duncan) et Raiffa (Howard), Games and Decisions, New York, Wiley, 1957.
+    Morrow (James D.), Game Theory for Political Scientists, Princeton (NJ), Princeton University Press, 1994.
+    Moulin (Hervé), Théorie des jeux pour l’économie et la politique, Paris, Hermann, 1981.
+    Saint-Sernin (Bertrand), Les Mathématiques de la décision. Paris, Presses Universitaires de France, 1973.
+    Sen (Amartya K.), Collective Choice and Social Welfare, Edimbourg, Oliver & Boyd et Amsterdam, North-Holland, 1970.
+    Séris (Jean-Pierre), La Théorie des jeux. Paris, Presses Universitaires de France, 1974.
+    Van Hees (Martin), Rights and Decisions. Formal Models of Law and Liberalism, Dordrecht, Kluwer Academic Press, 1995.
+
+
+- course_name: "Game theory and political philosophy"
   course_id: strategic-model
   course_master: "M2 Philo et Société"
   lang: "en"
+  prof_name: Joseph Abdou et Emmanuel Picavet 
   semester: 4
-  course_type_id: 2
-  description: >
-    TBA
-
-- course_name: "Economie expérimentale"
-  course_id: experimental-economics
-  course_master: "M2 APE"
-  lang: "fr"
-  semester: 3
   course_type_id: 2
   description: >
     TBA
@@ -979,11 +1001,72 @@
 - course_name: "Experimental Economics"
   course_id: experimental-economics
   course_master: "M2 APE"
-  lang: "en"
+  lang: "fr"
+  prof_name: Nicolas Jacquemet
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    The course provides an overview of the use of laboratory experiments as an empirical method to investigate research questions in economics and social sciences. The focus is methodological, and illustrated based on examples and applications taken from the literature. 
+
+    Outline : 
+    
+    Part 1 What is it? 
+    1: The emergence of experiments in economics 2: A laboratory experiment, in the class. 
+    
+    Part 2 Why? The need for experimental methods in economics. 
+    3: The need for experimental methods in empirical economics. 4: The need for experimental methods in economic theory 
+    
+    Part 3 How? Laboratory experiments in practice 
+    5: Designing an experiment: internal validity issues 6: Practicalities and training to Z-tree programming 
+    
+    Part 4 What for? What laboratory experiments tell us 
+    7: About the real world: external validity issues 8: About economic theory and public policies 
+    
+    Grading : 
+    Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
+
+    Responsable du cours : Nicolas Jacquemet (nicolas.jacquemet@univ-paris1.fr)
+    
+    
+    Informations pratiques : S3, cours du M2 APE.
+    
+    [Page web du cours](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics) 
+
+    
+    
+- course_name: "Experimental Economics"
+  course_id: experimental-economics
+  course_master: "M2 APE"
+  lang: "en"
+  prof_name: Nicolas Jacquemet
+  semester: 3
+  course_type_id: 2
+  description: >
+    The course provides an overview of the use of laboratory experiments as an empirical method to investigate research questions in economics and social sciences. The focus is methodological, and illustrated based on examples and applications taken from the literature. 
+
+    Outline : 
+    
+    Part 1 What is it? 
+    1: The emergence of experiments in economics 2: A laboratory experiment, in the class. 
+    
+    Part 2 Why? The need for experimental methods in economics. 
+    3: The need for experimental methods in empirical economics. 4: The need for experimental methods in economic theory 
+    
+    Part 3 How? Laboratory experiments in practice 
+    5: Designing an experiment: internal validity issues 6: Practicalities and training to Z-tree programming 
+    
+    Part 4 What for? What laboratory experiments tell us 
+    7: About the real world: external validity issues 8: About economic theory and public policies 
+    
+    Grading : 
+    Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
+
+    Responsable du cours : Nicolas Jacquemet (nicolas.jacquemet@univ-paris1.fr)
+    
+    
+    Practical information : S3, cours du M2 APE.
+    
+    [Course's web page](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics)
 
 - course_name: "Datamining"
   course_id: datamining
@@ -1003,19 +1086,24 @@
   description: >
     TBA
 
-- course_name: "Textométrie"
+- course_name: "Lexicométrie"
   course_id: textometry
   course_master: "Master Histoire de Paris 1, parcous HSNQ"
   lang: "fr"
+  prof_name: Stéphane Lamassé, Julien Alerini
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    Cet enseignement vise à approfondir la découverte de la lexicométrie pour l'historien au sein des formations initiales et n’est pas destinée à des spécialistes, mais à quiconque souhaiterait aller plus loin. Les séances seront partagées entre des lectures d'articles et d'extraits d'ouvrages sur l'utilisation des méthodes lexicométriques en histoire et des travaux pratiques sur ordinateur. Nous aborderons les techniques d'acquisition et de construction de corpus (balisage, lemmatisation et étiquetage morpho-syntaxique), les différentes méthodes de mesures lexicales et d'interrogation de corpus étiquetés, les analyses multivariées (AFC lexicales) ainsi que les méthodes de classifications (CAH, Kohonen, Alceste) et les réseaux de mots (matrices de co-occurrences). Pour ce faire différents logiciels seront mobilisés : Lexico 3, CooCS, TreeTagger, TXM, Iramuteq.
+   
+   
+    Informations pratiques : S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
 
-- course_name: "Textometry"
+- course_name: "Lexicometry"
   course_id: textometry
   course_master: "Master Histoire de Paris 1, parcous HSNQ"
   lang: "en"
+  prof_name: Stéphane Lamassé, Julien Alerini
   semester: 3
   course_type_id: 2
   description: >
@@ -1191,23 +1279,43 @@
   description: >
     TBA
 
-- course_name: "Topics in Antitrust"
+- course_name: "Industrial organization and applications to antitrust and regulation"
   course_id: antitrust
   course_master: "M2 APE"
   lang: "fr"
+  prof_name: David Spector
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    This class is a sequel to the Industrial Organization class taught in S1 by B. Caillaud and J.-P. Tropeano, but it has a different balance between theory and applications, with more emphasis on the application of theory to competition policy. In fact, one could almost put it the other way around, since many of the theoretical models taught in this class were developed to address issues raised by competition authorities in recent cases. The reading list also includes a few articles by legal scholars in order to provide context and show how students and practitioners of competition law make use of economic theory.
 
-- course_name: "Topics in Antitrust"
+    The class will focus on three broad topics: exclusionary strategies, how firms collude (with a focus on information exchanges and 'hub-and-spoke') and new theories of harm for mergers. Each class will blend a presentation of the main models and a discussion of decisions by competition authorities (for the most part, the European Commission).
+    
+    Grading will be based on student presentations that will be assigned during the first class. I expect the first student presentations to take place during the fourth class. The earliest presentations will benefit from more lenient grading to account for the more limited time.
+
+    Responsable : David Spector (spector@pse.ens.fr)
+    
+    
+    Informations pratiques : S4, 18h, Campus Jourdan, cours du M2 APE.
+
+- course_name: "Industrial organization and applications to antitrust and regulation"
   course_id: antitrust
   course_master: "M2 APE"
+  prof_name: David Spector
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    This class is a sequel to the Industrial Organization class taught in S1 by B. Caillaud and J.-P. Tropeano, but it has a different balance between theory and applications, with more emphasis on the application of theory to competition policy. In fact, one could almost put it the other way around, since many of the theoretical models taught in this class were developed to address issues raised by competition authorities in recent cases. The reading list also includes a few articles by legal scholars in order to provide context and show how students and practitioners of competition law make use of economic theory.
+
+    The class will focus on three broad topics: exclusionary strategies, how firms collude (with a focus on information exchanges and 'hub-and-spoke') and new theories of harm for mergers. Each class will blend a presentation of the main models and a discussion of decisions by competition authorities (for the most part, the European Commission).
+    
+    Grading will be based on student presentations that will be assigned during the first class. I expect the first student presentations to take place during the fourth class. The earliest presentations will benefit from more lenient grading to account for the more limited time.
+
+    Responsable : David Spector (spector@pse.ens.fr)
+    
+    
+    Informations pratiques : S4, 18h, Campus Jourdan, cours du M2 APE.
 
 - course_name: "Interactions sociales"
   course_id: social-interactions
@@ -1249,20 +1357,73 @@
   description: >
     TBA
 
-- course_name: "Finance Comportementale"
+- course_name: "Behavioral Finance"
   course_id: behavioral-finance
   course_master: "M2 E&P"
   lang: "fr"
+  prof_name: Béatrice Boulu-Reshef
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    There is a growing strand of research suggesting that the standard economic paradigm-i.e. the assumptions that investors are fully rational, that markets are efficient and that collective actions are in efficient markets-does not adequately describe behavior in financial markets. Behavioral finance research argues that many facts about asset prices, investor behavior, and managerial behavior are best understood in models and empirical papers where at least some agents are recognized as being not fully rational. In this course, we will explore part of this literature.
+
+    In particular, we will focus on understanding the motivations behind the study of behavioral aspects of financial decision-making and of finance as an industry. We will study the limits to arbitrage, investor psychology, some experimental behavioral finance, some behavioral corporate finance and finally, we will focus on topics related to learning and information.
+
+    In addition to overviewing some of the most important existing results, you will learn key research capabilities. In particular, you will learn how to read research papers, how to identify the key aspects of a research strategy and how to overview empirical results. You will also participate in a few experiments, and help analyze the results in class.
+
+    70%: Exam It will be a closed-book exam. To prepare for the exam, you should review the key topics studied in class and in the readings. I do not expect you to know all the results of the research papers that you will study, but I expect you to be able to summarize the main findings that we studied in class. You should also review the homework assignments you handed in. The schedule for the exam will be released at the beginning of the second semester.
+    
+    20%: Homework assignments: You need to summarize two research papers over the course of the semester. Please pick papers from the list above. You will hand in homework assignments in groups or 2 to 5 students and you will sent the assignments to me by email the day before class. Each summary needs to fit in a single page and it needs to be sent in a word or open office format.
+    
+    10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
+    
+    Suggested readings
+    Forbes, William (2009) Behavioural Finance, Wiley.
+    Akerlof, George and Robert Shiller (2009) Animal Spirits, Princeton University Press.
+    Barberis, Nicholas C. and Richard Thaler (2003) “A Survey of Behavioral Finance”,
+    Handbook of the Economics of Finance, G. Constantinides, R. Stulz, M. Harris eds., North Holland, Amsterdam.
+    Kahneman, Daniel (2013) Thinking Fast and Slow, Farrar, Straus and Giroux.
+    Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
+    Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
+    Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.
+
+    
+    Informations pratiques :  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
+    
+    [Page web du cours](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
+
 
 - course_name: "Behavioral Finance"
   course_id: behavioral-finance
   course_master: "M2 E&P"
   lang: "en"
+  prof_name: Béatrice Boulu-Reshef
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    There is a growing strand of research suggesting that the standard economic paradigm-i.e. the assumptions that investors are fully rational, that markets are efficient and that collective actions are in efficient markets-does not adequately describe behavior in financial markets. Behavioral finance research argues that many facts about asset prices, investor behavior, and managerial behavior are best understood in models and empirical papers where at least some agents are recognized as being not fully rational. In this course, we will explore part of this literature.
+
+    In particular, we will focus on understanding the motivations behind the study of behavioral aspects of financial decision-making and of finance as an industry. We will study the limits to arbitrage, investor psychology, some experimental behavioral finance, some behavioral corporate finance and finally, we will focus on topics related to learning and information.
+
+    In addition to overviewing some of the most important existing results, you will learn key research capabilities. In particular, you will learn how to read research papers, how to identify the key aspects of a research strategy and how to overview empirical results. You will also participate in a few experiments, and help analyze the results in class.
+
+    70%: Exam It will be a closed-book exam. To prepare for the exam, you should review the key topics studied in class and in the readings. I do not expect you to know all the results of the research papers that you will study, but I expect you to be able to summarize the main findings that we studied in class. You should also review the homework assignments you handed in. The schedule for the exam will be released at the beginning of the second semester.
+    
+    20%: Homework assignments: You need to summarize two research papers over the course of the semester. Please pick papers from the list above. You will hand in homework assignments in groups or 2 to 5 students and you will sent the assignments to me by email the day before class. Each summary needs to fit in a single page and it needs to be sent in a word or open office format.
+    
+    10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
+    
+    Suggested readings
+    Forbes, William (2009) Behavioural Finance, Wiley.
+    Akerlof, George and Robert Shiller (2009) Animal Spirits, Princeton University Press.
+    Barberis, Nicholas C. and Richard Thaler (2003) “A Survey of Behavioral Finance”,
+    Handbook of the Economics of Finance, G. Constantinides, R. Stulz, M. Harris eds., North Holland, Amsterdam.
+    Kahneman, Daniel (2013) Thinking Fast and Slow, Farrar, Straus and Giroux.
+    Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
+    Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
+    Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.
+
+    
+    Practical information :  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
+    
+    [Course's web page](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
