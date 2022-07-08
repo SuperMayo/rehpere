@@ -211,3 +211,33 @@ philo-social:
         5. Politique et droit
           - J. Habermas, Droit et démocratie
           - Iris M. Young, Justice and the Politics of Difference (2 séances)
+ 
+
+experimental-economics:
+    fr: |
+        1. Part 1 What is it? 
+            - The emergence of experiments in economics 
+            - A laboratory experiment, in the class. 
+        2. Part 2 Why? The need for experimental methods in economics. 
+            - The need for experimental methods in empirical economics. 
+            - The need for experimental methods in economic theory.
+        3. Part 3 How? Laboratory experiments in practice 
+            - Designing an experiment: internal validity issues 
+            - Practicalities and training to Z-tree programming 
+        4. Part 4 What for? What laboratory experiments tell us 
+            - About the real world: external validity issues 
+            - About economic theory and public policies 
+
+    en: |    
+        1. Part 1 What is it? 
+            - The emergence of experiments in economics 
+            - A laboratory experiment, in the class. 
+        2. Part 2 Why? The need for experimental methods in economics. 
+            - The need for experimental methods in empirical economics. 
+            - The need for experimental methods in economic theory.
+        3. Part 3 How? Laboratory experiments in practice 
+            - Designing an experiment: internal validity issues 
+            - Practicalities and training to Z-tree programming 
+        4. Part 4 What for? What laboratory experiments tell us 
+            - About the real world: external validity issues 
+            - About economic theory and public policies 

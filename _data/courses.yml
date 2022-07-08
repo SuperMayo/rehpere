@@ -703,9 +703,8 @@
 
 
     - Responsables : 
-      - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+      - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr</a>)
       - Julien Alerini
-
 
     Informations pratiques : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
 
@@ -718,11 +717,11 @@
   course_type_id: 2
   description: >
     - Teachers : 
-        - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+        - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr</a>)
         - Julien Alerini
 
 
-    Informations pratiques : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
+    Practical information : S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
 
 
 - course_name: "Socio-histoire de la statistique"
@@ -1011,33 +1010,22 @@
   course_type_id: 2
   description: >
     The course provides an overview of the use of laboratory experiments as an empirical method to investigate research questions in economics and social sciences. The focus is methodological, and illustrated based on examples and applications taken from the literature. 
-
-    Outline : 
     
-    Part 1 What is it? 
-    1: The emergence of experiments in economics 2: A laboratory experiment, in the class. 
-    
-    Part 2 Why? The need for experimental methods in economics. 
-    3: The need for experimental methods in empirical economics. 4: The need for experimental methods in economic theory 
-    
-    Part 3 How? Laboratory experiments in practice 
-    5: Designing an experiment: internal validity issues 6: Practicalities and training to Z-tree programming 
-    
-    Part 4 What for? What laboratory experiments tell us 
-    7: About the real world: external validity issues 8: About economic theory and public policies 
     
     Grading : 
+    
+    
     Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
 
-    Responsable du cours : Nicolas Jacquemet (nicolas.jacquemet@univ-paris1.fr)
+
+    Responsable du cours : Nicolas Jacquemet (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
     
     
     Informations pratiques : S3, cours du M2 APE.
     
+    
     [Page web du cours](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics) 
 
-    
-    
 - course_name: "Experimental Economics"
   course_id: experimental-economics
   course_master: "M2 APE"
@@ -1047,28 +1035,19 @@
   course_type_id: 2
   description: >
     The course provides an overview of the use of laboratory experiments as an empirical method to investigate research questions in economics and social sciences. The focus is methodological, and illustrated based on examples and applications taken from the literature. 
-
-    Outline : 
     
-    Part 1 What is it? 
-    1: The emergence of experiments in economics 2: A laboratory experiment, in the class. 
-    
-    Part 2 Why? The need for experimental methods in economics. 
-    3: The need for experimental methods in empirical economics. 4: The need for experimental methods in economic theory 
-    
-    Part 3 How? Laboratory experiments in practice 
-    5: Designing an experiment: internal validity issues 6: Practicalities and training to Z-tree programming 
-    
-    Part 4 What for? What laboratory experiments tell us 
-    7: About the real world: external validity issues 8: About economic theory and public policies 
     
     Grading : 
+    
+    
     Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
 
-    Responsable du cours : Nicolas Jacquemet (nicolas.jacquemet@univ-paris1.fr)
+
+    Teacher : Nicolas Jacquemet  (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
     
     
     Practical information : S3, cours du M2 APE.
+    
     
     [Course's web page](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics)
 
