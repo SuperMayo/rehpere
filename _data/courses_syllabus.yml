@@ -211,52 +211,76 @@ philo-social:
         5. Politique et droit
           - J. Habermas, Droit et démocratie
           - Iris M. Young, Justice and the Politics of Difference (2 séances)
- 
+
 
 experimental-economics:
     fr: |
-        1. Part 1 What is it? 
-            - The emergence of experiments in economics 
-            - A laboratory experiment, in the class. 
-        2. Part 2 Why? The need for experimental methods in economics. 
-            - The need for experimental methods in empirical economics. 
+        1. Part 1 What is it?
+            - The emergence of experiments in economics
+            - A laboratory experiment, in the class.
+        2. Part 2 Why? The need for experimental methods in economics.
+            - The need for experimental methods in empirical economics.
             - The need for experimental methods in economic theory.
-        3. Part 3 How? Laboratory experiments in practice 
-            - Designing an experiment: internal validity issues 
-            - Practicalities and training to Z-tree programming 
-        4. Part 4 What for? What laboratory experiments tell us 
-            - About the real world: external validity issues 
-            - About economic theory and public policies 
+        3. Part 3 How? Laboratory experiments in practice
+            - Designing an experiment: internal validity issues
+            - Practicalities and training to Z-tree programming
+        4. Part 4 What for? What laboratory experiments tell us
+            - About the real world: external validity issues
+            - About economic theory and public policies
 
-    en: |    
-        1. Part 1 What is it? 
-            - The emergence of experiments in economics 
-            - A laboratory experiment, in the class. 
-        2. Part 2 Why? The need for experimental methods in economics. 
-            - The need for experimental methods in empirical economics. 
+    en: |
+        1. Part 1 What is it?
+            - The emergence of experiments in economics
+            - A laboratory experiment, in the class.
+        2. Part 2 Why? The need for experimental methods in economics.
+            - The need for experimental methods in empirical economics.
             - The need for experimental methods in economic theory.
-        3. Part 3 How? Laboratory experiments in practice 
-            - Designing an experiment: internal validity issues 
-            - Practicalities and training to Z-tree programming 
-        4. Part 4 What for? What laboratory experiments tell us 
-            - About the real world: external validity issues 
-            - About economic theory and public policies 
+        3. Part 3 How? Laboratory experiments in practice
+            - Designing an experiment: internal validity issues
+            - Practicalities and training to Z-tree programming
+        4. Part 4 What for? What laboratory experiments tell us
+            - About the real world: external validity issues
+            - About economic theory and public policies
 
 
 strategic-model:
     fr: |
-        1.	Instrumental rationality and strategy in individual choice (E.Picavet)  
-        2.	Interactive nature of political choice (E.Picavet) 
-        3.	Cooperative games and power (J.Abdou) 
+        1.	Instrumental rationality and strategy in individual choice (E.Picavet)
+        2.	Interactive nature of political choice (E.Picavet)
+        3.	Cooperative games and power (J.Abdou)
         4.	Procedural rationality and social choice analysis (E. Picavet)
         5.	Strategy and the main results of social choice theory (J. Abdou)
         6.	Effectivity functions, notions of power and interactive forms (J. Abdou)
 
-    en: |    
-        1.	Instrumental rationality and strategy in individual choice (E.Picavet)  
-        2.	Interactive nature of political choice (E.Picavet) 
-        3.	Cooperative games and power (J.Abdou) 
+    en: |
+        1.	Instrumental rationality and strategy in individual choice (E.Picavet)
+        2.	Interactive nature of political choice (E.Picavet)
+        3.	Cooperative games and power (J.Abdou)
         4.	Procedural rationality and social choice analysis (E. Picavet)
         5.	Strategy and the main results of social choice theory (J. Abdou)
         6.	Effectivity functions, notions of power and interactive forms (J. Abdou)
-            
+
+applied-ethics:
+    fr: |
+        1. Audard (C.) Qu’est-ce que le libéralisme ? Paris, Gallimard, 2009.
+        2. Ballet (J.), Bazin (D.), Dubois (J.-L.) et Mahieu (F.-R.) Freedom, Responsibility and Economics of the Person. Londres et New York, Routledge, 2014.
+        3. Ege (R.) et Igersheim (H.), dir., Freedom and Happiness in Economic Thought and Philosophy. Londres et New York, Routledge, 2011.
+        4. Leroux (A.) et Livet (P.), dir., Leçons de philosophie économique, 2 vols. Paris, Economica, 2005-2006.
+        5. Peter (F.) et Schmidt (H.B.), dir., Rationality and Commitment, Oxford, Oxford University Press, 2007.
+        6. Rawls (J.) Théorie de la justice, tr. f. par C. Audard de la 1ère éd.; Paris, PUF; et 2ème éd., Harvard UP, 1999.
+        7. Sandel (M.) Le libéralisme et les limites de la justice. Paris, Seuil.
+        8. Taylor (Ch.) La liberté des Modernes. Paris, Presses Universitaires de France.
+        9. Sen (A.K) Collective Choice and Social Welfare. Amsterdam, North Holland et Edimbourg, Oliver & Boyd, 1970.
+        10. Sen (A.K.) Inequality Reexamined. Oxford, Clarendon Press, 1992.
+
+    en: |
+        1. Audard (C.) Qu’est-ce que le libéralisme ? Paris, Gallimard, 2009.
+        2. Ballet (J.), Bazin (D.), Dubois (J.-L.) et Mahieu (F.-R.) Freedom, Responsibility and Economics of the Person. Londres et New York, Routledge, 2014.
+        3. Ege (R.) et Igersheim (H.), dir., Freedom and Happiness in Economic Thought and Philosophy. Londres et New York, Routledge, 2011.
+        4. Leroux (A.) et Livet (P.), dir., Leçons de philosophie économique, 2 vols. Paris, Economica, 2005-2006.
+        5. Peter (F.) et Schmidt (H.B.), dir., Rationality and Commitment, Oxford, Oxford University Press, 2007.
+        6. Rawls (J.) Théorie de la justice, tr. f. par C. Audard de la 1ère éd.; Paris, PUF; et 2ème éd., Harvard UP, 1999.
+        7. Sandel (M.) Le libéralisme et les limites de la justice. Paris, Seuil.
+        8. Taylor (Ch.) La liberté des Modernes. Paris, Presses Universitaires de France.
+        9. Sen (A.K) Collective Choice and Social Welfare. Amsterdam, North Holland et Edimbourg, Oliver & Boyd, 1970.
+        10. Sen (A.K.) Inequality Reexamined. Oxford, Clarendon Press, 1992.    

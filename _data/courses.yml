@@ -772,9 +772,12 @@
   description: >
     Les étudiant.es peuvent choisir jusqu'à deux cours de ce master. L’offre de cours est disponible [ici](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html)
 
+
     Pour connaître les cours effectivement dispensés chaque année, contactez Nathalie Sigot (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr).
 
+
     Responsable de la formation : Nathalie Sigot (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr)
+
 
     Informations pratiques : S3 et S4, Maison des sciences économiques.
 
@@ -790,7 +793,9 @@
   description: >
     Students can choose up to two course of this other joint master program. The list of courses is available [here](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html)
 
+
     To know courses effectively provide during the year, please contact the head of the formation (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr).
+
 
     Practical information : S3 or S4. Venue: Maison des sciences économiques.
 
@@ -832,7 +837,7 @@
     Head of the formation: Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
     Practical information: S3
-    
+
 - course_name: "Histoire sociale des idées politiques"
   course_id: social-history-ideas
   course_master: "M2 Philosophie et société"
