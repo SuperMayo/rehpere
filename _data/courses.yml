@@ -770,13 +770,10 @@
     - 4
   course_type_id: 2
   description: >
-    Les étudiant.es peuvent choisir jusqu'à deux cours de ce master. L’offre de cours est disponible [ici](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html)
+    Les étudiant.es peuvent choisir jusqu'à deux cours de ce master. L’offre de cours est disponible [ici](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html).
 
 
-    Pour connaître les cours effectivement dispensés chaque année, contactez Nathalie Sigot (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr).
-
-
-    Responsable de la formation : Nathalie Sigot (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr)
+    Pour connaître les cours effectivement dispensés chaque année, contactez la responsable de la formation : Nathalie Sigot (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr)
 
 
     Informations pratiques : S3 et S4, Maison des sciences économiques.
@@ -791,7 +788,7 @@
     - 4
   course_type_id: 2
   description: >
-    Students can choose up to two course of this other joint master program. The list of courses is available [here](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html)
+    Students can choose up to two course of this other joint master program. The list of courses is available [here](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-sciences-economiques-et-sociales-KBUS90N2/master-parcours-histoire-de-la-pensee-economique-hpe-KBUSBEIU.html).
 
 
     To know courses effectively provide during the year, please contact the head of the formation (<a href="mailto:nathalie.sigot@univ-paris1.fr">nathalie.sigot@univ-paris1.fr).
@@ -810,12 +807,16 @@
   description: >
     L’éthique sociale générale et divers champs appliqués de l’éthique des pratiques sont aujourd’hui marqués par l’articulation difficile, autant que nécessaire, entre le souci de la liberté de choix et les besoins réels ou supposés de l’organisation collective. L’autonomie individuelle est une source de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d’organisation, elle ne parvient à éliminer les conflits de principes qui retiendront l’attention.
 
+
     On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation des situations de libre choix et d’expression de l’autonomie. Il sera nécessaire de revenir sur quelques sources doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux, développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
+
 
     Le parcours comportera des études de cas dans le champ des politiques et des formes d’organisation mettant en jeu les exigences d’autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence, seront encouragés.
     Ce cours peut être complété par « Éthique appliquée 2 » au second semestre.
 
+
     Responsable du cours: Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
+
 
     Information pratique: S3
 
@@ -829,41 +830,74 @@
   description: >
     L’éthique sociale générale et divers champs appliqués de l’éthique des pratiques sont aujourd’hui marqués par l’articulation difficile, autant que nécessaire, entre le souci de la liberté de choix et les besoins réels ou supposés de l’organisation collective. L’autonomie individuelle est une source de normativité éthique et sociale importante. Toutefois, pas plus que les impératifs d’organisation, elle ne parvient à éliminer les conflits de principes qui retiendront l’attention.
 
+
     On étudiera l’influence des contextes d’organisation sur la pertinence éthique des idées relatives au libre choix. On examinera également le rôle, dans la délimitation des problèmes éthiques, de la conceptualisation des situations de libre choix et d’expression de l’autonomie. Il sera nécessaire de revenir sur quelques sources doctrinales des débats contemporains (libéralisme politique, théories des droits individuels, analyse des choix sociaux, développement des conceptions économiques de la liberté de choix et théorie des « capabilités »).
+
 
     Le parcours comportera des études de cas dans le champ des politiques et des formes d’organisation mettant en jeu les exigences d’autonomie. Les exposés portant sur des questions théoriques ou appliqués, ou encore sur des textes de référence, seront encouragés.
     Ce cours peut être complété par « Éthique appliquée 2 » au second semestre.
 
-    Head of the formation: Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
+
+    Teacher: Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
+
 
     Practical information: S3
+
 
 - course_name: "Histoire sociale des idées politiques"
   course_id: social-history-ideas
   course_master: "M2 Philosophie et société"
+  prof_name: Frédérique Matonti
   lang: "fr"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+
+    L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone. Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge, apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby). La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
+
+
+    L’objectif de ce cours est de se demander comment faire une autre histoire des idées, c’est-à-dire qui ne soit ni exclusivement idéaliste (« les idées font l’histoire ») ni exclusivement déterministe (« les idées des acteurs sont déterminées par les positions sociales »). On se posera la question à partir du second vingtième siècle. Le séminaire sera consacré d’une part aux questions méthodologiques (autour de l’Ecole de Cambridge et de Quentin Skinner, des travaux de Chartier ou des pistes qu’ouvrent les sociologies de Max Weber, de Pierre Bourdieu ou d’Howard Becker…), et enfin de la manière dont il faut tenir compte de l’événement et des crises politiques. Le séminaire sera consacré d’autre part à deux « moments », le moment structuraliste et l’après 68. On travaillera notamment à cette occasion sur la réception des œuvres et sur la manière dont certaines questions deviennent « pensables ».
+
+    Responsable du cours: Frédérique Matonti (<a href="mailto:matontifred@icloud.com">matontifred@icloud.com)
+
+    Information pratique: S3, Sorbonne.
 
 - course_name: "Social history of political ideas"
   course_id: social-history-ideas
   course_master: "M2 Philosophie et société"
+  prof_name: Frédérique Matonti
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+      L’objectif du cours est de familiariser les étudiants à l’histoire sociale des idées (ou à la sociologie des idées selon le vocabulaire que l’on privilégiera), sous-discipline émergente en France, et très représentée dans le monde anglophone. Le cours est organisé en deux parties. La première est centrée sur la méthodologie (étude de l’École de Cambridge, apports des travaux de Howard Becker, Max Weber, Pierre Bourdieu…, prise en compte de l’événement historique à travers notamment les travaux de Timothy Tackett et Georges Duby). La seconde est centrée sur son application à une période donnée, celle des années 60-70, autour premièrement de l’apparition de l’étiquette « structuralisme » (ses conditions sociales et intellectuelles de possibilité à travers l’étude de ses auteurs « cardinaux » et de leurs disciples, des modifications du système scolaire, des bouleversements du monde des revues et des news magazine, etc…), deuxièmement des effets de « l’événement » 68 sur les idées politiques.
 
-- course_name: "Economie du bien-être et applications"
+
+      L’objectif de ce cours est de se demander comment faire une autre histoire des idées, c’est-à-dire qui ne soit ni exclusivement idéaliste (« les idées font l’histoire ») ni exclusivement déterministe (« les idées des acteurs sont déterminées par les positions sociales »). On se posera la question à partir du second vingtième siècle. Le séminaire sera consacré d’une part aux questions méthodologiques (autour de l’Ecole de Cambridge et de Quentin Skinner, des travaux de Chartier ou des pistes qu’ouvrent les sociologies de Max Weber, de Pierre Bourdieu ou d’Howard Becker…), et enfin de la manière dont il faut tenir compte de l’événement et des crises politiques. Le séminaire sera consacré d’autre part à deux « moments », le moment structuraliste et l’après 68. On travaillera notamment à cette occasion sur la réception des œuvres et sur la manière dont certaines questions deviennent « pensables ».
+
+      Teacher: Frédérique Matonti (<a href="mailto:matontifred@icloud.com">matontifred@icloud.com)
+
+      Pratical information: S3, Sorbonne.
+
+- course_name: "Economie du bien-être and applications"
   course_id: applied-welfare-economics
   course_master: "M2 APE"
   lang: "fr"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This Economic analysis of allocations and policies walks on two legs: efficiency and equity. It is important that economic experts incorporate the considerations that are relevant to the users of their evaluations and do not smuggle in special views and biases in an opaque way. Witness the quarrel between Nordhaus and Stern on the discount rate for the assessment of climate change mitigation. Nordhaus accused Stern of British imperialism and “Government-house utilitarianism” and claimed that his own approach was more democratic. In this course we present how evaluation criteria are undergoing important changes, in particular
+    under the influence of recent theories of justice, and can now better assess the efficiency and equity components of allocations and policies. And we illustrate how this gets applied in various domains of policy and social analysis (risk, inequalities, health, income tax, well-being indicators, climate). This course is at the intersection of social choice theory, welfare economics, public economics, game theory, and political economy. This course is addressed to all students planning to work on policy topics, and also introduces to open research questions.
+
+    Evaluation: Grading will rely on a final essay (around 5,000 words) for 70% and participation for 30%.
+
+    Information pratique: S3, 36h, Campus Jourdan
+
+    Teachers:
+      - Franz Dietrich
+      - Marc Fleurbaey
+      - Grégory Ponthière
+      - Stéphane Zuber
 
 - course_name: "Welfare Economics and Applications"
   course_id: applied-welfare-economics
@@ -872,7 +906,18 @@
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This Economic analysis of allocations and policies walks on two legs: efficiency and equity. It is important that economic experts incorporate the considerations that are relevant to the users of their evaluations and do not smuggle in special views and biases in an opaque way. Witness the quarrel between Nordhaus and Stern on the discount rate for the assessment of climate change mitigation. Nordhaus accused Stern of British imperialism and “Government-house utilitarianism” and claimed that his own approach was more democratic. In this course we present how evaluation criteria are undergoing important changes, in particular
+    under the influence of recent theories of justice, and can now better assess the efficiency and equity components of allocations and policies. And we illustrate how this gets applied in various domains of policy and social analysis (risk, inequalities, health, income tax, well-being indicators, climate). This course is at the intersection of social choice theory, welfare economics, public economics, game theory, and political economy. This course is addressed to all students planning to work on policy topics, and also introduces to open research questions.
+
+    Evaluation: Grading will rely on a final essay (around 5,000 words) for 70% and participation for 30%.
+
+    Information pratique: S3, 36h, Campus Jourdan
+
+    Teachers:
+      - Franz Dietrich
+      - Marc Fleurbaey
+      - Grégory Ponthière
+      - Stéphane Zuber
 
 - course_name: "Economie du bonheur et des états subjectifs"
   course_id: happiness-economics
