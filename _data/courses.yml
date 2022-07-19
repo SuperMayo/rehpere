@@ -1028,38 +1028,113 @@
 - course_name: "Organisation industrielle"
   course_id: industrial-organisation
   course_master: "M2 APE"
+  prof_name: Bernard Caillaud, Jean-Philippe Tropéano
   lang: "fr"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This course is a core course in industrial organization (IO): it is typically chosen by students registered in the Economic Theory or Regulation, Environment and Markets research workgroups. The topic of the course is to study markets in which perfect competition among firms is not an acceptable assumption. Considering imperfect competition models to analyze the supply side of many markets is critical in order to better describe how real-world markets function, what are their efficiency performances and how they can, or should, be disciplined or regulated. In this perspective, anyone interested in the supply side of the economy should find fundamental and central material in this course. In particular, students interested in competition policy, in mergers and acquisitions, in innovation, in online platforms and the use of personal data, ... from a corporate point of view or from a public policy point of view, will find the course useful.
+
+
+    Although PSE / APE is not a business school, the course is also central for those who intend to work in the consulting sector: the various pricing and marketing strategies of firms, their strategic decisions and investments, are related to the structure of the markets in which they participate, and the course will also offer insights on firms’ behavior when they try to gain or maintain market power.
+
+    Enseignants: : Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu) Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
+
+
+    Information pratique: S3, 36h Campus Jourdan, cours du M2 APE.
+
+
+    The choice of topics and of approach:
+
+
+    Industrial Organization is a vast domain of research that has been exploited heavily since the 70s. Many of the fundamental models used to analyze imperfect competition, differentiation, entry and strategic manipulation, mergers, vertical relationships, personalized pricing, R&D and patents, ... have been developed in the end of the 20th century. Even recent theoretical and empirical investigations on these themes rely on these fundamental “classical” models that most of you do not know and that all of you should learn.
+
+
+    At the same time, fascinating new challenges have been raised for IO in the past 10-15 years and there are many new developments that echo current public debates and concerns: most of them are related to the rise of the online economy as, e.g. news issues in targeted advertising, the economics of platforms, patent pools, advanced price discrimination relying on data, .... A stimulating approach to IO must necessarily spend time presenting these new issues in which research is active and promising.
+
+
+    The course will work on both frontlines! We will cover most of the standard theoretical models and explain their central theoretical contributions in the field, as these may be considered as reference points for whatever new developments in IO; and we will present a selection of recent and active topics, usually both from a theoretical and an empirical perspective. That said, it should be clear that we have a definite pro-theory bias and a definite bias towards the themes of our own research.
+
+
+    Note that the course titled “Topics in antitrust” (S4) provides a rich collection of applications of IO to competition policy issues, building on the fundamental models that we present.
+
+
+    Requirements, organization:
+
+
+    The course requires some knowledge in Microeconomics as well as in Game Theory. The course consists in 24 sessions of 1h30 each, over 12 weeks. J.P. Tropéano will deliver the first 12 sessions, and B. Caillaud will deliver the 12 other sessions. There are no tutorials associated to this course. The term paper requirement encourages you to be innovative. Depending on what you are interested in, a promising term paper can turn into a master thesis project. The idea is for you to think more deeply about one question or model seen in class, to figure out an interesting extension or variant or alternative formalization, to motivate why this is economically relevant, and to propose a model or an approach to answer your question, and to start developing the analysis or explaining the strategy for solving the model. Given the time you can devote to this term paper, it is probably more reasonable to think of a theoretical term paper or, at least, of the theoretical part of a model to be analyzed empirically; but this is not a formal requirement. You should also have a look on all the themes that we will cover early enough so as possibly to jump ahead and start reading on a topic that will be covered near the end of the course if this topic is of special interest to you. The term paper should be about 5 page long.
 
 - course_name: "Industrial Organisation"
   course_id: industrial-organisation
   course_master: "M2 APE"
+  prof_name: Bernard Caillaud, Jean-Philippe Tropéano
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This course is a core course in industrial organization (IO): it is typically chosen by students registered in the Economic Theory or Regulation, Environment and Markets research workgroups. The topic of the course is to study markets in which perfect competition among firms is not an acceptable assumption. Considering imperfect competition models to analyze the supply side of many markets is critical in order to better describe how real-world markets function, what are their efficiency performances and how they can, or should, be disciplined or regulated. In this perspective, anyone interested in the supply side of the economy should find fundamental and central material in this course. In particular, students interested in competition policy, in mergers and acquisitions, in innovation, in online platforms and the use of personal data, ... from a corporate point of view or from a public policy point of view, will find the course useful.
+
+
+    Although PSE / APE is not a business school, the course is also central for those who intend to work in the consulting sector: the various pricing and marketing strategies of firms, their strategic decisions and investments, are related to the structure of the markets in which they participate, and the course will also offer insights on firms’ behavior when they try to gain or maintain market power.
+
+    Teachers: : Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu) Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
+
+
+    Pratical information: S3, 36h Campus Jourdan, cours du M2 APE.
+
+
+    The choice of topics and of approach:
+
+
+    Industrial Organization is a vast domain of research that has been exploited heavily since the 70s. Many of the fundamental models used to analyze imperfect competition, differentiation, entry and strategic manipulation, mergers, vertical relationships, personalized pricing, R&D and patents, ... have been developed in the end of the 20th century. Even recent theoretical and empirical investigations on these themes rely on these fundamental “classical” models that most of you do not know and that all of you should learn.
+
+
+    At the same time, fascinating new challenges have been raised for IO in the past 10-15 years and there are many new developments that echo current public debates and concerns: most of them are related to the rise of the online economy as, e.g. news issues in targeted advertising, the economics of platforms, patent pools, advanced price discrimination relying on data, .... A stimulating approach to IO must necessarily spend time presenting these new issues in which research is active and promising.
+
+
+    The course will work on both frontlines! We will cover most of the standard theoretical models and explain their central theoretical contributions in the field, as these may be considered as reference points for whatever new developments in IO; and we will present a selection of recent and active topics, usually both from a theoretical and an empirical perspective. That said, it should be clear that we have a definite pro-theory bias and a definite bias towards the themes of our own research.
+
+
+    Note that the course titled “Topics in antitrust” (S4) provides a rich collection of applications of IO to competition policy issues, building on the fundamental models that we present.
+
+
+    Requirements, organization:
+
+
+    The course requires some knowledge in Microeconomics as well as in Game Theory. The course consists in 24 sessions of 1h30 each, over 12 weeks. J.P. Tropéano will deliver the first 12 sessions, and B. Caillaud will deliver the 12 other sessions. There are no tutorials associated to this course. The term paper requirement encourages you to be innovative. Depending on what you are interested in, a promising term paper can turn into a master thesis project. The idea is for you to think more deeply about one question or model seen in class, to figure out an interesting extension or variant or alternative formalization, to motivate why this is economically relevant, and to propose a model or an approach to answer your question, and to start developing the analysis or explaining the strategy for solving the model. Given the time you can devote to this term paper, it is probably more reasonable to think of a theoretical term paper or, at least, of the theoretical part of a model to be analyzed empirically; but this is not a formal requirement. You should also have a look on all the themes that we will cover early enough so as possibly to jump ahead and start reading on a topic that will be covered near the end of the course if this topic is of special interest to you. The term paper should be about 5 page long.
+
 
 - course_name: "Institutions de la monnaie et de la dette"
   course_id: monnaie-dette
   course_master: "M2 SES Institutions, Economies et Sociétés PSL-EHESS"
   lang: "fr"
+  prof_name: Benjamin Lemoine, Éric Monnet
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    Le cours mobilise sociologie, histoire et économie afin d’analyser les transformations des institutions de la monnaie et de la dette. À travers un examen historique des pratiques et des mandats respectifs des Banques centrales et des Trésors, les enseignants expliquent les liens entre États, marché de capitaux, organisation et modes de régulation du crédit et de la monnaie. Pourquoi l’émission de monnaie a-t-elle été centralisée, confiée à une seule institution (la Banque centrale), et surtout couplée à des rôles de supervision financière et de prêts bancaires ? Comment les dettes souveraines ont changé de nature selon les configurations du capitalisme, et en quoi cela informe la construction et transformation de l’État ? Le cours aborde ces questions centrales à travers des exemples historiques tant nationaux qu’internationaux et montre comment la frontière institutionnelle entre dette et monnaie est très fine, voire indissociable.
+
+    Enseignant: Benjamin Lemoine, Éric Monnet
+
+    Information pratique: S3, 18h, Campus Condorcet-Centre de colloques
+
+    Page web: https://enseignements.ehess.fr/2021-2022/ue/69
 
 - course_name: "Institutions of money and debt"
   course_id: monnaie-dette
   course_master: "M2 SES Institutions, Economies et Sociétés PSL-EHESS"
+  prof_name: Benjamin Lemoine, Éric Monnet
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    Le cours mobilise sociologie, histoire et économie afin d’analyser les transformations des institutions de la monnaie et de la dette. À travers un examen historique des pratiques et des mandats respectifs des Banques centrales et des Trésors, les enseignants expliquent les liens entre États, marché de capitaux, organisation et modes de régulation du crédit et de la monnaie. Pourquoi l’émission de monnaie a-t-elle été centralisée, confiée à une seule institution (la Banque centrale), et surtout couplée à des rôles de supervision financière et de prêts bancaires ? Comment les dettes souveraines ont changé de nature selon les configurations du capitalisme, et en quoi cela informe la construction et transformation de l’État ? Le cours aborde ces questions centrales à travers des exemples historiques tant nationaux qu’internationaux et montre comment la frontière institutionnelle entre dette et monnaie est très fine, voire indissociable.
+
+    Enseignant: Benjamin Lemoine, Éric Monnet
+
+    Information pratique: S3, 18h, Campus Condorcet-Centre de colloques
+
+    Page web: https://enseignements.ehess.fr/2021-2022/ue/69
 
 - course_name: "Economie de la transition écologique"
   course_id: ecological-transition
