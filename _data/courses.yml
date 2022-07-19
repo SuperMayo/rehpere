@@ -882,6 +882,7 @@
 - course_name: "Economie du bien-être and applications"
   course_id: applied-welfare-economics
   course_master: "M2 APE"
+  prof_name: Marc Fleurbaey
   lang: "fr"
   semester: 3
   course_type_id: 2
@@ -902,6 +903,7 @@
 - course_name: "Welfare Economics and Applications"
   course_id: applied-welfare-economics
   course_master: "M2 APE"
+  prof_name: Marc Fleurbaey
   lang: "en"
   semester: 3
   course_type_id: 2
@@ -919,41 +921,87 @@
       - Grégory Ponthière
       - Stéphane Zuber
 
-- course_name: "Economie du bonheur et des états subjectifs"
+- course_name: "Economics of happiness and subjective states"
   course_id: happiness-economics
   course_master: "M2 E&P"
+  prof_name: Andrew Clark, Sarah Flèche
   lang: "fr"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+      This course consists of six sessions of three hours each covering a number of contemporary
+      economic questions which are viewed through the lens of subjective well-being and other
+      subjective variables. The subjects covered are as follows:
+        - 1. Measurement and validity of subjective well-being
+        - 2. The Easterlin Paradox, social comparisons and adaptation
+        - 3. Subjective well-being in the workplace
+        - 4. Subjective well-being over the life-course
+        - 5. Subjective well-being, culture and institutions
+        - 6. Subjective well-being, objective well-being and public policy
+
+      Evaluation: The exam will be written, and will last two hours. Candidates will have to answer three essay
+      questions out of five. The exam can be taken in either English or French.
+
+      Enseignants: Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr) et Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
+
+      Information pratique: S3, Sorbonne.
 
 - course_name: "Economics of happiness and subjective states"
   course_id: happiness-economics
   course_master: "M2 E&P"
+  prof_name: Andrew Clark, Sarah Flèche
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+      This course consists of six sessions of three hours each covering a number of contemporary
+      economic questions which are viewed through the lens of subjective well-being and other
+      subjective variables. The subjects covered are as follows:
+        - 1. Measurement and validity of subjective well-being
+        - 2. The Easterlin Paradox, social comparisons and adaptation
+        - 3. Subjective well-being in the workplace
+        - 4. Subjective well-being over the life-course
+        - 5. Subjective well-being, culture and institutions
+        - 6. Subjective well-being, objective well-being and public policy
+
+      Evaluation: The exam will be written, and will last two hours. Candidates will have to answer three essay
+      questions out of five. The exam can be taken in either English or French.
+
+      Teacher: Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr) et Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
+
+      Pratical information: S3, Sorbonne
 
 - course_name: "Economie environmentale"
   course_id: environmental-economics
   course_master: "M2 APE"
+  prof_name: Katheline Schuber, Mireille Chiroleu-Assouline
   lang: "fr"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This is a course on natural resources economics (Part 1, Katheline Schubert) and environmental economics (Part 2, Mireille Chiroleu-Assouline).
+
+    Page web du cours : https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
+
+    Enseignants: Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr) et Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
+
+    Information pratique: S3, 36h, Campus Jourdan, cours du M2 APE.
 
 - course_name: "Environmental Economics"
   course_id: environmental-economics
   course_master: "M2 APE"
+  prof_name: Katheline Schuber, Mireille Chiroleu-Assouline
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    This is a course on natural resources economics (Part 1, Katheline Schubert) and environmental economics (Part 2, Mireille Chiroleu-Assouline).
+
+    Page web du cours : https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
+
+    Teachers: Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr) et Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
+
+    Practical information: S3, 36h, Campus Jourdan, cours du M2 APE.
 
 - course_name: "Organisation industrielle"
   course_id: industrial-organisation
