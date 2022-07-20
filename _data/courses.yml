@@ -1556,30 +1556,6 @@
 
     **Pratical information:**  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
 
-
-- course_name: "Séminaire de Philosophie politique normative"
-  course_id: normative-political-philosophy
-  course_master: "EHESS"
-  prof_name: Emmanuel Picavet
-  lang: "fr"
-  semester:
-    - 3
-    - 4
-  course_type_id: 2
-  description: >
-    TBA
-
-- course_name: "Séminaire de Philosophie politique normative"
-  course_id: normative-political-philosophy
-  course_master: "EHESS"
-  prof_name: Emmanuel Picavet
-  lang: "en"
-  semester:
-    - 3
-    - 4
-  course_type_id: 2
-  description: >
-    TBA
 - course_name: "Philosophie politique"
   course_id: political-philosophy
   course_master: "M2 Philo et société"
