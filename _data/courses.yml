@@ -1146,37 +1146,140 @@
   course_id: ecological-transition
   course_master: "EHESS"
   lang: "fr"
+  prof_name: Harold Levrel
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    La transition écologique est devenue un concept à part entière. Il fait écho à d’autres notions qui lui sont intimement liées telles que la transition démographique, la transition forestière ou la transition agro-écologique. Ce cours propose de clarifier la notion de transition écologique en s’intéressant aux relations qu’entretiennent nos systèmes économiques avec le vivant. Il vise à développer des analyses concernant les interactions entre le changement technique, les transformations institutionnelles et organisationnelles, et les dynamiques écologiques qui en résultent, en questionnant les trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles).
+
+
+    Les 8 séances de cours sont consacrées à la description des évolutions institutionnelles, techniques et organisationnelles qui permettent d’enclencher des transitions écologiques de nos systèmes économiques. Elles seront organisées autour de l’analyse des trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles). L’objectif est de proposer des cadrages théoriques et des illustrations concrètes en matière de fiscalité écologique, d’innovations comptable et financière, de droit de l’environnement, de compensations écologiques et d’usages d’outils d’évaluations.
+
+    Enseignant: Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr>Harold.Levrel@agroparistech.fr)
+
+
+    Information pratique: S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
 
 - course_name: "Economics of ecological transition"
   course_id: ecological-transition
   course_master: "EHESS"
   lang: "en"
+  prof_name: Harold Levrel
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    La transition écologique est devenue un concept à part entière. Il fait écho à d’autres notions qui lui sont intimement liées telles que la transition démographique, la transition forestière ou la transition agro-écologique. Ce cours propose de clarifier la notion de transition écologique en s’intéressant aux relations qu’entretiennent nos systèmes économiques avec le vivant. Il vise à développer des analyses concernant les interactions entre le changement technique, les transformations institutionnelles et organisationnelles, et les dynamiques écologiques qui en résultent, en questionnant les trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles).
 
-- course_name: "Emotions, identité et comportement"
-  course_id: emotions-identity
-  course_master: "M2 E&P"
-  lang: "fr"
-  semester: 3
-  course_type_id: 2
-  description: >
-    TBA
+
+    Les 8 séances de cours sont consacrées à la description des évolutions institutionnelles, techniques et organisationnelles qui permettent d’enclencher des transitions écologiques de nos systèmes économiques. Elles seront organisées autour de l’analyse des trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles). L’objectif est de proposer des cadrages théoriques et des illustrations concrètes en matière de fiscalité écologique, d’innovations comptable et financière, de droit de l’environnement, de compensations écologiques et d’usages d’outils d’évaluations.
+
+
+    Enseignant: Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr>Harold.Levrel@agroparistech.fr)
+
+
+    Information pratique: S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
 
 - course_name: "Emotions, Identity and Behavior"
   course_id: emotions-identity
   course_master: "M2 E&P"
+  prof_name: Rasyid Bo-Sanitioso, Silvia Krauth-Gruber
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    Part 1: Self, motivation and behavior (Rasyid Bo Sanitioso)
+
+
+    The first part of the course examines the Self, the motivations associated with the self, its temporal aspects and impacts on behavior. After defining the Self and looking at different theories of the Self in Social Psychology, we will compare the self across cultures specifically, independent vs. interdependent self-construal, oft associated with ‘western’ vs ‘eastern’ culture).
+
+
+    Topic 1: What is the Self? Autobiographical memories and Social Interactions as bases of self-definition of self-knowledge, Motivations related to the self
+
+
+    Topic 2: Future selves: Theory of Self-discrepancy (Emotions), Possible Selves (Motivations)
+
+
+    Topic 3: The self across cultures: Independent vs Interdependent Self construal.
+
+
+    Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber; silvia.krauth-gruber@parisdescartes.fr)
+
+
+    The second part of the course presents theoretical models and empirical studies about how, when and why emotions influence perception, judgment, and behavior. In fact, people cannot always reason, judge and act in a rational way. As will be shown, people’s economic decisions are influenced by the anticipated emotional consequences of the outcome of a decision as well as by the immediate emotions experienced at the moment of choice.
+
+
+    Topic 1: What is an emotion? Definition, classification, function, emotion-cognition link
+
+
+    Topic 2: Mood congruency or how emotions influence the content of reasoning
+
+
+    Topic 3: Emotions and information processing or how emotions influence the structure of reasoning.
+
+
+    Enseignants: Rasyid Bo-Sanitioso (<a href =mailto:rasyid.sanitioso@parisdescartes.fr)>rasyid.sanitioso@parisdescartes.fr) et Silvia Krauth-Gruber (<a href = mailto:silvia.krauth-gruber@parisdescartes.fr>silvia.krauth-gruber@parisdescartes.fr)
+
+    Information pratique: S3, 18h, cours du M2 Economics ad Psychology
+
+    Evaluation: Part 1: Students will be required to hand in an individual report (2 pages excluding references, typed, 12 points Times New Roman, 1.5 interline) linking the self (concepts/studies/results of an article) to an “economic” behavior or applying the concepts/studies/results to an economic domain/sphere – DUE DATE: 27 Nov. 2017. There is also a group presentation, for validation only (on an article from the reference list, except Sanitioso, 2008).
+
+
+    Part 2: Students will have a final exam during the last class (Nov. 29, 2017) where they have to treat questions related to topics discussed during class and in the required readings.
+
+
+    The final grade will be based on the two parts, equally weighted.
+
+
+
+- course_name: "Emotions, Identity and Behavior"
+  course_id: emotions-identity
+  course_master: "M2 E&P"
+  prof_name: Rasyid Bo-Sanitioso, Silvia Krauth-Gruber
   lang: "en"
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    Part 1: Self, motivation and behavior (Rasyid Bo Sanitioso)
+
+
+    The first part of the course examines the Self, the motivations associated with the self, its temporal aspects and impacts on behavior. After defining the Self and looking at different theories of the Self in Social Psychology, we will compare the self across cultures specifically, independent vs. interdependent self-construal, oft associated with ‘western’ vs ‘eastern’ culture).
+
+
+    Topic 1: What is the Self? Autobiographical memories and Social Interactions as bases of self-definition of self-knowledge, Motivations related to the self
+
+
+    Topic 2: Future selves: Theory of Self-discrepancy (Emotions), Possible Selves (Motivations)
+
+
+    Topic 3: The self across cultures: Independent vs Interdependent Self construal.
+
+
+    Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber; silvia.krauth-gruber@parisdescartes.fr)
+
+
+    The second part of the course presents theoretical models and empirical studies about how, when and why emotions influence perception, judgment, and behavior. In fact, people cannot always reason, judge and act in a rational way. As will be shown, people’s economic decisions are influenced by the anticipated emotional consequences of the outcome of a decision as well as by the immediate emotions experienced at the moment of choice.
+
+
+    Topic 1: What is an emotion? Definition, classification, function, emotion-cognition link
+
+
+    Topic 2: Mood congruency or how emotions influence the content of reasoning
+
+
+    Topic 3: Emotions and information processing or how emotions influence the structure of reasoning.
+
+
+    Teachers: Rasyid Bo-Sanitioso (<a href =mailto:rasyid.sanitioso@parisdescartes.fr)>rasyid.sanitioso@parisdescartes.fr) et Silvia Krauth-Gruber (<a href = mailto:silvia.krauth-gruber@parisdescartes.fr>silvia.krauth-gruber@parisdescartes.fr)
+
+    Pratical information: S3, 18h, cours du M2 Economics ad Psychology
+
+    Grading: Part 1: Students will be required to hand in an individual report (2 pages excluding references, typed, 12 points Times New Roman, 1.5 interline) linking the self (concepts/studies/results of an article) to an “economic” behavior or applying the concepts/studies/results to an economic domain/sphere – DUE DATE: 27 Nov. 2017. There is also a group presentation, for validation only (on an article from the reference list, except Sanitioso, 2008).
+
+
+    Part 2: Students will have a final exam during the last class (Nov. 29, 2017) where they have to treat questions related to topics discussed during class and in the required readings.
+
+
+    The final grade will be based on the two parts, equally weighted.
 
 - course_name: "Théorie des jeux et philosophie politique"
   course_id: strategic-model
@@ -1192,6 +1295,12 @@
     L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d’examen sont conçus de manière à permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
 
 
+    Enseignants: Joseph Abdou (<a href = mailto:joseph.abdou@univ-paris1.fr>joseph.abdou@univ-paris1.fr) et Emmanuel Picavet (<a href=mailto:emmanuel.picavet@univ-paris1.fr>emmanuel.picavet@univ-paris1.fr)
+
+
+    Information pratique: Informations pratiques : S2, Maison des Sciences Économiques
+
+
 - course_name: "Game theory and political philosophy"
   course_id: strategic-model
   course_master: "M2 Philo et Société"
@@ -1200,7 +1309,11 @@
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Issu d’une collaboration entre philosophie et mathématiques, cet enseignement est consacré aux approches décisionnelles des règles, institutions et processus politiques, qui mettent l’accent sur les normes et les problèmes de la rationalité (individuelle et collective). On s’intéressera aux problèmes d’action collective, de coordination et d’organisation qui sont au cœur de nombreuses recherches en sciences politiques et en philosophie politique, mais aussi dans les mathématiques sociales. L’objectif est de contribuer à l’avancement des études sur la théorie des normes et des institutions de la vie publique, autour de notions telles que les pouvoirs, les droits et l’organisation internationale.
+
+
+    L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d’examen sont conçus de manière à permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
+
 
 - course_name: "Experimental Economics"
   course_id: experimental-economics
@@ -1249,20 +1362,43 @@
 - course_name: "Datamining"
   course_id: datamining
   course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  prof_name: Marie Plessz, Bénédicte Garnier
   lang: "fr"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Cet enseignement permettra aux étudiants et aux étudiantes de se familiariser avec l'exploitation de données (ou datamining) dans le but d’extraire des connaissances à partir de banques de données de façon quasi automatique.
+
+
+    Ils s'initieront notamment :
+        - à l'extraction de contenus à partir du web (ou webscrapping), grâce à la conception d'un script ou d'un programme dédié (Marie Plessz);
+        - à l'analyse de données textuelles (ou ADT), en apprenant à envisager les textes comme des données organisées (Bénédicte Garnier).
+
+    Teachers: Responsable du cours: Marie Plessz (<a href=mailto:marie.plessz@inrae.fr>marie.plessz@inrae.fr) et Bénédicte Garnier (<a href=mailto:garnier@ined.fr>garnier@ined.fr)
+
+
+    Pratical information: S3, 24h, 48 bd Jourdan 75014 Paris, lundi 14h-17h. M2 Quantifier en sciences sociales (EHESS). Inscription obligatoire auprès de Marie Plessz. Nombre de place limité.
+
 
 - course_name: "Datamining"
   course_id: datamining
   course_master: "M2 Quantifier en Sciences Sociales, EHESS"
+  prof_name: Marie Plessz, Bénédicte Garnier
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Cet enseignement permettra aux étudiants et aux étudiantes de se familiariser avec l'exploitation de données (ou datamining) dans le but d’extraire des connaissances à partir de banques de données de façon quasi automatique.
+
+
+    Ils s'initieront notamment :
+        - à l'extraction de contenus à partir du web (ou webscrapping), grâce à la conception d'un script ou d'un programme dédié (Marie Plessz);
+        - à l'analyse de données textuelles (ou ADT), en apprenant à envisager les textes comme des données organisées (Bénédicte Garnier).
+
+    Teachers: Responsable du cours: Marie Plessz (<a href=mailto:marie.plessz@inrae.fr>marie.plessz@inrae.fr) et Bénédicte Garnier (<a href=mailto:garnier@ined.fr>garnier@ined.fr)
+
+
+    Pratical information: S3, 24h, 48 bd Jourdan 75014 Paris, lundi 14h-17h. M2 Quantifier en sciences sociales (EHESS). Inscription obligatoire auprès de Marie Plessz. Nombre de place limité.
 
 - course_name: "Lexicométrie"
   course_id: textometry
@@ -1275,9 +1411,12 @@
     Cet enseignement vise à approfondir la découverte de la lexicométrie pour l'historien au sein des formations initiales et n’est pas destinée à des spécialistes, mais à quiconque souhaiterait aller plus loin. Les séances seront partagées entre des lectures d'articles et d'extraits d'ouvrages sur l'utilisation des méthodes lexicométriques en histoire et des travaux pratiques sur ordinateur. Nous aborderons les techniques d'acquisition et de construction de corpus (balisage, lemmatisation et étiquetage morpho-syntaxique), les différentes méthodes de mesures lexicales et d'interrogation de corpus étiquetés, les analyses multivariées (AFC lexicales) ainsi que les méthodes de classifications (CAH, Kohonen, Alceste) et les réseaux de mots (matrices de co-occurrences). Pour ce faire différents logiciels seront mobilisés : Lexico 3, CooCS, TreeTagger, TXM, Iramuteq.
 
 
+    Enseignants: Stéphane Lamassé (<a href=mailto:stephane.lamasse@univ-paris1.fr>stephane.lamasse@univ-paris1.fr), Julien Alerini (<a href=mailto:Julien.Alerini@univ-paris1.fr>Julien.Alerini@univ-paris1.fr)
+
+
     Informations pratiques : S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
 
-- course_name: "Lexicometry"
+- course_name: "Lexicometrie"
   course_id: textometry
   course_master: "Master Histoire de Paris 1, parcous HSNQ"
   lang: "en"
@@ -1285,33 +1424,81 @@
   semester: 3
   course_type_id: 2
   description: >
-    TBA
+    Cet enseignement vise à approfondir la découverte de la lexicométrie pour l'historien au sein des formations initiales et n’est pas destinée à des spécialistes, mais à quiconque souhaiterait aller plus loin. Les séances seront partagées entre des lectures d'articles et d'extraits d'ouvrages sur l'utilisation des méthodes lexicométriques en histoire et des travaux pratiques sur ordinateur. Nous aborderons les techniques d'acquisition et de construction de corpus (balisage, lemmatisation et étiquetage morpho-syntaxique), les différentes méthodes de mesures lexicales et d'interrogation de corpus étiquetés, les analyses multivariées (AFC lexicales) ainsi que les méthodes de classifications (CAH, Kohonen, Alceste) et les réseaux de mots (matrices de co-occurrences). Pour ce faire différents logiciels seront mobilisés : Lexico 3, CooCS, TreeTagger, TXM, Iramuteq.
+
+
+    Teachers: Stéphane Lamassé (<a href=mailto:stephane.lamasse@univ-paris1.fr>stephane.lamasse@univ-paris1.fr), Julien Alerini (<a href=mailto:Julien.Alerini@univ-paris1.fr>Julien.Alerini@univ-paris1.fr)
+
+
+    Pratical information : S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
+
 
 - course_name: "Systèmes complexes et sciences sociales"
   course_id: complex-systems
   course_master: "EHESS"
+  prof_name: Jean-Pierre Nadal
   lang: "fr"
   semester:
     - 3
     - 4
   course_type_id: 2
   description: >
-    TBA
+    De nombreux phénomènes socio-économiques résultent d'effets de groupes, de phénomènes de diffusion et de contagion sociale : leur compréhension théorique repose sur une modélisation des interactions sociales.
+
+
+    Dans le cadre général de l'étude des « systèmes complexes », des travaux sur la modélisation des interactions sociales se développent à l'interface entre la théorie microéconomique standard, où l'interaction se fait via le système des prix, la théorie des jeux, qui modélise les interactions de nature stratégiques, et la physique statistique qui donne des outils pour décrire un comportement collectif à partir d'une description des comportements individuels.
+
+
+    L'objectif de ce séminaire est de présenter des travaux récents, leurs fondements méthodologiques et outils théoriques, et d'explorer de nouvelles pistes de recherche dans ce domaine, notamment celles qui s’appuient sur l’analyse de grandes bases de données. Nous portons un intérêt tout particulier aux approches prenant en compte l'hétérogénéité des préférences et comportements individuels, et la spatialité des interactions (prise en compte de la structure du réseau d'interaction ou d'hétérogénéités spatiales).
+
+
+    Les outils que nous rencontrons sont souvent ceux de la physique statistique des systèmes désordonnés, des équations aux dérivées partielles (EDP) en milieu hétérogène, de la théorie des jeux, de la théorie des graphes et de l'analyse de réseaux, ainsi que ceux de la simulation numérique dite « multi-agents », et de l'analyse de données avancée (machine learning/intelligence artificielle).
+
+
+    Le programme détaillé est affiché et régulièrement mis à jour sur la page internet du séminaire,  http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+
+    Enseignant: Responsable du cours : Jean-Pierre Nadal (<a href=mailto:jean-pierre.nadal@ehess.fr>jean-pierre.nadal@ehess.fr) (Centre d’analyse et de mathématiques sociales, CAMS)
+
+    Informations pratiques : S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS
+    Tous les 1er et 3e vendredis à partir de novembre. Informations détaillées : http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+    Inscription avant chaque séance (48h) : https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639
+    Contacter Jean-Pierre Nadal pour la validation.
 
 - course_name: "Complex systems and social sciences"
   course_id: complex-systems
   course_master: "EHESS"
+  prof_name: Jean-Pierre Nadal
   lang: "en"
   semester:
     - 3
     - 4
   course_type_id: 2
   description: >
-    TBA
+    De nombreux phénomènes socio-économiques résultent d'effets de groupes, de phénomènes de diffusion et de contagion sociale : leur compréhension théorique repose sur une modélisation des interactions sociales.
+
+
+    Dans le cadre général de l'étude des « systèmes complexes », des travaux sur la modélisation des interactions sociales se développent à l'interface entre la théorie microéconomique standard, où l'interaction se fait via le système des prix, la théorie des jeux, qui modélise les interactions de nature stratégiques, et la physique statistique qui donne des outils pour décrire un comportement collectif à partir d'une description des comportements individuels.
+
+
+    L'objectif de ce séminaire est de présenter des travaux récents, leurs fondements méthodologiques et outils théoriques, et d'explorer de nouvelles pistes de recherche dans ce domaine, notamment celles qui s’appuient sur l’analyse de grandes bases de données. Nous portons un intérêt tout particulier aux approches prenant en compte l'hétérogénéité des préférences et comportements individuels, et la spatialité des interactions (prise en compte de la structure du réseau d'interaction ou d'hétérogénéités spatiales).
+
+
+    Les outils que nous rencontrons sont souvent ceux de la physique statistique des systèmes désordonnés, des équations aux dérivées partielles (EDP) en milieu hétérogène, de la théorie des jeux, de la théorie des graphes et de l'analyse de réseaux, ainsi que ceux de la simulation numérique dite « multi-agents », et de l'analyse de données avancée (machine learning/intelligence artificielle).
+
+
+    Le programme détaillé est affiché et régulièrement mis à jour sur la page internet du séminaire,  http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+
+    Teacher: Responsable du cours : Jean-Pierre Nadal (<a href=mailto:jean-pierre.nadal@ehess.fr>jean-pierre.nadal@ehess.fr) (Centre d’analyse et de mathématiques sociales, CAMS)
+
+    Pratical information : S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS
+    Tous les 1er et 3e vendredis à partir de novembre. Informations détaillées : http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+    Inscription avant chaque séance (48h) : https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639
+    Contacter Jean-Pierre Nadal pour la validation.
 
 - course_name: "Histoire environmentale II: Matières et énergies XIXe-XXIe"
   course_id: environmental-history
   course_master: "M2 Etudes environmentales, EHESS"
+  prof_name: Jawad Daheur, Jean-Baptiste Fressoz
   lang: "fr"
   semester: 4
   course_type_id: 2
@@ -1321,11 +1508,19 @@
 - course_name: "Environmental History II"
   course_id: environmental-history
   course_master: "M2 Etudes environmentales, EHESS"
+  prof_name: Jawad Daheur, Jean-Baptiste Fressoz
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Ce séminaire poursuit la présentation des grands thèmes de l’histoire environnementale, avec une attention particulière pour la prise en compte de la matière, de son poids, de ses flux, de sa circulation, de son extraction manuelle ou mécanique, de ses réseaux. Cette attention matérielle permet de revisiter des questions historiographiques que ce soit en histoire environnementale ou en histoire tout court. La pesée quantitative questionne certains récits qui se sont imposés à la fois en histoire et dans l’espace public (par exemple : transition, substitution, dématérialisation). Elle permet d’aborder d’une manière nouvelle des historiographies classiques (par exemple les causes de la grande divergence), elle permet enfin d’étudier les dispositifs (réseaux, conventions, normes de qualité, standardisation etc.) qui ont permis la mobilisation croissante de la matière dans l’économie mondiale. Ce cours présentera des travaux récents et en cours dans un champ d’investigation très dynamique. Il fera l’objet d’une évaluation collective sur des séries quantitatives matérielles (douanes, administrations des mines ou des forêts, agriculture).
+
+
+    Enseignants: Jawad Daheur (<a href=mailto:jawad.daheur@ehess.fr>jawad.daheur@ehess.fr) et Jean-Baptiste Fressoz (<a href=mailto:jean-baptiste.fressoz@ehess.fr>jean-baptiste.fressoz@ehess.fr)
+
+
+    Information pratique:  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
+
 
 - course_name: "Séminaire de Philosophie politique normative"
   course_id: normative-political-philosophy
@@ -1336,7 +1531,13 @@
     - 4
   course_type_id: 2
   description: >
-    TBA
+    Ce séminaire poursuit la présentation des grands thèmes de l’histoire environnementale, avec une attention particulière pour la prise en compte de la matière, de son poids, de ses flux, de sa circulation, de son extraction manuelle ou mécanique, de ses réseaux. Cette attention matérielle permet de revisiter des questions historiographiques que ce soit en histoire environnementale ou en histoire tout court. La pesée quantitative questionne certains récits qui se sont imposés à la fois en histoire et dans l’espace public (par exemple : transition, substitution, dématérialisation). Elle permet d’aborder d’une manière nouvelle des historiographies classiques (par exemple les causes de la grande divergence), elle permet enfin d’étudier les dispositifs (réseaux, conventions, normes de qualité, standardisation etc.) qui ont permis la mobilisation croissante de la matière dans l’économie mondiale. Ce cours présentera des travaux récents et en cours dans un champ d’investigation très dynamique. Il fera l’objet d’une évaluation collective sur des séries quantitatives matérielles (douanes, administrations des mines ou des forêts, agriculture).
+
+
+    Teachers: Jawad Daheur (<a href=mailto:jawad.daheur@ehess.fr>jawad.daheur@ehess.fr) et Jean-Baptiste Fressoz (<a href=mailto:jean-baptiste.fressoz@ehess.fr>jean-baptiste.fressoz@ehess.fr)
+
+
+    Pratical information:  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
 
 - course_name: "Normative Political Philosophy"
   course_id: normative-political-philosophy
@@ -1352,56 +1553,346 @@
 - course_name: "Philosophie politique"
   course_id: political-philosophy
   course_master: "M2 Philo et société"
+  prof_name: Isabelle Aubert
   lang: "fr"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Thème – Tolérance et démocratie
+
+    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes.
+
+    1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
+    2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+
+    Les séances seront principalement consacrées à l’étude des auteurs suivants :
+
+      1. Pierre Bayle
+      2. John Locke
+      3. John Stuart Mill
+      4. Herbert Marcuse
+      5. Theodor W. Adorno
+      6. John Rawls
+      7. Jürgen Habermas
+      8. Rainer Forst et/ ou Cécile Laborde
+      (9. Michael Walzer)
+
+      Enseignant: Isabelle Aubert (<a href:mailto:isabelle.aubert@univ-paris1.fr>isabelle.aubert@univ-paris1.fr)
+
+      Information pratique: Informations pratiques : S4, mardi, cours du M2 Philosophie et société.
 
 - course_name: "Political Philosophy"
   course_id: political-philosophy
   course_master: "M2 Philo et société"
+  prof_name: Isabelle Aubert
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    Thème – Tolérance et démocratie
+
+    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes.
+
+    1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
+    2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+
+    Les séances seront principalement consacrées à l’étude des auteurs suivants :
+
+      1. Pierre Bayle
+      2. John Locke
+      3. John Stuart Mill
+      4. Herbert Marcuse
+      5. Theodor W. Adorno
+      6. John Rawls
+      7. Jürgen Habermas
+      8. Rainer Forst et/ ou Cécile Laborde
+      (9. Michael Walzer)
+
+      Teacher: Isabelle Aubert (<a href:mailto:isabelle.aubert@univ-paris1.fr>isabelle.aubert@univ-paris1.fr)
+
+      Pratical information: Informations pratiques : S4, mardi, cours du M2 Philosophie et société.
 
 - course_name: "Ethique et finance"
   course_id: ethics-finance
   course_master: "Chaire Ethique et finance, FMSH"
+  prof_name: Christian Walter
   lang: "fr"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    La pratique de la modélisation mathématique du risque a profondément modifié le paysage des professions financières et actuarielles dans le monde et a contribué à l’omniprésence de la finance dans la société, donnant l’impression d’une emprise croissante d’une vision financière du monde (ou « financiarisation ») accusée de dogmatisme et difficile à contourner. D’où viennent les modèles mathématiques de risque, quelle est leur histoire, quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses se fondent leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes des questions auxquelles toute analyse de la financiarisation se trouve aujourd’hui confrontée, en raison de l’impact sociétal de l’utilisation des modèles mathématiques ou statistiques du risque utilisés par les professionnels. Le séminaire a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a prise la modélisation du risque principalement en finance et des controverses scientifiques qui ont accompagné cette évolution. Les enjeux éthiques des choix de modélisation du risque seront abordés en introduisant la notion d’éthique épistémique.
+
+    Validation du cours : Présence à toutes les séances et travail écrit (mini-mémoire).
+
+
+    Enseignant: Christian Walter (<a href=mailto:christian.walter@msh-paris.fr>christian.walter@msh-paris.fr)
+
+
+    Information pratique: S4, lieu et horaire à préciser.
+
+
+    Page du cours: https://epistemofinance.hypotheses.org/enseignement-teaching
+
+
 
 - course_name: "Finance and Ethics"
   course_id: ethics-finance
   course_master: "Chaire Ethique et finance, FMSH"
+  prof_name: Christian Walter
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    La pratique de la modélisation mathématique du risque a profondément modifié le paysage des professions financières et actuarielles dans le monde et a contribué à l’omniprésence de la finance dans la société, donnant l’impression d’une emprise croissante d’une vision financière du monde (ou « financiarisation ») accusée de dogmatisme et difficile à contourner. D’où viennent les modèles mathématiques de risque, quelle est leur histoire, quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses se fondent leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes des questions auxquelles toute analyse de la financiarisation se trouve aujourd’hui confrontée, en raison de l’impact sociétal de l’utilisation des modèles mathématiques ou statistiques du risque utilisés par les professionnels. Le séminaire a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a prise la modélisation du risque principalement en finance et des controverses scientifiques qui ont accompagné cette évolution. Les enjeux éthiques des choix de modélisation du risque seront abordés en introduisant la notion d’éthique épistémique.
+
+    Validation du cours : Présence à toutes les séances et travail écrit (mini-mémoire).
+
+
+    Enseignant: Christian Walter (<a href=mailto:christian.walter@msh-paris.fr>christian.walter@msh-paris.fr)
+
+
+    Pratical information: S4, lieu et horaire à préciser.
+
+
+    Webpage: https://epistemofinance.hypotheses.org/enseignement-teaching
+
 
 - course_name: "Neuroéconomie"
   course_id: neuroeconomics
   course_master: "M2 E&P"
+  prof_name: Stefano Palminteri, Maël Lebreton
   lang: "fr"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    **1a. Course description (English)**
 
+
+    This course will provide an overview of the field of behavioural and neural economics, which studies the computational processes, involved in value-based decision-making as well as their neural implementation. We particularly focus on how decision variables, such as to the expected utility and its components (eg value, probability, risk and delay) are calculated and represented in the brain. The anchoring of decision-making into cognitive et computational processes allow correcting normative prespictions thanks to behavioural observations. The anchoring of decision-making processes to neural substrates, makes it possible to understand the deviations of rationality in the light of neurobiological constraints and to redefine the classic (descriptive) economic models in the form of neuro-computational (mechanistic) models.
+
+
+    **1b. Description du cours (Français)**
+
+
+    Ce cours donnera un aperçu du domaine de l'économie comportementale et neuronale, qui étudie les processus de calcul, impliqués dans la prise de décision en valua-base ainsi que leur mise en œuvre neuronale. Nous nous concentrons particulièrement sur la façon dont les variables de décision, telles que l'utilité attendue et ses composantes (valeur, probabilité, risque et retard) sont calculées et représentées dans le cerveau. L'ancrage de la prise de décision dans les processus cognitifs et computationnels permet de corriger les présupposés normatifs grâce à des obervations comportementales. L'ancrage des processus décisionnels sur des substrats neuronaux, permet de comprendre les déviations de la rationalité à la lumière des contraintes neurobiologiques et de redéfinir les modèles économiques classiques (descriptifs) sous forme de modèles neuroinformatiques (mécanistes).
+
+    **2. Learning objectives**
+
+
+    On successful completion of this course, students will be able to critically read articles (understanding what kind of modeling approach and neuroscientific method is used), to perform efficient literature review and design experiments in the field of behavioural and neural economics.
+      - Understanding behavioural economics models and results
+      - Understanding neuro-economics models and results
+
+
+    **3. Assessment**
+      - weekly homework assignments (40%): I envision 1 assignment per class (except the first one), but this is subject to change depending on whether we need to adjust the schedule (see below);
+      - a short essay (40%), whose subject will be proposed by the student and validated by the instructor
+      - participation in discussions in class (20%)
+
+
+    **4. Textbook and readings**
+      1.	Neuroeconomics: Decision Making and the Brain. Edited by:Paul W. Glimcher and Ernst Fehr
+      2.	Decision Neuroscience: An Integrative Perspective. Edited by: Jean-Claude Dreher Leon Tremblay
+      3.	An Introduction to Behavioral Economics. Nick Wilkinson , Matthias Klaes.
+
+    **5. Table of matters**
+
+      **Epistemological and methodological foundations**
+        - The Epistemological Foundations of Behavioural and Neural economics
+        - Experimental methods in Economics and Game Theory
+        - Experimental methods in Cognitive Neuroscience and Neurophysiology
+        - Designing and Testing Computational Models
+        - Computational Models of Decision Making in Psychology and Behavioral Economics
+
+
+      **Neuro-computational models of simple economic choice**
+        - The Computation of Stimulus Values in Simple Choice
+        - From Experienced Utility to Decision Utility
+        - Multistage Valuation Signals and Common Neural Currencies
+
+
+      **Modulation of the utility function(s)**
+        - Valuation for risky, uncertain and ambiguous options
+        - Prospect Theory and the Brain
+        - Valuation, Inter-temporal Choice, and Self-Control
+        - Integrating Benefits and Costs in Decision Making
+        - The Neurobiology of Context-Dependent Valuation and Choice
+
+
+      **Repeated choices and learning**
+        - Value Learning through Reinforcement: Models
+        - Value Learning through Reinforcement: Brain
+        - Multiple Systems for Value Learning
+        - The Experience-Description Gap
+
+
+      **Economic choices in social contexts**
+        - Social Preferences and the Brain
+        - Pharmacology of Social Decision Making
+        - The Neural Basis of Strategic Choice
+
+
+      **Conclusions and debates**
+        - What is and what is not Neuroeconomics?
+        - From behavioural nudges to neuromarketing? Ethical dangers
+        - Does the brain differentiate between value-based, probabilistic and perceptual decisions?
+        - Has neuroeconomics delivered its promises?
+        - What is the future of behavioural and neuroeconomics? Bioeconomics?
+
+
+      **Class hours to teacher:** SP: 11h; ML: 11h
+
+
+      **6. Course policies**
+
+
+      **Attendance** Regular attendance of, and punctual arrival at lectures are crucial to succeed in this course, and they are mandatory for all students registered for credit. This is important both for your individual success in this course, and for every other students’ success. Keep in mind in particular that, by arriving late, you are jeopardizing your own but also your classmates’ education by disrupting the flow of lectures. Practically speaking, if you are registered for credit then your grade will suffer from poor attendance or recurrent late arrivals. If you are not registered for credit, the same policy applies, though with different consequences: poor attendance or recurrent late arrivals may force us to ask you to stop auditing the course.
+
+
+      **Participation** You are strongly encouraged to participate in lectures. This means asking deep and challenging questions, but also asking simple questions, asking for clarification, saying “I’m just not getting this, please explain it in some new way” or “I’m lost, can you remind me why we’re talking about this?” You can ask questions in French at any time.
+
+
+      **Homework**: All homework assignments are to be handed on time via Schoology. You can write up your answers in French or in English (NB you will not lose points for grammatical mistakes!).
+
+
+      **Academic honesty policy**: Cheating will not be tolerated and may cost you your grade as well as have deeper repercussions in your academic career. The following is a non-exhaustive list of examples of what counts as cheating in this course: (i) signing on the attendance sheet without attending the class (e.g. signing and leaving, or signing for someone else); (ii) copying the homework write-up or the exam answers of another student, with or without that student’s knowledge; (iii) copying elements of your solutions of exercises from sources in the literature without giving them due credit; (iv) using the same homework to validate two courses.
+
+
+      **Laptop/phone policy**: no laptops except in some classes with in-class activities. Participation. Strongly encouraged, in French or English.
+
+
+      Enseignants: Stefano Palminteri (<a href=mailto:stefano.palminteri@gmail.com>stefano.palminteri@gmail.com) et Maël Lebreton (<a href=mailto:mael.lebreton@googlemail.com>mael.lebreton@googlemail.com)
+
+      Information pratique: cours au S3 (validé comme cours S4), 22h, Tuesday 2pm-4pm (jour et horaire à vérifier auprès des responsables). Lieu ENS Ulm, salle Théodule Ribot. No prerequisites.
 - course_name: "Neuroeconomics"
   course_id: neuroeconomics
   course_master: "M2 E&P"
+  prof_name: Stefano Palminteri, Maël Lebreton
   lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    TBA
+    La pratique de la modélisation mathématique du risque a profondément modifié le paysage des professions financières et actuarielles dans le monde et a contribué à l’omniprésence de la finance dans la société, donnant l’impression d’une emprise croissante d’une vision financière du monde (ou « financiarisation ») accusée de dogmatisme et difficile à contourner. D’où viennent les modèles mathématiques de risque, quelle est leur histoire, quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses se fondent leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes des questions auxquelles toute analyse de la financiarisation se trouve aujourd’hui confrontée, en raison de l’impact sociétal de l’utilisation des modèles mathématiques ou statistiques du risque utilisés par les professionnels. Le séminaire a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a prise la modélisation du risque principalement en finance et des controverses scientifiques qui ont accompagné cette évolution. Les enjeux éthiques des choix de modélisation du risque seront abordés en introduisant la notion d’éthique épistémique.
+
+    Validation du cours : Présence à toutes les séances et travail écrit (mini-mémoire).
+
+
+    Enseignant: Christian Walter (<a href=mailto:christian.walter@msh-paris.fr>christian.walter@msh-paris.fr)
+
+
+    Pratical information: S4, lieu et horaire à préciser.
+
+
+    Webpage: https://epistemofinance.hypotheses.org/enseignement-teaching
+
+
+- course_name: "Neuroéconomie"
+  course_id: neuroeconomics
+  course_master: "M2 E&P"
+  prof_name: Stefano Palminteri, Maël Lebreton
+  lang: "fr"
+  semester: 4
+  course_type_id: 2
+  description: >
+    **1a. Course description (English)**
+
+
+    This course will provide an overview of the field of behavioural and neural economics, which studies the computational processes, involved in value-based decision-making as well as their neural implementation. We particularly focus on how decision variables, such as to the expected utility and its components (eg value, probability, risk and delay) are calculated and represented in the brain. The anchoring of decision-making into cognitive et computational processes allow correcting normative prespictions thanks to behavioural observations. The anchoring of decision-making processes to neural substrates, makes it possible to understand the deviations of rationality in the light of neurobiological constraints and to redefine the classic (descriptive) economic models in the form of neuro-computational (mechanistic) models.
+
+
+    **1b. Description du cours (Français)**
+
+
+    Ce cours donnera un aperçu du domaine de l'économie comportementale et neuronale, qui étudie les processus de calcul, impliqués dans la prise de décision en valua-base ainsi que leur mise en œuvre neuronale. Nous nous concentrons particulièrement sur la façon dont les variables de décision, telles que l'utilité attendue et ses composantes (valeur, probabilité, risque et retard) sont calculées et représentées dans le cerveau. L'ancrage de la prise de décision dans les processus cognitifs et computationnels permet de corriger les présupposés normatifs grâce à des obervations comportementales. L'ancrage des processus décisionnels sur des substrats neuronaux, permet de comprendre les déviations de la rationalité à la lumière des contraintes neurobiologiques et de redéfinir les modèles économiques classiques (descriptifs) sous forme de modèles neuroinformatiques (mécanistes).
+
+    **2. Learning objectives**
+
+
+    On successful completion of this course, students will be able to critically read articles (understanding what kind of modeling approach and neuroscientific method is used), to perform efficient literature review and design experiments in the field of behavioural and neural economics.
+      - Understanding behavioural economics models and results
+      - Understanding neuro-economics models and results
+
+
+    **3. Assessment**
+      - weekly homework assignments (40%): I envision 1 assignment per class (except the first one), but this is subject to change depending on whether we need to adjust the schedule (see below);
+      - a short essay (40%), whose subject will be proposed by the student and validated by the instructor
+      - participation in discussions in class (20%)
+
+
+    **4. Textbook and readings**
+      1.	Neuroeconomics: Decision Making and the Brain. Edited by:Paul W. Glimcher and Ernst Fehr
+      2.	Decision Neuroscience: An Integrative Perspective. Edited by: Jean-Claude Dreher Leon Tremblay
+      3.	An Introduction to Behavioral Economics. Nick Wilkinson , Matthias Klaes.
+
+    **5. Table of matters**
+
+      **Epistemological and methodological foundations**
+        - The Epistemological Foundations of Behavioural and Neural economics
+        - Experimental methods in Economics and Game Theory
+        - Experimental methods in Cognitive Neuroscience and Neurophysiology
+        - Designing and Testing Computational Models
+        - Computational Models of Decision Making in Psychology and Behavioral Economics
+
+
+      **Neuro-computational models of simple economic choice**
+        - The Computation of Stimulus Values in Simple Choice
+        - From Experienced Utility to Decision Utility
+        - Multistage Valuation Signals and Common Neural Currencies
+
+
+      **Modulation of the utility function(s)**
+        - Valuation for risky, uncertain and ambiguous options
+        - Prospect Theory and the Brain
+        - Valuation, Inter-temporal Choice, and Self-Control
+        - Integrating Benefits and Costs in Decision Making
+        - The Neurobiology of Context-Dependent Valuation and Choice
+
+
+      **Repeated choices and learning**
+        - Value Learning through Reinforcement: Models
+        - Value Learning through Reinforcement: Brain
+        - Multiple Systems for Value Learning
+        - The Experience-Description Gap
+
+
+      **Economic choices in social contexts**
+        - Social Preferences and the Brain
+        - Pharmacology of Social Decision Making
+        - The Neural Basis of Strategic Choice
+
+
+      **Conclusions and debates**
+        - What is and what is not Neuroeconomics?
+        - From behavioural nudges to neuromarketing? Ethical dangers
+        - Does the brain differentiate between value-based, probabilistic and perceptual decisions?
+        - Has neuroeconomics delivered its promises?
+        - What is the future of behavioural and neuroeconomics? Bioeconomics?
+
+
+      **Class hours to teacher:** SP: 11h; ML: 11h
+
+
+      **6. Course policies**
+
+
+      **Attendance** Regular attendance of, and punctual arrival at lectures are crucial to succeed in this course, and they are mandatory for all students registered for credit. This is important both for your individual success in this course, and for every other students’ success. Keep in mind in particular that, by arriving late, you are jeopardizing your own but also your classmates’ education by disrupting the flow of lectures. Practically speaking, if you are registered for credit then your grade will suffer from poor attendance or recurrent late arrivals. If you are not registered for credit, the same policy applies, though with different consequences: poor attendance or recurrent late arrivals may force us to ask you to stop auditing the course.
+
+
+      **Participation** You are strongly encouraged to participate in lectures. This means asking deep and challenging questions, but also asking simple questions, asking for clarification, saying “I’m just not getting this, please explain it in some new way” or “I’m lost, can you remind me why we’re talking about this?” You can ask questions in French at any time.
+
+
+      **Homework**: All homework assignments are to be handed on time via Schoology. You can write up your answers in French or in English (NB you will not lose points for grammatical mistakes!).
+
+
+      **Academic honesty policy**: Cheating will not be tolerated and may cost you your grade as well as have deeper repercussions in your academic career. The following is a non-exhaustive list of examples of what counts as cheating in this course: (i) signing on the attendance sheet without attending the class (e.g. signing and leaving, or signing for someone else); (ii) copying the homework write-up or the exam answers of another student, with or without that student’s knowledge; (iii) copying elements of your solutions of exercises from sources in the literature without giving them due credit; (iv) using the same homework to validate two courses.
+
+
+      **Laptop/phone policy**: no laptops except in some classes with in-class activities. Participation. Strongly encouraged, in French or English.
+
+
+      Teachers: Stefano Palminteri (<a href=mailto:stefano.palminteri@gmail.com>stefano.palminteri@gmail.com) et Maël Lebreton (<a href=mailto:mael.lebreton@googlemail.com>mael.lebreton@googlemail.com)
+
+      Pratical information: cours au S3 (validé comme cours S4), 22h, Tuesday 2pm-4pm (jour et horaire à vérifier auprès des responsables). Lieu ENS Ulm, salle Théodule Ribot. No prerequisites.
 
 - course_name: "Histoire monétaire et financière"
   course_id: monetary-history
