@@ -1533,6 +1533,7 @@
 - course_name: "Séminaire de Philosophie politique normative"
   course_id: normative-political-philosophy
   course_master: "EHESS"
+  prof_name: Emmanuel Picavet
   lang: "fr"
   semester:
     - 3
@@ -1550,6 +1551,7 @@
 - course_name: "Séminaire de Philosophie politique normative"
   course_id: normative-political-philosophy
   course_master: "EHESS"
+  prof_name: Emmanuel Picavet
   lang: "en"
   semester:
     - 3
