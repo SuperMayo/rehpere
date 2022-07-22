@@ -4,8 +4,6 @@
   course_type: Cours obligatoire
   course_type_id: 1
   semester: 3
-  prof_id:
-    - jean-lenfant
   prof_name: Cyril Hédoin, Jean-Sébastien Lenfant
   lang: "fr"
   description: >
@@ -32,8 +30,6 @@
   course_type: Cours obligatoire
   course_type_id: 1
   semester: 3
-  prof_id:
-    - jean-lenfant
   prof_name: Samuel Ferey, Jean-Sébastien Lenfant
   lang: "fr"
   description: >
@@ -65,8 +61,6 @@
   course_type_id: 1
   course_type: Required Course
   semester: 3
-  prof_id:
-    - jean-lenfant
   prof_name: Cyril Hédoin, Jean-Sébastien Lenfant
   lang: "en"
   description: >
@@ -94,9 +88,6 @@
   course_type_id: 1
   course_type: Required Course
   semester: 3
-  prof_id:
-    - annie-cot
-    - jean-lenfant
   prof_name: Samuel Ferey, Jean-Sébastien Lenfant
   lang: "en"
   description: >
@@ -609,12 +600,12 @@
   semester: 3
   course_type_id: 2
   description: >
-    Responsable du cours :
+    Teachers:
       - Ronan de Calan
       - Stéphane Marchand (<a href="mailto:stephane.marchand@univ-paris1.fr">stephane.marchand@univ-paris1.fr</a>)
 
 
-    **Information pratique:** S3, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
+    **Practical Information:** S3, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
 
 
 - course_name: "Economie et nature: approches interdisciplinaires"
@@ -653,7 +644,13 @@
   prof_id: quentin-couix
   course_type_id: 2
   description: >
-    ****Teacher:**** Quentin Couix (<a href="mailto:quentin.couix@gmail.com">quentin.couix@gmail.com</a>)
+    L'objectif de ce cours est d'ouvrir l'économie de l'environnement et de l'énergie à d'autres disciplines (histoire, énergétique, sociologie, philosophie, etc.) pour voir quels enseignements peuvent en être tirés pour la pratique quotidienne des économistes, et pour une meilleure compréhension des enjeux environnementaux. Chaque séance porte sur une ouverture disciplinaire particulière. Volume horaire de cours : 15 h. Auquel s'ajoute du travail personnel. Modalités d'évaluation pour les étudiants concernés : fiches de lecture.
+
+
+    L'économie de l'environnement et de l'énergie à l'heure de l'Anthropocène. Marchés énergétiques et budget carbone : que peut nous apprendre l'histoire de l'analyse économique ? Énergie et thermodynamique dans la théorie économique. Écosystèmes et soutenabilité, les fondements de l'économie écologique. Action collective, négociation et transition écologique. Justice sociale et économie de l'environnement non welfariste.
+
+
+    Teacher: Quentin Couix (<a href="mailto:quentin.couix@gmail.com">quentin.couix@gmail.com</a>)
 
 
     Speakers :
@@ -686,6 +683,27 @@
 
     **Information pratique:** S3, Sorbonne, M2 Philosophie contemporaine.
 
+- course_name: "Moral Philosophy"
+  course_id: philo-moral
+  course_master: "M2 Philosophie et Société"
+  lang: "en"
+  prof_name: Laurent Jaffro
+  semester: 3
+  course_type_id: 2
+  description: >
+    Le thème abordé dans ce cours change chaque année.
+
+
+    Thème 2021-22 : Sentimentalisme et émotions dans l’évaluation et la motivation.
+
+
+    MCC : oral sur programme de questions
+
+
+    Teacher: Laurent Jaffro (<a href="mailto:laurent.jaffro@univ-paris1.fr">laurent.jaffro@univ-paris1.fr)
+
+
+    **Practical Information:** S3, Sorbonne, M2 Philosophie contemporaine.
 
 - course_name: "Philosophie sociale"
   course_id: philo-social
@@ -718,12 +736,21 @@
   semester: 3
   course_type_id: 2
   description: >
-    Responsable du cours : Isabelle Aubert (<a href="mailto:isabelle.aubert@univ-paris1.fr">isabelle.aubert@univ-paris1.fr)
+    Thème annuel : la théorie critique de la société.
 
 
-    **Information pratique:** S3, Sorbonne, cours du M2 Philosophie et Société.
+    Ce séminaire va être consacré à l’étude d’une tradition de pensée en théorie sociale contemporaine, la Théorie critique, qui s’est fait connaître à ses débuts par l’appellation « école de Francfort ».
 
-- course_name: "Analyse et visualisation de données"
+
+    Apparue dans les années 1930, ce mouvement de philosophie sociale suit une ligne marxiste orthodoxe pour analyser et critiquer les conditions existantes des sociétés modernes occidentales qui parviennent difficilement à tenir leurs promesses d’émancipation dans la mesure où le libéralisme politico-juridique et le capitalisme, sous ses diverses formes, semblent évoluer ensemble de manière solidaire et pas simplement de façon concomitante. En effectuant un parcours depuis les fondateurs de la théorie critique de la société (Adorno, Horkheimer) jusqu’aux théoriciens plus récents (Axel Honneth, Iris Marion Young, Nancy Fraser) en passant par Jürgen Habermas, on se penchera sur les objets de réflexion de cette tradition (domination, aliénation, communication, reconnaissance), les méthodes que ses auteurs défendent en sciences sociales et en philosophie (comment mener une critique sociale ? Comment articuler théorie et pratique ?), leurs approches diverses de la société, et les débats qu’ils ont engagés avec d’autres courants de pensée.
+
+
+    Teacher: Isabelle Aubert (<a href="mailto:isabelle.aubert@univ-paris1.fr">isabelle.aubert@univ-paris1.fr)
+
+
+    **Practical Information:** S3, Sorbonne, cours du M2 Philosophie et Société.
+
+- course_name: "Visualisation des données avec R"
   course_id: visualisation-r
   course_master: "Master Histoire de Paris 1, parcours HSNQ"
   lang: "fr"
@@ -741,7 +768,7 @@
 
     **Information pratique:** S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
 
-- course_name: "Data Analysis and Visualisation"
+- course_name: "Data Visualization with R"
   course_id: visualisation-r
   course_master: "Master Histoire of Paris 1, parcours HSNQ"
   lang: "en"
@@ -749,6 +776,9 @@
   semester: 3
   course_type_id: 2
   description: >
+    Cette formation vise à exploiter une base de données ou un corpus lexicométrique déjà constitué à travers différentes méthodes, ainsi que des données issues du web. Celle-ci s'attachera à enseigner les méthodes d'analyse de données permettant d'aller plus loin dans l'exploration d'un gisement de données historiques (analyses factorielles, classifications, etc.). Après quelques rappels de statistiques descriptives et inférentielles, cette approche sera croisée avec des outils de visualisation des données (analyses réseaux et cartographie). Les étudiants se familiariseront ainsi avec le logiciel d'analyses statistiques open source R.
+
+
     - **Teacher(s):**
         - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr</a>)
         - Julien Alerini
@@ -782,6 +812,9 @@
   semester: 3
   course_type_id: 2
   description: >
+    Nous avons l’habitude d’utiliser les méthodes quantitatives pour produire du savoir sur la société. Il n’en demeure pas moins que ces méthodes sont elles-mêmes des phénomènes historiques et sociaux qui méritent d’être réflexivement étudiés. Elles proviennent de débats souvent oubliés et qui ont pourtant conformé leurs présupposés, les résultats qu’elles peuvent fournir et leurs usages divers, souvent politiques. Les connaissances que fournissent les méthodes quantitatives en sont pas seulement dans leurs résultats, mais aussi dans l’analyse des conditions de leur utilisation. Ce cours reviendra historiquement et sociologiquement sur certaines des méthodes quantitatives les plus classiques.
+
+
     Responsable du cours : Emmanuel Didier (<a href="mailto:emmanuel.didier@ehess.fr">emmanuel.didier@ehess.fr)
 
 
@@ -824,7 +857,7 @@
     **Pratical information:** S3 or S4. Venue: Maison des sciences économiques.
 
 
-- course_name: "Ethique appliquée 1"
+- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
   course_id: applied-ethics
   course_master: "M2 Philosophie et société"
   prof_name: Emmanuel Picavet
@@ -845,9 +878,9 @@
     Responsable du cours: Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
 
-    **Information pratique:** S3
+    **Information pratique:** S3, Sorbonne
 
-- course_name: "Ethique appliquée 1"
+- course_name: "Ethique appliquée 1, le libre choix et ses limites dans l'organisation collective"
   course_id: applied-ethics
   course_master: "M2 Philosophie et société"
   prof_name: Emmanuel Picavet
@@ -868,7 +901,7 @@
     **Teacher(s):** Emmanuel Picavet  (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
 
-    **Pratical information:** S3
+    **Pratical information:** S3, Sorbonne
 
 
 - course_name: "Histoire sociale des idées politiques"
@@ -910,10 +943,10 @@
 
       **Pratical information:** S3, Sorbonne.
 
-- course_name: "Economie du bien-être and applications"
+- course_name: "Welfare Economics and Applications"
   course_id: applied-welfare-economics
   course_master: "M2 APE"
-  prof_name: Marc Fleurbaey
+  prof_name: Franz Dietrich, Marc Fleurbaey, Grégory Ponthière, Stéphane Zuber
   lang: "fr"
   semester: 3
   course_type_id: 2
@@ -925,19 +958,19 @@
     Evaluation: Grading will rely on a final essay (around 5,000 words) for 70% and participation for 30%.
 
 
-    **Information pratique:** S3, 36h, Campus Jourdan
-
-
     **Teacher(s):**
       - Franz Dietrich
       - Marc Fleurbaey
       - Grégory Ponthière
       - Stéphane Zuber
+
+
+    **Information pratique:** S3, 36h, Campus Jourdan
 
 - course_name: "Welfare Economics and Applications"
   course_id: applied-welfare-economics
   course_master: "M2 APE"
-  prof_name: Marc Fleurbaey
+  prof_name: Franz Dietrich, Marc Fleurbaey, Grégory Ponthière, Stéphane Zuber
   lang: "en"
   semester: 3
   course_type_id: 2
@@ -949,14 +982,15 @@
     Evaluation: Grading will rely on a final essay (around 5,000 words) for 70% and participation for 30%.
 
 
-    **Information pratique:** S3, 36h, Campus Jourdan
-
-
     **Teacher(s):**
       - Franz Dietrich
       - Marc Fleurbaey
       - Grégory Ponthière
       - Stéphane Zuber
+
+
+    **Practical Information:** S3, 36h, Campus Jourdan
+
 
 - course_name: "Economics of happiness and subjective states"
   course_id: happiness-economics
@@ -969,22 +1003,24 @@
       This course consists of six sessions of three hours each covering a number of contemporary
       economic questions which are viewed through the lens of subjective well-being and other
       subjective variables. The subjects covered are as follows:
-        - 1. Measurement and validity of subjective well-being
-        - 2. The Easterlin Paradox, social comparisons and adaptation
-        - 3. Subjective well-being in the workplace
-        - 4. Subjective well-being over the life-course
-        - 5. Subjective well-being, culture and institutions
-        - 6. Subjective well-being, objective well-being and public policy
+        1. Measurement and validity of subjective well-being
+        2. The Easterlin Paradox, social comparisons and adaptation
+        3. Subjective well-being in the workplace
+        4. Subjective well-being over the life-course
+        5. Subjective well-being, culture and institutions
+        6. Subjective well-being, objective well-being and public policy
 
 
       Evaluation: The exam will be written, and will last two hours. Candidates will have to answer three essay
       questions out of five. The exam can be taken in either English or French.
 
 
-      **Enseignant(s):** Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr) et Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
+      **Responsables du cours(s) :**
+        - Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr)
+        - Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
 
 
-      **Information pratique:** S3, Sorbonne.
+      **Information pratique :** S3, Sorbonne.
 
 - course_name: "Economics of happiness and subjective states"
   course_id: happiness-economics
@@ -997,24 +1033,87 @@
       This course consists of six sessions of three hours each covering a number of contemporary
       economic questions which are viewed through the lens of subjective well-being and other
       subjective variables. The subjects covered are as follows:
-        - 1. Measurement and validity of subjective well-being
-        - 2. The Easterlin Paradox, social comparisons and adaptation
-        - 3. Subjective well-being in the workplace
-        - 4. Subjective well-being over the life-course
-        - 5. Subjective well-being, culture and institutions
-        - 6. Subjective well-being, objective well-being and public policy
+        1. Measurement and validity of subjective well-being
+        2. The Easterlin Paradox, social comparisons and adaptation
+        3. Subjective well-being in the workplace
+        4. Subjective well-being over the life-course
+        5. Subjective well-being, culture and institutions
+        6. Subjective well-being, objective well-being and public policy
 
 
       Evaluation: The exam will be written, and will last two hours. Candidates will have to answer three essay
       questions out of five. The exam can be taken in either English or French.
 
 
-      **Teacher(s):** Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr) et Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
-
+      **Teachers:**
+        - Andrew Clark (<a href="mailto:andrew.clark@ens.fr">andrew.clark@ens.fr)
+        - Sarah Flèche (<a href="mailto:sarah.fleche@univ-paris1.fr">sarah.fleche@univ-paris1.fr)
 
       **Pratical information:** S3, Sorbonne
 
-- course_name: "Economie environmentale"
+
+- course_name: "Behavioral Economics"
+  course_id: behavioral-economics
+  course_master: "M2 Economics & Psychology"
+  prof_name: Christos A. Ioannou
+  lang: "fr"
+  semester: 3
+  course_type_id: 2
+  description: >
+    The objective of this course is to provide students with an overview of the main areas of behavioral economics, by acknowledging the behavioral implications of theoretical models, looking at the empirical evidence, and focusing on the development of behavioral models to capture the empirical trends.
+
+
+    The workhouse of economic modelling is homo-economicus; that is, an agent characterized by an infinite ability to make rational decisions. Rationality means that agents update
+    their beliefs correctly, in the manner described by Bayes’ Law when they receive new information, and (ii) given their beliefs, make choices that are normatively
+    acceptable in the sense that they are consistent with the expected utility framework.
+
+
+    This traditional framework is appealing and simple hence it would be very comforting if its predictions were confirmed in the data. In recent years, however, anecdotal evidence as well as theoretical and empirical research has shown this paradigm to be insufficient to describe various features of actual markets. In behavioral economics, we thus add some reality to the standard models of economics by incorporating features of human nature, such as bounded rationality, biases in interpreting information, interdependent preferences, emotions, and learning.
+
+
+    The course comprises of lectures. The course grade is determined based on the student’s performance in the two-hour, written, final examination.
+
+
+    Website of the course: <a href="http://christosaioannou.com/BehavioralEcon.html">http://christosaioannou.com/BehavioralEcon.html
+
+
+    **Responsable du cours :** Christos A. Ioannou (<a href="mailto:christos.ioannou@univ-paris1.fr">christos.ioannou@univ-paris1.fr)
+
+
+    **Information pratique:** S3, 36h, Campus Jourdan, cours du M2 APE.
+
+- course_name: "Behavioral Economics"
+  course_id: behavioral-economics
+  course_master: "M2 Economics & Psychology"
+  prof_name: Christos A. Ioannou
+  lang: "en"
+  semester: 3
+  course_type_id: 2
+  description: >
+        The objective of this course is to provide students with an overview of the main areas of behavioral economics, by acknowledging the behavioral implications of theoretical models, looking at the empirical evidence, and focusing on the development of behavioral models to capture the empirical trends.
+
+
+        The workhouse of economic modelling is homo-economicus; that is, an agent characterized by an infinite ability to make rational decisions. Rationality means that agents update
+        their beliefs correctly, in the manner described by Bayes’ Law when they receive new information, and (ii) given their beliefs, make choices that are normatively
+        acceptable in the sense that they are consistent with the expected utility framework.
+
+
+        This traditional framework is appealing and simple hence it would be very comforting if its predictions were confirmed in the data. In recent years, however, anecdotal evidence as well as theoretical and empirical research has shown this paradigm to be insufficient to describe various features of actual markets. In behavioral economics, we thus add some reality to the standard models of economics by incorporating features of human nature, such as bounded rationality, biases in interpreting information, interdependent preferences, emotions, and learning.
+
+
+        The course comprises of lectures. The course grade is determined based on the student’s performance in the two-hour, written, final examination.
+
+
+        Website of the course: <a href="http://christosaioannou.com/BehavioralEcon.html">http://christosaioannou.com/BehavioralEcon.html
+
+
+        **Teacher:** Christos A. Ioannou (<a href="mailto:christos.ioannou@univ-paris1.fr">christos.ioannou@univ-paris1.fr)
+
+
+        **Practical Information:** S3, 36h, Campus Jourdan, cours du M2 APE.
+
+
+- course_name: "Environmental Economics"
   course_id: environmental-economics
   course_master: "M2 APE"
   prof_name: Katheline Schuber, Mireille Chiroleu-Assouline
@@ -1025,13 +1124,15 @@
     This is a course on natural resources economics (Part 1, Katheline Schubert) and environmental economics (Part 2, Mireille Chiroleu-Assouline).
 
 
-    Page web du cours : https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
+    Website of the course: <a href="https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/">https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
 
 
-    **Enseignant(s):** Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr) et Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
+    **Enseignant(s) :**
+      - Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr)
+      - Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
 
 
-    **Information pratique:** S3, 36h, Campus Jourdan, cours du M2 APE.
+    **Informations pratiques :** S3, 36h, Campus Jourdan, cours du M2 APE.
 
 - course_name: "Environmental Economics"
   course_id: environmental-economics
@@ -1044,10 +1145,12 @@
     This is a course on natural resources economics (Part 1, Katheline Schubert) and environmental economics (Part 2, Mireille Chiroleu-Assouline).
 
 
-    Page web du cours : https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
+    Website of the course: <a href="https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/">https://www.parisschoolofeconomics.eu/fr/formations/masters/ape-analyse-et-politique-economiques/etre-etudiant-ape/
 
 
-    **Teacher(s):** Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr) et Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
+    **Teacher(s):**
+      - Katheline Schubert (<a href="mailto:schubert@univ-paris1.fr">schubert@univ-paris1.fr)
+      - Mireille Chiroleu-Assouline (<a href="mailto:Mireille.Chiroleu-Assouline@univ-paris1.fr">Mireille.Chiroleu-Assouline@univ-paris1.fr)
 
 
     **Pratical information:** S3, 36h, Campus Jourdan, cours du M2 APE.
@@ -1065,11 +1168,6 @@
 
     Although PSE / APE is not a business school, the course is also central for those who intend to work in the consulting sector: the various pricing and marketing strategies of firms, their strategic decisions and investments, are related to the structure of the markets in which they participate, and the course will also offer insights on firms’ behavior when they try to gain or maintain market power.
 
-    **Enseignant(s):** : Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu) Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
-
-
-    **Information pratique:** S3, 36h Campus Jourdan, cours du M2 APE.
-
 
     The choice of topics and of approach:
 
@@ -1090,6 +1188,16 @@
 
 
     The course requires some knowledge in Microeconomics as well as in Game Theory. The course consists in 24 sessions of 1h30 each, over 12 weeks. J.P. Tropéano will deliver the first 12 sessions, and B. Caillaud will deliver the 12 other sessions. There are no tutorials associated to this course. The term paper requirement encourages you to be innovative. Depending on what you are interested in, a promising term paper can turn into a master thesis project. The idea is for you to think more deeply about one question or model seen in class, to figure out an interesting extension or variant or alternative formalization, to motivate why this is economically relevant, and to propose a model or an approach to answer your question, and to start developing the analysis or explaining the strategy for solving the model. Given the time you can devote to this term paper, it is probably more reasonable to think of a theoretical term paper or, at least, of the theoretical part of a model to be analyzed empirically; but this is not a formal requirement. You should also have a look on all the themes that we will cover early enough so as possibly to jump ahead and start reading on a topic that will be covered near the end of the course if this topic is of special interest to you. The term paper should be about 5 page long.
+
+
+    **Enseignant(s) :**
+
+        - Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu)
+        - Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
+
+
+    **Information pratique:** S3, 36h Campus Jourdan, cours du M2 APE.
+
 
 - course_name: "Industrial Organisation"
   course_id: industrial-organisation
@@ -1104,11 +1212,6 @@
 
     Although PSE / APE is not a business school, the course is also central for those who intend to work in the consulting sector: the various pricing and marketing strategies of firms, their strategic decisions and investments, are related to the structure of the markets in which they participate, and the course will also offer insights on firms’ behavior when they try to gain or maintain market power.
 
-    **Teacher(s):** : Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu) Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
-
-
-    **Pratical information:** S3, 36h Campus Jourdan, cours du M2 APE.
-
 
     The choice of topics and of approach:
 
@@ -1131,6 +1234,15 @@
     The course requires some knowledge in Microeconomics as well as in Game Theory. The course consists in 24 sessions of 1h30 each, over 12 weeks. J.P. Tropéano will deliver the first 12 sessions, and B. Caillaud will deliver the 12 other sessions. There are no tutorials associated to this course. The term paper requirement encourages you to be innovative. Depending on what you are interested in, a promising term paper can turn into a master thesis project. The idea is for you to think more deeply about one question or model seen in class, to figure out an interesting extension or variant or alternative formalization, to motivate why this is economically relevant, and to propose a model or an approach to answer your question, and to start developing the analysis or explaining the strategy for solving the model. Given the time you can devote to this term paper, it is probably more reasonable to think of a theoretical term paper or, at least, of the theoretical part of a model to be analyzed empirically; but this is not a formal requirement. You should also have a look on all the themes that we will cover early enough so as possibly to jump ahead and start reading on a topic that will be covered near the end of the course if this topic is of special interest to you. The term paper should be about 5 page long.
 
 
+    **Teacher(s):**
+
+        - Bernard Caillaud (<a href="mailto:bernard.caillaudpsemail.eu">bernard.caillaudpsemail.eu)
+        - Jean-Philippe Tropéano (<a href="mailto:jean-philippe.tropeano@univ-paris1.fr">jean-philippe.tropeano@univ-paris1.fr)
+
+
+    **Pratical information:** S3, 36h Campus Jourdan, cours du M2 APE.
+
+
 - course_name: "Institutions de la monnaie et de la dette"
   course_id: monnaie-dette
   course_master: "M2 SES Institutions, Economies et Sociétés PSL-EHESS"
@@ -1142,13 +1254,16 @@
     Le cours mobilise sociologie, histoire et économie afin d’analyser les transformations des institutions de la monnaie et de la dette. À travers un examen historique des pratiques et des mandats respectifs des Banques centrales et des Trésors, les **Enseignant(s):** expliquent les liens entre États, marché de capitaux, organisation et modes de régulation du crédit et de la monnaie. Pourquoi l’émission de monnaie a-t-elle été centralisée, confiée à une seule institution (la Banque centrale), et surtout couplée à des rôles de supervision financière et de prêts bancaires ? Comment les dettes souveraines ont changé de nature selon les configurations du capitalisme, et en quoi cela informe la construction et transformation de l’État ? Le cours aborde ces questions centrales à travers des exemples historiques tant nationaux qu’internationaux et montre comment la frontière institutionnelle entre dette et monnaie est très fine, voire indissociable.
 
 
-    **Enseignant(s):** Benjamin Lemoine, Éric Monnet
+
+
+    **Enseignant(s):**
+
+      - Benjamin Lemoine
+      - Éric Monnet
 
 
     **Information pratique:** S3, 18h, Campus Condorcet-Centre de colloques
 
-
-    Page web: https://enseignements.ehess.fr/2021-2022/ue/69
 
 - course_name: "Institutions of money and debt"
   course_id: monnaie-dette
@@ -1161,13 +1276,16 @@
     Le cours mobilise sociologie, histoire et économie afin d’analyser les transformations des institutions de la monnaie et de la dette. À travers un examen historique des pratiques et des mandats respectifs des Banques centrales et des Trésors, les **Enseignant(s):** expliquent les liens entre États, marché de capitaux, organisation et modes de régulation du crédit et de la monnaie. Pourquoi l’émission de monnaie a-t-elle été centralisée, confiée à une seule institution (la Banque centrale), et surtout couplée à des rôles de supervision financière et de prêts bancaires ? Comment les dettes souveraines ont changé de nature selon les configurations du capitalisme, et en quoi cela informe la construction et transformation de l’État ? Le cours aborde ces questions centrales à travers des exemples historiques tant nationaux qu’internationaux et montre comment la frontière institutionnelle entre dette et monnaie est très fine, voire indissociable.
 
 
-    **Enseignant(s):** Benjamin Lemoine, Éric Monnet
+    Webpage: <a href="mailto:https://enseignements.ehess.fr/2021-2022/ue/69">https://enseignements.ehess.fr/2021-2022/ue/69
 
 
-    **Information pratique:** S3, 18h, Campus Condorcet-Centre de colloques
+    **Teacher(s):**
+
+      - Benjamin Lemoine
+      - Éric Monnet
 
 
-    Page web: https://enseignements.ehess.fr/2021-2022/ue/69
+    **Practical Information:** S3, 18h, Campus Condorcet-Centre de colloques
 
 - course_name: "Economie de la transition écologique"
   course_id: ecological-transition
@@ -1182,10 +1300,11 @@
 
     Les 8 séances de cours sont consacrées à la description des évolutions institutionnelles, techniques et organisationnelles qui permettent d’enclencher des transitions écologiques de nos systèmes économiques. Elles seront organisées autour de l’analyse des trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles). L’objectif est de proposer des cadrages théoriques et des illustrations concrètes en matière de fiscalité écologique, d’innovations comptable et financière, de droit de l’environnement, de compensations écologiques et d’usages d’outils d’évaluations.
 
-    **Enseignant(s):** Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr>Harold.Levrel@agroparistech.fr)
+
+    **Enseignant(s) :** Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr">Harold.Levrel@agroparistech.fr)
 
 
-    **Information pratique:** S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
+    **Informations pratiques :** S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
 
 - course_name: "Economics of ecological transition"
   course_id: ecological-transition
@@ -1201,10 +1320,10 @@
     Les 8 séances de cours sont consacrées à la description des évolutions institutionnelles, techniques et organisationnelles qui permettent d’enclencher des transitions écologiques de nos systèmes économiques. Elles seront organisées autour de l’analyse des trajectoires de socio-écosystèmes particuliers (forestiers, urbains, marins, agricoles). L’objectif est de proposer des cadrages théoriques et des illustrations concrètes en matière de fiscalité écologique, d’innovations comptable et financière, de droit de l’environnement, de compensations écologiques et d’usages d’outils d’évaluations.
 
 
-    **Enseignant(s):** Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr>Harold.Levrel@agroparistech.fr)
+    **Teacher(s):** Harold Levrel (<a href="mailto:Harold.Levrel@agroparistech.fr">Harold.Levrel@agroparistech.fr)
 
 
-    **Information pratique:** S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
+    **Practical Information:** S3 (validé au S4), 20hn AgroParitech Saclay, vendredi 13h-15h30
 
 - course_name: "Emotions, Identity and Behavior"
   course_id: emotions-identity
@@ -1214,7 +1333,7 @@
   semester: 3
   course_type_id: 2
   description: >
-    Part 1: Self, motivation and behavior (Rasyid Bo Sanitioso)
+    <h5>Part 1: Self, motivation and behavior (Rasyid Bo Sanitioso)</h5>
 
 
     The first part of the course examines the Self, the motivations associated with the self, its temporal aspects and impacts on behavior. After defining the Self and looking at different theories of the Self in Social Psychology, we will compare the self across cultures specifically, independent vs. interdependent self-construal, oft associated with ‘western’ vs ‘eastern’ culture).
@@ -1229,7 +1348,7 @@
     Topic 3: The self across cultures: Independent vs Interdependent Self construal.
 
 
-    Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber; silvia.krauth-gruber@parisdescartes.fr)
+    <h5>Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber)</h5>
 
 
     The second part of the course presents theoretical models and empirical studies about how, when and why emotions influence perception, judgment, and behavior. In fact, people cannot always reason, judge and act in a rational way. As will be shown, people’s economic decisions are influenced by the anticipated emotional consequences of the outcome of a decision as well as by the immediate emotions experienced at the moment of choice.
@@ -1244,19 +1363,21 @@
     Topic 3: Emotions and information processing or how emotions influence the structure of reasoning.
 
 
-    **Enseignant(s):** Rasyid Bo-Sanitioso (<a href =mailto:rasyid.sanitioso@parisdescartes.fr)>rasyid.sanitioso@parisdescartes.fr) et Silvia Krauth-Gruber (<a href = mailto:silvia.krauth-gruber@parisdescartes.fr>silvia.krauth-gruber@parisdescartes.fr)
+    Evaluation:
 
-    **Information pratique:** S3, 18h, cours du M2 Economics ad Psychology
-
-    Evaluation: Part 1: Students will be required to hand in an individual report (2 pages excluding references, typed, 12 points Times New Roman, 1.5 interline) linking the self (concepts/studies/results of an article) to an “economic” behavior or applying the concepts/studies/results to an economic domain/sphere – DUE DATE: 27 Nov. 2017. There is also a group presentation, for validation only (on an article from the reference list, except Sanitioso, 2008).
-
-
-    Part 2: Students will have a final exam during the last class (Nov. 29, 2017) where they have to treat questions related to topics discussed during class and in the required readings.
+      - Part 1: Students will be required to hand in an individual report (2 pages excluding references, typed, 12 points Times New Roman, 1.5 interline) linking the self (concepts/studies/results of an article) to an “economic” behavior or applying the concepts/studies/results to an economic domain/sphere – DUE DATE: 27 Nov. 2017. There is also a group presentation, for validation only (on an article from the reference list, except Sanitioso, 2008).
+      - Part 2: Students will have a final exam during the last class (Nov. 29, 2017) where they have to treat questions related to topics discussed during class and in the required readings.
 
 
     The final grade will be based on the two parts, equally weighted.
 
 
+    **Enseignant(s) :**
+
+      - Rasyid Bo-Sanitioso (<a href ="mailto:rasyid.sanitioso@parisdescartes.fr">rasyid.sanitioso@parisdescartes.fr)
+      - Silvia Krauth-Gruber (<a href = "mailto:silvia.krauth-gruber@parisdescartes.fr">silvia.krauth-gruber@parisdescartes.fr)
+
+    **Information pratique :** S3, 18h, cours du M2 Economics ad Psychology
 
 - course_name: "Emotions, Identity and Behavior"
   course_id: emotions-identity
@@ -1281,7 +1402,7 @@
     Topic 3: The self across cultures: Independent vs Interdependent Self construal.
 
 
-    Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber; silvia.krauth-gruber@parisdescartes.fr)
+    Part 2: Emotion, judgment and behavior (Silvia Krauth-Gruber)
 
 
     The second part of the course presents theoretical models and empirical studies about how, when and why emotions influence perception, judgment, and behavior. In fact, people cannot always reason, judge and act in a rational way. As will be shown, people’s economic decisions are influenced by the anticipated emotional consequences of the outcome of a decision as well as by the immediate emotions experienced at the moment of choice.
@@ -1295,10 +1416,6 @@
 
     Topic 3: Emotions and information processing or how emotions influence the structure of reasoning.
 
-
-    **Teacher(s):** Rasyid Bo-Sanitioso (<a href =mailto:rasyid.sanitioso@parisdescartes.fr)>rasyid.sanitioso@parisdescartes.fr) et Silvia Krauth-Gruber (<a href = mailto:silvia.krauth-gruber@parisdescartes.fr>silvia.krauth-gruber@parisdescartes.fr)
-
-    **Pratical information:** S3, 18h, cours du M2 Economics ad Psychology
 
     Grading: Part 1: Students will be required to hand in an individual report (2 pages excluding references, typed, 12 points Times New Roman, 1.5 interline) linking the self (concepts/studies/results of an article) to an “economic” behavior or applying the concepts/studies/results to an economic domain/sphere – DUE DATE: 27 Nov. 2017. There is also a group presentation, for validation only (on an article from the reference list, except Sanitioso, 2008).
 
@@ -1308,7 +1425,16 @@
 
     The final grade will be based on the two parts, equally weighted.
 
-- course_name: "Théorie des jeux et philosophie politique"
+
+    **Teacher(s):**
+
+      - Rasyid Bo-Sanitioso (<a href="mailto:rasyid.sanitioso@parisdescartes.fr">rasyid.sanitioso@parisdescartes.fr)
+      - Silvia Krauth-Gruber (<a href="mailto:silvia.krauth-gruber@parisdescartes.fr">silvia.krauth-gruber@parisdescartes.fr)
+
+    **Pratical information:** S3, 18h, cours du M2 Economics ad Psychology
+
+
+- course_name: "Modèle stratégique de rationalité"
   course_id: strategic-model
   course_master: "M2 Philo et Société"
   lang: "fr"
@@ -1322,13 +1448,16 @@
     L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d’examen sont conçus de manière à permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
 
 
-    **Enseignant(s):** Joseph Abdou (<a href = mailto:joseph.abdou@univ-paris1.fr>joseph.abdou@univ-paris1.fr) et Emmanuel Picavet (<a href=mailto:emmanuel.picavet@univ-paris1.fr>emmanuel.picavet@univ-paris1.fr)
+    **Enseignant(s) :**
+
+      - Joseph Abdou (<a href ="mailto:joseph.abdou@univ-paris1.fr">joseph.abdou@univ-paris1.fr)
+      - Emmanuel Picavet (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
 
-    **Information pratique:** **Information pratique:** S2, Maison des Sciences Économiques
+    **Information pratique :** S2, Maison des Sciences Économiques
 
 
-- course_name: "Game theory and political philosophy"
+- course_name: "Strategic Model of Rationality"
   course_id: strategic-model
   course_master: "M2 Philo et Société"
   lang: "en"
@@ -1340,6 +1469,15 @@
 
 
     L’enseignement s’adresse à plusieurs publics. Les spécialistes de mathématiques sociales (filière MMEF) et les économistes (master THEME) y verront certaines de leurs méthodes d’analyse traditionnelles (celles de la théorie des jeux en particulier) appliquées au champ politique et aux interactions politico-économiques. Les philosophes du master « Philosophie et société » trouveront ici des développements sur le versant de la pensée politique qui concerne l’organisation sociale et la conception des institutions. Les épistémologues (master LOPHISC) pourront être intéressés par les modalités d’interaction actuelles entre les mathématiques et les approches normatives des mécanismes socio-politiques. Les sujets d’examen sont conçus de manière à permettre et à mettre en valeur un traitement par les ressources de chacune des disciplines concernées.
+
+
+    **Teacher(s):**
+
+      - Joseph Abdou (<a href ="mailto:joseph.abdou@univ-paris1.fr">joseph.abdou@univ-paris1.fr)
+      - Emmanuel Picavet (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
+
+
+    **Practical Information:** S2, Maison des Sciences Économiques
 
 
 - course_name: "Experimental Economics"
@@ -1356,13 +1494,15 @@
     Grading : Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
 
 
-    Responsable du cours : Nicolas Jacquemet (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
+    [Page web du cours](http://www.nicolasjacquemet.com/teaching.htm)
 
 
-    **Information pratique:** S3, cours du M2 APE.
+    **Responsable du cours** : Nicolas Jacquemet (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
 
 
-    [Page web du cours](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics)
+    **Informations pratiques :** S3, cours du M2 APE.
+
+
 
 - course_name: "Experimental Economics"
   course_id: experimental-economics
@@ -1378,14 +1518,15 @@
     Grading : Students work in groups of 2 or 3. They must hand-in a research paper at the end of the session, in which a motivated research question is to be answered based on an experiment. The design of the experiment must be described and discussed much carefully.
 
 
-    ****Teacher:**** Nicolas Jacquemet  (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
+    [Course's web page](http://www.nicolasjacquemet.com/teaching.htm)
+
+
+    **Teacher:** Nicolas Jacquemet  (<a href="mailto:nicolas.jacquemet@univ-paris1.fr">nicolas.jacquemet@univ-paris1.fr</a>)
 
 
     **Pratical information:** S3, cours du M2 APE.
 
 
-    [Course's web page](http://www.nicolasjacquemet.com/Teaching.htm#ExpEconomics)
-
 - course_name: "Datamining"
   course_id: datamining
   course_master: "M2 Quantifier en Sciences Sociales, EHESS"
@@ -1401,10 +1542,14 @@
         - à l'extraction de contenus à partir du web (ou webscrapping), grâce à la conception d'un script ou d'un programme dédié (Marie Plessz);
         - à l'analyse de données textuelles (ou ADT), en apprenant à envisager les textes comme des données organisées (Bénédicte Garnier).
 
-    **Teacher(s):** Responsable du cours: Marie Plessz (<a href=mailto:marie.plessz@inrae.fr>marie.plessz@inrae.fr) et Bénédicte Garnier (<a href=mailto:garnier@ined.fr>garnier@ined.fr)
+
+    **Responsables du cours :**
+
+      - Marie Plessz (<a href="mailto:marie.plessz@inrae.fr">marie.plessz@inrae.fr)
+      - Bénédicte Garnier (<a href="mailto:garnier@ined.fr">garnier@ined.fr)
 
 
-    **Pratical information:** S3, 24h, 48 bd Jourdan 75014 Paris, lundi 14h-17h. M2 Quantifier en sciences sociales (EHESS). Inscription obligatoire auprès de Marie Plessz. Nombre de place limité.
+    **Informations pratiques :** S3, 24h, 48 bd Jourdan 75014 Paris, lundi 14h-17h. M2 Quantifier en sciences sociales (EHESS). Inscription obligatoire auprès de Marie Plessz. Nombre de place limité.
 
 
 - course_name: "Datamining"
@@ -1422,7 +1567,11 @@
         - à l'extraction de contenus à partir du web (ou webscrapping), grâce à la conception d'un script ou d'un programme dédié (Marie Plessz);
         - à l'analyse de données textuelles (ou ADT), en apprenant à envisager les textes comme des données organisées (Bénédicte Garnier).
 
-    **Teacher(s):** Responsable du cours: Marie Plessz (<a href=mailto:marie.plessz@inrae.fr>marie.plessz@inrae.fr) et Bénédicte Garnier (<a href=mailto:garnier@ined.fr>garnier@ined.fr)
+
+    **Teacher(s):**
+
+        - Marie Plessz (<a href="mailto:marie.plessz@inrae.fr">marie.plessz@inrae.fr)
+        - Bénédicte Garnier (<a href="mailto:garnier@ined.fr">garnier@ined.fr)
 
 
     **Pratical information:** S3, 24h, 48 bd Jourdan 75014 Paris, lundi 14h-17h. M2 Quantifier en sciences sociales (EHESS). Inscription obligatoire auprès de Marie Plessz. Nombre de place limité.
@@ -1438,10 +1587,13 @@
     Cet enseignement vise à approfondir la découverte de la lexicométrie pour l'historien au sein des formations initiales et n’est pas destinée à des spécialistes, mais à quiconque souhaiterait aller plus loin. Les séances seront partagées entre des lectures d'articles et d'extraits d'ouvrages sur l'utilisation des méthodes lexicométriques en histoire et des travaux pratiques sur ordinateur. Nous aborderons les techniques d'acquisition et de construction de corpus (balisage, lemmatisation et étiquetage morpho-syntaxique), les différentes méthodes de mesures lexicales et d'interrogation de corpus étiquetés, les analyses multivariées (AFC lexicales) ainsi que les méthodes de classifications (CAH, Kohonen, Alceste) et les réseaux de mots (matrices de co-occurrences). Pour ce faire différents logiciels seront mobilisés : Lexico 3, CooCS, TreeTagger, TXM, Iramuteq.
 
 
-    **Enseignant(s):** Stéphane Lamassé (<a href=mailto:stephane.lamasse@univ-paris1.fr>stephane.lamasse@univ-paris1.fr), Julien Alerini (<a href=mailto:Julien.Alerini@univ-paris1.fr>Julien.Alerini@univ-paris1.fr)
+    **Enseignant(s) :**
+
+      - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+      - Julien Alerini (<a href="mailto:Julien.Alerini@univ-paris1.fr">Julien.Alerini@univ-paris1.fr)
 
 
-    **Information pratique:** S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
+    **Informations pratiques :** S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
 
 - course_name: "Lexicometrie"
   course_id: textometry
@@ -1454,7 +1606,10 @@
     Cet enseignement vise à approfondir la découverte de la lexicométrie pour l'historien au sein des formations initiales et n’est pas destinée à des spécialistes, mais à quiconque souhaiterait aller plus loin. Les séances seront partagées entre des lectures d'articles et d'extraits d'ouvrages sur l'utilisation des méthodes lexicométriques en histoire et des travaux pratiques sur ordinateur. Nous aborderons les techniques d'acquisition et de construction de corpus (balisage, lemmatisation et étiquetage morpho-syntaxique), les différentes méthodes de mesures lexicales et d'interrogation de corpus étiquetés, les analyses multivariées (AFC lexicales) ainsi que les méthodes de classifications (CAH, Kohonen, Alceste) et les réseaux de mots (matrices de co-occurrences). Pour ce faire différents logiciels seront mobilisés : Lexico 3, CooCS, TreeTagger, TXM, Iramuteq.
 
 
-    **Teacher(s):** Stéphane Lamassé (<a href=mailto:stephane.lamasse@univ-paris1.fr>stephane.lamasse@univ-paris1.fr), Julien Alerini (<a href=mailto:Julien.Alerini@univ-paris1.fr>Julien.Alerini@univ-paris1.fr)
+    **Teacher(s):**
+
+        - Stéphane Lamassé (<a href="mailto:stephane.lamasse@univ-paris1.fr">stephane.lamasse@univ-paris1.fr)
+        - Julien Alerini (<a href="mailto:Julien.Alerini@univ-paris1.fr">Julien.Alerini@univ-paris1.fr)
 
 
     **Pratical information:** S4, 19,5h, Sorbonne, Master Histoire parcours HSNQ.
@@ -1482,13 +1637,15 @@
     Les outils que nous rencontrons sont souvent ceux de la physique statistique des systèmes désordonnés, des équations aux dérivées partielles (EDP) en milieu hétérogène, de la théorie des jeux, de la théorie des graphes et de l'analyse de réseaux, ainsi que ceux de la simulation numérique dite « multi-agents », et de l'analyse de données avancée (machine learning/intelligence artificielle).
 
 
-    Le programme détaillé est affiché et régulièrement mis à jour sur la page internet du séminaire,  http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+    Le programme détaillé est affiché et régulièrement mis à jour sur [la page internet du séminaire](http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/)
 
-    **Enseignant(s):** Responsable du cours : Jean-Pierre Nadal (<a href=mailto:jean-pierre.nadal@ehess.fr>jean-pierre.nadal@ehess.fr) (Centre d’analyse et de mathématiques sociales, CAMS)
 
-    **Information pratique:** S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS
-    Tous les 1er et 3e vendredis à partir de novembre. Informations détaillées : http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
-    Inscription avant chaque séance (48h) : https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639
+    **Enseignant(s) :** Jean-Pierre Nadal (<a href="mailto:jean-pierre.nadal@ehess.fr">jean-pierre.nadal@ehess.fr)
+
+
+    **Informations pratiques :** S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS. Tous les 1er et 3e vendredis à partir de novembre.
+    Informations détaillées : [http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/](http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/).
+    Inscription avant chaque séance (48h) : [https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639](https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639).
     Contacter Jean-Pierre Nadal pour la validation.
 
 - course_name: "Complex systems and social sciences"
@@ -1513,14 +1670,17 @@
     Les outils que nous rencontrons sont souvent ceux de la physique statistique des systèmes désordonnés, des équations aux dérivées partielles (EDP) en milieu hétérogène, de la théorie des jeux, de la théorie des graphes et de l'analyse de réseaux, ainsi que ceux de la simulation numérique dite « multi-agents », et de l'analyse de données avancée (machine learning/intelligence artificielle).
 
 
-    Le programme détaillé est affiché et régulièrement mis à jour sur la page internet du séminaire,  http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
+    Le programme détaillé est affiché et régulièrement mis à jour sur [la page internet du séminaire](http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/)
 
-    **Teacher(s):** Responsable du cours : Jean-Pierre Nadal (<a href=mailto:jean-pierre.nadal@ehess.fr>jean-pierre.nadal@ehess.fr) (Centre d’analyse et de mathématiques sociales, CAMS)
 
-    **Pratical information:** S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS
-    Tous les 1er et 3e vendredis à partir de novembre. Informations détaillées : http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/
-    Inscription avant chaque séance (48h) : https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639
+    **Teacher(s):** Jean-Pierre Nadal (<a href="mailto:jean-pierre.nadal@ehess.fr">jean-pierre.nadal@ehess.fr)
+
+
+    **Practical Information:** S3/S4, 54, bd Raspail, 75006 Paris, formation de l’EHESS. Tous les 1er et 3e vendredis à partir de novembre.
+    Informations détaillées : [http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/](http://cams.ehess.fr/systemes-complexes-en-sciences-sociales/).
+    Inscription avant chaque séance (48h) : [https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639](https://participations.ehess.fr/demandes/__nouvelle__?seminaire=639).
     Contacter Jean-Pierre Nadal pour la validation.
+
 
 - course_name: "Histoire environmentale II: Matières et énergies XIXe-XXIe"
   course_id: environmental-history
@@ -1533,10 +1693,13 @@
     Ce séminaire poursuit la présentation des grands thèmes de l’histoire environnementale, avec une attention particulière pour la prise en compte de la matière, de son poids, de ses flux, de sa circulation, de son extraction manuelle ou mécanique, de ses réseaux. Cette attention matérielle permet de revisiter des questions historiographiques que ce soit en histoire environnementale ou en histoire tout court. La pesée quantitative questionne certains récits qui se sont imposés à la fois en histoire et dans l’espace public (par exemple : transition, substitution, dématérialisation). Elle permet d’aborder d’une manière nouvelle des historiographies classiques (par exemple les causes de la grande divergence), elle permet enfin d’étudier les dispositifs (réseaux, conventions, normes de qualité, standardisation etc.) qui ont permis la mobilisation croissante de la matière dans l’économie mondiale. Ce cours présentera des travaux récents et en cours dans un champ d’investigation très dynamique. Il fera l’objet d’une évaluation collective sur des séries quantitatives matérielles (douanes, administrations des mines ou des forêts, agriculture).
 
 
-    **Enseignant(s):** Jawad Daheur (<a href=mailto:jawad.daheur@ehess.fr>jawad.daheur@ehess.fr) et Jean-Baptiste Fressoz (<a href=mailto:jean-baptiste.fressoz@ehess.fr>jean-baptiste.fressoz@ehess.fr)
+    **Enseignant(s) :**
+
+      - Jawad Daheur (<a href="mailto:jawad.daheur@ehess.fr">jawad.daheur@ehess.fr)
+      - Jean-Baptiste Fressoz (<a href="mailto:jean-baptiste.fressoz@ehess.fr">jean-baptiste.fressoz@ehess.fr)
 
 
-    **Information pratique:**  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
+    **Informations pratiques :**  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
 
 
 
@@ -1551,7 +1714,10 @@
     Ce séminaire poursuit la présentation des grands thèmes de l’histoire environnementale, avec une attention particulière pour la prise en compte de la matière, de son poids, de ses flux, de sa circulation, de son extraction manuelle ou mécanique, de ses réseaux. Cette attention matérielle permet de revisiter des questions historiographiques que ce soit en histoire environnementale ou en histoire tout court. La pesée quantitative questionne certains récits qui se sont imposés à la fois en histoire et dans l’espace public (par exemple : transition, substitution, dématérialisation). Elle permet d’aborder d’une manière nouvelle des historiographies classiques (par exemple les causes de la grande divergence), elle permet enfin d’étudier les dispositifs (réseaux, conventions, normes de qualité, standardisation etc.) qui ont permis la mobilisation croissante de la matière dans l’économie mondiale. Ce cours présentera des travaux récents et en cours dans un champ d’investigation très dynamique. Il fera l’objet d’une évaluation collective sur des séries quantitatives matérielles (douanes, administrations des mines ou des forêts, agriculture).
 
 
-    **Teacher(s):** Jawad Daheur (<a href=mailto:jawad.daheur@ehess.fr>jawad.daheur@ehess.fr) et Jean-Baptiste Fressoz (<a href=mailto:jean-baptiste.fressoz@ehess.fr>jean-baptiste.fressoz@ehess.fr)
+    **Teacher(s):**
+
+      - Jawad Daheur (<a href="mailto:jawad.daheur@ehess.fr">jawad.daheur@ehess.fr)
+      - Jean-Baptiste Fressoz (<a href="mailto:jean-baptiste.fressoz@ehess.fr">jean-baptiste.fressoz@ehess.fr)
 
 
     **Pratical information:**  S4, hebdomadaire, jeudi 14:30-16:30, salle 3.08. Campus Condorcet-Centre de colloques. Salle 3.08 Cours des humanités 93300 Aubervilliers. Cours de la formation Savoirs en sociétés – Études environnementales, EHESS.
@@ -1566,10 +1732,11 @@
   description: >
     Thème – Tolérance et démocratie
 
-    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes.
+    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes :
 
-    1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
-    2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+      1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
+      2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+
 
     Les séances seront principalement consacrées à l’étude des auteurs suivants :
 
@@ -1583,9 +1750,11 @@
       8. Rainer Forst et/ ou Cécile Laborde
       (9. Michael Walzer)
 
-      **Enseignant(s):** Isabelle Aubert (<a href:mailto:isabelle.aubert@univ-paris1.fr>isabelle.aubert@univ-paris1.fr)
 
-      **Information pratique:** **Information pratique:** S4, mardi, cours du M2 Philosophie et société.
+      **Enseignant(s) :** Isabelle Aubert (<a href="mailto:isabelle.aubert@univ-paris1.fr">isabelle.aubert@univ-paris1.fr)
+
+
+      **Informations pratiques:** **Information pratique:** S4, mardi, cours du M2 Philosophie et société.
 
 - course_name: "Political Philosophy"
   course_id: political-philosophy
@@ -1597,10 +1766,11 @@
   description: >
     Thème – Tolérance et démocratie
 
-    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes.
+    Le séminaire se penchera sur la notion de tolérance afin de repenser les coordonnées du politique dans le cadre des démocraties pluralistes. En s’appuyant sur des auteurs classiques et des textes contemporains, on s’interrogera sur la tension qui s’opère entre, d’un côté, la pratique de la liberté d’expression et de la liberté de pensée, de croyance et de religion et, de l’autre, les réactions (réprobation, méfiance) et les problèmes politiques (paix sociale) que suscite l’acceptation de ce que l’on désapprouve. Les conditions même de l’existence d’un ethos démocratique et d’une culture libérale seront étudiées, en suivant deux grands axes :
 
-    1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
-    2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+      1. Tolérer des idées que l’on réprouve provoque des désaccords dans le débat public. On se demandera à quelles conditions la conflictualité issue de l’énonciation d’opinions polémiques est féconde en démocratie.
+      2. Le débat sur la tolérance prend souvent pour objet des pratiques culturelles et des croyances religieuses. On verra comment l’articulation entre la croyance et le pouvoir et, plus largement, celle entre le privé et le public restent des questions délicates pour le politique.
+
 
     Les séances seront principalement consacrées à l’étude des auteurs suivants :
 
@@ -1615,7 +1785,7 @@
       (9. Michael Walzer)
 
 
-      **Teacher(s):** Isabelle Aubert (<a href:mailto:isabelle.aubert@univ-paris1.fr>isabelle.aubert@univ-paris1.fr)
+      **Teacher(s):** Isabelle Aubert (<a href="mailto:isabelle.aubert@univ-paris1.fr">isabelle.aubert@univ-paris1.fr)
 
 
       **Pratical information:** **Information pratique:** S4, mardi, cours du M2 Philosophie et société.
@@ -1630,18 +1800,15 @@
   description: >
     La pratique de la modélisation mathématique du risque a profondément modifié le paysage des professions financières et actuarielles dans le monde et a contribué à l’omniprésence de la finance dans la société, donnant l’impression d’une emprise croissante d’une vision financière du monde (ou « financiarisation ») accusée de dogmatisme et difficile à contourner. D’où viennent les modèles mathématiques de risque, quelle est leur histoire, quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses se fondent leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes des questions auxquelles toute analyse de la financiarisation se trouve aujourd’hui confrontée, en raison de l’impact sociétal de l’utilisation des modèles mathématiques ou statistiques du risque utilisés par les professionnels. Le séminaire a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a prise la modélisation du risque principalement en finance et des controverses scientifiques qui ont accompagné cette évolution. Les enjeux éthiques des choix de modélisation du risque seront abordés en introduisant la notion d’éthique épistémique.
 
+
     Validation du cours : Présence à toutes les séances et travail écrit (mini-mémoire).
 
 
-    **Enseignant(s):** Christian Walter (<a href=mailto:christian.walter@msh-paris.fr>christian.walter@msh-paris.fr)
+    **Enseignant(s):** Christian Walter (<a href="mailto:christian.walter@msh-paris.fr">christian.walter@msh-paris.fr)
 
 
     **Information pratique:** S4, lieu et horaire à préciser.
-
-
-    Page du cours: https://epistemofinance.hypotheses.org/enseignement-teaching
-
-
+    [Page du cours](https://epistemofinance.hypotheses.org/enseignement-teaching)
 
 - course_name: "Ethique et finance"
   course_id: ethics-finance
@@ -1653,16 +1820,15 @@
   description: >
     La pratique de la modélisation mathématique du risque a profondément modifié le paysage des professions financières et actuarielles dans le monde et a contribué à l’omniprésence de la finance dans la société, donnant l’impression d’une emprise croissante d’une vision financière du monde (ou « financiarisation ») accusée de dogmatisme et difficile à contourner. D’où viennent les modèles mathématiques de risque, quelle est leur histoire, quels sont leurs fondements techniques, historiques ou sociaux, sur quelles prémisses se fondent leurs hypothèses, sont-elles toujours pertinentes pour l’élaboration des solutions proposées ? Telles sont quelques-unes des questions auxquelles toute analyse de la financiarisation se trouve aujourd’hui confrontée, en raison de l’impact sociétal de l’utilisation des modèles mathématiques ou statistiques du risque utilisés par les professionnels. Le séminaire a pour objet l’examen de ces questions à partir de l’analyse des formes successives qu’a prise la modélisation du risque principalement en finance et des controverses scientifiques qui ont accompagné cette évolution. Les enjeux éthiques des choix de modélisation du risque seront abordés en introduisant la notion d’éthique épistémique.
 
+
     Validation du cours : Présence à toutes les séances et travail écrit (mini-mémoire).
 
 
-    **Enseignant(s):** Christian Walter (<a href=mailto:christian.walter@msh-paris.fr>christian.walter@msh-paris.fr)
+    **Enseignant(s):** Christian Walter (<a href="mailto:christian.walter@msh-paris.fr">christian.walter@msh-paris.fr)
 
 
     **Pratical information:** S4, lieu et horaire à préciser.
-
-
-    Webpage: https://epistemofinance.hypotheses.org/enseignement-teaching
+    [Webpage](https://epistemofinance.hypotheses.org/enseignement-teaching)
 
 
 - course_name: "Neuroéconomie"
@@ -1673,16 +1839,11 @@
   semester: 4
   course_type_id: 2
   description: >
-    **1a. Course description (English)**
-
-
-    This course will provide an overview of the field of behavioural and neural economics, which studies the computational processes, involved in value-based decision-making as well as their neural implementation. We particularly focus on how decision variables, such as to the expected utility and its components (eg value, probability, risk and delay) are calculated and represented in the brain. The anchoring of decision-making into cognitive et computational processes allow correcting normative prespictions thanks to behavioural observations. The anchoring of decision-making processes to neural substrates, makes it possible to understand the deviations of rationality in the light of neurobiological constraints and to redefine the classic (descriptive) economic models in the form of neuro-computational (mechanistic) models.
-
-
-    **1b. Description du cours (Français)**
+    **1. Description du cours (Français)**
 
 
     Ce cours donnera un aperçu du domaine de l'économie comportementale et neuronale, qui étudie les processus de calcul, impliqués dans la prise de décision en valua-base ainsi que leur mise en œuvre neuronale. Nous nous concentrons particulièrement sur la façon dont les variables de décision, telles que l'utilité attendue et ses composantes (valeur, probabilité, risque et retard) sont calculées et représentées dans le cerveau. L'ancrage de la prise de décision dans les processus cognitifs et computationnels permet de corriger les présupposés normatifs grâce à des obervations comportementales. L'ancrage des processus décisionnels sur des substrats neuronaux, permet de comprendre les déviations de la rationalité à la lumière des contraintes neurobiologiques et de redéfinir les modèles économiques classiques (descriptifs) sous forme de modèles neuroinformatiques (mécanistes).
+
 
     **2. Learning objectives**
 
@@ -1702,6 +1863,7 @@
       1.	Neuroeconomics: Decision Making and the Brain. Edited by:Paul W. Glimcher and Ernst Fehr
       2.	Decision Neuroscience: An Integrative Perspective. Edited by: Jean-Claude Dreher Leon Tremblay
       3.	An Introduction to Behavioral Economics. Nick Wilkinson , Matthias Klaes.
+
 
     **5. Table of matters**
 
@@ -1748,7 +1910,7 @@
         - What is the future of behavioural and neuroeconomics? Bioeconomics?
 
 
-      **Class hours to **Teacher(s):**** SP: 11h; ML: 11h
+      **Class hours to teacher**: SP: 11h; ML: 11h.
 
 
       **6. Course policies**
@@ -1769,29 +1931,28 @@
       **Laptop/phone policy**: no laptops except in some classes with in-class activities. Participation. Strongly encouraged, in French or English.
 
 
-      **Enseignant(s):** Stefano Palminteri (<a href=mailto:stefano.palminteri@gmail.com>stefano.palminteri@gmail.com) et Maël Lebreton (<a href=mailto:mael.lebreton@googlemail.com>mael.lebreton@googlemail.com)
+      **Enseignant(s) :**
 
-      **Information pratique:** cours au S3 (validé comme cours S4), 22h, Tuesday 2pm-4pm (jour et horaire à vérifier auprès des responsables). Lieu ENS Ulm, salle Théodule Ribot. No prerequisites.
+        - Stefano Palminteri (<a href="mailto:stefano.palminteri@gmail.com">stefano.palminteri@gmail.com)
+        - Maël Lebreton (<a href="mailto:mael.lebreton@googlemail.com">mael.lebreton@googlemail.com)
+
+
+      **Information pratique :** cours au S3 (validé comme cours S4), 22h, Tuesday 2pm-4pm (jour et horaire à vérifier auprès des responsables). Lieu ENS Ulm, salle Théodule Ribot. No prerequisites.
 
 
 - course_name: "Neuroéconomie"
   course_id: neuroeconomics
   course_master: "M2 E&P"
   prof_name: Stefano Palminteri, Maël Lebreton
-  lang: "fr"
+  lang: "en"
   semester: 4
   course_type_id: 2
   description: >
-    **1a. Course description (English)**
+    **1. Course description**
 
 
     This course will provide an overview of the field of behavioural and neural economics, which studies the computational processes, involved in value-based decision-making as well as their neural implementation. We particularly focus on how decision variables, such as to the expected utility and its components (eg value, probability, risk and delay) are calculated and represented in the brain. The anchoring of decision-making into cognitive et computational processes allow correcting normative prespictions thanks to behavioural observations. The anchoring of decision-making processes to neural substrates, makes it possible to understand the deviations of rationality in the light of neurobiological constraints and to redefine the classic (descriptive) economic models in the form of neuro-computational (mechanistic) models.
 
-
-    **1b. Description du cours (Français)**
-
-
-    Ce cours donnera un aperçu du domaine de l'économie comportementale et neuronale, qui étudie les processus de calcul, impliqués dans la prise de décision en valua-base ainsi que leur mise en œuvre neuronale. Nous nous concentrons particulièrement sur la façon dont les variables de décision, telles que l'utilité attendue et ses composantes (valeur, probabilité, risque et retard) sont calculées et représentées dans le cerveau. L'ancrage de la prise de décision dans les processus cognitifs et computationnels permet de corriger les présupposés normatifs grâce à des obervations comportementales. L'ancrage des processus décisionnels sur des substrats neuronaux, permet de comprendre les déviations de la rationalité à la lumière des contraintes neurobiologiques et de redéfinir les modèles économiques classiques (descriptifs) sous forme de modèles neuroinformatiques (mécanistes).
 
     **2. Learning objectives**
 
@@ -1812,7 +1973,9 @@
       2.	Decision Neuroscience: An Integrative Perspective. Edited by: Jean-Claude Dreher Leon Tremblay
       3.	An Introduction to Behavioral Economics. Nick Wilkinson , Matthias Klaes.
 
+
     **5. Table of matters**
+
 
       **Epistemological and methodological foundations**
         - The Epistemological Foundations of Behavioural and Neural economics
@@ -1857,7 +2020,7 @@
         - What is the future of behavioural and neuroeconomics? Bioeconomics?
 
 
-      **Class hours to **Teacher(s):**** SP: 11h; ML: 11h
+      **Class hours to teachers:** SP: 11h; ML: 11h
 
 
       **6. Course policies**
@@ -1878,7 +2041,11 @@
       **Laptop/phone policy**: no laptops except in some classes with in-class activities. Participation. Strongly encouraged, in French or English.
 
 
-      **Teacher(s):** Stefano Palminteri (<a href=mailto:stefano.palminteri@gmail.com>stefano.palminteri@gmail.com) et Maël Lebreton (<a href=mailto:mael.lebreton@googlemail.com>mael.lebreton@googlemail.com)
+      **Teacher(s):**
+
+        - Stefano Palminteri (<a href="mailto:stefano.palminteri@gmail.com">stefano.palminteri@gmail.com)
+        - Maël Lebreton (<a href="mailto:mael.lebreton@googlemail.com">mael.lebreton@googlemail.com)
+
 
       **Pratical information:** cours au S3 (validé comme cours S4), 22h, Tuesday 2pm-4pm (jour et horaire à vérifier auprès des responsables). Lieu ENS Ulm, salle Théodule Ribot. No prerequisites.
 
@@ -1905,7 +2072,10 @@
     Evaluation: For the final grade, students will be asked to summarize and discuss in length two of those required readings papers (either the two of the same course sessions, or two chosen in different sessions), using in particular the discussions that took place in class (3-4 pages per paper).
 
 
-    **Enseignant(s):** Éric Monnet (<a href=mailto:eric.monnet@psemail.eu>eric.monnet@psemail.eu) et Pierre-Cyrille Hautcœur (<a href=mailto:pierre-cyrille.hautcoeur@ehess.fr>pierre-cyrille.hautcoeur@ehess.fr)
+    **Enseignant(s):**
+
+      - Éric Monnet (<a href="mailto:eric.monnet@psemail.eu">eric.monnet@psemail.eu)
+      - Pierre-Cyrille Hautcœur (<a href="mailto:pierre-cyrille.hautcoeur@ehess.fr">pierre-cyrille.hautcoeur@ehess.fr)
 
 
     Information pratique: **Information pratique:** S4, 24h, Campus Jourdan.
@@ -1933,7 +2103,10 @@
     Evaluation: For the final grade, students will be asked to summarize and discuss in length two of those required readings papers (either the two of the same course sessions, or two chosen in different sessions), using in particular the discussions that took place in class (3-4 pages per paper).
 
 
-    **Teacher(s):** Éric Monnet (<a href=mailto:eric.monnet@psemail.eu>eric.monnet@psemail.eu) et Pierre-Cyrille Hautcœur (<a href=mailto:pierre-cyrille.hautcoeur@ehess.fr>pierre-cyrille.hautcoeur@ehess.fr)
+    **Teacher(s):**
+
+        - Éric Monnet (<a href="mailto:eric.monnet@psemail.eu">eric.monnet@psemail.eu)
+        - Pierre-Cyrille Hautcœur (<a href="mailto:pierre-cyrille.hautcoeur@ehess.fr">pierre-cyrille.hautcoeur@ehess.fr)
 
 
     **Pratical information:** **Information pratique:** S4, 24h, Campus Jourdan.
@@ -1956,10 +2129,10 @@
     Les études de cas développées concerneront notamment la régulation socio-économique et la responsabilité environnementale et sociale. D’autres études de cas, relevant d’autres champs contemporains de la normativité, de l’éthique institutionnelle et du gouvernement, pourront faire l’objet d’exposés. Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
 
 
-    **Enseignant(s):** Emmanuel Picavet (<a href = mailto:emmanuel.picavet@univ-paris1.fr>emmanuel.picavet@univ-paris1.fr)
+    **Enseignant(s) :** Emmanuel Picavet (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
 
-    **Information pratique:** S4, Sorbonne, salle Lalande, mercredi 11h-12h30
+    **Information pratique :** S4, Sorbonne, salle Lalande, mercredi 11h-12h30
 
 - course_name: "Ethique appliquée 2: l’organisation collective et l’effectivité des principes"
   course_id: applied-ethics-2
@@ -1978,7 +2151,7 @@
     Les études de cas développées concerneront notamment la régulation socio-économique et la responsabilité environnementale et sociale. D’autres études de cas, relevant d’autres champs contemporains de la normativité, de l’éthique institutionnelle et du gouvernement, pourront faire l’objet d’exposés. Ce cours fait suite à un cours du premier semestre intitulé Ethique appliquée 1.
 
 
-    **Enseignant(s):** Emmanuel Picavet (<a href = mailto:emmanuel.picavet@univ-paris1.fr>emmanuel.picavet@univ-paris1.fr)
+    **Enseignant(s):** Emmanuel Picavet (<a href="mailto:emmanuel.picavet@univ-paris1.fr">emmanuel.picavet@univ-paris1.fr)
 
 
     ****Pratical information:**** S4, Sorbonne, salle Lalande, mercredi 11h-12h30
@@ -2000,10 +2173,13 @@
     Evaluation : Depending on the number of registered students, the grade for this course will be based either on a written exam or on the oral presentation of an article.
 
 
-    **Enseignant(s):** Jean-François Laslier (<a href= mailto:jean-francois.laslier@psemail.eu>jean-francois.laslier@psemail.eu) et Antonin Macé (<a href=mailto:antonin.mace@psemail.eu>antonin.mace@psemail.eu)
+    **Enseignant(s) :**
+
+      - Jean-François Laslier (<a href= "mailto:jean-francois.laslier@psemail.eu">jean-francois.laslier@psemail.eu)
+      - Antonin Macé (<a href="mailto:antonin.mace@psemail.eu">antonin.mace@psemail.eu)
 
 
-    **Information pratique:**  S4, Campus Jourdan, cours de la formation M2 APE.
+    **Information pratique :**  S4, Campus Jourdan, cours de la formation M2 APE.
 
 - course_name: "Theories of collective choice"
   course_id: collective-choice-theory
@@ -2022,12 +2198,15 @@
     Evaluation : Depending on the number of registered students, the grade for this course will be based either on a written exam or on the oral presentation of an article.
 
 
-    **Teacher(s):** Jean-François Laslier (<a href= mailto:jean-francois.laslier@psemail.eu>jean-francois.laslier@psemail.eu) et Antonin Macé (<a href=mailto:antonin.mace@psemail.eu>antonin.mace@psemail.eu)
+    **Teacher(s):**
+
+      - Jean-François Laslier (<a href= "mailto:jean-francois.laslier@psemail.eu">jean-francois.laslier@psemail.eu)
+      - Antonin Macé (<a href="mailto:antonin.mace@psemail.eu">antonin.mace@psemail.eu)
 
 
     **Pratical information:** S4, Campus Jourdan, cours de la formation M2 APE.
 
-- course_name: "Industrial organization and applications to antitrust and regulation"
+- course_name: "Topics in Antitrust"
   course_id: antitrust
   course_master: "M2 APE"
   lang: "fr"
@@ -2044,12 +2223,12 @@
     Grading will be based on student presentations that will be assigned during the first class. I expect the first student presentations to take place during the fourth class. The earliest presentations will benefit from more lenient grading to account for the more limited time.
 
 
-    Responsable : David Spector (<a href="mailto:spector@pse.ens.fr">spector@pse.ens.fr</a>)
+    **Enseignant(s)** : David Spector (<a href="mailto:spector@pse.ens.fr">spector@pse.ens.fr)
 
 
-    **Information pratique:** S4, 18h, Campus Jourdan, cours du M2 APE.
+    **Information pratique :** S4, 18h, Campus Jourdan, cours du M2 APE.
 
-- course_name: "Industrial organization and applications to antitrust and regulation"
+- course_name: "Topics in Antitrust"
   course_id: antitrust
   course_master: "M2 APE"
   prof_name: David Spector
@@ -2066,7 +2245,7 @@
     Grading will be based on student presentations that will be assigned during the first class. I expect the first student presentations to take place during the fourth class. The earliest presentations will benefit from more lenient grading to account for the more limited time.
 
 
-    **Teacher:** David Spector (<a href="mailto:spector@pse.ens.fr">spector@pse.ens.fr</a>)
+    **Teacher(s):** David Spector (<a href="mailto:spector@pse.ens.fr">spector@pse.ens.fr)
 
 
     **Pratical information:** S4, 18h, Campus Jourdan, cours du M2 APE.
@@ -2082,9 +2261,11 @@
     So called « non-economic » aspects like social interactions, trust, solidarity, cultural and social norms become increasingly acknowledged in various important economic and social policy areas like crime,
     ethnic conflict, gender, the Welfare state and economic development, This course applies the tools of microeconomic analysis and other fields (sociobiology, evolutionary anthropology and socio- psychology) to such issues, emphasizing the role of endogenous preferences, social norms and social interactions. The course is intended for PhD and Master students, but well-prepared and motivated last year undergraduate students may also take it with permission of the professor.
 
-    **Enseignant(s):** : Thierry Verdier (<a href = mailto:thierry.verdier@psemail.eu>thierry.verdier@psemail.eu)
 
-    **Information pratique:** S4, 18h, 48 bd Jourdan 75014 Paris, jeudi 09h-12h, cours du M2 APE.
+    **Enseignant(s) :** : Thierry Verdier (<a href="mailto:thierry.verdier@psemail.eu">thierry.verdier@psemail.eu)
+
+
+    **Information pratique :** S4, 18h, 48 bd Jourdan 75014 Paris, jeudi 09h-12h, cours du M2 APE.
 
 - course_name: "Social Interactions"
   course_id: social-interactions
@@ -2097,7 +2278,9 @@
     So called « non-economic » aspects like social interactions, trust, solidarity, cultural and social norms become increasingly acknowledged in various important economic and social policy areas like crime,
     ethnic conflict, gender, the Welfare state and economic development, This course applies the tools of microeconomic analysis and other fields (sociobiology, evolutionary anthropology and socio- psychology) to such issues, emphasizing the role of endogenous preferences, social norms and social interactions. The course is intended for PhD and Master students, but well-prepared and motivated last year undergraduate students may also take it with permission of the professor.
 
-    **Teacher(s):** : Thierry Verdier (<a href = mailto:thierry.verdier@psemail.eu>thierry.verdier@psemail.eu)
+
+    **Teacher(s):** Thierry Verdier (<a href="mailto:thierry.verdier@psemail.eu">thierry.verdier@psemail.eu)
+
 
     **Pratical information:** S4, 18h, 48 bd Jourdan 75014 Paris, jeudi 09h-12h, cours du M2 APE.
 
@@ -2113,6 +2296,7 @@
   course_type_id: 2
   description: >
     L’institutionnalisme monétaire est un courant théorique né des travaux de Michel Aglietta, Bruno Théret et moi-même, et poursuivi très activement en France par de nombreux économistes et socio-économistes. Il a pour spécificité la thèse selon laquelle la monnaie est l’institution au fondement de la valeur, et non l’inverse. Ses références bibliographiques les plus marquantes sont :
+
       - Michel Aglietta, La Monnaie entre dettes et souveraineté, Odile Jacob, 2016, en collaboration avec Pépita Ould Ahmed et Jean-François Ponsot.
       - Michel Aglietta et André Orléan (sous la direction de), La monnaie souveraine, Odile Jacob, 1998
       - Michel Aglietta et André Orléan, La monnaie entre violence et confiance, Odile Jacob, 2002.
@@ -2127,7 +2311,7 @@
     Dans un second temps, il s'agira de mettre à l'épreuve cette construction conceptuelle en la confrontant à diverses expériences historiques. C'est, en effet, une autre spécificité de cette approche que de mettre l'histoire au cœur de ses préoccupations. Pour s'en convaincre il n'est que d'observer la très large place faite aux études historiques dans les références bibliographiques précédentes. C’est seulement en se confrontant à la complexité et à la diversité des faits sociaux qu’il est possible de saisir pleinement les enjeux du rapport monétaire. Aussi, à cette fin, ce séminaire étudiera les expériences monétaires suivantes : la France et son circuit du Trésor, de 1950 à 1973 ; les mutations monétaires en France sous l’Ancien Régime ; le Quantitative Easing post-crise de 2008. Nous les avons choisies pour leur grande diversité. Il s'agit, à cette occasion, de se demander s'il est possible d'englober cette diversité dans un cadre unitaire.
 
 
-    **Intervenants:** André Orléan (<a href=mailto:andre.orlean@ehess.fr>andre.orlean@ehess.fr)
+    **Enseignant(s) :** André Orléan (<a href="mailto:andre.orlean@ehess.fr">andre.orlean@ehess.fr)
 
 
     **Information pratique:** S3-S4, formation de l’EHESS, 48 bd Jourdan 75014 Paris salle R2-20, bimensuel (1re/3e/5e) mardi 17:00-20:00, décembre 2022 -mai 2023, 10 séances.
@@ -2144,6 +2328,7 @@
   course_type_id: 2
   description: >
     L’institutionnalisme monétaire est un courant théorique né des travaux de Michel Aglietta, Bruno Théret et moi-même, et poursuivi très activement en France par de nombreux économistes et socio-économistes. Il a pour spécificité la thèse selon laquelle la monnaie est l’institution au fondement de la valeur, et non l’inverse. Ses références bibliographiques les plus marquantes sont :
+
       - Michel Aglietta, La Monnaie entre dettes et souveraineté, Odile Jacob, 2016, en collaboration avec Pépita Ould Ahmed et Jean-François Ponsot.
       - Michel Aglietta et André Orléan (sous la direction de), La monnaie souveraine, Odile Jacob, 1998
       - Michel Aglietta et André Orléan, La monnaie entre violence et confiance, Odile Jacob, 2002.
@@ -2158,7 +2343,7 @@
     Dans un second temps, il s'agira de mettre à l'épreuve cette construction conceptuelle en la confrontant à diverses expériences historiques. C'est, en effet, une autre spécificité de cette approche que de mettre l'histoire au cœur de ses préoccupations. Pour s'en convaincre il n'est que d'observer la très large place faite aux études historiques dans les références bibliographiques précédentes. C’est seulement en se confrontant à la complexité et à la diversité des faits sociaux qu’il est possible de saisir pleinement les enjeux du rapport monétaire. Aussi, à cette fin, ce séminaire étudiera les expériences monétaires suivantes : la France et son circuit du Trésor, de 1950 à 1973 ; les mutations monétaires en France sous l’Ancien Régime ; le Quantitative Easing post-crise de 2008. Nous les avons choisies pour leur grande diversité. Il s'agit, à cette occasion, de se demander s'il est possible d'englober cette diversité dans un cadre unitaire.
 
 
-    **Intervenants:** André Orléan (<a href=mailto:andre.orlean@ehess.fr>andre.orlean@ehess.fr)
+    **Teacher(s):** André Orléan (<a href="mailto:andre.orlean@ehess.fr">andre.orlean@ehess.fr)
 
 
     **Information pratique:** S3-S4, formation de l’EHESS, 48 bd Jourdan 75014 Paris salle R2-20, bimensuel (1re/3e/5e) mardi 17:00-20:00, décembre 2022 -mai 2023, 10 séances.
@@ -2190,10 +2375,13 @@
     10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
 
 
-    **Information pratique:**  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
-
-
     [Page web du cours](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
+
+
+    **Enseignant(s) :** Béatrice Boulu-Reshef (<a href="mailto:beatrice.boulu-reshef@univ-paris1.fr">beatrice.boulu-reshef@univ-paris1.fr)
+
+
+    **Information pratique :**  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
 
 
 - course_name: "Behavioral Finance"
@@ -2222,7 +2410,10 @@
     10%: Class attendance and participation: This class is a research-oriented course so you are expected to participate in class.
 
 
-    **Pratical information:**  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
-
-
     [Course's web page](https://drive.google.com/file/d/1u1gYHa9iVO4aa6gb3F7sP8wObCPATaoC/view)
+
+
+    **Teacher(s):** Béatrice Boulu-Reshef (<a href="mailto:beatrice.boulu-reshef@univ-paris1.fr">beatrice.boulu-reshef@univ-paris1.fr)
+
+
+    **Pratical information:**  S4, 18h, Maison des Sciences Économiques, S17, Monday 1pm-4pm.
