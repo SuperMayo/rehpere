@@ -246,17 +246,6 @@ quantify-model:
       - PORTER T., 1995, Trust in numbers. The pursuit of Objectivity in Science and Public Life, Princeton, Princeton University Press.
 
 
-histoire-idees-politiques:
-  bib: |
-    - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
-    - Roger Chartier , Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000
-    - Mathieu Hauchecorne, « Le “professeur Rawls” et le “Nobel des pauvres”. La politisation différenciée des théories de la justice de John Rawls et d’Amartya Sen dans les années 90 en France », Actes de la recherche en sciences sociales, 2009-1, p. 166-177
-    - Frédérique Matonti « Plaidoyer pour une histoire sociale des idées politiques », Revue d’histoire moderne e& contemporaine, 59-4 bis de la RHMC, « Regards sur l'histoire intellectuelle », 2012
-    - Timothy Tackett dans Par la volonté du peuple, Paris, Albin Michel, coll. « L’évolution de l’humanité », 1997 [1996]
-    - Quentin Skinner, Visions of politics, Vol, 1. Regarding Method, Cambridge University Press, 2002
-    - Quentin Skinner, La Liberté avant le libéralisme, Paris, Seuil, 2000
-    - Arnault Skornicki et Jérôme Tournadre, La nouvelle histoire des idées politiques, Paris, La Découverte, Repères, 2015.
-
 economie-comportementale:
   bib: |
     - Ariely, D. C’est (vraiment?) moi qui décide, Paris : Flammarion (2008).
@@ -324,27 +313,6 @@ marx-orlean:
     - De Vroey Michel, « Marchandise, société marchande, société capitaliste. Un réexamen de quelques définitions fondamentales », Cahiers d’Économie Politique, n°9, 1984, 109-135.
     - Wood Ellen Meiksins, L’origine du capitalisme. Une étude approfondie, Québec, Lux éditeurs, coll. « Humanités », 2009.
 
-
-ethique-appliquee-1:
-  bib: |
-    - Audard (C.) Qu’est-ce que le libéralisme ? Paris, Gallimard, 2009.
-    - Ballet (J.), Bazin (D.), Dubois (J.-L.) et Mahieu (F.-R.) Freedom, Responsibility and Economics of the Person. Londres et New York, Routledge, 2014.
-    - Ege (R.) et Igersheim (H.), dir., Freedom and Happiness in Economic Thought and Philosophy. Londres et New York, Routledge, 2011.
-    - Leroux (A.) et Livet (P.), dir., Leçons de philosophie économique, 2 vols. Paris, Economica, 2005-2006.
-    - Peter (F.) et Schmidt (H.B.), dir., Rationality and Commitment, Oxford, Oxford University Press, 2007.
-    - Rawls (J.) Théorie de la justice, tr. f. par C. Audard de la 1ère éd.; Paris, PUF; et 2ème éd., Harvard UP, 1999.
-    - Sandel (M.) Le libéralisme et les limites de la justice. Paris, Seuil.
-    - Taylor (Ch.) La liberté des Modernes. Paris, Presses Universitaires de France.
-    - Sen (A.K) Collective Choice and Social Welfare. Amsterdam, North Holland et Edimbourg, Oliver & Boyd, 1970.
-    - Sen (A.K.) Inequality Reexamined. Oxford, Clarendon Press, 1992.
-
-ethique-appliquee-2:
-  bib: |
-    - Boccon-Gibod (T.) et Gabrielli (C.), dir., Normes, institutions et régulation publique. Paris, Hermann, 2015.
-    - Habermas (J.) Droit et démocratie. Paris, Gallimard, 1997 (éd. allemande1992).
-    - Lenoble (J.) et Maesschalck (M.), L’action des normes. Eléments pour une théorie de la gouvernance. Sherbrooke, Editions Revue de Droit de l’Université de Sherbrooke et Kluwer Law International, 2003, 2009.
-    - Manzo (G.) dir., Theories and Social Mechanisms. Essays in Honor of Mohamed Cherkaoui. 2 vols. Oxford, The Bardwell Press, 2015.
-    - Rawls (J.) Libéralisme politique. Presses Universitaires de France, 1993.
 
 rationalite-philo-eco:
   bib: |
@@ -518,6 +486,55 @@ philo-social:
       - YOUNG, Iris Marion, Justice and the Politics of Difference, Princeton, Princeton University Press, 1990.
       - YOUNG, Iris Marion, Responsibility for Justice, Oxford, Oxford University Press, 2011.
 
+applied-ethics:
+  bib: |
+      - Audard (C.) Qu’est-ce que le libéralisme ? Paris, Gallimard, 2009.
+      - Ballet (J.), Bazin (D.), Dubois (J.-L.) et Mahieu (F.-R.) Freedom, Responsibility and Economics of the Person. Londres et New York, Routledge, 2014.
+      - Ege (R.) et Igersheim (H.), dir., Freedom and Happiness in Economic Thought and Philosophy. Londres et New York, Routledge, 2011.
+      - Leroux (A.) et Livet (P.), dir., Leçons de philosophie économique, 2 vols. Paris, Economica, 2005-2006.
+      - Peter (F.) et Schmidt (H.B.), dir., Rationality and Commitment, Oxford, Oxford University Press, 2007.
+      - Rawls (J.) Théorie de la justice, tr. f. par C. Audard de la 1ère éd.; Paris, PUF; et 2ème éd., Harvard UP, 1999.
+      - Sandel (M.) Le libéralisme et les limites de la justice. Paris, Seuil.
+      - Taylor (Ch.) La liberté des Modernes. Paris, Presses Universitaires de France.
+      - Sen (A.K) Collective Choice and Social Welfare. Amsterdam, North Holland et Edimbourg, Oliver & Boyd, 1970.
+      - Sen (A.K.) Inequality Reexamined. Oxford, Clarendon Press, 1992.
+
+social-history-ideas:
+  bib: |
+    - Pierre Bourdieu, L’Ontologie politique de Martin Heidegger, Paris, Les Editions de Minuit, « Le Sens commun », 1988.
+    - Roger Chartier, Les origines culturelles de la Révolution française, Paris, Rééd. Points Seuil, 2000
+    - Mathieu Hauchecorne, « Le “professeur Rawls” et le “Nobel des pauvres”. La politisation différenciée des théories de la justice de John Rawls et d’Amartya Sen dans les années 90 en France », Actes de la recherche en sciences sociales, 2009-1, p. 166-177
+    - Frédérique Matonti « Plaidoyer pour une histoire sociale des idées politiques », Revue d’histoire moderne & contemporaine, 59-4 bis de la RHMC, « Regards sur l’histoire intellectuelle », 2012
+    - Timothy Tackett dans Par la volonté du peuple, Paris, Albin Michel, coll. « L’évolution de l’humanité », 1997 [1996]
+    - Quentin Skinner, Visions of politics, Vol, 1. Regarding Method, Cambridge University Press, 2002
+    - Quentin Skinner, La Liberté avant le libéralisme, Paris, Seuil, 2000
+    - Arnault Skornicki et Jérôme Tournadre, La nouvelle histoire des idées politiques, Paris, La Découverte, Repères, 2015.
+
+behavioral-economics:
+  bib: |
+    - Camerer, Colin. 2003. Behavioral Game Theory: Experiments in Strategic Interaction. Princeton: Princeton University Press
+    - Wilkinson, Nick, and Matthias Klaes. 2012. An Introduction to Behavioral Economics. New York: Palgrave
+    - Dhami, Sanjit. 2016. The Foundations of Behavioral Economic Analysisi. Oxford: Oxford University Press
+
+
+emotions-identity:
+  bib: |
+    1. Part 1:
+      - Kühnen, U. & Oyserman, D. (2002). Thinking about the self influences thinking in general: Cognitive consequences of salient self-concept. Journal of Experimental Social Psychology. 38, 492-499.
+      - Chen, C.Y. (2009). Who I am and how I think: The impact of self-construal on the role of internal and external reference prices in price evaluations. Contemporary Educational Psychology, 38, 136-148. Journal of Consumer Psychology, 9, 416-426.
+      - Augustinova, M., Collange, J., Sanitioso, R.B. & Musca, S.C. (2011). Power of the desired self: Influence of induced perceptions of the self on reasoning. Cognition, 121, 299-312.
+      - Waïd, L.D., & Frazier, D. (2003). Cultural differences in possible selves during later life. Journal of Aging studies, 17, 251-268.
+      - Sanitioso, R. B. (2008). Motivated self and visual perspective in remembering. European Journal of Social Psychology, 38, 566-575.
+      - Heine, S. J., & Lehman, D. R. (1995). Cultural variation in unrealistic optimism: Does the West feel more invulnerable than the East? Journal of Personality and Social Psychology, 68, 595-607
+    2. Part 2:
+      - Niedenthal,P., Krauth-Gruber, S., & Riç, F (2006). Psychology of emotion: Interpersonal, experiential and cognitive approaches. NY : Psychology Press. A short & easy introduction to the concept of emotion and the emotional brain (in French)
+      - Berthoz, S. & Krauth-Gruber, S. (2011). La face cachée des émotions. Editions Le Pommier
+      - Rick, S. & Loewenstein, G. (2008). The role of emotion in economic behavior. In M. Lewis, J. Haviland-Jones, & L. Feldman Barrett (eds.), Handbook of emotions (chap.9, pp. 138-156).
+      - Heilman, R., Crisan, L., Houser, D., Miclea, M., & Miu, A. (2010). Emotion regulation and decision making under risk and uncertainty. Emotion, 10(2), 247-265.
+      - Mikels, J., Maglio, S., Reed,A., & Kaplowitz, L. (2011). Should I go with my guts? Investigating the benefits of emotion-focused decision making. Emotion, 11(4), 743-753.
+      - Peatfield, N., Parkinson, J., & Intriligator J. (2012). Emotion-Based Learning is biased by brand logos. Applied Cognitive Psychology, 26, 694–701.
+
+
 behavioral-finance:
   bib: |
     - Forbes, William (2009) Behavioural Finance, Wiley.
@@ -528,10 +545,10 @@ behavioral-finance:
     - Shefrin, Hersh (2005) Behavioral Corporate Finance, McGraw-Hill.
     - Sunstein, Cass and Richard Thaler (2008) Nudge, Yale University Press.
     - Thaler, Richard (1993) Advances in Behavioral Finance Vol. 2, Princeton University Press.
-    
+
 strategic-model:
   bib: |
-    -  Arrow, Kenneth J. 1951. Social Choice and Individual Values. New York: Wiley, 1951. Traduction en français, Choix collectifs et préférences individuelles. Paris: Calmann-Lévy.
+    - Arrow, Kenneth J. 1951. Social Choice and Individual Values. New York: Wiley, 1951. Traduction en français, Choix collectifs et préférences individuelles. Paris: Calmann-Lévy.
     - Boudon (Raymond), Le juste et le vrai. Etude sur l’objectivité des valeurs et de la connaissance, Paris, Fayard, 1995.
     - Buchanan (James M.) et Tullock (Gordon), Calculus of Consent. The Logical Foundations of Constitutional Democracy, Ann Arbor, University of Michigan Press, 1962.
     - Damien (Robert) et Tosel (André) (dir.), L’Action collective. Coordination, conseil, planification, Besançon, diffusion Les Belles-Lettres, 1998.
@@ -543,5 +560,36 @@ strategic-model:
     - Sen (Amartya K.), Collective Choice and Social Welfare, Edimbourg, Oliver & Boyd et Amsterdam, North-Holland, 1970.
     - Séris (Jean-Pierre), La Théorie des jeux. Paris, Presses Universitaires de France, 1974.
     - Van Hees (Martin), Rights and Decisions. Formal Models of Law and Liberalism, Dordrecht, Kluwer Academic Press, 1995.
-  
-   
+
+applied-ethics-2:
+  bib: |
+    - Boccon-Gibod (T.) et Gabrielli (C.), dir., Normes, institutions et régulation publique. Paris, Hermann, 2015.
+    - Habermas (J.) Droit et démocratie. Paris, Gallimard, 1997 (éd. allemande1992).
+    - Lenoble (J.) et Maesschalck (M.), L’action des normes. Eléments pour une théorie de la gouvernance. Sherbrooke, Editions Revue de Droit de l’Université de Sherbrooke et Kluwer Law International, 2003, 2009.
+    - Manzo (G.) dir., Theories and Social Mechanisms. Essays in Honor of Mohamed Cherkaoui. 2 vols. Oxford, The Bardwell Press, 2015.
+    - Rawls (J.) Libéralisme politique. Presses Universitaires de France, 1993.
+
+political-philosophy:
+  bib: |
+    - ADORNO, Theodor Wiesengrund, Minima Moralia. Réflexions sur la vie mutilée (1951), trad. E. Kaufholz et J.-R. Ladmiral, Paris, Payot, « Petite Bibliothèque Payot », 2003.
+    - BAYLE, Pierre, De la tolérance (1686), Paris, Honoré Champion, 2006.
+    - di BLASI, Luca et HOLZHEY, Christoph F. E. (éd.), The Power of Tolerance. A Debate with Wendy Brown and Rainer Forst, Columbia University Press, 2014.
+    - DERRIDA, Jacques, HABERMAS, Jürgen, Le « concept » du 11 septembre, Paris, Galilée, 2004.
+    - DIDEROT & D’ALEMBERT, « Tolérance », in Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, vol. 16, 1765.
+    - DILHAC, Marc-Antoine, La tolérance, un risque pour la démocratie ? Paris, Vrin, 2014.
+    - FORST, Rainer, Toleration in conflict, Cambridge, Cambridge University Press, 2013.
+    - FOUCAULT, Michel, Le gouvernement de soi et des autres t. 2 : Le courage de la vérité. Cours au Collège de France (1983-1984), Paris, Seuil, 2009.
+    - HABERMAS, Jürgen, « Intolerance and Discrimination », International Journal of Constitutional Law, vol. 1, n° 1, 2003, p. 2-12.
+    - HABERMAS, Jürgen, Entre naturalisme et religion. Les défis de la démocratie, Paris, Gallimard, nrf, 2008.
+    - LABORDE, Cécile, Critical Republicanism. The Hijab Controversy in Political Philosophy, Oxford University Press, 2008.
+    - LOCKE, John, Lettre sur la tolérance précédé de Essai sur la tolérance, et Sur la différence entre pouvoir ecclésiastique et pouvoir civil (1674), GF, 2007.
+    - MARCUSE, Herbert, MOORE, Barrington et WOLFF, Robert Paul, Critique de la tolérance pure, trad. L. Roskopf et L. Weibel, Paris, J. Didier, 1969.
+    - MCKINNON, Catriona et CASTIGLIONE Dario, The Culture of Toleration in Diverse Societies. Reasonable toleration, Manchester University Press, 2008.
+    - MOURGEON, Jacques, « Tolérance et règle de droit », Les cahiers de droit, vol. 30, n° 4, décembre 1989, pp. 979-986.
+    - RAWLS, John, Théorie de la justice (1971), trad. C. Audard, Paris, Seuil, « Essais », 1997.
+    - RAWLS, John, Libéralisme politique, trad. C. Audard, Paris, PUF, 1995.
+    - SPINOZA, Baruch, Traité théologico-politique, trad. Ch. Appuhn, GF, 1965.
+    - STUART MILL, John, De la liberté (1859), trad. L. Lenglet, Folio, 1990.
+    - STEPAN, Alfred et TAYLOR, Charles, Boundaries of Toleration, New York, Columbia University Press, 2014.
+    - TAYLOR, Charles, L’âge séculier, trad. P. Savidan, Paris, Seuil, 2011.
+    - WALZER, Michael, Traité sur la tolérance, trad. Ch. Hutner, Paris, Gallimard, nrf, 1998.

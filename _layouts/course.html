@@ -8,15 +8,15 @@ layout: one-column
 
 {% if page.semester.size == 2 %}
 	{% if page.lang == "fr" %}
-		<h4>Semestre {{page.semester[0]}} & {{page.semester[1]}} - {{ page.course_type }}</h4>
+		<h4>Semestre {{page.semester[0]}} & {{page.semester[1]}}</h4>
 	{% else %}
-		<h4>Semester {{page.semester[0]}} & {{page.semester[1]}} - {{ page.course_type }}</h4>
+		<h4>Semester {{page.semester[0]}} & {{page.semester[1]}}</h4>
 	{% endif %}
 {% else %}
 	{% if page.lang == "fr" %}
-			<h4>Semestre {{page.semester}} - {{ page.course_type }}</h4>
+			<h4>Semestre {{page.semester}}</h4>
 	{% else %}
-			<h4>Semester {{page.semester}} - {{ page.course_type }}</h4>
+			<h4>Semester {{page.semester}}</h4>
 	{% endif %}
 {% endif %}
 
@@ -76,6 +76,11 @@ layout: one-column
 
 {% if site.data.courses_bib[page.course_id] %}
 	<hr/>
+	{% if page.lang == "fr" %}
+	<h3>Références</h3>
+	{{ site.data.courses_bib[page.course_id].bib | markdownify }}
+	{% else %}
 	<h3>References</h3>
 	{{ site.data.courses_bib[page.course_id].bib | markdownify }}
+	{% endif %}
 {% endif %}
