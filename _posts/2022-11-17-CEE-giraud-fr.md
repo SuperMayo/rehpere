@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2022-11-17
 ref: CEE-giraud-2022-11-17
 lang: fr
-anchor: false
+anchor: true
 ---
 
 <i class="fas fa-table"></i> Date : _17 Novembre_ at _6pm_
