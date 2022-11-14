@@ -4,7 +4,7 @@ title: "Conference - Recent Shifts in the Boundaries of Economics: Philosophy an
 date: 2022-05-24
 ref: programme-colloque-frontiere
 lang: en
-anchor: true
+anchor: false
 ---
 <center>
 <i class="fas fa-table"></i> <b>Paris, May 30, 31 and June, 1, 2022. </b>
