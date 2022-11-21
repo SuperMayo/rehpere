@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2022-11-14
+date: 2022-11-17
 ref: CEE-giraud-2022-11-17
 lang: fr
 anchor: true
