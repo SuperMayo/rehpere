@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-01-09
 ref: CEE-demier-2023-01-12
 lang: fr
-anchor: false
+anchor: true
 ---
 
 <i class="fas fa-table"></i> Date : _12 janvier_ at _6pm_
