@@ -125,9 +125,9 @@
   flatname: david-philippy
   picture: "david-philippy.jpg"
   lang: "fr"
-  status: "Doctorant"
-  statuscode: "phd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  status: "Chercheur post-doctorant"
+  statuscode: "pd"
+  institution: "CY Cergy Paris Université (CY Advanced Studies & AGORA)"
   themes:
     - Pensée Économique Américaine
     - Consommation
@@ -140,9 +140,9 @@
     - Hazel Kyrk
     - Elizabeth H. Hoyt
   external:
-    - name: "Page UNIL"
-      link: "https://unil.academia.edu/DavidPhilippy"
-  contact: "david.philippy@gmail.com"
+    - name: "Lien externe"
+      link: "https://advancedstudies.cyu.fr/version-francaise/navigation/fellows-visiteurs/fellows-in-residence/annee-en-cours"
+  contact: "david.philippy@cyu.fr"
   free_text: >
     Mes travaux portent sur la consommation dans l’histoire de la pensée économique américaine (1885-1936) et sur les enjeux que son étude a impliqué dans le développement de la discipline. Je m’intéresse en particulier à la contribution de femmes économistes au début du 20ème siècle qui s’inscrivaient dans un double héritage du Home Economics Movement et de l’institutionnalisme. De manière générale, je suis intéressé par les questions de « frontières disciplinaires » et du rôle que jouent les enjeux épistémologiques dans la construction de l’identité des disciplines.
 
@@ -153,9 +153,9 @@
   flatname: david-philippy
   picture: "david-philippy.jpg"
   lang: "en"
-  status: "Doctorant"
-  statuscode: "phd"
-  institution: "Centre Walras-Pareto d’études interdisciplinaires de la pensée économique et politique, Université de Lausanne"
+  status: "Postdoc research fellow"
+  statuscode: "pd"
+  institution: "CY Cergy Paris Université (CY Advanced Studies & AGORA)"
   themes:
     - US economic thought
     - Consumption
@@ -168,9 +168,9 @@
     - Hazel Kyrk
     - Elizabeth H. Hoyt
   external:
-    - name: "Page UNIL"
-      link: "https://unil.academia.edu/DavidPhilippy"
-  contact: "david.philippy@gmail.com"
+    - name: "External link"
+      link: "https://advancedstudies.cyu.fr/version-francaise/navigation/fellows-visiteurs/fellows-in-residence/annee-en-cours"
+  contact: "david.philippy@cyu.fr"
   free_text: >
     My work focuses on consumption in the history of American economic thought (1885-1936) and the issues that its study has implied in the development of the discipline. I am particularly interested in the contribution of women economists at the beginning of the 20th century who were part of a double legacy of the Home Economics Movement and institutionalism. In general, I am interested in questions of "disciplinary boundaries" and the role that epistemological issues play in the construction of the identity of disciplines.
 
