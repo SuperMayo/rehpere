@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-01-23
 ref: CEE-alacevich-01-26
 lang: en
-anchor: true
+anchor: false
 ---
 
 
