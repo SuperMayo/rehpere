@@ -2,7 +2,7 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-01-23
-ref: CEE-boyer-2023-01-26
+ref: CEE-alacevich-2023-01-26
 lang: fr
 anchor: false
 ---
