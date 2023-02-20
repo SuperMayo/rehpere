@@ -757,9 +757,9 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "en"
-  status: "Post-doc"
-  statuscode: "phd"
-  institution: "Center for the History of Political Economy, Duke University"
+  status: "Assistant Professor"
+  statuscode: "mcf"
+  institution: "Université de Bourgogne, LEDI"
   themes:
     - History of financial economics
     - Quantitative history
@@ -776,16 +776,9 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    I am a historian of economics. My research aims at tracing the evolution of economic thought
-    about financial markets through the 20th century. I use qualitative data (content analysis,
-    private and administrative archives, oral history) and, more recently, quantitative data (bibliometric analysis and text mining).
-
-    I completed a Ph.D. in economics at the University of Paris I Panthéon Sorbonne in 2021;
-    I am currently a post-doctoral fellow at the Center for the History of Political Economy at Duke University.
-    I work currently on three projects: (a) the emergence of the U.S. economic thought about
-    speculation and its regulation during the interwar period, (b) a history of the concept
-    of bubbles, with a special focus on the tulip mania, (c) building quantitative tools for
-    measuring the impact of business schools on contemporary economics.
+    My published research deal with the origins and emergence of financial economics. 
+    I use qualitative data (content analysis, private and administrative archives, oral history) and, 
+    more recently, quantitative data (bibliometric analysis and text mining). 
 
 
 ############  Thomas Delcey - fr   #############
@@ -795,9 +788,9 @@
   flatname: thomas-delcey
   picture: "thomas-delcey.jpg"
   lang: "fr"
-  status: "Post-doc"
-  statuscode: "phd"
-  institution: "Center for the History of Political Economy, Duke University"
+  status: "Maitre de conférence"
+  statuscode: "mcf"
+  institution: "Université de Bourgogne, LEDI"
   themes:
     - Histoire de l'économie financière
     - Histoire quantitative
@@ -814,20 +807,10 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    Je suis historien de l'économie. Mes recherches portent sur l'évolution de la pensée
-    économique en matière de marchés financiers au cours du XXe siècle. J'utilise des données
-    qualitatives (analyse de contenu, archives privées et administratives, histoire orale) et,
-    plus récemment, des données quantitatives (analyse bibliométrique et text mining).
-
-    J'ai obtenu un doctorat en économie à l'Université de Paris I Panthéon Sorbonne en 2021 ;
-    je suis actuellement post-doctorant au Center for the History of Political Economy de
-    l'Université Duke.  Je travaille actuellement sur trois projets : (a) l'émergence de la
-    pensée économique américaine concernant la spéculation et sa régulation durant
-    l'entre-deux-guerres, (b) une histoire du concept de bulles, avec un focus particulier
-    sur la tulip mania, (c) la construction d'outils quantitatifs pour mesurer l'influence
-    des écoles de commerce sur l'économie contemporaine.
-
-
+     Mes recherches publiées portent sur les origines et 
+     l'émergence de l'économie financière. J'utilise des données qualitatives (analyse de contenu, 
+     archives privées et administratives, histoire orale) et, plus récemment, des données quantitatives 
+     (analyse bibliométrique et text mining). 
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
   surname: Lecouteux
