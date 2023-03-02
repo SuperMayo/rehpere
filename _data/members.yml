@@ -1,3 +1,49 @@
+############  Alexandre Truc - fr  #############
+
+- firstname: Alexandre
+  surname: Truc 
+  flatname: alexandre-truc
+  picture: "alexandre-truc.jpg"
+  lang: "fr"
+  status: "Chercheur Post-doctorant"
+  statuscode: "pd"
+  institution: "Université Côte d’Azur, CNRS, GREDEG, France"
+  themes:
+    - interdisciplinarité de l'économie 
+    - économie comportementale 
+    - analyse bibliométrique 
+  twitter: "alxndr_trc"
+  contact: "alexandre.truc77@gmail.com"
+  external:
+    - name: "Site web personnel"
+      link: "https://sites.google.com/view/alexandre-truc/publications"
+  free_text: >
+    Mes recherches portent sur l'interdisciplinarité en économie. Je me suis particulièrement intéressé à l'histoire de l'économie comportementale et expérimentale, et plus généralement à la frontière entre économie et psychologie.
+
+
+############  Alexandre Truc - en #############
+
+- firstname: Alexandre
+  surname: Truc 
+  flatname: alexandre-truc
+  picture: "alexandre-truc.jpg"
+  lang: "en"
+  status: "Postdoctoral researcher"
+  statuscode: "pd"
+  institution: "Université Côte d’Azur, CNRS, GREDEG, France"
+  themes:
+    - interdisciplinarity of economics
+    - behavioral economics
+    - bibliometric analysis
+  twitter: "alxndr_trc"
+  contact: "alexandre.truc77@gmail.com"
+  external:
+    - name: "Personal website"
+      link: "https://sites.google.com/view/alexandre-truc/publications"
+  free_text: >
+    My research focuses on interdisciplinarity in economics. I am particularly interested in the history of behavioral and experimental economics, and more generally in the frontier between economics and psychology.
+
+
 ############  Judith Favereau - fr  #############
 
 - firstname: Judith
@@ -15,7 +61,6 @@
     - Economie du développement
     - Epistémologie
 #  authors:
-#    -
   external:
     - name: "Site web personnel"
       link: "https://judithfavereau.wordpress.com"
