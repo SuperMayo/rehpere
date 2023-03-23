@@ -23,3 +23,5 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "html-proofer"
 end
+
+gem "webrick", "~> 1.8"

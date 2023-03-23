@@ -1,3 +1,64 @@
+
+
+############  Arnaud Niedbalec - fr #############
+
+- firstname: Arnaud
+  surname: Niedbale
+  flatname: arnaud-biedbale
+  picture: "arnaud-biedbale.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - agnotologie
+    - ignorance
+    - information
+    - connaissance
+  contact: "arnaud.niedbalec@protonmail.com"
+  external:
+    - name: "Paris I"
+      link: "https://www.pantheonsorbonne.fr/page-perso/aniedbalec"
+    - name: "these.fr"
+      link: "https://www.theses.fr/s350473"
+    - name: "HAL"
+      link: "https://cv.hal.science/arnaud-niedbalec"
+  free_text: >
+    Ma recherche vise à voir dans quelle mesure les théories
+    économiques de l’information et de la connaissance peuvent être mobilisées pour
+    interroger et rendre compte des phénomènes décrits par les études sur la production
+    d’ignorance, aussi connues sous le nom d’agnotologie.
+    
+
+############  Arnaud Niedbalec - en #############
+
+- firstname: Arnaud
+  surname: Niedbale
+  flatname: arnaud-biedbale
+  picture: "arnaud-biedbale.jpg"
+  lang: "en"
+  status: "Ph.D."
+  statuscode: "phd"
+  institution: "Université Paris 1 Panthéon-Sorbonne"
+  themes:
+    - agnotology
+    - ignorance
+    - information
+    - knowledge
+  contact: "arnaud.niedbalec@protonmail.com"
+  external:
+    - name: "Paris I"
+      link: "https://www.pantheonsorbonne.fr/page-perso/aniedbalec"
+    - name: "these.fr"
+      link: "https://www.theses.fr/s350473"
+    - name: "HAL"
+      link: "https://cv.hal.science/arnaud-niedbalec"
+  free_text: >
+    Currently, my research seeks to understand how
+    economic theories of information and knowledge can be mobilized to question and
+    account for the phenomenons described by studies on the production of ignorance, as
+    known as agnotology.
+    
 ############  Alexandre Truc - fr  #############
 
 - firstname: Alexandre
