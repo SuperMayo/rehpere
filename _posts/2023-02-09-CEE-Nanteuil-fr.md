@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-02-05
 ref: CEE-nanteuil-2023-02-09
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _9 février 2023_ à _18:00_ (MSE, salle du 6e étage)
