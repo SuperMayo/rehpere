@@ -97,9 +97,8 @@ Pratiques de la recherche et Cercle d'épistémologie économique
 
 Vous pouvez consulter la maquette générale du master (sous réserve de validation, en cours):
 
-- [Maquette S3](/assets/pdf/maquette_S3.pdf)
+- [Maquette](/assets/pdf/maquette.pdf)
 
-- [Maquette S4](/assets/pdf/maquette_S4.pdf)
 
 # Inscription
 

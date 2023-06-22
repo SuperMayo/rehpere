@@ -581,7 +581,7 @@
   course_master: "Master Philosophie"
   lang: "fr"
   prof_name: Ronan de Calan, Stéphane Marchand
-  semester: 3
+  semester: 4
   course_type_id: 2
   description: >
     Responsable du cours :
@@ -589,7 +589,7 @@
       - Stéphane Marchand (<a href="mailto:stephane.marchand@univ-paris1.fr">stephane.marchand@univ-paris1.fr</a>)
 
 
-    **Information pratique:** S3, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
+    **Information pratique:** S4, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
 
 
 - course_name: "Upgrading in Philosophy"
@@ -597,7 +597,7 @@
   course_master: "Master Philosophie"
   lang: "en"
   prof_name: Ronan de Calan, Stéphane Marchand
-  semester: 3
+  semester: 4
   course_type_id: 2
   description: >
     Teachers:
@@ -605,7 +605,7 @@
       - Stéphane Marchand (<a href="mailto:stephane.marchand@univ-paris1.fr">stephane.marchand@univ-paris1.fr</a>)
 
 
-    **Practical Information:** S3, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
+    **Practical Information:** S4, IHPST, 13 rue du Four, 75006 Paris (M2 parcours Logique et philosophie des sciences). Inscription obligatoire sur l’EPI de Paris 1.
 
 
 - course_name: "Economie et nature: approches interdisciplinaires"
