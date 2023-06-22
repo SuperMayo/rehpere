@@ -96,9 +96,8 @@ Research in practice and "Cercle d'Epistémologie Economique"
 
 You can consult the general model of the master (in the process of being validated):
 
-- [Maquette S3](/assets/pdf/maquette_S3.pdf)
+- [Maquette](/assets/pdf/maquette.pdf)
 
-- [Maquette S4](/assets/pdf/maquette_S4.pdf)
 
 # Registration
 
