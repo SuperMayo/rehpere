@@ -1744,9 +1744,9 @@
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "en"
-  status: "Postdoctoral Research associate"
-  statuscode: "pd"
-  institution: "CRASSH, University of Cambridge"
+  status: "Assistant professor"
+  statuscode: "mcf"
+  institution: "University of Bologna"
   themes:
     - Discriminations
     - Expertise
@@ -1763,15 +1763,18 @@
     - Gary Becker
     - Phillys Wallace
   external:
+
     - name: "RePEc"
       link: "https://ideas.repec.org/f/pch1191.html"
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/cl%C3%A9o-chassonnery-za%C3%AFgouche-9a5933a6"
     - name: "Personal website"
       link: "https://www.cleocz.com"
+    - name: "Bologna website"
+      link: "https://www.unibo.it/sitoweb/cleo.chassonnery/en"
     - name: "SocArXiv"
       link: "https://osf.io/ywdsv/"
-  contact: "cc2006@cam.ac.uk"
+  contact: "cleo.chassonnery@unibo.it"
   twitter: "CleoCZ"
   free_text: >
     I work on the history of Labour Economics and Applied Microeconomics, as well as to the more general theme of
@@ -1789,7 +1792,7 @@
     Economics.
 
 
-    *Wage Differences in Theory and in Practice*. I work in the history of the economic arguments and the economists’ practices in the century-long “equal pay for equal work” controversy in the UK (from the 1920s till the 1970s). I also study the political consequences of wage theories.
+    *Wage Theories*. I work in the history of the economic arguments and the economists’ practices in the century-long “equal pay for equal work” controversy in the UK (from the 1920s till the 1970s). I also study the political consequences of wage theories.
 
 
 ############ Cléo Chassonnery-Zaïgouche - fr #############
@@ -1799,9 +1802,9 @@
   flatname: cleo-cz
   picture: "cleo-cz.jpg"
   lang: "fr"
-  status: "Chercheuse postdoctorale"
-  statuscode: "pd"
-  institution: "CRASSH, University of Cambridge"
+  status: "Maitre de conférences"
+  statuscode: "mcf"
+  institution: "Université de Bologne"
   themes:
     - Discriminations
     - Expertise
@@ -1827,7 +1830,9 @@
       link: "https://osf.io/ywdsv/"
     - name: "Site internet personnel"
       link: "https://www.cleocz.com"
-  contact: "cc2006@cam.ac.uk"
+    - name: "Bologna website"
+      link: "https://www.unibo.it/sitoweb/cleo.chassonnery/en"
+  contact: "cleo.chassonnery@unibo.it"
   twitter: "CleoCZ"
   free_text: >
     Je travaille principalement sur l’histoire de l’économie du travail et de la microéconomie appliquée, ainsi que sur le thème plus général de l’expertise économique, en particulier au sein des cours de justice.
@@ -1843,7 +1848,7 @@
     dans les cours de justice états-uniennes.
 
 
-    *Différences entre salaires en théorie et en pratique*. Je travaille sur l’histoire des arguments économiques et les pratiques des économistes durant la controverse « equal pay for equal work » au Royaume-Unis entre les années 1920 et les années 1970. J’étudie également le rôle politique des théories du salaire.
+    *Théorie des salaires*. Je travaille sur l’histoire des arguments économiques et les pratiques des économistes durant la controverse « equal pay for equal work » au Royaume-Unis entre les années 1920 et les années 1970. J’étudie également le rôle politique des théories du salaire.
 
 ############ Annie L. Cot - fr #############
 - firstname: "Annie L."
