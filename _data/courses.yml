@@ -613,8 +613,7 @@
   course_master: "EHESS"
   lang: "fr"
   semester: 3
-  prof_name: Quentin Couix
-  prof_id: quentin-couix
+  prof_name: Marvin Dupuis
   course_type_id: 2
   description: >
     L'objectif de ce cours est d'ouvrir l'économie de l'environnement et de l'énergie à d'autres disciplines (histoire, énergétique, sociologie, philosophie, etc.) pour voir quels enseignements peuvent en être tirés pour la pratique quotidienne des économistes, et pour une meilleure compréhension des enjeux environnementaux. Chaque séance porte sur une ouverture disciplinaire particulière. Volume horaire de cours : 15 h. Auquel s'ajoute du travail personnel. Modalités d'évaluation pour les étudiants concernés : fiches de lecture.
@@ -623,7 +622,7 @@
     L'économie de l'environnement et de l'énergie à l'heure de l'Anthropocène. Marchés énergétiques et budget carbone : que peut nous apprendre l'histoire de l'analyse économique ? Énergie et thermodynamique dans la théorie économique. Écosystèmes et soutenabilité, les fondements de l'économie écologique. Action collective, négociation et transition écologique. Justice sociale et économie de l'environnement non welfariste.
 
 
-    Responsables du cours : Quentin Couix (<a href="mailto:quentin.couix@gmail.com">quentin.couix@gmail.com</a>)
+    Coordination du cours : <a href="mailto:marvin.dup@gmail.com>">Marvin Dupuis</a>)
 
 
     **Intervenants:**
@@ -640,8 +639,7 @@
   course_master: "Master Philosophie"
   lang: "en"
   semester: 3
-  prof_name: Quentin Couix
-  prof_id: quentin-couix
+  prof_name: Marvin Dupuis
   course_type_id: 2
   description: >
     L'objectif de ce cours est d'ouvrir l'économie de l'environnement et de l'énergie à d'autres disciplines (histoire, énergétique, sociologie, philosophie, etc.) pour voir quels enseignements peuvent en être tirés pour la pratique quotidienne des économistes, et pour une meilleure compréhension des enjeux environnementaux. Chaque séance porte sur une ouverture disciplinaire particulière. Volume horaire de cours : 15 h. Auquel s'ajoute du travail personnel. Modalités d'évaluation pour les étudiants concernés : fiches de lecture.
@@ -650,7 +648,7 @@
     L'économie de l'environnement et de l'énergie à l'heure de l'Anthropocène. Marchés énergétiques et budget carbone : que peut nous apprendre l'histoire de l'analyse économique ? Énergie et thermodynamique dans la théorie économique. Écosystèmes et soutenabilité, les fondements de l'économie écologique. Action collective, négociation et transition écologique. Justice sociale et économie de l'environnement non welfariste.
 
 
-    Teacher: Quentin Couix (<a href="mailto:quentin.couix@gmail.com">quentin.couix@gmail.com</a>)
+    Coordination: <a href="mailto:marvin.dup@gmail.com>">Marvin Dupuis</a>)
 
 
     Speakers :
@@ -787,35 +785,65 @@
     **Pratical information:** S3, 26h, Sorbonne, Master Histoire parcours HSNQ.
 
 
-- course_name: "Socio-histoire de la statistique"
+- course_name: "Santé et big data"
   course_id: socio-histor-stat
   course_master: "M2 Quantifier en Sciences Sociales, EHESS"
   lang: "fr"
-  prof_name: Emmanuel Didier
+  prof_name: Quentin Dufour, Emmanuel Didier, Mathilde Godard
   semester: 3
   course_type_id: 2
   description: >
-    Nous avons l’habitude d’utiliser les méthodes quantitatives pour produire du savoir sur la société. Il n’en demeure pas moins que ces méthodes sont elles-mêmes des phénomènes historiques et sociaux qui méritent d’être réflexivement étudiés. Elles proviennent de débats souvent oubliés et qui ont pourtant conformé leurs présupposés, les résultats qu’elles peuvent fournir et leurs usages divers, souvent politiques. Les connaissances que fournissent les méthodes quantitatives en sont pas seulement dans leurs résultats, mais aussi dans l’analyse des conditions de leur utilisation. Ce cours reviendra historiquement et sociologiquement sur certaines des méthodes quantitatives les plus classiques.
+    Depuis peu, le domaine de la santé voit poindre un grand nombre de données numériques de natures extrêmement diverses, par exemple les bases de données de l’assurance maladie (SNIIRAM) qui sont dorénavant « ouvertes », les données de séquençage du génome de nouvelle génération,
+    l'ensemble des capteurs qui permettent à chacun d’accumuler des données personnelles, de nouvelles enquêtes épidémiologiques de taille inédite. Cette « mise en données » ou datafication, qui porte sur des données 
+    très hétérogènes, facilement circulables et de grande taille, n’est pas naturelle mais le produit d’une activité sociale. Elle a aussi de très
+    nombreux effets sociaux. Ainsi, la capacité à utiliser ces données nécessite de nouvelles compétences et des outils intermédiaires qui
+    transforment le champ et les rapports professionnels. Qu’il s'agisse d'experts dont les compétences sont reconnues depuis peu ou prennent une importance nouvelle, comme les biocurators, les bioinformaticiens, les
+    biostatisticiens, ou de savoirs profanes comme ceux dont font usage par exemple les adeptes du « quantified self » ou les malades atteints de maladies rares, tous transforment les rapports de pouvoirs
+    professionnels en place et en particulier questionnent la centralité des médecins et du diagnostic médical dans le champ. Plus largement encore, ces données sont susceptibles de transformer à la fois les pratiques de
+    santé et les politiques de santé publique. D'une part, les effets de redistribution entre sphère publique, sphère privée et production de savoirs sont importants. D'autre part, des acteurs privés organisés
+    autour de ces données (les compagnies d'assurances, les laboratoires, et les acteurs du champ numériques – les géants GAFA comme les jeunes pousses) négocient de nouvelles positions. Enfin, les
+    usagers/utilisateurs/patients apprennent au quotidien à se voir diffractées en une multitude d’informations stockées dans des bases de données diverses et à les réutiliser pour eux-mêmes personnellement et
+    comme individus collectifs. Toutes ces transformations ont fait naître un grand nombre de promesses, parfois naïves, concernant leurs effets dans le domaine médical ou celui du fonctionnement du système de santé.
+    Le séminaire se propose d’examiner ces promesses, mais pas nécessairement d’y croire. Il vise à étudier les transformations des champs de la santé opérées par leur datafication en s’appuyant sur des
+    enquêtes terrains, qui documentent et analysent les pratiques observées et les évolutions que les données engendrent dans des situations concrètes. Le séminaire s’intéresse aux lentes et laborieuses transformations engendrées par ces réels acteurs sociaux que sont les données numériques.
 
 
-    Responsable du cours : Emmanuel Didier (<a href="mailto:emmanuel.didier@ehess.fr">emmanuel.didier@ehess.fr)
+    **Validation** : Cours à suivre au S1 et S2. Travail personnel défini avec un responsable
+    ou un intervenant du séminaire à réaliser au S1.
+
+
+    Responsable du cours : <a href="mailto:emmanuel.didier@ehess.fr">Mathilde Godard</a>
 
 
     **Information pratique:** S3, 24h, Campus Jourdan, cours du M2 Quantifier en Sciences Sociales,  EHESS.
 
 
-- course_name: "Socio-history of statistics"
+- course_name: "Health and Big Data"
   course_id: socio-histor-stat
   course_master: "M2 Quantifier en Sciences Sociales, EHESS"
   lang: "en"
-  prof_name: Emmanuel Didier
+  prof_name: Quentin Dufour, Emmanuel Didier, Mathilde Godard
   semester: 3
   course_type_id: 2
   description: >
-    Nous avons l’habitude d’utiliser les méthodes quantitatives pour produire du savoir sur la société. Il n’en demeure pas moins que ces méthodes sont elles-mêmes des phénomènes historiques et sociaux qui méritent d’être réflexivement étudiés. Elles proviennent de débats souvent oubliés et qui ont pourtant conformé leurs présupposés, les résultats qu’elles peuvent fournir et leurs usages divers, souvent politiques. Les connaissances que fournissent les méthodes quantitatives en sont pas seulement dans leurs résultats, mais aussi dans l’analyse des conditions de leur utilisation. Ce cours reviendra historiquement et sociologiquement sur certaines des méthodes quantitatives les plus classiques.
+    Depuis peu, le domaine de la santé voit poindre un grand nombre de données numériques de natures extrêmement diverses, par exemple les bases de données de l’assurance maladie (SNIIRAM) qui sont dorénavant « ouvertes », les données de séquençage du génome de nouvelle génération,
+    l'ensemble des capteurs qui permettent à chacun d’accumuler des données personnelles, de nouvelles enquêtes épidémiologiques de taille inédite. Cette « mise en données » ou datafication, qui porte sur des données
+    très hétérogènes, facilement circulables et de grande taille, n’est pas naturelle mais le produit d’une activité sociale. Elle a aussi de très
+    nombreux effets sociaux. Ainsi, la capacité à utiliser ces données nécessite de nouvelles compétences et des outils intermédiaires qui
+    transforment le champ et les rapports professionnels. Qu’il s'agisse d'experts dont les compétences sont reconnues depuis peu ou prennent une importance nouvelle, comme les biocurators, les bioinformaticiens, les
+    biostatisticiens, ou de savoirs profanes comme ceux dont font usage par exemple les adeptes du « quantified self » ou les malades atteints de maladies rares, tous transforment les rapports de pouvoirs
+    professionnels en place et en particulier questionnent la centralité des médecins et du diagnostic médical dans le champ. Plus largement encore, ces données sont susceptibles de transformer à la fois les pratiques de
+    santé et les politiques de santé publique. D'une part, les effets de redistribution entre sphère publique, sphère privée et production de savoirs sont importants. D'autre part, des acteurs privés organisés
+    autour de ces données (les compagnies d'assurances, les laboratoires, et les acteurs du champ numériques – les géants GAFA comme les jeunes pousses) négocient de nouvelles positions. Enfin, les
+    usagers/utilisateurs/patients apprennent au quotidien à se voir diffractées en une multitude d’informations stockées dans des bases de données diverses et à les réutiliser pour eux-mêmes personnellement et
+    comme individus collectifs. Toutes ces transformations ont fait naître un grand nombre de promesses, parfois naïves, concernant leurs effets dans le domaine médical ou celui du fonctionnement du système de santé.
+    Le séminaire se propose d’examiner ces promesses, mais pas nécessairement d’y croire. Il vise à étudier les transformations des champs de la santé opérées par leur datafication en s’appuyant sur des
+    enquêtes terrains, qui documentent et analysent les pratiques observées et les évolutions que les données engendrent dans des situations concrètes. Le séminaire s’intéresse aux lentes et laborieuses transformations engendrées par ces réels acteurs sociaux que sont les données numériques.
 
 
-    Responsable du cours : Emmanuel Didier (<a href="mailto:emmanuel.didier@ehess.fr">emmanuel.didier@ehess.fr)
+    **Validation** : Cours à suivre au S1 et S2. Travail personnel défini avec un responsable
+    ou un intervenant du séminaire à réaliser au S1.
+    Teacher: <a href="mailto:emmanuel.didier@ehess.fr">Mathilde Godard</a>
 
 
     **Information pratique:** S3, 24h, Campus Jourdan, cours du M2 Quantifier en Sciences Sociales,  EHESS.

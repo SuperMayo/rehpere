@@ -3,9 +3,9 @@
 ############  Arnaud Niedbalec - fr #############
 
 - firstname: Arnaud
-  surname: Niedbale
-  flatname: arnaud-biedbale
-  picture: "arnaud-biedbale.jpg"
+  surname: Niedbalec
+  flatname: arnaud-niedbalec
+  picture: "arnaud-niedbalec.jpg"
   lang: "fr"
   status: "Doctorant"
   statuscode: "phd"
@@ -28,14 +28,14 @@
     économiques de l’information et de la connaissance peuvent être mobilisées pour
     interroger et rendre compte des phénomènes décrits par les études sur la production
     d’ignorance, aussi connues sous le nom d’agnotologie.
-    
+
 
 ############  Arnaud Niedbalec - en #############
 
 - firstname: Arnaud
-  surname: Niedbale
-  flatname: arnaud-biedbale
-  picture: "arnaud-biedbale.jpg"
+  surname: Niedbalec
+  flatname: arnaud-niedbalec
+  picture: "arnaud-niedbalec.jpg"
   lang: "en"
   status: "Ph.D."
   statuscode: "phd"
@@ -58,11 +58,11 @@
     economic theories of information and knowledge can be mobilized to question and
     account for the phenomenons described by studies on the production of ignorance, as
     known as agnotology.
-    
+
 ############  Alexandre Truc - fr  #############
 
 - firstname: Alexandre
-  surname: Truc 
+  surname: Truc
   flatname: alexandre-truc
   picture: "alexandre-truc.jpg"
   lang: "fr"
@@ -70,9 +70,9 @@
   statuscode: "pd"
   institution: "Université Côte d’Azur, CNRS, GREDEG, France"
   themes:
-    - interdisciplinarité de l'économie 
-    - économie comportementale 
-    - analyse bibliométrique 
+    - interdisciplinarité de l'économie
+    - économie comportementale
+    - analyse bibliométrique
   twitter: "alxndr_trc"
   contact: "alexandre.truc77@gmail.com"
   external:
@@ -85,7 +85,7 @@
 ############  Alexandre Truc - en #############
 
 - firstname: Alexandre
-  surname: Truc 
+  surname: Truc
   flatname: alexandre-truc
   picture: "alexandre-truc.jpg"
   lang: "en"
@@ -882,9 +882,9 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    My published research deal with the origins and emergence of financial economics. 
-    I use qualitative data (content analysis, private and administrative archives, oral history) and, 
-    more recently, quantitative data (bibliometric analysis and text mining). 
+    My published research deal with the origins and emergence of financial economics.
+    I use qualitative data (content analysis, private and administrative archives, oral history) and,
+    more recently, quantitative data (bibliometric analysis and text mining).
 
 
 ############  Thomas Delcey - fr   #############
@@ -913,10 +913,10 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-     Mes recherches publiées portent sur les origines et 
-     l'émergence de l'économie financière. J'utilise des données qualitatives (analyse de contenu, 
-     archives privées et administratives, histoire orale) et, plus récemment, des données quantitatives 
-     (analyse bibliométrique et text mining). 
+     Mes recherches publiées portent sur les origines et
+     l'émergence de l'économie financière. J'utilise des données qualitatives (analyse de contenu,
+     archives privées et administratives, histoire orale) et, plus récemment, des données quantitatives
+     (analyse bibliométrique et text mining).
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
   surname: Lecouteux
