@@ -2,9 +2,9 @@
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-05-19
-ref: CEE-MDT-2023-05-11
+ref: CEE-Fontaine-2023-05-11
 lang: en
-anchor: true
+anchor: false
 ---
 
 
