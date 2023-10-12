@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-09-28
 ref: CEE-orain-2023-09-28
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _28 septembre 2023_ à _18:00_ (MSE, salle du 6e étage)
