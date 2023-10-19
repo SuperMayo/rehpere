@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-10-12
 ref: CEE-Etner-2023-10-12
 lang: en
-anchor: true
+anchor: false
 ---
 
 
