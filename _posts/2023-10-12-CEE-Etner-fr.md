@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-10-12
 ref: CEE-etner-2023-10-12
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _12 octobre 2023_ à _18:00_ (MSE, salle du 6e étage)
