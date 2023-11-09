@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-10-19
 ref: CEE-Edwards-2023-10-19
 lang: en
-anchor: true
+anchor: false
 ---
 
 

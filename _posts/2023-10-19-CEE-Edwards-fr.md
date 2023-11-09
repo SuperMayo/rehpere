@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-10-19
 ref: CEE-Edwards-2023-10-19
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _19 octobre 2023_ à _18:00_ (MSE, salle du 6e étage)
