@@ -10,7 +10,7 @@ anchor: false
 
 <i class="fas fa-table"></i> Date : October 26, 2023_ at _6 pm_(MSE, sixth floor’s room)
 
-Catherine Larrère (Université Paris 1 Panthéon-Sorbonne)  will give a talk:
+**Catherine Larrère** (Université Paris 1 Panthéon-Sorbonne) will give a talk:
 
 #### « Qu’est-ce que l’écoféminisme ? »
 
