@@ -1,13 +1,13 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2023-09-11
-ref: CEE-tazdait-2023-09-11
+date: 2023-11-09
+ref: CEE-tazdait-2023-11-09
 lang: fr
 anchor: true
 ---
 
-<i class="fas fa-table"></i> Date : _9 octobre 2023_ à _18:00_ (MSE, salle du 6e étage)
+<i class="fas fa-table"></i> Date : _9 novembre 2023_ à _18:00_ (MSE, salle du 6e étage)
 
 **Tarik Tazdaït** (CIRED-CNRS)  animera la séance sur le thème :
 
