@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-11-30
 ref: CEE-cogneau-2023-11-30
 lang: en
-anchor: true
+anchor: false
 ---
 
 
