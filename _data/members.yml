@@ -1,5 +1,80 @@
 
 
+############  Daniel Zarama - en #############
+
+- firstname: Daniel
+  surname: Zarama
+  flatname: daniel-zarama
+  picture: "daniel-zarama.jpg"
+  lang: "en"
+  status: "Ph.D."
+  statuscode: "phd"
+  institution: "Université de Lorraine, BETA"
+  themes:
+    - modern psychological economics
+    - virtue epistemology  
+  contact: "danielzarama@gmail.com"
+  external:
+    - name: "Personal website"
+      link: "https://danielzarama.weebly.com/"
+    - name: "BETA webpage"
+      link: "https://beta-economics.fr/annuaire/575/zarama_daniel"
+    - name: "Google scholar"
+      link: "https://scholar.google.com/citations?user=rDBr5-MAAAAJ&hl=en"
+    - name: "Twitter"
+      link: "https://twitter.com/danielzarama"
+  free_text: >
+    I constantly find myself touched by the relationships between individual experience, 
+    social coordination, and development. To welcome and follow the traces they leave 
+    within me, I have dug into doing research. By these means, I hope that what they 
+    awaken will also be useful for the construction of economics and of society. 
+    So I'm working on the epistemology of economics, bringing together ancient and 
+    contemporary authors. In particular, during my Masters I worked on Hayek's 
+    epistemology, his conception of the epistemic capacities of the individual and 
+    the limits of pluralism in his political theory. Now, in my doctoral project at 
+    the University of Lorraine, I'm working on the contemporary intersections between 
+    economics and psychology. In my project, I use a virtue epistemology framework to
+    analyze the issues and implications of the ways in which economists describe the 
+    cognitive capacities of economic agents.
+
+############  Daniel Zarama - fr #############
+
+- firstname: Daniel
+  surname: Zarama
+  flatname: daniel-zarama
+  picture: "daniel-zarama.jpg"
+  lang: "fr"
+  status: "Doctorant"
+  statuscode: "phd"
+  institution: "Université de Lorraine, BETA"
+  themes:
+    - economie et psychologie 
+    - épistémologie des vertus 
+  contact: "danielzarama@gmail.com"
+  external:
+    - name: "Page personnelle"
+      link: "https://danielzarama.weebly.com/"
+    - name: "Page BETA"
+      link: "https://beta-economics.fr/annuaire/575/zarama_daniel"
+    - name: "Google scholar"
+      link: "https://scholar.google.com/citations?user=rDBr5-MAAAAJ&hl=en"
+    - name: "Twitter"
+      link: "https://twitter.com/danielzarama"
+  free_text: >
+    Je me trouve toujours touché par les liens entre l’expérience individuelle, 
+    la coordination sociale et le développement. Pour accueillir ces empreintes 
+    inépuisables, je fais de la recherche, en attendant que tout ce qu’elles réveillent 
+    soit utile aussi pour la construction des sciences économiques et de la société. 
+    Ainsi, je travaille sur l’épistémologie de l’économie, en rassemblant auteurs anciens 
+    temporains. Notamment, pendant mes masters j’ai travaillé sur l’épistémologie d’Hayek, 
+    sa conception des capacités épistémiques de l’individu et les limites du pluralisme 
+    dans sa théorie politique. Maintenant je travail dans mon projet doctoral 
+    à l’Université de Lorraine aux croissements contemporains entre économie 
+    et psychologie. Dans mon projet, j’utilise un cadre d’épistémologie des vertus 
+    pour analyser les enjeux et les implications des formes dont les économistes
+    décrivent les capacités cognitives des agents économiques. 
+
+
 ############  Arnaud Niedbalec - fr #############
 
 - firstname: Arnaud
