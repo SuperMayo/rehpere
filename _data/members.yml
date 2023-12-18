@@ -308,7 +308,7 @@
   lang: "fr"
   status: "Chercheur post-doctorant"
   statuscode: "pd"
-  institution: "CY Cergy Paris Université (CY Advanced Studies & AGORA)"
+  institution: "Sciences Po Paris (Centre de Sociologie des Organisations)"
   themes:
     - Pensée Économique Américaine
     - Consommation
@@ -336,7 +336,7 @@
   lang: "en"
   status: "Postdoc research fellow"
   statuscode: "pd"
-  institution: "CY Cergy Paris Université (CY Advanced Studies & AGORA)"
+  institution: "Sciences Po Paris (Centre de Sociologie des Organisations)"
   themes:
     - US economic thought
     - Consumption
@@ -957,9 +957,11 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-    My published research deal with the origins and emergence of financial economics.
-    I use qualitative data (content analysis, private and administrative archives, oral history) and,
-    more recently, quantitative data (bibliometric analysis and text mining).
+    My research deal with the origins and emergence of financial economics. 
+    
+    
+    I use qualitative data (private and administrative archives, oral history) quantitative data 
+    (bibliometric analysis and text mining).
 
 
 ############  Thomas Delcey - fr   #############
@@ -988,10 +990,13 @@
   contact: "thomdelcey@hotmail.fr"
   twitter: "thomdelcey"
   free_text: >
-     Mes recherches publiées portent sur les origines et
-     l'émergence de l'économie financière. J'utilise des données qualitatives (analyse de contenu,
-     archives privées et administratives, histoire orale) et, plus récemment, des données quantitatives
+     Mes recherches portent sur les origines et
+     l'émergence de l'économie financière. 
+     
+     
+     J'utilise des données qualitatives (archives privées et administratives, histoire orale) et des données quantitatives
      (analyse bibliométrique et text mining).
+     
 ############  Guilhem Lecouteux - en   #############
 - firstname: Guilhem
   surname: Lecouteux
