@@ -7,7 +7,7 @@ lang: fr
 anchor: true
 ---
 
-<i class="fas fa-table"></i> Date : _7 décembre 2023_ à _18:00_ (salle du 6ème étage)
+<i class="fas fa-table"></i> Date : _29 février 2024_ à _18:00_ (salle du 6ème étage)
 
 **Bruno THERET, Jean-Jacques GISLAIN ET, Jean-Jacques GISLAIN et Bernard CHAVANCE** (IRISSO, Université Paris Dauphine-PSL; Université Laval, Québec, Université Paris Cité)  animera la séance sur le thème :
 
