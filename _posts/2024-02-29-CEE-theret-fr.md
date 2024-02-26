@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2024-02-29
+date: 2024-02-25
 ref: CEE-theret-2024-02-29
 lang: fr
 anchor: true
