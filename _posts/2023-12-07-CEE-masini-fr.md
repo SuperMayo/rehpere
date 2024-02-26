@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-12-07
-ref: CEE-cogneau-2023-12-07
+ref: CEE-masini-2023-12-07
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _7 décembre 2023_ à _18:00_ (salle du 6ème étage)

@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2023-12-07
 ref: CEE-masini-2023-12-07
 lang: en
-anchor: true
+anchor: false
 ---
 
 

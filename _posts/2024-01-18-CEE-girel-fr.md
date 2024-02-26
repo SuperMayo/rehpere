@@ -1,0 +1,16 @@
+---
+layout: post
+title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
+date: 2024-01-18
+ref: CEE-girel-2024-01-18
+lang: fr
+anchor: false
+---
+
+<i class="fas fa-table"></i> Date : _18 janvier 2024_ à _18:00_ (salle du 6ème étage)
+
+**Mathias Girel** (Ecole Normale Supérieure-Collège de France-CNRS)  animera la séance sur le thème :
+
+#### « De l’agnotologie. Du pragmatisme aux études sur l’ignorance »
+
+Pour rejoindre ce séminaire par zoom, merci de bien vouloir compléter le formulaire suivant: https://framaforms.org/zoom-cee-1673867356 
