@@ -1239,7 +1239,7 @@
   external:
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2016NICE0012"
-  contact: "jullien.dorian@gmail.com"
+  contact: "dorian.jullien@univ-paris1.fr"
   free_text: >
     My research focuses on rational choice theory in economics generally and more specifically
     on its role in behavioral and experimental economics.
@@ -1251,7 +1251,7 @@
   flatname: dorian-jullien
   picture: "dorian-jullien.jpg"
   lang: "fr"
-  status: "Maître de conférences"
+  status: "Maître de conférences HDR"
   statuscode: "mcf"
   institution: "Centre d'Economie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne"
   themes:
@@ -1264,7 +1264,7 @@
   external:
     - name: "Thèses.fr"
       link: "http://www.theses.fr/2016NICE0012"
-  contact: "jullien.dorian@gmail.com"
+  contact: "dorian.jullien@univ-paris1.fr"
   free_text: >
     Mes recherches portent sur la théorie du choix rationnel en économie de manière générale,
     et plus particulièrement sur son rôle en économie comportementale et expérimentale.
