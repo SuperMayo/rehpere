@@ -4,12 +4,12 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-02-25
 ref: CEE-theret-2024-02-29
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _29 février 2024_ à _18:00_ (salle du 6ème étage)
 
-**Bruno THERET, Jean-Jacques GISLAIN ET, Jean-Jacques GISLAIN et Bernard CHAVANCE** (IRISSO, Université Paris Dauphine-PSL; Université Laval, Québec, Université Paris Cité)  animera la séance sur le thème :
+**Bruno THERET, Jean-Jacques GISLAIN ET, Jean-Jacques GISLAIN et Bernard CHAVANCE** (IRISSO, Université Paris Dauphine-PSL; Université Laval, Québec, Université Paris Cité)  animeront la séance sur le thème :
 
 #### « Pourquoi et comment traduire John R. Commons aujourd’hui ? »
 

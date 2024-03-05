@@ -4,11 +4,11 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-02-25
 ref: CEE-theret-2024-02-29
 lang: en
-anchor: true
+anchor: false
 ---
 
 
-<i class="fas fa-table"></i> Date : Febuary 29, 2024_ at _6 pm_(MSE, 6th floor)
+<i class="fas fa-table"></i> Date : February 29, 2024_ at _6 pm_(MSE, 6th floor)
 
 **Bruno THERET, Jean-Jacques GISLAIN ET, Jean-Jacques GISLAIN et Bernard CHAVANCE** (IRISSO, Université Paris Dauphine-PSL; Université Laval, Québec, Université Paris Cité) will give a talk:
 
