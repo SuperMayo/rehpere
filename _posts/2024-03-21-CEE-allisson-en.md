@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-03-04
 ref: CEE-Allisson-2024-03-21
 lang: en
-anchor: true
+anchor: false
 ---
 
 
