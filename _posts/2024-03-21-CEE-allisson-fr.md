@@ -2,9 +2,9 @@
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-03-04
-ref: CEE-theret-2024-03-21
+ref: CEE-allisson-2024-03-21
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _21 mars 2024_ à _18:00_ (salle du 6ème étage)
