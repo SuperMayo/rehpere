@@ -4,10 +4,10 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-03-21
 ref: CEE-armatte-2024-03-28
 lang: fr
-anchor: true
+anchor: false
 ---
 
-<i class="fas fa-table"></i> Date : _21 mars 2024_ à _18:00_ (salle du 6ème étage)
+<i class="fas fa-table"></i> Date : _28 mars 2024_ à _18:00_ (salle du 6ème étage)
 
 **Michel ARMATTE et Jean-Jacques DROESBEKE ** (Université Paris Dauphine, Centre A. Koyré/Université Libre de Bruxelles)  animeront la séance sur le thème :
 
