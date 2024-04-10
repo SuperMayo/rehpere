@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-03-21
 ref: CEE-armatte-2024-03-28
 lang: en
-anchor: true
+anchor: false
 ---
 
 
