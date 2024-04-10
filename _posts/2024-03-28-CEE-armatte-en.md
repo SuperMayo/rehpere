@@ -8,7 +8,7 @@ anchor: false
 ---
 
 
-<i class="fas fa-table"></i> Date : March 21, 2024_ at _6 pm_(MSE, 6th floor)
+<i class="fas fa-table"></i> Date : March 28, 2024_ at _6 pm_(MSE, 6th floor)
 
 **Michel ARMATTE et Jean-Jacques DROESBEKE ** (Université Paris Dauphine, Centre A. Koyré/Université Libre de Bruxelles) will give a talk:
 
