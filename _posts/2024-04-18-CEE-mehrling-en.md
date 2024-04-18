@@ -2,13 +2,13 @@
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-04-09
-ref: CEE-mehrling-2024-04-24
+ref: CEE-mehrling-2024-04-18
 lang: en
-anchor: true
+anchor: false
 ---
 
 
-<i class="fas fa-table"></i> Date : April 24, 2024_ at _6 pm_(MSE, 6th floor)
+<i class="fas fa-table"></i> Date : April 18, 2024_ at _6 pm_(MSE, 6th floor)
 
 **Perry G. MEHRLING** (Pardee School of Global Studies, Boston University) will give a talk:
 
