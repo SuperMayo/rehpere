@@ -491,8 +491,7 @@
   contact: "his.florent@gmail.com"
   free_text: >
     My work focuses on the American economist Hyman P. Minsky (1919-1996), whose hypothesis of financial instability was mobilized to explain the subprime crisis. My thesis seeks to explore Minsky's alternative conception of the financial system, showing how it fits into various discussions shaking the macroeconomy of the time, such as the debate between the monetarists and the Keynesians in the 1960s and 1970s.
-
-
+    
 
     I first seek to understand the place Minsky occupied during his career among economists interested in monetary and financial issues. This is why I am interested in the work Minsky produced for the Commission on Money and Credit and for the Fed.
 
@@ -504,9 +503,9 @@
   flatname: maxime-desmarais
   picture: "maxime-desmarais.jpg"
   lang: "fr"
-  status: "Maître de Conférences"
+  status: "Chaire de professeur junior"
   statuscode: "mdc"
-  institution: "Goldsmiths, University of London"
+  institution: " BETA, Université de Lorraine"
   themes:
     - Economie publique
     - Théorie des finances publiques
@@ -519,23 +518,17 @@
     - Paul A. Samuelson
     - William H. Hutt
   external:
-    - name: "Goldsmiths"
-      link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
+    - name: "Page personnelle"
+      link: "desmarais-tremblay.com"
     #- name: "Site Web personnel"
     #  link: "http://desmarais-tremblay.com"
-  contact: "M.Desmarais-Tremblay@gold.ac.uk"
-  twitter: "@maxime_dt"
+  contact: "maxime.desmarais-tremblay@univ-lorraine.fr"
+  twitter: "maxime_dt"
   free_text: >
-    Mes travaux portent principalement sur l'histoire et les fondements philosophiques de l'économie publique. Dans ma thèse, je me suis
-    intéressé tout particulièrement à l'histoire et aux problèmes épistémologiques posés par les concepts de biens publics (collectifs) et de
-    biens méritoires (sous tutelle). Depuis, j'ai poursuivi mes recherches sur la pensée de l'économiste américain Richard A. Musgrave
-    (1910-2007).
-
-
-
-    Je travaille actuellement à une prosopographie des historiens de la pensée économique avec Andrej Svorenčík (Université de Mannheim). Je
-    rédige également un essai sur les origines de l'homo oeconomicus avec Michele Bee (Université de Lausanne). Dernièrement, j'ai aussi
-    amorcé une collaboration avec Aleksandar Stojanović (Université de Turin) sur Ronald Coase et les communs.
+    Mon expertise porte sur l’histoire de la pensée économique, la philosophie économique et l’économie publique. En histoire de la pensée économique, mes travaux portent une attention particulière aux concepts normatifs. J’étudie l’histoire de la théorie des finances publiques au XXe siècle. J’ai également publié sur les fondements de la pensée économique au XVIIIe et au XIXe siècle, de même que sur la socio-histoire de la communauté des historiens de la pensée économique.
+ 
+ 
+    Mon programme de recherche pour les prochaines années vise à repenser les modalités de l’action publique en se penchant sur la relation entre la morale et l’économie. Il s’agira d’étudier, dans un premier temps, l’histoire et les fondements philosophiques de l’économie normative au XXe siècle. Pour ce faire, je retrace l’origine des concepts normatifs en économie, je reconstruis les intentions et les valeurs des économistes qui les défendent sur la base d’une étude systématique du contexte discursif, social et politique de leurs interventions, de même que le rôle que la théorie et les travaux empiriques jouent dans la structuration des débats de politique économique, notamment en matière de taxation. Je travaille actuellement à la préparation d’une monographie sur Richard Musgrave et les fondements normatifs de la théorie des finances publiques. Je compte ensuite poursuivre des recherches sur l’histoire nouvelle économie industrielle et sur le tournant empirique en économie publique, notamment sur les travaux d’Elinor Ostrom. Dans un deuxième temps, mon programme vise à mettre en discussion les fondements de l’économie normative dans un dialogue interdisciplinaire avec la philosophie et le droit.
 
 ############  Maxime Desmarais-Tremblay - en  #############
 
@@ -546,7 +539,7 @@
   lang: "en"
   status: "Lecturer"
   statuscode: "mdc"
-  institution: "Goldsmiths, University of London"
+  institution: " BETA, Université de Lorraine"
   themes:
     - Public economics
     - Theory of public finance
@@ -559,11 +552,11 @@
     - Paul A. Samuelson
     - William H. Hutt
   external:
-    - name: "Goldsmiths"
-      link: "https://www.gold.ac.uk/institute-management-studies/staff/desmarais-tremblay-maxime/"
+    - name: "Personal page"
+      link: "desmarais-tremblay.com"
   #  - name: "Personal web page"
   #    link: "http://desmarais-tremblay.com"
-  contact: "M.Desmarais-Tremblay@gold.ac.uk"
+  contact: "maxime.desmarais-tremblay@univ-lorraine.fr"
   twitter: "@maxime_dt"
   free_text: >
     My main research interests are in the recent history and the philosophical foundations of the modern theory of public finance. I studied
@@ -1572,12 +1565,19 @@
   contact: "maria.bach@unil.ch"
   twitter: "mvsbach"
   free_text: >
-    I am an historian of economics interested especially in nineteenth century Indian Economics.
-    I have completed my PhD in International Political Economy at King's College London.
-    My thesis analyses how Indian economists constructed an idea of development at the turn of the nineteenth century.
+    Maria is an historian of economics interested in how economists from what we call the Global South today produced economic ideas. She completed her PhD at King's College London in International Political Economy on the first generation on modern Indian economists. She has a forthcoming book, Relocating Development Economics: The first generation of modern Indian economists with Cambridge University Press.
 
+ 
 
-    I am also working on a project with Mary Morgan (London School of Economics) on how the UN measures development.
+    Her new project is on the history of national accounting in India, Nigeria and Argentina. These case studies of India in the 1870s, Argentina in the 1910s and Nigeria in the 1960s have rarely been studied and have never been compared. The idea is to ask what local economists wanted to know about the development of their country and how to measure it. What they counted can tell us about their different visions of the economy and how these visions influenced the management of the colonies. Preliminary results show how national accounting was used as a tool of emancipation to build nations and obtain international recognition and aid. 
+
+ 
+
+    She hosts and produces the History of Economic Thought Podcast, Ceteris Never Paribus.
+
+ 
+
+    Before starting her PhD, Maria was a consultant at the Organisation for Economic Cooperation and Development (OECD) in Paris working on a project entitled New Approaches to Economic Challenges. Maria completed her MSc in Development Economics in 2012 at the School of Oriental and African Studies (SOAS) in London and her BA in International Economics and Applied Mathematics at the American University of Paris in 2011
 
 ############ Maria Bach - fr  #############
 
@@ -1607,12 +1607,14 @@
   contact: "maria.bach@unil.ch"
   twitter: "mvsbach"
   free_text: >
-    Je suis une historienne de la pensée économique intéressée en particulier par l'économie indienne du XIXe siècle.
-    J'ai réalisé ma thèse en Economie Politique Internationale au King's College de Londres.
-    Ma thèse analyse comment des économistes indiens ont construit l'idée de développement au tournant du XIXe siècle.
+    Maria est une historienne de l'économie qui s'intéresse à la manière dont les économistes de ce que l'on appelle aujourd'hui le Sud global ont produit des idées économiques. Elle a obtenu son doctorat au King's College de Londres en économie politique internationale sur la première génération d'économistes indiens modernes. Son livre à paraître en 2024, Relocating Development Economics: The first generation of modern Indian economists, est sur la première génération d'économistes indiens modernes, publié par Cambridge University Press. 
+    
+    
+    Son nouveau projet est sur l'histoire de la comptabilité nationale en Inde, Nigeria et Argentine. Ces études de cas en Inde dans les années 1870, Argentine dans les années 1910 et Nigeria dans les années 1960 ont rarement été étudiées et n'ont jamais été comparées. L’idée est d’interroger ce que les économistes locaux voulaient savoir sur le développement de leur pays et comment le mesurer. Ce qu’ils comptaient peuvent nous informer sur leurs différentes visions de l’économie et comment ces visions ont influencé la gestion des colonies. Les résultats préliminaires montrent comment la comptabilité nationale a été utilisée comme un outil d'émancipation pour construire des nations et obtenir une reconnaissance et une aide internationales.
+    
+    
+    Avant de commencer son doctorat, Maria était consultante à l'Organisation de coopération et de développement économiques (OCDE) à Paris, où elle travaillait sur un projet intitulé New Approaches to Economic Challenges (Nouvelles approches des défis économiques). Maria a obtenu sa maîtrise en économie du développement en 2012 à la School of Oriental and African Studies (SOAS) de Londres et sa licence en économie internationale et mathématiques appliquées à l'Université américaine de Paris en 2011.
 
-
-    Je travaille par ailleurs sur un projet de recherche avec Mary Morgan (London School of Economics) étudiant les manières dont les Nations Unies mesurent le développement.
 
 ########## Nathanael Colin- fr #############
 
