@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-04-18
 ref: CEE-dosi-2024-04-25
 lang: en
-anchor: true
+anchor: false
 ---
 
 
