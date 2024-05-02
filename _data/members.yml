@@ -2405,7 +2405,7 @@
     chimiques pour modéliser «le processus de restauration» de l’économie soviétique aprés la révolution et la logique d’une pendule pour expliquer
     l’équilibre général. Ce travail implique l’analyse détaillée des sources primaires et aussi l'analyse des revues économiques de l’époque.
 
-  ############ Elizaveta Burina en #############
+############ Elizaveta Burina en #############
 - firstname: "Elizaveta"
   surname: "Burina"
   flatname: "elizaveta-burina"
@@ -2433,7 +2433,7 @@
     reactions to model the "restoration process" of the Soviet economy after the revolution and the logic of a pendulum to explain the general
     equilibrium. This work involves the detailed analysis of primary sources and also the analysis of economic journals of the time.
 
-  ############ Louise Villeneuve en #############
+############ Louise Villeneuve en #############
 - firstname: "Louise"
   surname: "Villeneuve"
   flatname: "louise-villeneuve"
@@ -2457,7 +2457,7 @@
     My PhD thesis discusses the different ways in which consumption has been conceptualised before the ascendency of marginalism in the late 19th century. Indeed, before the marginalist revolution, the concept was often denied a paramount importance. It was not central to the definitions of political economy. Moreover, consumption was not considered to be generalisable into laws in the main treatises of the 19th century. Hence, my thesis analyses these earlier economic discourses, when consumption was not systematically conceptualised as an “economic activity”. It therefore questions the etymology of the concepts of productive and unproductive consumption as well as the evolution of their meaning. The objective is to unveil forgotten ideas about this activity and to suggest alternative understandings than the ones which surfaced with the marginalist revolution and, to a great extent, still prevail today.
 
 
-  ############ Louise Villeneuve fr #############
+############ Louise Villeneuve fr #############
 - firstname: "Louise"
   surname: "Villeneuve"
   flatname: "louise-villeneuve"
@@ -2482,7 +2482,7 @@
     Ma recherche porte sur la façon dont la consommation a été conceptualisée en économie politique avant la révolution marginaliste. En effet, la place de la consommation dans les traités d’économie politique avant la fin du 19ème siècle n’était pas primordial. La consommation n'était pas non plus au centre des définitions de l'économie politique. Ma thèse analyse donc les discours économiques portant sur la consommation à une époque où celle-ci n’était pas systématiquement entendue comme une « activité économique productive ».  Dans ce contexte, elle analyse les concepts de consommation productive et non productive ainsi que leur place ou non dans l’économie politique. Elle s’intéresse particulièrement à la façon dont John Stuart Mill a conceptualisé la consommation et pourquoi selon lui elle ne relèverait pas de l’économie politique. L’analyse de ces discours se situe à la fin des débats sur le luxe qui ont traversé le 18ème siècle ainsi que dans un contexte où la croissance de la production liée à la révolution industrielle s’est accompagnée d’un désir croissant de consommer. L’objectif de ma thèse est de révéler des conceptions de la consommation alternatives à celles qui ont émergé avec le tournant marginaliste et qui dans une large mesure, prévalent encore aujourd’hui.
 
 
-  ############ Amanar Akhabbar en #############
+############ Amanar Akhabbar en #############
 - firstname: "Amanar"
   surname: "Akhabbar"
   flatname: "amanar-akhabbar"
@@ -2506,7 +2506,8 @@
   free_text: >
     My research focuses on the history and epistemology of quantitative economics. Quantitative Economics was a distant ideal for many economists and has been made a practical reality by many others. It has taken various forms and is continuously evolving, from the Harvard Barometers and NBER early time series, to the Structural Econometrics of the Cowles Commission and more recent randomized controlled trials and other experimental approaches. My focus is on Interindustry Economics—Input-Output Analysis—as pioneered by Wassily Leontief in the interwar at Harvard University, its emergence and development as one of the various forms taken by quantitative economics.
 
-  ############ Amanar Akhabbar fr #############
+############ Amanar Akhabbar fr #############
+
 - firstname: "Amanar"
   surname: "Akhabbar"
   flatname: "amanar-akhabbar"
@@ -2529,3 +2530,62 @@
   contact: "amanar.akh@gmail.com"
   free_text: >
     Mes recherches portent sur l'histoire et l'épistémologie de l'économie quantitative. L'économie quantitative a d'abord été un idéal lointain pour de nombreux économistes avant d'être transformée en une réalité pratique par de nombreux autres. Elle prend diverses formes et évolue en permanence, depuis les baromètres de Harvard et les premières séries chronologiques du NBER jusqu'à l'économétrie structurelle de la Commission Cowles et, plus récemment, les essais contrôlés randomisés et autres approches expérimentales. Je me concentre sur l'économie interindustrielle —l'analyse input-output— telle qu'elle a été formalisée par Wassily Leontief dans l'entre-deux-guerres à l'université de Harvard, sur son émergence et son développement comme l'une des diverses formes prises par l'économie quantitative.
+
+
+
+############ Kevin Leportier en #############
+
+- firstname: "Kevin"
+  surname: "Leportier"
+  flatname: "kevin-leportier"
+  picture: "kevin-leportier.jpg"
+  lang: "en"
+  status: "Temporary Teaching and Research Associate (ATER)"
+  statuscode: "phd"
+  institution: "University Gustave Eiffel"
+  themes:
+    - philosophy of economics
+    - ethics and economics
+    - normative economics
+    - freedom of choice
+  authors:
+    - Wassily Leontief
+  external:
+    - name: "Personal page"
+      link: "https://sites.google.com/view/kevinleportier/"
+  contact: "kevin.leportier@gmail.com"
+  free_text: >
+    My work focuses on the evaluation of economic policies and institutions by considering their impact on individual freedom, following in the footsteps of Amartya Sen or Robert Sugden.
+    
+    
+    One of my objectives is to highlight the value judgments economists make when they adopt one representation of the economic agent over another or when they select specific criteria to evaluate individual choices.
+    
+    
+    The aim is also to move beyond purely theoretical inquiry to apply it to pressing issues in economic ethics, including debates concerning morally contested markets, the justification of resorting to coercion to provide public goods, and the legitimacy of paternalistic public policies
+
+############ Kevin Leportier fr #############
+- firstname: "Kevin"
+  surname: "Leportier"
+  flatname: "kevin-leportier"
+  picture: "kevin-leportier.jpg"
+  lang: "fr"
+  status: "Attaché Temporaire d'Enseignement et de Recherche"
+  statuscode: "phd"
+  institution: "Université Gustave Eiffel"
+  themes:
+    - Philosophie économique
+    - Ethique et économie
+    - économie normative
+    - liberté de choix
+  external:
+    - name: "Page personnelle"
+      link: "https://sites.google.com/view/kevinleportier/"
+  contact: "kevin.leportier@gmail.com"
+  free_text: >
+    Mon travail porte sur l'évaluation des politiques et institutions économiques en considérant leur impact sur la liberté individuelle, dans le sillage d'Amartya Sen ou Robert Sugden. 
+
+
+    Un de mes objectifs est de mettre en évidence les jugements de valeur que font les économistes lorsqu'ils adoptent une représentation de l'agent économique plutôt qu'une autre ou qu'ils sélectionnent des critères spécifiques pour évaluer les choix individuels.
+
+
+    Le but est également d'aller au-delà de l’enquête purement théorique pour appliquer celle-ci à des questions pressantes en éthique économique, notamment les débats concernant les marchés moralement contestés, la justification du recours à la coercition pour fournir des biens collectifs, ou encore le bien-fondé des politiques publiques paternalistes.
