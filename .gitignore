@@ -6,4 +6,4 @@ vendor/
 .DS_Store
 .Rproj.user
 .bundle 
-.lock 
+.lock
