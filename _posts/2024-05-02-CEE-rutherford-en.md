@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-04-25
 ref: CEE-rutherford-2024-05-02
 lang: en
-anchor: true
+anchor: false
 ---
 
 
