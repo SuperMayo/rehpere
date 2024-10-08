@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-05-26
 ref: CEE-keppler-2024-06-06
 lang: en
-anchor: true
+anchor: false
 ---
 
 

@@ -4,12 +4,12 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-05-26
 ref: CEE-keppler-2024-06-06
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _6 juin 2024_ à _18:00_ (salle du 6ème étage)
 
-** Jan Horst KEPPLER** (niversité Paris-Dauphine) animera la séance sur le thème :
+** Jan Horst KEPPLER** (Université Paris-Dauphine) animera la séance sur le thème :
 
 #### « Economie de marché et inconscient »
 
