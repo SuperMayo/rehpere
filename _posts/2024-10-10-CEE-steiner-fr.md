@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-10-07
 ref: CEE-steiner-2024-10-10
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _10 octobre 2024_ à _18:00_ (salle du 6ème étage)
