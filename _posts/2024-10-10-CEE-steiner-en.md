@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-10-07
 ref: CEE-steiner-2024-10-10
 lang: en
-anchor: true
+anchor: false
 ---
 
 
