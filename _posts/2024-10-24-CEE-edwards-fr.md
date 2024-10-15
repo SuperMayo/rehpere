@@ -9,7 +9,7 @@ anchor: true
 
 <i class="fas fa-table"></i> Date : _24 octobre 2024_ à _18:00_ (salle du 6ème étage)
 
-**José Edwards** animeront la séance (en français) sur le thème :
+**José Edwards** animera la séance (en français) sur le thème :
 
 #### « Economists on demand : fighting poverty, regulation, science ? »
 
