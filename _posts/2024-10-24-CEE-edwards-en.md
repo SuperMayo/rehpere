@@ -8,9 +8,9 @@ anchor: true
 ---
 
 
-<i class="fas fa-table"></i> Date : October 24, 2024_ at _6 pm_(MSE, 6th floor)
+<i class="fas fa-table"></i> Date : October 24, 2024_ at _6 pm_ (MSE, 6th floor)
 
-**José Edwards will give a talk (in French):
+**José Edwards** will give a talk (in French):
 
 #### « Economists on demand : fighting poverty, regulation, science ? »
 
