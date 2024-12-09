@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-11-21
 ref: CEE-mistral-2024-11-28
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _28 novembre 2024_ à _18:00_ (salle du 6ème étage)
