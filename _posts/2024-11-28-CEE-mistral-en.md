@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-11-21
 ref: CEE-mistral-2024-11-28
 lang: en
-anchor: true
+anchor: false
 ---
 
 
