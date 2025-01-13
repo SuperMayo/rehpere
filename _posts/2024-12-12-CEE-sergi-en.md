@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2024-12-08
 ref: CEE-sergi-2024-12-12
 lang: en
-anchor: true
+anchor: false
 ---
 
 
