@@ -13,6 +13,6 @@ anchor: true
 
 #### «  Penser les savoirs économiques depuis le champ de l'art et des musées »
 
-à propos de deux livres publiés récemment : *L'économie à l'épreuve de l’art. Art et capitalisme dans les années 1960*, publié aux Presses du Réel, et *Ecrits d’artistes sur l’économie, une anthologie, publié aux Editions B42*.
+à propos de deux livres publiés récemment : *L'économie à l'épreuve de l’art. Art et capitalisme dans les années 1960*, publié aux Presses du Réel, et *Ecrits d’artistes sur l’économie, une anthologie*, publié aux Editions B42*.
 
 Pour rejoindre ce séminaire par zoom, merci de bien vouloir compléter le formulaire suivant: https://framaforms.org/zoom-cee-1673867356 
