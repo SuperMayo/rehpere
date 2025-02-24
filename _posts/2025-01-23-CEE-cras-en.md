@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-01-12
 ref: CEE-cras-2025-01-23
 lang: en
-anchor: true
+anchor: false
 ---
 
 
