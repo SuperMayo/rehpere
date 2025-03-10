@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-02-23
 ref: CEE-favereau-2025-03-06
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _6 mars 2025_ à _18:00_ (salle S.17)

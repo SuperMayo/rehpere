@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-02-23
 ref: CEE-favereau-2025-03-06
 lang: en
-anchor: true
+anchor: false
 ---
 
 
