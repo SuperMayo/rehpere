@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-09
 ref: CEE-orain-2025-03-13
 lang: en
-anchor: true
+anchor: false
 ---
 
 
