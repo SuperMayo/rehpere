@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-09
 ref: CEE-orain-2025-03-13
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _13 mars 2025_ à _18:00_ (salle S.17)

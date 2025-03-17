@@ -4,13 +4,13 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-09
 ref: CEE-orain-2025-03-13
 lang: en
-anchor: true
+anchor: false
 ---
 
 
 <i class="fas fa-table"></i> Date : March 13, 2025_ at _6 pm_ (MSE, room S.17)
 
-**Arnud Orain** (EHESS, CRH) will give a talk:
+**Arnaud Orain** (EHESS, CRH) will give a talk:
 
 #### «  Il n'y en aura pas pour tout le monde »
 
