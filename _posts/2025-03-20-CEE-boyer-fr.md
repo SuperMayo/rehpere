@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-16
 ref: CEE-boyer-2025-03-20
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _20 mars 2025_ à _18:00_ (salle S.17)

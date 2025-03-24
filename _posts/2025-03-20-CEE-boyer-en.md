@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-16
 ref: CEE-boyer-2025-03-20
 lang: en
-anchor: true
+anchor: false
 ---
 
 
