@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-03-31
 ref: CEE-orlean-2025-04-10
 lang: en
-anchor: true
+anchor: false
 ---
 
 
