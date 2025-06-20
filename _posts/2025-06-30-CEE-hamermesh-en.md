@@ -8,7 +8,7 @@ anchor: true
 ---
 
 
-<i class="fas fa-table"></i> Date : June 30, 2025_ at _6 pm_ (MSE, 6th floor)
+<i class="fas fa-table"></i> Date : June 30, 2025_ at _4 pm_ (MSE, 6th floor)
 
 **Daniel Hamermesh** (Royal Holloway University of London & University of Texas, Austin) will give a talk:
 
