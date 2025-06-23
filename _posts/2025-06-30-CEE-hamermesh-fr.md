@@ -9,9 +9,9 @@ anchor: true
 
 <i class="fas fa-table"></i> Date : _30 juin 2025_ à _16:00_ (salle du 6ème étage)
 
-**Daniel HAMERMESH** (EHESS, PjSE) animera la séance sur le thème :
+**Daniel HAMERMESH** (Royal Holloway University of London & University of Texas, Austin) animera la séance sur le thème :
 
-#### «  (Royal Holloway University of London & University of Texas, Austin) »
+#### « How Does The Economics Profession Work? What, How, Who and How Much ? »
 
 La discussion sera ouverte par Béatrice CHERRIER (CNRS & CREST, ENSAE-Ecole Polytechnique).
 
