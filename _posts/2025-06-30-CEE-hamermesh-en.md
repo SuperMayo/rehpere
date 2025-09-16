@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-06-19
 ref: CEE-hamermesh-2025-06-30
 lang: en
-anchor: true
+anchor: false
 ---
 
 
