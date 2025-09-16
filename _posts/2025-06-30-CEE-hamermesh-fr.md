@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-06-19
 ref: CEE-hamermesh-2025-06-30
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _30 juin 2025_ à _16:00_ (salle du 6ème étage)
