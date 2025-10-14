@@ -8,7 +8,7 @@ anchor: true
 ---
 
 
-<i class="fas fa-table"></i> Date : September 23, 2025_ at _6 pm_ (MSE, 6th floor)
+<i class="fas fa-table"></i> Date : October 23, 2025_ at _6 pm_ (MSE, 6th floor)
 
 **Mélanie Plouviez** (Université Côte d'Azur) will give a talk:
 
