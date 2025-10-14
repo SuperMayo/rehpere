@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-09-15
 ref: CEE-capelle-blancard-2025-09-25
 lang: en
-anchor: true
+anchor: false
 ---
 
 
