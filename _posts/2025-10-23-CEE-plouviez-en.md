@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-10-13
 ref: CEE-plouviez-2025-10-23
 lang: en
-anchor: true
+anchor: false
 ---
 
 
