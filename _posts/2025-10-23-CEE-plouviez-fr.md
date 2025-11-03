@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-10-13
 ref: CEE-plouviez-2025-10-23
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _23 octobre 2025_ à _18:00_ (salle du 6ème étage)
