@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-11-02
 ref: CEE-halsmayer-2025-11-13
 lang: en
-anchor: true
+anchor: false
 ---
 
 
