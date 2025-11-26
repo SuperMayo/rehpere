@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-11-16
 ref: CEE-demier-2025-11-20
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _20 novembre 2025_ à _18:00_ (salle du 6ème étage)

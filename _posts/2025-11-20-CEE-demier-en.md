@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-11-16
 ref: CEE-demier-2025-11-20
 lang: en
-anchor: true
+anchor: false
 ---
 
 
