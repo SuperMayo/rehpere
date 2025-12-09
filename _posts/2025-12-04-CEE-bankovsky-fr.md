@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-11-25
 ref: CEE-bankovsky-2025-12-04
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _4 décembre 2025_ à _18:00_ (salle du 6ème étage)
