@@ -1,0 +1,8 @@
+# Netlify configuration for Jekyll site
+# Uses bundler to install dependencies before building
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "2.6.2"
