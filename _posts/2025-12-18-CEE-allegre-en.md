@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-12-08
 ref: CEE-bankovsky-2025-12-18
 lang: en
-anchor: true
+anchor: false
 ---
 
 
