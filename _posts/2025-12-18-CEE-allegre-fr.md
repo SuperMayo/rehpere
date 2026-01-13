@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-12-08
 ref: CEE-allegre-2025-12-18
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _18 décembre 2025_ à _18:00_ (salle 114)
