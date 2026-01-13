@@ -2,7 +2,7 @@
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2025-12-08
-ref: CEE-bankovsky-2025-12-18
+ref: CEE-allegre-2025-12-18
 lang: en
 anchor: false
 ---
@@ -14,6 +14,6 @@ anchor: false
 
 #### « Microsimuler pour prescrire »
 
-About her book * Comment verser de l'argent aux pauvres. Dépasser les dilemmes de la justice sociale* (PUF, 2024)
+About her book *Comment verser de l'argent aux pauvres. Dépasser les dilemmes de la justice sociale* (PUF, 2024)
 
 To join the seminar by zoom, thank you for registering on  https://framaforms.org/zoom-cee-1673867356
