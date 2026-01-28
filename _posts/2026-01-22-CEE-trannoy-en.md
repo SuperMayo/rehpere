@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-01-12
 ref: CEE-trannoy-2026-01-22
 lang: en
-anchor: true
+anchor: false
 ---
 
 
