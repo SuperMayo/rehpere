@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-01-12
 ref: CEE-trannoy-2026-01-22
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _22 janvier 2026_ à _18:00_ (6ème étage de la MSE)
