@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-01-27
 ref: CEE-levy-2026-02-05
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _5 février 2026_ à _18:00_ (salle S.17 de la MSE)
