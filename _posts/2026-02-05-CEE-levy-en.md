@@ -1,10 +1,10 @@
 ---
 layout: post
 title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2026-02-05
-ref: CEE-levy-2026-01-27
+date: 2026-01-27
+ref: CEE-levy-2026-02-05
 lang: en
-anchor: true
+anchor: false
 ---
 
 
