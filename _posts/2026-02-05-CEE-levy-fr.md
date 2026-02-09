@@ -9,7 +9,7 @@ anchor: false
 
 <i class="fas fa-table"></i> Date : _5 février 2026_ à _18:00_ (salle S.17 de la MSE)
 
-**Jonathan LEVY** (Centre d'Histoire de Sciences Po) animeront la séance sur le thème :
+**Jonathan LEVY** (Centre d'Histoire de Sciences Po) animera la séance sur le thème :
 
 #### « The Real Economy: History and Theory »
 
