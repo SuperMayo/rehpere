@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
-date: 2026-02-09
+date: 2026-02-08
 ref: CEE-boldyrev-2026-02-19
 lang: fr
 anchor: true
