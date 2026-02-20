@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-02-08
 ref: CEE-boldyrev-2026-02-19
 lang: en
-anchor: true
+anchor: false
 ---
 
 
