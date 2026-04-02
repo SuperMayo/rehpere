@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-02-20
 ref: CEE-zappia-2026-02-26
 lang: en
-anchor: true
+anchor: false
 ---
 
 

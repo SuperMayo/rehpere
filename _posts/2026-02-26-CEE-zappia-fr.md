@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-02-20
 ref: CEE-zappia-2026-02-26
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _26 février 2026_ à _18:00_ (6ème étage de la MSE)
