@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-04-01
 ref: CEE-hautcoeur-2026-04-09
 lang: en
-anchor: true
+anchor: false
 ---
 
 
