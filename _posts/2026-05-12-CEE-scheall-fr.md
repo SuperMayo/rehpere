@@ -4,7 +4,7 @@ title: PROCHAIN CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-05-05
 ref: CEE-scheall-2026-05-12
 lang: fr
-anchor: true
+anchor: false
 ---
 
 <i class="fas fa-table"></i> Date : _12 mai 2026_ à _18:00_ (salle 114)

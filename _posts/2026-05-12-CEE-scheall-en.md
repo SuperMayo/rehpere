@@ -4,7 +4,7 @@ title: NEXT CERCLE D'EPISTEMOLOGIE ECONOMIQUE
 date: 2026-05-05
 ref: CEE-scheall-2026-05-12
 lang: en
-anchor: true
+anchor: false
 ---
 
 
